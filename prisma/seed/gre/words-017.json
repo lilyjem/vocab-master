@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "recusant",
+    "phonetic": "/ˈrekjuzənt/",
+    "definition": "不服从规章的（人）",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "redemptive",
+    "phonetic": "/riˈdemptiv/",
+    "definition": "（用以）赎回的，救赎的，救世的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "redirect",
+    "phonetic": "/ˈriːdiˈrekt/",
+    "definition": "改寄（信件）；改变方向",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "redistribution",
+    "phonetic": "/ˈriːdistriˈbjuːʃən/",
+    "definition": "重新分配",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "redolent",
+    "phonetic": "/ˈredəulənt/",
+    "definition": "芬芳的，芳香的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "redoubtable",
+    "phonetic": "/riˈdautəbl/",
+    "definition": "可敬畏的，可怕的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "reed",
+    "phonetic": "/riːd/",
+    "definition": "芦苇；（乐器）簧片（如单、双簧管中的）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "reedy",
+    "phonetic": "/ˈriːdi/",
+    "definition": "长满芦苇的；（声音）高而尖的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "reek",
+    "phonetic": "/riːk/",
+    "definition": "发臭味；冒烟",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "refectory",
+    "phonetic": "/riˈfektəri/",
+    "definition": "（学院）餐厅，食堂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "refraction",
+    "phonetic": "/riˈfrækʃən/",
+    "definition": "折射",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "refractory",
+    "phonetic": "/riˈfræktəri/",
+    "definition": "倔强的，难管教的；反应迟钝的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "refulgent",
+    "phonetic": "/riˈfʌldʒənt/",
+    "definition": "辉煌的，灿烂的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "regal",
+    "phonetic": "/ˈriːɡəl/",
+    "definition": "帝王的；华丽的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "regale",
+    "phonetic": "/riˈɡeil/",
+    "definition": "款待，宴请；使...享受，使...开心",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "regent",
+    "phonetic": "/ˈriːdʒənt/",
+    "definition": "摄政者（代国王统治者）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "regress",
+    "phonetic": "/ˈriːɡres/",
+    "definition": "使倒退，复原，逆行",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "regressive",
+    "phonetic": "/riˈɡresiv/",
+    "definition": "退步的，退化的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "reincarnate",
+    "phonetic": "/riːˈinkɑːneit/",
+    "definition": "使化身，转生",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "reinstate",
+    "phonetic": "/ˈriːinˈsteit/",
+    "definition": "恢复（原职）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "rejoin",
+    "phonetic": "/ˈriːˈdʒɔin/",
+    "definition": "回答，答辩",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "rejoinder",
+    "phonetic": "/riˈdʒɔində/",
+    "definition": "回答",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "relegate",
+    "phonetic": "/ˈreliɡeit/",
+    "definition": "降级，降职",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "relent",
+    "phonetic": "/riˈlent/",
+    "definition": "动怜悯心，发慈悲；减弱",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "relenting",
+    "phonetic": "/riˈlentiŋ/",
+    "definition": "减弱的，怜悯的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "reminisce",
+    "phonetic": "/ˌremiˈnis/",
+    "definition": "/n. 追忆，怀旧",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "remiss",
+    "phonetic": "/riˈmis/",
+    "definition": "疏忽的，不留心的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "remission",
+    "phonetic": "/riˈmiʃən/",
+    "definition": "宽恕，赦免",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "remittance",
+    "phonetic": "/riˈmitəns/",
+    "definition": "汇款",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "remittent",
+    "phonetic": "/riˈmitənt/",
+    "definition": "（病）弛张的，缓解的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "remonstrance",
+    "phonetic": "/riˈmɔnstrəns/",
+    "definition": "抗议，抱怨",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "remonstrate",
+    "phonetic": "/riˈmɔnstreit/",
+    "definition": "抗议；规劝",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "remorse",
+    "phonetic": "/riˈmɔːs/",
+    "definition": "懊悔，悔恨，自责",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "remunerate",
+    "phonetic": "/riˈmjuːnəreit/",
+    "definition": "报酬，补偿",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "remunerative",
+    "phonetic": "/riˈmjuːnərətiv/",
+    "definition": "有报酬的，有利润的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "renascent",
+    "phonetic": "/riˈnæsnt/",
+    "definition": "再生的，复活的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "rendezvous",
+    "phonetic": "/ˈrɔndivuː/",
+    "definition": "约会；约会地点",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "rendition",
+    "phonetic": "/renˈdiʃən/",
+    "definition": "表演，扮演，演奏，演唱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "renegade",
+    "phonetic": "/ˈreniɡeid/",
+    "definition": "（政党，宗教，事业的）叛教者，叛徒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "renege",
+    "phonetic": "/riˈniːɡ/",
+    "definition": "背信，违约",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "renunciate",
+    "phonetic": "/riˈnʌnsieit/",
+    "definition": "放弃",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "reparation",
+    "phonetic": "/ˌrepəˈreiʃən/",
+    "definition": "赔偿，补偿",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "repartee",
+    "phonetic": "/ˌrepɑːˈtiː/",
+    "definition": "快速机灵的回答",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "repatriate",
+    "phonetic": "/riːˈpætrieit/",
+    "definition": "（自异国）遣返回国",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "repeal",
+    "phonetic": "/riˈpiːl/",
+    "definition": "废除（法律）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "repellent",
+    "phonetic": "/riˈpelənt/",
+    "definition": "令人厌恶的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "repent",
+    "phonetic": "/riˈpent/",
+    "definition": "懊悔，后悔",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "repercussion",
+    "phonetic": "/ˌriːpə(ː)ˈkʌʃən/",
+    "definition": "反响，后果，（尤指不良的）间接影响；回声",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "repine",
+    "phonetic": "/riˈpain/",
+    "definition": "不满，心中抱怨",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "replete",
+    "phonetic": "/riˈpliːt/",
+    "definition": "饱食的；塞满的，供应充足的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "replica",
+    "phonetic": "/ˈreplikə/",
+    "definition": "复制品",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "reportage",
+    "phonetic": "/riˈpɔːtidʒ/",
+    "definition": "报道，报道的消息，报告文学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "reportorial",
+    "phonetic": "/ˌrepəˈtɔːriəl/",
+    "definition": "记者的；纪实的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "repose",
+    "phonetic": "/riˈpəuz/",
+    "definition": "/v. 躺着休息，安睡",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "repository",
+    "phonetic": "/riˈpɔzitəri/",
+    "definition": "贮藏室，仓库",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "reprehend",
+    "phonetic": "/repriˈhend/",
+    "definition": "谴责，责难",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "reprehensible",
+    "phonetic": "/ˌrepriˈhensəbl/",
+    "definition": "应受谴责的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "repressed",
+    "phonetic": "/riˈprest/",
+    "definition": "（情感）被压制的，被压抑的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "reprieve",
+    "phonetic": "/riˈpriːv/",
+    "definition": "缓刑，暂时解救；n. 缓刑，暂时解救",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "reprimand",
+    "phonetic": "/ˈreprimaːnd/",
+    "definition": "训诫，谴责；v. 训诫，谴责",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "reprisal",
+    "phonetic": "/riˈpraizəl/",
+    "definition": "（政治或军事的）报复",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "reprise",
+    "phonetic": "/riˈpraiz/",
+    "definition": "（音乐剧中）乐曲的重复；重复，重新开始",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "reprobate",
+    "phonetic": "/ˈreprəubeit/",
+    "definition": "谴责，指责；adj./n. 堕落的（人）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "reproof",
+    "phonetic": "/riˈpruːf/",
+    "definition": "责斥，责备",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "reprove",
+    "phonetic": "/riˈpruːv/",
+    "definition": "责骂，申斥",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "reptilian",
+    "phonetic": "/repˈtiliən/",
+    "definition": "爬虫类的；卑下的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "repugnance",
+    "phonetic": "/riˈpʌɡnəns/",
+    "definition": "强烈嫌恶、反感",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "repugnant",
+    "phonetic": "/riˈpʌɡnənt/",
+    "definition": "令人厌恶的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "repulsion",
+    "phonetic": "/riˈpʌlʃən/",
+    "definition": "厌恶，反感；（物）排斥力",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "requisite",
+    "phonetic": "/ˈrekwizit/",
+    "definition": "必需物；a. 必要的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "requite",
+    "phonetic": "/riˈkwait/",
+    "definition": "报答；报复",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "rescind",
+    "phonetic": "/riˈsind/",
+    "definition": "废除，取消（法规，合同）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "rescission",
+    "phonetic": "/riˈsiʒən/",
+    "definition": "废除",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "rescript",
+    "phonetic": "/ˈriːskript/",
+    "definition": "公告，法令；重抄",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "residual",
+    "phonetic": "/riˈzidjuəl/",
+    "definition": "残余的，剩余的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "resigned",
+    "phonetic": "/riˈzaind/",
+    "definition": "逆来顺受的，顺从的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "resilience",
+    "phonetic": "/riˈziliəns/",
+    "definition": "弹性，弹力，迅速恢复的能力",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "resilient",
+    "phonetic": "/riˈziliənt/",
+    "definition": "有弹性的；能恢复活力的，适应力强的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "resonant",
+    "phonetic": "/ˈrezənənt/",
+    "definition": "（声音）洪亮的；共鸣的，产生共振的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "resound",
+    "phonetic": "/riˈzaund/",
+    "definition": "回荡着声音；鸣响",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "respite",
+    "phonetic": "/ˈrespait/",
+    "definition": "休息（时间）；暂缓",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "resplendent",
+    "phonetic": "/risˈplendənt/",
+    "definition": "华丽的，辉煌的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "responsiveness",
+    "phonetic": "/risˈpɔnsivnis/",
+    "definition": "（积极快速的）应答，响应",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "restitution",
+    "phonetic": "/ˌrestiˈtjuːʃən/",
+    "definition": "（物品）归还原主；（对损害的）赔偿",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "restive",
+    "phonetic": "/ˈrestiv/",
+    "definition": "不安静的，不安宁的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "restiveness",
+    "phonetic": "/ˈrestivnis/",
+    "definition": "倔强，难以驾御",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "restorative",
+    "phonetic": "/riˈstɔːrətiv/",
+    "definition": "恢复健康的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "restored",
+    "phonetic": "/risˈtɔːd/",
+    "definition": "恢复至原状的，复修至原状的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "resurge",
+    "phonetic": "/riˈsəːdʒ/",
+    "definition": "复活",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "resurgence",
+    "phonetic": "/riˈsəːdʒəns/",
+    "definition": "再起，复活，再现，复兴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "resurrect",
+    "phonetic": "/ˌrezəˈrekt/",
+    "definition": "使（人）复活；使（事物）复兴",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "resuscitate",
+    "phonetic": "/riˈsʌsiteit/",
+    "definition": "使复活，使苏醒",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "retainer",
+    "phonetic": "/riˈteinə/",
+    "definition": "侍从",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "retch",
+    "phonetic": "/retʃ/",
+    "definition": "作呕，恶心",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "retentive",
+    "phonetic": "/riˈtentiv/",
+    "definition": "有记忆力的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "reticent",
+    "phonetic": "/ˈretisənt/",
+    "definition": "沉默不语的，有保留的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "reticulation",
+    "phonetic": "/riˌtikjuˈleiʃ（ə）n/",
+    "definition": "网目，网状",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "retinue",
+    "phonetic": "/ˈretinjuː/",
+    "definition": "侍从，随员团",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "retiring",
+    "phonetic": "/riˈtaiəriŋ/",
+    "definition": "隐居的，不喜欢社交的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "retouch",
+    "phonetic": "/riːˈtʌtʃ/",
+    "definition": "（照片、画）修描，润色",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "retrace",
+    "phonetic": "/riˈtreis/",
+    "definition": "回顾，追溯；原路折返",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "retrench",
+    "phonetic": "/riˈtrentʃ/",
+    "definition": "节省，紧缩费用",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "retrenchment",
+    "phonetic": "/riˈtrentʃmənt/",
+    "definition": "节省，削减",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "retribution",
+    "phonetic": "/ˌretriˈbjuːʃən/",
+    "definition": "报应，惩罚",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "retroactive",
+    "phonetic": "/retrəuˈæktiv/",
+    "definition": "溯及既往的，有追溯效力的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "revealing",
+    "phonetic": "/riˈviːliŋ/",
+    "definition": "暴露的，裸露的；揭露真相的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "revelry",
+    "phonetic": "/ˈrevlri/",
+    "definition": "（喧闹的）狂欢",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "reverberate",
+    "phonetic": "/riˈvəːbəreit/",
+    "definition": "起回声，回响",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "reverie",
+    "phonetic": "/ˈrevəri/",
+    "definition": "幻想，白日梦；（音）梦幻曲，幻想曲",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "reversion",
+    "phonetic": "/riˈvəːʃən/",
+    "definition": "返回（原状，旧习惯）；逆转",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "revile",
+    "phonetic": "/riˈvail/",
+    "definition": "辱骂，恶言相向",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "revue",
+    "phonetic": "/riˈvjuː/",
+    "definition": "时事讽刺剧",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "revulsion",
+    "phonetic": "/riˈvʌlʃən/",
+    "definition": "厌恶，憎恶；剧烈反应",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "rhapsody",
+    "phonetic": "/ˈræpsədi/",
+    "definition": "赞美之词；狂想曲",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "rhinestone",
+    "phonetic": "/ˈrainstəun/",
+    "definition": "水晶石，莱茵石",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "rhubarb",
+    "phonetic": "/ˈruːbɑːb/",
+    "definition": "（植物）大黄；v./n. 喧闹争吵",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ribald",
+    "phonetic": "/ˈribəld/",
+    "definition": "（下流，粗鄙方式）幽默的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "rickety",
+    "phonetic": "/ˈrikiti/",
+    "definition": "不牢固的，摇摇欲坠的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "rife",
+    "phonetic": "/raif/",
+    "definition": "（尤指不良事物或现象）流行的，普遍的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "riffle",
+    "phonetic": "/ˈrifl/",
+    "definition": "涟漪",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "riffraff",
+    "phonetic": "/ˈrifræf/",
+    "definition": "（贬）乌合之众，群氓",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "rift",
+    "phonetic": "/rift/",
+    "definition": "裂口，断裂；（人之间的）矛盾、不和",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "rigmarole",
+    "phonetic": "/ˈriɡmərəul/",
+    "definition": "冗长的废话",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "rile",
+    "phonetic": "/rail/",
+    "definition": "使...恼火，激怒",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "rind",
+    "phonetic": "/raind/",
+    "definition": "（西瓜等）硬外皮",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "ringlet",
+    "phonetic": "/ˈriŋlət/",
+    "definition": "长的卷发",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "rinse",
+    "phonetic": "/rins/",
+    "definition": "以清水冲洗，漂洗",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ripple",
+    "phonetic": "/ˈripl/",
+    "definition": "起涟漪；n. 细浪，涟漪",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ritzy",
+    "phonetic": "/ˈritsi/",
+    "definition": "时髦的，势利的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "rive",
+    "phonetic": "/raiv/",
+    "definition": "撕开，分裂",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "riven",
+    "phonetic": "/ˈrivən/",
+    "definition": "撕裂的，分裂的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "rivet",
+    "phonetic": "/ˈrivit/",
+    "definition": "铆钉；v. 吸引（注意力）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "riveting",
+    "phonetic": "/ˈrivitiŋ/",
+    "definition": "（褒）非常精彩的，吸引人的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "rivulet",
+    "phonetic": "/ˈrivjulit/",
+    "definition": "小溪，小河",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "robe",
+    "phonetic": "/rəub/",
+    "definition": "长袍，礼服",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "roil",
+    "phonetic": "/rɔil/",
+    "definition": "煽动，搅浑",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "roister",
+    "phonetic": "/ˈrɔistə/",
+    "definition": "喝酒喧哗",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "rollicking",
+    "phonetic": "/ˈrɔlikiŋ/",
+    "definition": "欢闹的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "rookie",
+    "phonetic": "/ˈruki/",
+    "definition": "新兵，新手",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "roster",
+    "phonetic": "/ˈrəustə/",
+    "definition": "（尤指军队）值班表，执勤人员名单",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "rostrum",
+    "phonetic": "/ˈrɔstrəm/",
+    "definition": "演讲台，讲坛",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "rote",
+    "phonetic": "/rəut/",
+    "definition": "死记硬背",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "rotund",
+    "phonetic": "/rəuˈtʌnd/",
+    "definition": "（人）圆胖的；（声音）洪亮的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "roughen",
+    "phonetic": "/ˈrʌfən/",
+    "definition": "使变得粗糙，使变得不平",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "roundabout",
+    "phonetic": "/ˈraundəbaut/",
+    "definition": "绕远道的，转弯抹角的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "rout",
+    "phonetic": "/raut/",
+    "definition": "大败，溃败",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "rove",
+    "phonetic": "/rəuv/",
+    "definition": "流浪，漂泊",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "rowdy",
+    "phonetic": "/ˈraudi/",
+    "definition": "吵闹的，粗暴的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "rubble",
+    "phonetic": "/ˈrʌbl/",
+    "definition": "（一堆）碎石，瓦砾",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "rubicund",
+    "phonetic": "/ˈruːbikənd/",
+    "definition": "（脸色）红润的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ruck",
+    "phonetic": "/rʌk/",
+    "definition": "皱褶；普通群众",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "rucksack",
+    "phonetic": "/ˈruksæk/",
+    "definition": "（旅行等的）背包",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "rudder",
+    "phonetic": "/ˈrʌdə/",
+    "definition": "船舵；领导者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ruddy",
+    "phonetic": "/ˈrʌdi/",
+    "definition": "（脸色）红润的，红色的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "rue",
+    "phonetic": "/ruː/",
+    "definition": "后悔，遗憾",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "ruffian",
+    "phonetic": "/ˈrʌfiən/",
+    "definition": "恶棍，歹徒；a. 残暴的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ruffle",
+    "phonetic": "/ˈrʌfl/",
+    "definition": "弄皱或弄乱；激怒；n. 皱边（装饰衣服）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ruminant",
+    "phonetic": "/ˈruːminənt/",
+    "definition": "（动物）反刍的；沉思的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "rumple",
+    "phonetic": "/ˈrʌmpl/",
+    "definition": "弄皱，弄乱",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "rung",
+    "phonetic": "/rʌŋ/",
+    "definition": "梯子横挡，梯级",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "runic",
+    "phonetic": "/ˈruːnik/",
+    "definition": "北欧古代文字的；神秘的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ruse",
+    "phonetic": "/ruːz/",
+    "definition": "骗术，诡计",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "rustle",
+    "phonetic": "/ˈrʌs（ə）l/",
+    "definition": "（使某物）发出轻而爽的声音",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "rustler",
+    "phonetic": "/ˈrʌs（ə）lə(r)/",
+    "definition": "偷牛（马）贼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ruthlessness",
+    "phonetic": "/ˈruːθlisnis/",
+    "definition": "无情，残忍",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "sabotage",
+    "phonetic": "/ˈsæbətɑːʒ/",
+    "definition": "阴谋破坏，颠覆活动（尤指摧毁对方武器、装备或挫败对方计划）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "saboteur",
+    "phonetic": "/ˌsæbəˈtəː/",
+    "definition": "从事破坏活动者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "saccharin",
+    "phonetic": "/ˈsækərin/",
+    "definition": "糖精",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "saccharine",
+    "phonetic": "/ˈsækərain/",
+    "definition": "（态度）娇媚的；（说话声）娇滴滴的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sacrament",
+    "phonetic": "/ˈsækrəmənt/",
+    "definition": "圣礼，圣事",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sacrilege",
+    "phonetic": "/ˈsækrilidʒ/",
+    "definition": "亵渎，冒犯神灵",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sacrilegious",
+    "phonetic": "/sækriˈlidʒəs/",
+    "definition": "亵渎神圣的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "sadistic",
+    "phonetic": "/səˈdistik/",
+    "definition": "施虐狂的，性施虐狂的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sag",
+    "phonetic": "/sæɡ/",
+    "definition": "松弛，下垂",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "saga",
+    "phonetic": "/ˈsɑːɡə/",
+    "definition": "英雄故事，长篇小说",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "sagacious",
+    "phonetic": "/səˈɡeiʃəs/",
+    "definition": "聪明的，睿智的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sage",
+    "phonetic": "/seidʒ/",
+    "definition": "智慧的；n. 智者",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "saintly",
+    "phonetic": "/ˈseintli/",
+    "definition": "圣徒似的，极为圣洁的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "saliferous",
+    "phonetic": "/səˈlifərəs/",
+    "definition": "含盐的，产盐的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "saliva",
+    "phonetic": "/səˈlaivə/",
+    "definition": "唾液，口水",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sally",
+    "phonetic": "/ˈsæli/",
+    "definition": "突围；远足",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "salubrious",
+    "phonetic": "/səˈljuːbriəs/",
+    "definition": "（气候）有益健康的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "salutary",
+    "phonetic": "/ˈsæljutəri/",
+    "definition": "有益的，有益健康的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "salve",
+    "phonetic": "/sɑːv/",
+    "definition": "药膏；v. 减轻，缓和（痛苦，愧疚）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sampler",
+    "phonetic": "/ˈsɑːmplə/",
+    "definition": "刺绣花样；取样员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sanatorium",
+    "phonetic": "/ˌsænəˈtɔːriəm/",
+    "definition": "疗养院，休养所",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sanctify",
+    "phonetic": "/ˈsæŋktifai/",
+    "definition": "使神圣",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sanctimonious",
+    "phonetic": "/sæŋktiˈməunjəs/",
+    "definition": "（贬）假装神圣（虔诚）的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "sandal",
+    "phonetic": "/ˈsændl/",
+    "definition": "凉鞋，拖鞋",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sane",
+    "phonetic": "/sein/",
+    "definition": "神志清楚的；明智的，理智的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "sangfroid",
+    "phonetic": "/ˈsəːŋˈfrwɑː/",
+    "definition": "沉着，临危不惧",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sanguine",
+    "phonetic": "/ˈsæŋɡwin/",
+    "definition": "乐观的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sanitize",
+    "phonetic": "/ˈsænitaiz/",
+    "definition": "使...清洁",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sap",
+    "phonetic": "/sæp/",
+    "definition": "树液；活力；v. 消弱，耗尽",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "sapient",
+    "phonetic": "/ˈseipiənt/",
+    "definition": "有智慧的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sapling",
+    "phonetic": "/ˈsæpliŋ/",
+    "definition": "树苗；年轻人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sartorial",
+    "phonetic": "/sɑːˈtɔːriəl/",
+    "definition": "裁缝的，缝制的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sash",
+    "phonetic": "/sæʃ/",
+    "definition": "肩带",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "satanic",
+    "phonetic": "/səˈtænik/",
+    "definition": "穷凶恶极的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sate",
+    "phonetic": "/seit/",
+    "definition": "使充分意足（尤指坏事）；使厌腻",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  }
+]

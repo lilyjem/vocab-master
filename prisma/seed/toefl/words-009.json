@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "indent",
+    "phonetic": "/in'dent/",
+    "definition": "契约,订货单,凹痕vi. 切割成锯齿状vt. 缩排,定货,印凹痕n. 缩进",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "indicate",
+    "phonetic": "/'indikeit/",
+    "definition": "显示,象征,指示,指出",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "indictment",
+    "phonetic": "/in'daitmənt/",
+    "definition": "起诉,控告,起诉状",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "indifferent",
+    "phonetic": "/in'difrənt/",
+    "definition": "漠不关心的,无重要性的,中立的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "indigenous",
+    "phonetic": "/in'didʒinəs/",
+    "definition": "本土的,土著的,国产的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "indigent",
+    "phonetic": "/'indidʒənt/",
+    "definition": "贫乏的,穷困的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "indignant",
+    "phonetic": "/in'dignənt/",
+    "definition": "愤怒的,愤慨的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "indignity",
+    "phonetic": "/in'digniti/",
+    "definition": "侮辱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "indolent",
+    "phonetic": "/'indələnt/",
+    "definition": "懒惰的,不痛的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "indomitable",
+    "phonetic": "/in'dɔmitəbl/",
+    "definition": "不屈服的,不屈不挠的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "induce",
+    "phonetic": "/in'dju:s/",
+    "definition": "引诱,招致,感应",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "industrial",
+    "phonetic": "/in'dʌstriəl/",
+    "definition": "工业的,实业的,产业的n. 工业工人,工业股票",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "industrious",
+    "phonetic": "/in'dʌstriəs/",
+    "definition": "勤勉的,刻苦的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ineligible",
+    "phonetic": "/in'elidʒəbl/",
+    "definition": "无被选任资格的,不适任的,不适当的n. 无被选任资格的人,不合录用",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inept",
+    "phonetic": "/in'ept/",
+    "definition": "不适当的,无能的,笨拙的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "inert",
+    "phonetic": "/i'nə:t/",
+    "definition": "惰性的,迟钝的,无活力的,呆滞的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "inertia",
+    "phonetic": "/i'nə:ʃjə/",
+    "definition": "惯性,惰性,迟钝",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "inevitable",
+    "phonetic": "/in'evitəbl/",
+    "definition": "不可避免的,必然的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "infallible",
+    "phonetic": "/in'fæləbl/",
+    "definition": "绝无错误的,绝对可靠的n. 一贯正确的人",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "infamous",
+    "phonetic": "/'infəməs/",
+    "definition": "无耻的,不名誉的,声名狼藉的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "infect",
+    "phonetic": "/in'fekt/",
+    "definition": "传染,感染",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "infectious",
+    "phonetic": "/in'fekʃəs/",
+    "definition": "有传染性的,易传染的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "infer",
+    "phonetic": "/in'fə:/",
+    "definition": "推论出,推断vi. 作推论",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "inferior",
+    "phonetic": "/in'fiəriə/",
+    "definition": "次等的,较低的,下方的,下级的n. 低下的人,次品,下附文字",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "inflation",
+    "phonetic": "/in'fleiʃən/",
+    "definition": "胀大,夸张,通货膨胀",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inflexible",
+    "phonetic": "/in'fleksəbl/",
+    "definition": "不屈曲的,不屈挠的,顽固的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inflict",
+    "phonetic": "/in'flikt/",
+    "definition": "施以,加害,科以,使承受",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "influential",
+    "phonetic": "/'influ'enʃəl/",
+    "definition": "有影响的,有势力的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "influx",
+    "phonetic": "/'inflʌks/",
+    "definition": "流入,河口,汇集",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "informal",
+    "phonetic": "/in'fɔ:məl/",
+    "definition": "非正式的,不拘礼的,通俗的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "infringe",
+    "phonetic": "/in'frindʒ/",
+    "definition": "vi. 破坏,侵犯,违反",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "infuse",
+    "phonetic": "/in'fju:z/",
+    "definition": "注入,泡出味道,鼓舞vi. 泡,注",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ingenious",
+    "phonetic": "/in'dʒi:njəs/",
+    "definition": "灵敏的,精巧的,聪明的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inhabit",
+    "phonetic": "/in'hæbit/",
+    "definition": "居住于,占据,栖息",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "inhabitant",
+    "phonetic": "/in'hæbitənt/",
+    "definition": "居民,居住者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inherent",
+    "phonetic": "/in'hiərənt/",
+    "definition": "固有的,与生俱来的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "initial",
+    "phonetic": "/i'niʃəl/",
+    "definition": "字首,首字母a. 开始的,最初的,字首的vt. 签姓名的首字母",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "initiate",
+    "phonetic": "/i'niʃieit/",
+    "definition": "入会,开始a. 新加入的vt. 开始,传授",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "inject",
+    "phonetic": "/in'dʒekt/",
+    "definition": "注射,注入,注满",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "injure",
+    "phonetic": "/'indʒə/",
+    "definition": "伤害,损害,使受冤屈",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "injurious",
+    "phonetic": "/in'dʒuəriəs/",
+    "definition": "有害的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "innate",
+    "phonetic": "/i'neit/",
+    "definition": "先天的,天生的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "innocent",
+    "phonetic": "/'inəsnt/",
+    "definition": "无罪的,不懂事的,无知的n. 天真的人,笨蛋",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "innovation",
+    "phonetic": "/'inəu'veiʃən/",
+    "definition": "改革,创新",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "innumerable",
+    "phonetic": "/i'nju:mərəbl/",
+    "definition": "无数的,数不清的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inordinate",
+    "phonetic": "/i'nə:dinit/",
+    "definition": "过度的,紊乱的,无法无天的,过分的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inquiry",
+    "phonetic": "/in'kwaiəri/",
+    "definition": "质询,调查",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "inquisitive",
+    "phonetic": "/in'kwizitiv/",
+    "definition": "想问的,想知道的,好追根究底的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "insane",
+    "phonetic": "/in'sein/",
+    "definition": "患精神病的,极愚蠢的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "insert",
+    "phonetic": "/in'sə:t,'insə:t/",
+    "definition": "插入物vt. 插入,镶补vi. 附着n. 插入",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "insinuate",
+    "phonetic": "/in'sinjueit/",
+    "definition": "巴结,暗示,使潜入",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "insist",
+    "phonetic": "/in'sist/",
+    "definition": "vt. 坚持,强调",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "insolent",
+    "phonetic": "/'insələnt/",
+    "definition": "侮慢无乱的人a. 粗野的,无礼的,侮慢的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "inspect",
+    "phonetic": "/in'spekt/",
+    "definition": "检查,调查,监查vi. 检查",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "install",
+    "phonetic": "/in'stɔ:l/",
+    "definition": "安装,安置,使就职",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "instantaneous",
+    "phonetic": "/'instən'teinjəs/",
+    "definition": "即时的,瞬间的,同时发生的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "instigate",
+    "phonetic": "/'instəgeit/",
+    "definition": "教唆,怂恿,煽动",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "instill",
+    "phonetic": "/in'stil/",
+    "definition": "1 将<思想、感情等>逐渐灌输给[某人],灌入 [脑子里] 徐徐教导[in]",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "instinctive",
+    "phonetic": "/in'stiŋktiv/",
+    "definition": "本能的,天生的,直觉的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "institute",
+    "phonetic": "/'institju:t/",
+    "definition": "学会,学院,协会vt. 创立,开始,制定,任命",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "instruct",
+    "phonetic": "/in'strʌkt/",
+    "definition": "教,教育,命令,指导",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "instrument",
+    "phonetic": "/'instrumənt/",
+    "definition": "工具,手段,仪器",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "insufferable",
+    "phonetic": "/in'sʌfərəbl/",
+    "definition": "不可忍受的,忍耐不住的,气人的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "insular",
+    "phonetic": "/'insjulə/",
+    "definition": "岛的,岛民的,保守的,孤立的,岛特有的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "insult",
+    "phonetic": "/'insʌlt,in'sʌlt/",
+    "definition": "侮辱,无礼vt. 傲慢无礼,侮辱,刺激",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "integral",
+    "phonetic": "/'intigrəl/",
+    "definition": "积分,整数a. 整体的,整数的,积分的n. 积分",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "integrate",
+    "phonetic": "/'intigreit/",
+    "definition": "综合,使结合,使成整体vi. 成一体a. 完整的,完全的",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "integrity",
+    "phonetic": "/in'tegriti/",
+    "definition": "正直,廉正,完整",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intellectual",
+    "phonetic": "/'inti'lektjuəl/",
+    "definition": "有知识者,知识分子,凭理智做事者a. 智力的,知性的,聪明的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "intelligence",
+    "phonetic": "/in'telidʒəns/",
+    "definition": "智力,情报,神",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "intelligent",
+    "phonetic": "/in'telidʒənt/",
+    "definition": "聪明的,伶俐的,有才智的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intelligible",
+    "phonetic": "/in'tælidʒəbl/",
+    "definition": "可理解的,易理解的,明了的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "intense",
+    "phonetic": "/in'tens/",
+    "definition": "非常的,强烈的,紧张的,热情的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "intensify",
+    "phonetic": "/in'tensifai/",
+    "definition": "加强vi. 强化",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intensive",
+    "phonetic": "/in'tensiv/",
+    "definition": "加强的,集中的n. 加强器",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intercede",
+    "phonetic": "/intə'si:d/",
+    "definition": "仲裁,说情,调解",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intercept",
+    "phonetic": "/'intə'sept/",
+    "definition": "截取,妨碍,截距vt. 拦截,阻止,截取",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "interfere",
+    "phonetic": "/'intə'fiə/",
+    "definition": "妨碍,冲突,干涉,抵触",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "interior",
+    "phonetic": "/in'tiəriə/",
+    "definition": "内部,内政a. 内部的,心灵的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "interject",
+    "phonetic": "/intə'dʒekt/",
+    "definition": "插嘴,突然插入",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "interlude",
+    "phonetic": "/'intəlu:d/",
+    "definition": "幕间,幕间时间,过场,穿插,插曲",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intermediary",
+    "phonetic": "/intə'mi:diəri/",
+    "definition": "仲裁者,调解者,媒介物,中间人a. 中间的,媒介的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "intermediate",
+    "phonetic": "/'intə'mi:djət/",
+    "definition": "中间物,调停者a. 中间的,中级的vi. 起媒介作用n. 中级",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "internal",
+    "phonetic": "/in'tə:nl/",
+    "definition": "内在的,国内的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "interrogate",
+    "phonetic": "/in'terəgeit/",
+    "definition": "质问,讯问,审问vi. 提出问题",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "interrupt",
+    "phonetic": "/'intə'rʌpt/",
+    "definition": "中断,妨碍,插嘴vi. 打断n. 中断",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intersect",
+    "phonetic": "/intə'sekt/",
+    "definition": "横断vi. 交错,相交",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intervene",
+    "phonetic": "/'intə'vi:n/",
+    "definition": "插入,调停,干涉",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intimacy",
+    "phonetic": "/'intiməsi/",
+    "definition": "亲密,熟悉,亲昵行为",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "intimate",
+    "phonetic": "/'intimit/",
+    "definition": "亲密的,私人的,秘密的vt. 暗示,通知,告诉n. 熟友",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "intimidate",
+    "phonetic": "/in'timideit/",
+    "definition": "威胁,恐吓,胁迫",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intoxicate",
+    "phonetic": "/in'tɔksikeit/",
+    "definition": "使陶醉,醉人",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intrepid",
+    "phonetic": "/in'trepid/",
+    "definition": "无畏的,勇猛的,豪勇的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "intricate",
+    "phonetic": "/'intrikit/",
+    "definition": "复杂的,错综的,缠结的,难懂的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intrinsic",
+    "phonetic": "/in'trinsik/",
+    "definition": "本质的,原有的,真正的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intrude",
+    "phonetic": "/in'tru:d/",
+    "definition": "闯入,侵入vt. 强挤入",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "intuition",
+    "phonetic": "/'intju'iʃən/",
+    "definition": "直觉,直觉的知识",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inure",
+    "phonetic": "/in'jur/",
+    "definition": "使习惯vi. 生效",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "invade",
+    "phonetic": "/in'veid/",
+    "definition": "侵入,拥入,侵略,侵袭",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "invalid",
+    "phonetic": "/'invəli:d,in'vælid/",
+    "definition": "病人,残废者a. 有病的,残废的,无效的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "invalidate",
+    "phonetic": "/in'vælideit/",
+    "definition": "使无效",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "invaluable",
+    "phonetic": "/in'væljuəbl/",
+    "definition": "无价的,价值无法衡量的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inventory",
+    "phonetic": "/'invən'təuri/",
+    "definition": "详细目录,存货清单vt. 列入详细目录,清点存货",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inverse",
+    "phonetic": "/in'və:s/",
+    "definition": "倒转的,相反的n. 反白,反色",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "invert",
+    "phonetic": "/in'və:t/",
+    "definition": "转化的vt. 使反转,使颠倒,使转化n. 颠倒的事物",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "investigate",
+    "phonetic": "/in'vestigeit/",
+    "definition": "vi. 调查,研究",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inviting",
+    "phonetic": "/in'vaitiŋ/",
+    "definition": "引人动心的,有魅力的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "invocation",
+    "phonetic": "/invou'keiʃən/",
+    "definition": "祈祷,符咒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "invoke",
+    "phonetic": "/in'vəuk/",
+    "definition": "祈求,恳求,引起,援引,实行",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "irreconcilable",
+    "phonetic": "/i'rekənsailəbl/",
+    "definition": "不能和解的,不能协调的,矛盾的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "irrelevant",
+    "phonetic": "/i'reləvənt/",
+    "definition": "不恰当的,无关系的,不相干的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "irrepressible",
+    "phonetic": "/iri'presəbl/",
+    "definition": "镇压不住的,抑制不住的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "irreproachable",
+    "phonetic": "/iri'proutʃəbl/",
+    "definition": "不可非难的,无缺点的,无过失的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "irresistible",
+    "phonetic": "/'iri'zistəbl/",
+    "definition": "不可抵抗的,不能压制的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "irresolute",
+    "phonetic": "/i'rezəlu:t/",
+    "definition": "无决断的,优柔寡断的,踌躇不定的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "irreverent",
+    "phonetic": "/i'revərənt/",
+    "definition": "不敬的,不逊的,无礼的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "irrevocable",
+    "phonetic": "/i'revəkəbl/",
+    "definition": "不能挽回的,不能取消的,不能变更的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "irrigate",
+    "phonetic": "/'irigeit/",
+    "definition": "灌溉,冲洗伤口,使潮湿vi. 进行灌溉",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "irritable",
+    "phonetic": "/'iritəbl/",
+    "definition": "易怒的,急躁的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "irritate",
+    "phonetic": "/'iriteit/",
+    "definition": "激怒,使发怒,使不舒服,使发炎vi. 引起不快",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "isolate",
+    "phonetic": "/'aisəleit/",
+    "definition": "使隔离,使孤立,使绝缘n. 隔离种群",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "issue",
+    "phonetic": "/'iʃu:/",
+    "definition": "发行,问题,后果,争端,出口vi. 发行,流出,传下,进行辩护,造成. . .",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "itinerant",
+    "phonetic": "/i'tinərənt/",
+    "definition": "巡回的n. 巡回者",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "jar",
+    "phonetic": "/dʒa:/",
+    "definition": "广口瓶,震动,刺耳声vi. 震惊,冲突,发刺耳声,不一致vt. 震动,刺激",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "jealous",
+    "phonetic": "/'dʒeləs/",
+    "definition": "嫉妒的,羡慕的,留心的,戒备的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "jeer",
+    "phonetic": "/dʒiə/",
+    "definition": "嘲笑,讥讽,戏弄,vt. vi. 嘲弄,揶揄,戏弄",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "jellyfish",
+    "phonetic": "/'dʒeli'fiʃ/",
+    "definition": "水母,海蜇,意志薄弱的人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "jeopardy",
+    "phonetic": "/'dʒepədi/",
+    "definition": "危难,危险",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "jerk",
+    "phonetic": "/dʒə:k/",
+    "definition": "性情古怪的人,急拉,肌肉抽搐,牛肉干vi. 痉挛,急拉,急推vt. 猛拉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "jolt",
+    "phonetic": "/dʒəult/",
+    "definition": "震摇,摇动,颠簸vi. 颠簸而行,震摇vt. 使颠簸,使慌张,猛击",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "joyous",
+    "phonetic": "/'dʒɔiəs/",
+    "definition": "快乐的,高兴的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "judgment",
+    "phonetic": "/'dʒʌdʒmənt/",
+    "definition": "裁判,宣告,判决书",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "jumble",
+    "phonetic": "/'dʒʌmbl/",
+    "definition": "搀杂,混杂vt. 搞乱,使混乱n. 混乱,薄饼",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "junction",
+    "phonetic": "/'dʒʌŋkʃən/",
+    "definition": "连接,会合处,交叉点",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "juncture",
+    "phonetic": "/'dʒʌŋktʃə/",
+    "definition": "接合,连接,接缝",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "jurisdiction",
+    "phonetic": "/'dʒuəris'dikʃən/",
+    "definition": "司法权,审判权,管辖权",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "justify",
+    "phonetic": "/'dʒʌstifai/",
+    "definition": "替. . . 辩护,证明vi. 证明合法",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "justly",
+    "phonetic": "/'dʒʌstli/",
+    "definition": "公正地,理由充分地,正当地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "juvenile",
+    "phonetic": "/'dʒu:vinail/",
+    "definition": "少年,少年读物a. 少年的,不成熟的,适于少年的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ken",
+    "phonetic": "/ken/",
+    "definition": "视野范围,知识范围,见地",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "kidnap",
+    "phonetic": "/'kidnæp/",
+    "definition": "绑架,诱拐,拐骗",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "kindle",
+    "phonetic": "/'kindl/",
+    "definition": "点燃,使着火,引起,照亮vi. 着火,激动,发亮",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "kingdom",
+    "phonetic": "/'kiŋdəm/",
+    "definition": "王国,国度,领域",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "knowledgeable",
+    "phonetic": "/'nɔlidʒəbl/",
+    "definition": "聪明的,有知识的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "laborious",
+    "phonetic": "/lə'bɔ:riəs/",
+    "definition": "艰苦的,费劲的,勤劳的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "labyrinth",
+    "phonetic": "/'læbərinθ/",
+    "definition": "迷宫,难解的事物,迷路",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "lag",
+    "phonetic": "/læg/",
+    "definition": "落后,囚犯,防护套,桶板,迟延a. 最后的vi. 落后,蹒跚,缓缓而行,滞",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "lament",
+    "phonetic": "/lə'ment/",
+    "definition": "悲叹,悔恨,悼词,挽歌vt. 哀悼vi. 悔恨,悲叹",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "land",
+    "phonetic": "/lænd/",
+    "definition": "陆地,地面,地界,土地,国土,地产vi. 登陆,登岸,到达vt. 使上岸,使",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "languid",
+    "phonetic": "/'læŋgwid/",
+    "definition": "疲倦的,无力的,阴沉的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "languish",
+    "phonetic": "/'læŋgwiʃ/",
+    "definition": "憔悴,凋萎,苦思",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "lash",
+    "phonetic": "/læʃ/",
+    "definition": "鞭子,鞭打,讽刺,责骂,睫毛vt. 鞭打,摆动,扎捆,煽动,讽刺vi. 冲洗",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "lasting",
+    "phonetic": "/'la:stiŋ/",
+    "definition": "永久的,永恒的,持久的n. 厚实斜纹织物",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "lately",
+    "phonetic": "/'leitli/",
+    "definition": "近来,最近",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "latitude",
+    "phonetic": "/'lætitju:d/",
+    "definition": "纬度,范围",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "laud",
+    "phonetic": "/lɔ:d/",
+    "definition": "赞美,称赞vt. 赞美,称赞",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "laudable",
+    "phonetic": "/'lɔ:dəbl/",
+    "definition": "值得赞赏的,值得佩服的,动人的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "launch",
+    "phonetic": "/lɔ:ntʃ/",
+    "definition": "下水,汽艇,发射vt. 使下水,发射,发动,发出vi. 起飞,下水,投入,开",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "laurel",
+    "phonetic": "/'lɔrəl/",
+    "definition": "月桂树,荣誉vt. 使戴桂冠,授予荣誉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "lawn",
+    "phonetic": "/lɔ:n/",
+    "definition": "草地,草坪,薄麻布",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "lawsuit",
+    "phonetic": "/'lɔ'sut/",
+    "definition": "诉讼,控诉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "lead",
+    "phonetic": "/li:d/",
+    "definition": "铅,铅条,领导,提示,领引,导线,主角,榜样vt. 引导,带领,领导,指挥,",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "leading",
+    "phonetic": "/'li:diŋ/",
+    "definition": "领导,指挥,疏导,铅板a. 领导的,主要的,在前的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "league",
+    "phonetic": "/li:g/",
+    "definition": "同盟,联盟,盟约vt. vi. 组联盟,(使)加盟",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "leak",
+    "phonetic": "/li:k/",
+    "definition": "漏洞,漏处,漏出,泄漏vi. 漏,泄漏vt. 使渗漏",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "lease",
+    "phonetic": "/li:s/",
+    "definition": "租约,租期,租vt. 出租,租出,租得",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "leash",
+    "phonetic": "/li:ʃ/",
+    "definition": "拴狗颈之皮带vt. 以皮带束缚,束缚",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ledge",
+    "phonetic": "/ledʒ/",
+    "definition": "突出之部分,暗礁,矿层",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "legacy",
+    "phonetic": "/'legəsi/",
+    "definition": "祖先传下来之物,遗赠物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "legalize",
+    "phonetic": "/'ligl'aiz/",
+    "definition": "法律上认为正当,公认,使合法化",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "legendary",
+    "phonetic": "/'ledʒəndəri/",
+    "definition": "1 传说 (上) 的2 传奇性的ɔ (指褒义或贬义上) 著名的 (C) 1 传",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "legislate",
+    "phonetic": "/'leedʒisleit/",
+    "definition": "制定法律vt. 使依法成",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "lethal",
+    "phonetic": "/'liθəl/",
+    "definition": "致命的n. 致死因子",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "levy",
+    "phonetic": "/'levi/",
+    "definition": "征税,召集,课征vi. 征税,课税vt. 征收,发动,召集",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "liaison",
+    "phonetic": "/li:'eizən/",
+    "definition": "联络",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "liberal",
+    "phonetic": "/'libərəl/",
+    "definition": "自由主义者,开明的人a. 慷慨的,不拘泥的,宽大的,自由主义的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "liberate",
+    "phonetic": "/'libəreit/",
+    "definition": "解放,释放,使自由",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "licensed",
+    "phonetic": "/'laisnst/",
+    "definition": "得到许可的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "limestone",
+    "phonetic": "/'laimstəun/",
+    "definition": "石灰石",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "limp",
+    "phonetic": "/limp/",
+    "definition": "跛行a. 柔软的,无力的,软弱的vi. 跛行",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "limpid",
+    "phonetic": "/'limpid/",
+    "definition": "清澈的,透明的,静止的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "linguistics",
+    "phonetic": "/liŋ'gwistiks/",
+    "definition": "语言学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "liquid",
+    "phonetic": "/'likwid/",
+    "definition": "液体,流体,流音a. 液体的,透明的,易变的,流动的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "listless",
+    "phonetic": "/'listlis/",
+    "definition": "倦怠的,无精打采的,冷漠的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "lithe",
+    "phonetic": "/laið/",
+    "definition": "柔软的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "loan",
+    "phonetic": "/ləun/",
+    "definition": "贷款,借出,债权人vt. vi. 借,供应货款,借给",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "loath",
+    "phonetic": "/ləuθ/",
+    "definition": "不情愿的,勉强的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "loathe",
+    "phonetic": "/ləuð/",
+    "definition": "厌恶,憎恶",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "locate",
+    "phonetic": "/ləu'keit/",
+    "definition": "找出,设于,位于vi. 定居",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "lofty",
+    "phonetic": "/'lɔfti/",
+    "definition": "高的,高超的,傲慢的,玄虚的,高级的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "log",
+    "phonetic": "/lɔg/",
+    "definition": "记录,圆木,日志,记程仪vt. 伐木,切,航行vi. 伐木n. 日志",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "logical",
+    "phonetic": "/'lɔdʒikəl/",
+    "definition": "合乎逻辑的,合理的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "long",
+    "phonetic": "/lɔŋ/",
+    "definition": "长的,长久的,冗长的,做多头的vi. 渴望,热望,极想ad. 长久,始终n.",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "longitude",
+    "phonetic": "/'lɔndʒitju:d/",
+    "definition": "经度,经线",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "loop",
+    "phonetic": "/lu:p/",
+    "definition": "环,圈,弯曲部分vt. 使成环,以圈结,以环连结vi. 打环,翻筋斗n.",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "loose",
+    "phonetic": "/lu:s/",
+    "definition": "解放,放任,放纵a. 宽松的,松的,宽的,不牢固的,不精确的,自由的,散",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "loot",
+    "phonetic": "/lu:t/",
+    "definition": "洗劫,抢夺vt. vi. 洗劫,抢夺",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "lottery",
+    "phonetic": "/'latəri/",
+    "definition": "奖券,彩票,运气",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "lull",
+    "phonetic": "/lʌl/",
+    "definition": "暂停,间歇,稍息,麻痹vt. 使平静,哄骗,使安静vi. 变平静",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "luminous",
+    "phonetic": "/'lju:minəs/",
+    "definition": "发光的,明亮的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  }
+]

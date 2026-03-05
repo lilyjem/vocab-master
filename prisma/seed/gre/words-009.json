@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "gaudy",
+    "phonetic": "/ˈɡɔːdi/",
+    "definition": "俗丽的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gaunt",
+    "phonetic": "/ɡɔːnt/",
+    "definition": "憔悴的，瘦削的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gavel",
+    "phonetic": "/ˈɡævəl/",
+    "definition": "（法官所用的）槌，小木槌",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gawky",
+    "phonetic": "/ˈɡɔːki/",
+    "definition": "迟钝的，笨拙的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gazetteer",
+    "phonetic": "/ˌɡæziˈtiə/",
+    "definition": "地名词典，地名表",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "genealogy",
+    "phonetic": "/ˌdʒiːniˈælədʒi/",
+    "definition": "家谱学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "generality",
+    "phonetic": "/ˌdʒenəˈræliti/",
+    "definition": "概述",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "generic",
+    "phonetic": "/dʒiˈnerik/",
+    "definition": "种类的，类属的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "genome",
+    "phonetic": "/ˈdʒiːnəum/",
+    "definition": "（生）基因组，染色体组",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "genuflect",
+    "phonetic": "/ˈdʒenju(ː)flekt/",
+    "definition": "曲膝半跪（以示敬意）；屈从",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "genus",
+    "phonetic": "/ˈdʒiːnəs/",
+    "definition": "（动植物的）属",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "geometrician",
+    "phonetic": "/ˌdʒiəuməˈtriʃən/",
+    "definition": "几何学家",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "germane",
+    "phonetic": "/dʒəːˈmein/",
+    "definition": "有密切关系的；贴切的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "germicide",
+    "phonetic": "/ˈdʒəːmisaid/",
+    "definition": "杀菌剂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "gerontocracy",
+    "phonetic": "/dʒerənˈtɔkrəsi/",
+    "definition": "老人统治的政府",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "gerontology",
+    "phonetic": "/ˌdʒerənˈtɔlədʒi/",
+    "definition": "老人病学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "gerrymander",
+    "phonetic": "/ˈdʒerimændə/",
+    "definition": "（为使某政党在选举中取得优势）不公正地将（某地区）划成选区",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "gestate",
+    "phonetic": "/ˈdʒesteit/",
+    "definition": "怀孕，孕育",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gesticulate",
+    "phonetic": "/dʒesˈtikjuleit/",
+    "definition": "做手势表达",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "geyser",
+    "phonetic": "/ˈɡaizə/",
+    "definition": "天然热喷泉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ghastly",
+    "phonetic": "/ˈɡɑːstli/",
+    "definition": "可怕的，惊人的，惨白的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "giddy",
+    "phonetic": "/ˈɡidi/",
+    "definition": "轻浮的，不严肃的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gimmick",
+    "phonetic": "/ˈɡimik/",
+    "definition": "吸引人的花招，噱头",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ginger",
+    "phonetic": "/ˈdʒindʒə/",
+    "definition": "姜；活力",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gingerly",
+    "phonetic": "/ˈdʒindʒəli/",
+    "definition": "/adv. 小心的（地）；谨慎的（地）",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "girth",
+    "phonetic": "/ɡəːθ/",
+    "definition": "（人）腰身；周长",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "glade",
+    "phonetic": "/ɡleid/",
+    "definition": "林中的空地",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gladiator",
+    "phonetic": "/ˈɡlædieitə/",
+    "definition": "（古罗马）角斗士，与野兽搏斗者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "glee",
+    "phonetic": "/ɡliː/",
+    "definition": "欢喜，高兴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "glib",
+    "phonetic": "/ɡlib/",
+    "definition": "（演说）流利圆滑的，善辩的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "glimmer",
+    "phonetic": "/ˈɡlimə/",
+    "definition": "发微光；n. 摇曳的微光",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "glisten",
+    "phonetic": "/ɡlisn/",
+    "definition": "（潮湿或光洁的物体表面反射）闪烁，闪耀",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "glitch",
+    "phonetic": "/ɡlitʃ/",
+    "definition": "小故障",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gloaming",
+    "phonetic": "/ˈɡləumiŋ/",
+    "definition": "黄昏，薄暮",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gloat",
+    "phonetic": "/ɡləut/",
+    "definition": "幸灾乐祸地看，窃喜",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gloss",
+    "phonetic": "/ɡlɔs/",
+    "definition": "光泽；注解",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gloss-over",
+    "phonetic": "/glɔːsˈəuvə/",
+    "definition": "潦草地或敷衍地处理某事",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "glower",
+    "phonetic": "/ˈɡlauə/",
+    "definition": "怒目而视",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "glowing",
+    "phonetic": "/ˈɡləuiŋ/",
+    "definition": "热情赞扬的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "glucose",
+    "phonetic": "/ˈɡluːkəus/",
+    "definition": "葡萄糖",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "glut",
+    "phonetic": "/ɡlʌt/",
+    "definition": "/n. 过多；供过于求",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "glutinous",
+    "phonetic": "/ˈɡluːtinəs/",
+    "definition": "粘的，胶状的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "gluttonous",
+    "phonetic": "/ˈɡlʌtənəs/",
+    "definition": "贪吃的，贪嘴的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "gnarled",
+    "phonetic": "/nɑːld/",
+    "definition": "（树木）多节的；粗糙的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gnat",
+    "phonetic": "/næt/",
+    "definition": "对小事斤斤计较，琐事",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gnawing",
+    "phonetic": "/ˈnɔːiŋ/",
+    "definition": "痛苦的，折磨人的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gnome",
+    "phonetic": "/nəum/",
+    "definition": "地下宝藏的守护神，地精；格言",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gnomic",
+    "phonetic": "/ˈnəumik/",
+    "definition": "格言的，精辟的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "goad",
+    "phonetic": "/ɡəud/",
+    "definition": "赶牛棒；v./n. 刺激，激励",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gobble",
+    "phonetic": "/ˈɡɔbl/",
+    "definition": "快速贪婪地吃，狼吞虎咽",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "goblet",
+    "phonetic": "/ˈɡɔblit/",
+    "definition": "高脚酒杯",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "goggle",
+    "phonetic": "/ˈɡɔɡl/",
+    "definition": "护目镜；v. 睁眼看",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "goldbrick",
+    "phonetic": "/ˈɡəuldbrik/",
+    "definition": "逃避责任，偷懒",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "gong",
+    "phonetic": "/ɡɔŋ/",
+    "definition": "锣",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "goodwill",
+    "phonetic": "/ɡudˈwil/",
+    "definition": "友好，好意",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "goof",
+    "phonetic": "/ɡuːf/",
+    "definition": "犯错误；消磨时间",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gormandize",
+    "phonetic": "/ˈɡɔːməndaiz/",
+    "definition": "拼命吃，贪吃",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "gosling",
+    "phonetic": "/ˈɡɔzliŋ/",
+    "definition": "小鹅；年轻无知的人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gossamer",
+    "phonetic": "/ˈɡɔsəmə/",
+    "definition": "蛛丝；薄纱；a. 轻而薄的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gouge",
+    "phonetic": "/ɡaudʒ/",
+    "definition": "半圆凿；v. （用利器或手从物体表面）挖出；骗钱，敲竹杠",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gourmand",
+    "phonetic": "/ˈɡuəmənd/",
+    "definition": "（贬）嗜食者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gourmet",
+    "phonetic": "/ˈɡuəmei/",
+    "definition": "美食家",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "governance",
+    "phonetic": "/ˈɡʌvənəns/",
+    "definition": "统治，支配",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "gracile",
+    "phonetic": "/ˈɡræsail/",
+    "definition": "细弱的，纤细优美的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gradation",
+    "phonetic": "/ɡrəˈdeiʃən/",
+    "definition": "渐变；阶段，等级",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "graduated",
+    "phonetic": "/ˈɡrædʒuətid/",
+    "definition": "按等级（高度，困难等）分的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "graft",
+    "phonetic": "/ɡrɑːft/",
+    "definition": "/n. 嫁接；贪污",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "granary",
+    "phonetic": "/ˈɡrænəri/",
+    "definition": "谷仓，粮仓",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "grandeur",
+    "phonetic": "/ˈɡrændʒə/",
+    "definition": "壮丽，伟大",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "grandiose",
+    "phonetic": "/ˈɡrændiəus/",
+    "definition": "（贬）大而宏伟的；夸大的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "grandstand",
+    "phonetic": "/ˈɡrændstænd/",
+    "definition": "大看台；v. 哗众取宠（为博取观众喝彩而卖弄）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "granulate",
+    "phonetic": "/ˈgrænjə,leit/",
+    "definition": "使成颗粒状",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "granule",
+    "phonetic": "/ˈɡrænjuːl/",
+    "definition": "小粒，微粒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "graphite",
+    "phonetic": "/ˈɡræfait/",
+    "definition": "石墨",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "grasping",
+    "phonetic": "/ˈɡrɑːspiŋ/",
+    "definition": "贪心的，贪婪的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "grate",
+    "phonetic": "/ɡreit/",
+    "definition": "发出“吱嘎”声；磨碎；使人烦躁",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gratification",
+    "phonetic": "/ˌɡrætifiˈkeiʃən/",
+    "definition": "满足，喜悦",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "grating",
+    "phonetic": "/ˈɡreitiŋ/",
+    "definition": "（声音）刺耳的；恼人的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gratis",
+    "phonetic": "/ˈɡreitis/",
+    "definition": "不付款的，免费的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gratuity",
+    "phonetic": "/ɡrəˈtju(ː)iti/",
+    "definition": "赏钱，小费",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gravitate",
+    "phonetic": "/ˈɡræviteit/",
+    "definition": "被强烈地吸引",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "greenhorn",
+    "phonetic": "/ˈɡriːnhɔːn/",
+    "definition": "初学者；容易受骗的人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "gregariousness",
+    "phonetic": "/ɡreˈɡeəriəsnis/",
+    "definition": "群居；合群",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "grenade",
+    "phonetic": "/ɡriˈneid/",
+    "definition": "手榴弹",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gridiron",
+    "phonetic": "/ˈgrid,aiən/",
+    "definition": "烤架；橄榄球场",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "grimace",
+    "phonetic": "/ɡriˈmeis/",
+    "definition": "/n. 做鬼脸，面部歪扭",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gripe",
+    "phonetic": "/ɡraip/",
+    "definition": "唠叨地抱怨",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gripping",
+    "phonetic": "/ˈɡripiŋ/",
+    "definition": "紧紧抓住注意力的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "grisly",
+    "phonetic": "/ˈɡrizli/",
+    "definition": "恐怖的，可怕的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gristle",
+    "phonetic": "/ˈɡrisl/",
+    "definition": "软骨，肉中难吃的硬组织",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "grit",
+    "phonetic": "/ɡrit/",
+    "definition": "沙粒；决心，勇气；v. 下定决心，咬紧牙关",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "grotesque",
+    "phonetic": "/ɡrəuˈtesk/",
+    "definition": "怪诞的，古怪的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "grotto",
+    "phonetic": "/ˈɡrɔtəu/",
+    "definition": "小洞穴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "grouch",
+    "phonetic": "/ɡrautʃ/",
+    "definition": "牢骚，不满",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "grounded",
+    "phonetic": "/ˈɡraundid/",
+    "definition": "有理由的；adv. 地面上",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "grouse",
+    "phonetic": "/ɡraus/",
+    "definition": "松鸡；v. 牢骚，诉苦",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "grove",
+    "phonetic": "/ɡrəuv/",
+    "definition": "小树林，树丛",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "grovel",
+    "phonetic": "/ˈɡrɔvl/",
+    "definition": "摇尾乞怜，奴颜婢膝",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "growl",
+    "phonetic": "/ɡraul/",
+    "definition": "（动物）咆哮，吼叫",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "grueling",
+    "phonetic": "/ˈɡruəliŋ/",
+    "definition": "繁重而累人的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gruesome",
+    "phonetic": "/ˈɡruːsəm/",
+    "definition": "令人毛骨悚然的，恶心的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gruff",
+    "phonetic": "/ɡrʌf/",
+    "definition": "（指人、声音）粗野的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "guffaw",
+    "phonetic": "/ɡʌˈfɔː/",
+    "definition": "/v. 哄笑，大笑",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "guile",
+    "phonetic": "/ɡail/",
+    "definition": "欺诈，狡猾",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "guillotine",
+    "phonetic": "/ˈɡilətiːn/",
+    "definition": "断头台",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "gulch",
+    "phonetic": "/ɡʌlʃ/",
+    "definition": "深谷，峡谷",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gullible",
+    "phonetic": "/ˈɡʌlibl/",
+    "definition": "易受骗的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gully",
+    "phonetic": "/ˈɡʌli/",
+    "definition": "雨水冲成的沟壑",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gulp",
+    "phonetic": "/ɡʌlp/",
+    "definition": "快速贪婪地吞食",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "guru",
+    "phonetic": "/ˈɡuruː/",
+    "definition": "古鲁（印度的宗教领袖）；（受尊敬的）教师或权威",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gusher",
+    "phonetic": "/ˈɡʌʃə/",
+    "definition": "喷油井；滔滔不绝的说话者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gust",
+    "phonetic": "/ɡʌst/",
+    "definition": "阵风；一阵（情绪）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gustation",
+    "phonetic": "/ɡʌsˈteiʃən/",
+    "definition": "品尝；味觉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "gustatory",
+    "phonetic": "/ˈɡʌstətəri/",
+    "definition": "有关味觉的，品尝的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "gusto",
+    "phonetic": "/ˈɡʌstəu/",
+    "definition": "爱好；兴致勃勃",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gutless",
+    "phonetic": "/ˈɡʌtlis/",
+    "definition": "没有勇气的，懦怯的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gutter",
+    "phonetic": "/ˈɡʌtə/",
+    "definition": "水槽；街沟",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "guttle",
+    "phonetic": "/ˈɡʌtl/",
+    "definition": "狼吞虎咽",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "guzzle",
+    "phonetic": "/ˈɡʌzl/",
+    "definition": "大吃大喝",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gynaecocracy",
+    "phonetic": "/ˌdʒainiˈkɔkrəsi/",
+    "definition": "妇女当政",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "gyrate",
+    "phonetic": "/ˈdʒaiərit/",
+    "definition": "旋转的；v. 旋转",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "habitable",
+    "phonetic": "/ˈhæbitəbl/",
+    "definition": "可居住的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "habituate",
+    "phonetic": "/həˈbitjueit/",
+    "definition": "使习惯于",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "haft",
+    "phonetic": "/hɑːft/",
+    "definition": "柄，把柄",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "haggard",
+    "phonetic": "/ˈhæɡəd/",
+    "definition": "憔悴的，消瘦的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "halcyon",
+    "phonetic": "/ˈhælsiən/",
+    "definition": "平静的；愉快的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hale",
+    "phonetic": "/heil/",
+    "definition": "（尤指老人）健壮的，矍铄的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "halfhearted",
+    "phonetic": "/ˈhɑːfˈhɑːtid/",
+    "definition": "不认真的，不热心的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "hallmark",
+    "phonetic": "/ˈhɔːlmɑːk/",
+    "definition": "（在金银上的）纯度印记；特征",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hallow",
+    "phonetic": "/ˈhæləu/",
+    "definition": "把...视为神圣，尊敬",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "hallowed",
+    "phonetic": "/ˈhæləud/",
+    "definition": "神圣的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hallucination",
+    "phonetic": "/həluːsiˈneiʃən/",
+    "definition": "幻听，幻视",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "halo",
+    "phonetic": "/ˈheiləu/",
+    "definition": "（日、月等）晕，神像之光环",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "halting",
+    "phonetic": "/ˈhɔːltiŋ/",
+    "definition": "踌躇的，吞吞吐吐的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hamstring",
+    "phonetic": "/ˈhæmstriŋ/",
+    "definition": "切断腿筋使成跛腿，使残废",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "hangar",
+    "phonetic": "/ˈhæŋə/",
+    "definition": "（存放或修理飞机的）飞机库",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "hangdog",
+    "phonetic": "/ˈhæŋdɔɡ/",
+    "definition": "忧愁的；羞愧的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hanker",
+    "phonetic": "/ˈhæŋkə/",
+    "definition": "渴望，追求",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "hankering",
+    "phonetic": "/ˈhæŋkəriŋ/",
+    "definition": "渴望",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "harangue",
+    "phonetic": "/həˈræŋ/",
+    "definition": "[贬]长篇指责性演说",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "harbinger",
+    "phonetic": "/ˈhɑːbindʒə/",
+    "definition": "先驱，先兆",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "hardbitten",
+    "phonetic": "/hɑːdˈbitən/",
+    "definition": "不屈的，顽强的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "hardihood",
+    "phonetic": "/ˈhɑːdiː,hud/",
+    "definition": "大胆；鲁莽",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "harp",
+    "phonetic": "/hɑːp/",
+    "definition": "竖琴；v. 喋喋不休地说或写",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "harpsichord",
+    "phonetic": "/ˈhɑːpsikɔːd/",
+    "definition": "键琴（钢琴前身）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "harridan",
+    "phonetic": "/ˈhæridən/",
+    "definition": "脾气暴躁的老妇",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "harrow",
+    "phonetic": "/ˈhærəu/",
+    "definition": "耙；v. 使痛苦",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "harrowing",
+    "phonetic": "/ˈhærəuiŋ/",
+    "definition": "悲痛的，难受的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "harshly",
+    "phonetic": "/ˈhɑːʃli/",
+    "definition": "严酷地，无情地",
+    "partOfSpeech": "adv.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hassle",
+    "phonetic": "/ˈhæsl/",
+    "definition": "激烈的辩论",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "hauteur",
+    "phonetic": "/əuˈtəː/",
+    "definition": "傲慢",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hawker",
+    "phonetic": "/ˈhɔːkə/",
+    "definition": "沿街叫卖之小贩",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "hawser",
+    "phonetic": "/ˈhɔːzə/",
+    "definition": "粗绳，大钢索",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "headlong",
+    "phonetic": "/ˈhedlɔŋ/",
+    "definition": "/adv. 轻率的（地），迅猛的（地）",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "headway",
+    "phonetic": "/ˈhedwei/",
+    "definition": "进步，进展",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "heady",
+    "phonetic": "/ˈhedi/",
+    "definition": "任性的；鲁莽的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "hearken",
+    "phonetic": "/ˈhɑːkən/",
+    "definition": "倾听",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hearten",
+    "phonetic": "/ˈhɑːtn/",
+    "definition": "鼓励，激励",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "heartrending",
+    "phonetic": "/ˈhɑːtrendiŋ/",
+    "definition": "令人心碎的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "heavy-handed",
+    "phonetic": "/ˈheviːˈhændid/",
+    "definition": "笨拙的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "heavy-handedness",
+    "phonetic": "/ˈheviˈhændidnis/",
+    "definition": "笨拙，粗劣",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "heckle",
+    "phonetic": "/ˈhekl/",
+    "definition": "诘问，困扰",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "hector",
+    "phonetic": "/ˈhektə/",
+    "definition": "威吓",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "hedgehog",
+    "phonetic": "/ˈhedʒhɔɡ/",
+    "definition": "刺猬",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hedonic",
+    "phonetic": "/hiːˈdɔnik/",
+    "definition": "享乐的；n. 享乐主义学说",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hedonism",
+    "phonetic": "/ˈhiːdənizəm/",
+    "definition": "享乐主义；享乐",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hedonist",
+    "phonetic": "/ˈhiːdəunist/",
+    "definition": "享乐主义者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hegemony",
+    "phonetic": "/hi(ː)ˈɡeməni/",
+    "definition": "霸权，领导权",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "heinous",
+    "phonetic": "/ˈheinəs/",
+    "definition": "十恶不赦的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "heirloom",
+    "phonetic": "/ˈeəluːm/",
+    "definition": "传家宝",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "heliotrope",
+    "phonetic": "/ˈheljətrəup/",
+    "definition": "向阳植物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "helm",
+    "phonetic": "/helm/",
+    "definition": "舵，驾驶盘",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "helot",
+    "phonetic": "/ˈhelət/",
+    "definition": "奴隶；受人轻视之人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "helve",
+    "phonetic": "/helv/",
+    "definition": "斧柄",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "hem",
+    "phonetic": "/hem/",
+    "definition": "包围；n. 袖边，边缘；interj.（用以引起注意的）咳嗽清桑声",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "hemophilia",
+    "phonetic": "/ˌhiːməˈfiliə/",
+    "definition": "血友病，出血不止的病",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "hemorrhage",
+    "phonetic": "/ˈheməridʒ/",
+    "definition": "出血（尤指大出血）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "hemostat",
+    "phonetic": "/ˈhiːməstæt/",
+    "definition": "止血器；止血剂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "henpecked",
+    "phonetic": "/ˈhenpekt/",
+    "definition": "顺从妻子的，惧内的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "hepatitis",
+    "phonetic": "/ˌhepəˈtaitis/",
+    "definition": "肝炎",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "herbaceous",
+    "phonetic": "/həːˈbeiʃəs/",
+    "definition": "草本植物的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "herbicide",
+    "phonetic": "/ˈhəːbisaid/",
+    "definition": "除草剂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "herbivorous",
+    "phonetic": "/həːˈbivərəs/",
+    "definition": "食草的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "herdsman",
+    "phonetic": "/ˈhəːdzmən/",
+    "definition": "牧人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hereditary",
+    "phonetic": "/hiˈreditəri/",
+    "definition": "世袭的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "heretic",
+    "phonetic": "/ˈherətik/",
+    "definition": "异教徒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "heretical",
+    "phonetic": "/hiˈretikəl/",
+    "definition": "异端邪说的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "hermetic",
+    "phonetic": "/həːˈmetik/",
+    "definition": "密封的；深奥的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hermit",
+    "phonetic": "/ˈhəːmit/",
+    "definition": "隐士，修道者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "herpetologist",
+    "phonetic": "/ˌhəːpətəˈlɔdʒist/",
+    "definition": "爬行动物学家",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "heterodox",
+    "phonetic": "/ˈhetərəudɔks/",
+    "definition": "异端的，非正统的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "heterogeneous",
+    "phonetic": "/ˌhetərəuˈdʒiːniəs/",
+    "definition": "异类的，不同的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "hexagon",
+    "phonetic": "/ˈheksəɡən/",
+    "definition": "六角形，六边形",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "heyday",
+    "phonetic": "/ˈheidei/",
+    "definition": "全盛时期，青春期",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "hiatus",
+    "phonetic": "/haiˈeitəs/",
+    "definition": "空隙，裂缝",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "hidebound",
+    "phonetic": "/ˈhaidbaund/",
+    "definition": "顽固的，守旧的，心胸狭窄的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "hie",
+    "phonetic": "/hai/",
+    "definition": "疾走，催促",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "hieroglyphic",
+    "phonetic": "/ˌhaiərəˈɡlifik/",
+    "definition": "象形文字",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "highbrow",
+    "phonetic": "/ˈhaibrau/",
+    "definition": "自以为文化修养很高的人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hilt",
+    "phonetic": "/hilt/",
+    "definition": "（剑或刀之）柄",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  }
+]

@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "fulfil",
+    "phonetic": "/fulˈfil/",
+    "definition": "履行；满足；完成",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "full",
+    "phonetic": "/ful/",
+    "definition": "满的；完全的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fun",
+    "phonetic": "/fʌn/",
+    "definition": "乐趣，娱乐；玩笑",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "function",
+    "phonetic": "/ˈfʌŋk∫ən/",
+    "definition": "功能；职务；函数",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fund",
+    "phonetic": "/fʌnd/",
+    "definition": "资金；基金；存款",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fundamental",
+    "phonetic": "/ˌfʌndəˈmentl/",
+    "definition": "基础的，基本的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "funeral",
+    "phonetic": "/ˈfjuːnərəl/",
+    "definition": "葬礼，丧礼，丧葬",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "funny",
+    "phonetic": "/ˈfʌni/",
+    "definition": "古怪的；滑稽的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fur",
+    "phonetic": "/fəː/",
+    "definition": "软毛；毛皮，裘皮",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "furious",
+    "phonetic": "/ˈfjuəriəs/",
+    "definition": "狂怒的；狂暴的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "furnace",
+    "phonetic": "/ˈfəːnis/",
+    "definition": "炉子，熔炉；鼓风炉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "furnish",
+    "phonetic": "/ˈfəːni∫/",
+    "definition": "供应，提供；装备",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "furniture",
+    "phonetic": "/ˈfəːnit∫ə/",
+    "definition": "家具；装置，设备",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "further",
+    "phonetic": "/ˈfəːðə/",
+    "definition": "更远地 a.更远的",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "furthermore",
+    "phonetic": "/fəːðəˈmɔː(r)/",
+    "definition": "而且，此外",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "future",
+    "phonetic": "/ˈfjuːt∫ə/",
+    "definition": "将来，未来；前途",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gain",
+    "phonetic": "/gein/",
+    "definition": "获得；增加 n.增进",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gallery",
+    "phonetic": "/ˈgæləri/",
+    "definition": "长廊，游廊；画廊",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gallon",
+    "phonetic": "/ˈgælən/",
+    "definition": "加仑",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "game",
+    "phonetic": "/geim/",
+    "definition": "游戏；比赛；猎物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gang",
+    "phonetic": "/gæŋ/",
+    "definition": "一帮，一伙",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gap",
+    "phonetic": "/gæp/",
+    "definition": "缺口；间隔；差距",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "garage",
+    "phonetic": "/gə rɑː(d)ʒ/",
+    "definition": "车库；加油站",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "garbage",
+    "phonetic": "/ˈgɑːbidʒ/",
+    "definition": "垃圾，污物，废料",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "garden",
+    "phonetic": "/ˈgɑːdn/",
+    "definition": "花园，菜园；公园",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gardener",
+    "phonetic": "/ˈgɑːdnə(r)/",
+    "definition": "园丁，花匠",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gas",
+    "phonetic": "/gæs/",
+    "definition": "煤气；气体；汽油",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gaseous",
+    "phonetic": "/ˈgæsiəs/",
+    "definition": "气体的，气态的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gasoline",
+    "phonetic": "/ˈgæsəliːn/",
+    "definition": "(美)汽油",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gasp",
+    "phonetic": "/gɑːsp/",
+    "definition": "气喘，喘息",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gate",
+    "phonetic": "/geit/",
+    "definition": "大门；篱笆门",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gather",
+    "phonetic": "/ˈgæðə/",
+    "definition": "聚集；集合 vt.收集",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gauge",
+    "phonetic": "/gedʒ/",
+    "definition": "量，测量 n.量器",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gay",
+    "phonetic": "/gei/",
+    "definition": "快乐的；鲜明的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gaze",
+    "phonetic": "/geiz/",
+    "definition": "凝视，盯，注视",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "general",
+    "phonetic": "/ˈdʒenərəl/",
+    "definition": "总的；一般的 n.将军",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "generally",
+    "phonetic": "/ˈdʒenərəli/",
+    "definition": "一般地；通常地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "generate",
+    "phonetic": "/ˈdʒenəˌreit/",
+    "definition": "发生；引起；生殖",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "generation",
+    "phonetic": "/ˌdʒenəˈrei∫ən/",
+    "definition": "一代(人)；产生",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "generator",
+    "phonetic": "/ˈdʒenəreitə/",
+    "definition": "发电机；发生者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "generous",
+    "phonetic": "/ˈdʒenərəs/",
+    "definition": "慷慨的；宽厚的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "genius",
+    "phonetic": "/ˈdʒiːnjəs/",
+    "definition": "天才，天赋，天资",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gentle",
+    "phonetic": "/ˈdʒentl/",
+    "definition": "和蔼的；轻柔的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gentleman",
+    "phonetic": "/ˈdʒentlmən/",
+    "definition": "绅士；有教养的人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "gently",
+    "phonetic": "/ˈdʒentli/",
+    "definition": "有礼貌地；柔和地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "genuine",
+    "phonetic": "/ˈdʒenjuin/",
+    "definition": "真的；真正的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "geography",
+    "phonetic": "/dʒiˈɔgrəfi/",
+    "definition": "地理，地理学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "geometry",
+    "phonetic": "/dʒiˈɔmitri/",
+    "definition": "几何，几何学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "germ",
+    "phonetic": "/dʒəːm/",
+    "definition": "微生物，细菌，幼芽",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "german",
+    "phonetic": "/ˈdʒəːmən/",
+    "definition": "德国的 n.德国人",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "germany",
+    "phonetic": "/ˈdʒəːməni/",
+    "definition": "德意志，德国",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gesture",
+    "phonetic": "/ˈdʒest∫ə/",
+    "definition": "姿势，手势；姿态",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "get",
+    "phonetic": "/get/",
+    "definition": "变得，成为；到达",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "ghost",
+    "phonetic": "/gəust/",
+    "definition": "鬼，灵魂；鬼魂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "giant",
+    "phonetic": "/ˈdʒaiənt/",
+    "definition": "巨人；巨物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gift",
+    "phonetic": "/gift/",
+    "definition": "礼物，赠品；天赋",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "girl",
+    "phonetic": "/gəːl/",
+    "definition": "女孩子，姑娘；女儿",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "give",
+    "phonetic": "/giv/",
+    "definition": "做，作；送给",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "glad",
+    "phonetic": "/glæd/",
+    "definition": "高兴的；乐意的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "glance",
+    "phonetic": "/glɑːns/",
+    "definition": "看一下 n.一瞥",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "glare",
+    "phonetic": "/gleə/",
+    "definition": "瞪眼 n.瞪眼",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "glass",
+    "phonetic": "/glɑːs/",
+    "definition": "玻璃；玻璃杯",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "glide",
+    "phonetic": "/glaid/",
+    "definition": "滑动；消逝 n.滑行",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "glimpse",
+    "phonetic": "/glimps/",
+    "definition": "瞥见 n.一瞥，一看",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "glitter",
+    "phonetic": "/ˈglitə/",
+    "definition": "闪闪发光 n.闪光",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "globe",
+    "phonetic": "/gləub/",
+    "definition": "地球，世界；地界仪",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gloomy",
+    "phonetic": "/ˈgluːmi/",
+    "definition": "黑暗的；令人沮丧的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "glorious",
+    "phonetic": "/ˈglɔːriəs/",
+    "definition": "光荣的；壮丽的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "glory",
+    "phonetic": "/ˈglɔːri/",
+    "definition": "光荣；荣誉的事",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "glove",
+    "phonetic": "/glʌv/",
+    "definition": "手套",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "glow",
+    "phonetic": "/gləu/",
+    "definition": "白热光 vi.发白热光",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "glue",
+    "phonetic": "/gluː/",
+    "definition": "胶，胶水 vt.胶合",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "go",
+    "phonetic": "/gəu/",
+    "definition": "去；走；变为",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "goal",
+    "phonetic": "/gəul/",
+    "definition": "球门；得分；目的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "goat",
+    "phonetic": "/gəut/",
+    "definition": "山羊",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "god",
+    "phonetic": "/gɔd/",
+    "definition": "神，神像；上帝",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gold",
+    "phonetic": "/gəuld/",
+    "definition": "金；钱财 a.金制的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "golden",
+    "phonetic": "/ˈgəuldən/",
+    "definition": "金色的；极好的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "golf",
+    "phonetic": "/gɔlf/",
+    "definition": "高尔夫球",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "good",
+    "phonetic": "/gud/",
+    "definition": "好的；有本事的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "goodbye",
+    "phonetic": "/ˌgudˈbai/",
+    "definition": "再见，再会",
+    "partOfSpeech": "int.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "goodness",
+    "phonetic": "/ˈgudnis/",
+    "definition": "优良，德性，仁慈",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "goods",
+    "phonetic": "/gudz/",
+    "definition": "货物，商品",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "goose",
+    "phonetic": "/guːs/",
+    "definition": "鹅，雌鹅",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "govern",
+    "phonetic": "/ˈgʌvən/",
+    "definition": "统治，治理；支配",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "government",
+    "phonetic": "/ˈgʌvənmənt/",
+    "definition": "政府；治理；政治",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "governor",
+    "phonetic": "/ˈgʌvənə/",
+    "definition": "州长；主管人员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gown",
+    "phonetic": "/gaun/",
+    "definition": "长袍，长外衣",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "grace",
+    "phonetic": "/greis/",
+    "definition": "优美，文雅；雅致",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "graceful",
+    "phonetic": "/ˈgreisful/",
+    "definition": "优美的，优雅的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gracious",
+    "phonetic": "/ˈgrei∫əs/",
+    "definition": "有礼貌的；仁慈的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "grade",
+    "phonetic": "/greid/",
+    "definition": "给…分等级 n.等级",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gradual",
+    "phonetic": "/ˈgrædjuəl/",
+    "definition": "逐渐的；渐进的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gradually",
+    "phonetic": "/ˈgrædjuəli/",
+    "definition": "逐渐地，逐步地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "graduate",
+    "phonetic": "/ˈgrædjueit/",
+    "definition": "毕业生 vi.大学毕业",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "grain",
+    "phonetic": "/grein/",
+    "definition": "谷物，谷粒；颗粒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gramme",
+    "phonetic": "/græm/",
+    "definition": "克(重量单位)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "grammar",
+    "phonetic": "/ˈgræmə/",
+    "definition": "语法；语法书",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "grammatical",
+    "phonetic": "/grəˈmætikəl/",
+    "definition": "语法上的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "grand",
+    "phonetic": "/grænd/",
+    "definition": "宏伟的；重大的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "granddaughter",
+    "phonetic": "/ˈgrændɔːtə(r)/",
+    "definition": "孙女，外孙女",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "grandfather",
+    "phonetic": "/ˈgrændˌfɑːðə/",
+    "definition": "祖父；外祖父",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "grandmother",
+    "phonetic": "/ˈgrændˌmʌðə/",
+    "definition": "祖母，外祖母",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "grandson",
+    "phonetic": "/ˈgrændsʌn/",
+    "definition": "孙子，外孙子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "grant",
+    "phonetic": "/grɑːnt/",
+    "definition": "授给物 vt.授予",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "grape",
+    "phonetic": "/greip/",
+    "definition": "葡萄；葡萄藤",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "graph",
+    "phonetic": "/grɑːf/",
+    "definition": "(曲线)图，图表",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "grasp",
+    "phonetic": "/grɑːsp/",
+    "definition": "抓紧；掌握 n.抓",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "grass",
+    "phonetic": "/grɑːs/",
+    "definition": "草；牧草；草地",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "grateful",
+    "phonetic": "/ˈgreitful/",
+    "definition": "感激的；令人愉快的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gratitude",
+    "phonetic": "/ˈgrætitjuːd/",
+    "definition": "感激，感谢，感恩",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "grave",
+    "phonetic": "/greiv/",
+    "definition": "坟墓 a.严重的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gravity",
+    "phonetic": "/ˈgræviti/",
+    "definition": "重力，引力；严重性",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gray",
+    "phonetic": "/grei/",
+    "definition": "灰色的 n.灰色",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "great",
+    "phonetic": "/greit/",
+    "definition": "大的；伟大的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "greatly",
+    "phonetic": "/ˈgreitli/",
+    "definition": "大大地，非常",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "greedy",
+    "phonetic": "/ˈgriːdi/",
+    "definition": "贪吃的；贪婪的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "greek",
+    "phonetic": "/griːk/",
+    "definition": "希腊的 n.希腊人",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "green",
+    "phonetic": "/griːn/",
+    "definition": "绿色的 n.绿色",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "greenhouse",
+    "phonetic": "/ˈgriːnhaus/",
+    "definition": "温室，玻璃暖房",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "greet",
+    "phonetic": "/griːt/",
+    "definition": "问候，招呼；反应",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "greeting",
+    "phonetic": "/ˈgriːtiŋ/",
+    "definition": "问候，招呼，致敬",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "grey",
+    "phonetic": "/grei/",
+    "definition": "灰色的 n.灰色",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "grieve",
+    "phonetic": "/griːv/",
+    "definition": "使悲痛 vi.悲痛",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "grind",
+    "phonetic": "/graind/",
+    "definition": "磨(碎)；磨快",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "grip",
+    "phonetic": "/grip/",
+    "definition": "握紧，抓牢 n.紧握",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "groan",
+    "phonetic": "/grəun/",
+    "definition": "哼，呻吟 n.呻吟",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "grocer",
+    "phonetic": "/ˈgrəusə/",
+    "definition": "食品商；杂货商",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "grocery",
+    "phonetic": "/ˈgrəusəri/",
+    "definition": "食品杂货店",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gross",
+    "phonetic": "/grəus/",
+    "definition": "总的；严重的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ground",
+    "phonetic": "/graund/",
+    "definition": "地；场地；根据",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "group",
+    "phonetic": "/gruːp/",
+    "definition": "小组，群 vi.聚集",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "grow",
+    "phonetic": "/grəu/",
+    "definition": "生长；变得；增长",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "growth",
+    "phonetic": "/grəuθ/",
+    "definition": "增长；增长量；生长",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "guarantee",
+    "phonetic": "/ˌgærənˈtiː/",
+    "definition": "保证；担保物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "guard",
+    "phonetic": "/gɑːd/",
+    "definition": "守卫；看守 n.卫兵",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "guess",
+    "phonetic": "/ges/",
+    "definition": "&vi.&n.猜测，推测",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "guest",
+    "phonetic": "/gest/",
+    "definition": "客人，宾客；旅客",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "guidance",
+    "phonetic": "/ˈgaidəns/",
+    "definition": "引导，指导，领导",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "guide",
+    "phonetic": "/gaid/",
+    "definition": "导游者 vt.给…导游",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "guilty",
+    "phonetic": "/ˈgilti/",
+    "definition": "内疚的；有罪的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gulf",
+    "phonetic": "/gʌlf/",
+    "definition": "海湾",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gum",
+    "phonetic": "/gʌm/",
+    "definition": "口香糖；树胶",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gun",
+    "phonetic": "/gʌn/",
+    "definition": "枪，炮，手枪",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gunpowder",
+    "phonetic": "/ˈgʌnpaudə(r)/",
+    "definition": "黑色火药；有烟火药",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "gymnasium",
+    "phonetic": "/dʒimˈneiziəm/",
+    "definition": "体育馆，健身房",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "habit",
+    "phonetic": "/ˈhæbit/",
+    "definition": "习惯；习性",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "habitual",
+    "phonetic": "/həˈbitjuəl/",
+    "definition": "习惯性的，惯常的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hair",
+    "phonetic": "/heə/",
+    "definition": "头发，毛发；毛",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "haircut",
+    "phonetic": "/ˈheəkʌt/",
+    "definition": "理发",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "half",
+    "phonetic": "/hɑːf/",
+    "definition": "半，一半 a.一半的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "hall",
+    "phonetic": "/hɔːl/",
+    "definition": "门厅；过道；会堂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "halt",
+    "phonetic": "/hɔːlt/",
+    "definition": "停止；立定 n.停住",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "hamburger",
+    "phonetic": "/ˈhæmbəːgə/",
+    "definition": "汉堡包，牛肉饼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "hammer",
+    "phonetic": "/ˈhæmə/",
+    "definition": "锤，榔头 vt.锤击",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "hand",
+    "phonetic": "/hænd/",
+    "definition": "手；人手；指针",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "handful",
+    "phonetic": "/ˈhændful/",
+    "definition": "一把；少数，一小撮",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "handkerchief",
+    "phonetic": "/ˈhæŋkət∫iːf/",
+    "definition": "手帕",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "handle",
+    "phonetic": "/ˈhændl/",
+    "definition": "柄，把手 vt.拿，触",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "handsome",
+    "phonetic": "/ˈhænsəm/",
+    "definition": "英俊的；相当大的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "handwriting",
+    "phonetic": "/ˈhændˌraitiŋ/",
+    "definition": "笔迹，手迹，书法",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "handy",
+    "phonetic": "/ˈhændi/",
+    "definition": "手边的；便于使用的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "hang",
+    "phonetic": "/hæŋ/",
+    "definition": "挂，悬；吊死",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "happen",
+    "phonetic": "/ˈhæpən/",
+    "definition": "发生；碰巧，恰好",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "happiness",
+    "phonetic": "/ˈhæpinis/",
+    "definition": "幸福，幸运；快乐",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "happy",
+    "phonetic": "/ˈhæpi/",
+    "definition": "快乐的；幸福的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "harbour",
+    "phonetic": "/ˈhɑːbə/",
+    "definition": "海港，港口 vt.庇护",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hard",
+    "phonetic": "/hɑːd/",
+    "definition": "硬的；困难的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "harden",
+    "phonetic": "/ˈhɑːdn/",
+    "definition": "使变硬 vi.变硬",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "hardly",
+    "phonetic": "/ˈhɑːdli/",
+    "definition": "几乎不，简直不",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "hardship",
+    "phonetic": "/ˈhɑːdˌ∫ip/",
+    "definition": "艰难，困苦",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hardware",
+    "phonetic": "/ˈhɑːdweə/",
+    "definition": "五金器具；硬件",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hare",
+    "phonetic": "/heə/",
+    "definition": "野兔",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "harm",
+    "phonetic": "/hɑːm/",
+    "definition": "伤害，损害 vt.损害",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "harmful",
+    "phonetic": "/ˈhɑːmful/",
+    "definition": "有害的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "harmony",
+    "phonetic": "/ˈhɑːməni/",
+    "definition": "调合，协调，和谐",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "harness",
+    "phonetic": "/ˈhɑːnis/",
+    "definition": "治理 n.马具，挽具",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "harsh",
+    "phonetic": "/hɑː∫/",
+    "definition": "严厉的；刺耳的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "harvest",
+    "phonetic": "/ˈhɑːvist/",
+    "definition": "收获，收成 vt.收割",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "haste",
+    "phonetic": "/heist/",
+    "definition": "急速，急忙；草率",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "hasten",
+    "phonetic": "/ˈheisn/",
+    "definition": "催促 vi.赶紧",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "hasty",
+    "phonetic": "/ˈheisti/",
+    "definition": "急速的；仓促的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "hat",
+    "phonetic": "/hæt/",
+    "definition": "帽子(一般指有边的)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "hatch",
+    "phonetic": "/hæt∫/",
+    "definition": "孵出 vi.(蛋)孵化",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "hate",
+    "phonetic": "/heit/",
+    "definition": "恨，憎恨；不喜欢",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "hateful",
+    "phonetic": "/ˈheitful/",
+    "definition": "可恨的，可恶的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hatred",
+    "phonetic": "/ˈheitrid/",
+    "definition": "憎恶，憎恨，仇恨",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "have",
+    "phonetic": "/hæv/",
+    "definition": "aux.已经 vt.有；吃",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "hawk",
+    "phonetic": "/hɔːk/",
+    "definition": "鹰，隼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "hay",
+    "phonetic": "/hei/",
+    "definition": "干草",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "hazard",
+    "phonetic": "/ˈhæzəd/",
+    "definition": "危险；公害",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "he",
+    "phonetic": "/hiː/",
+    "definition": "(主格)他",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "head",
+    "phonetic": "/hed/",
+    "definition": "头；上端 vt.率领",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "headache",
+    "phonetic": "/ˈhedeik/",
+    "definition": "头痛；头痛的事",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "heading",
+    "phonetic": "/ˈhediŋ/",
+    "definition": "标题，题词，题名",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "headline",
+    "phonetic": "/ˈhedlain/",
+    "definition": "大字标题；新闻提要",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "headmaster",
+    "phonetic": "/hedˈmɑːstə(r)/",
+    "definition": "校长",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "headquarters",
+    "phonetic": "/ˈhedˌkwɔːtəz/",
+    "definition": "司令部；总部",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "heal",
+    "phonetic": "/hiːl/",
+    "definition": "治愈；使和解",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "health",
+    "phonetic": "/helθ/",
+    "definition": "健康，健康状况",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  }
+]

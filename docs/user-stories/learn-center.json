@@ -1,0 +1,52 @@
+[
+  {
+    "category": "functional",
+    "description": "学习中心页在未选择词库时显示提示",
+    "steps": [
+      "打开 /learn 页面（未选择词库）",
+      "验证显示 尚未选择词库 提示",
+      "验证显示 去选择词库 按钮"
+    ],
+    "passes": true
+  },
+  {
+    "category": "functional",
+    "description": "新词学习页可以正常加载",
+    "steps": [
+      "打开 /learn/new 页面",
+      "验证页面正常渲染（不崩溃）",
+      "验证存在导航栏"
+    ],
+    "passes": true
+  },
+  {
+    "category": "functional",
+    "description": "复习页面可以正常加载",
+    "steps": [
+      "打开 /learn/review 页面",
+      "验证页面正常渲染（不崩溃）",
+      "验证存在导航栏"
+    ],
+    "passes": true
+  },
+  {
+    "category": "functional",
+    "description": "拼写测试页可以正常加载",
+    "steps": [
+      "打开 /learn/spell 页面",
+      "验证页面正常渲染（不崩溃）",
+      "验证存在导航栏"
+    ],
+    "passes": true
+  },
+  {
+    "category": "functional",
+    "description": "选择题页面可以正常加载",
+    "steps": [
+      "打开 /learn/quiz 页面",
+      "验证页面正常渲染（不崩溃）",
+      "验证存在导航栏"
+    ],
+    "passes": true
+  }
+]

@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "dairy",
+    "phonetic": "/'deəri/",
+    "definition": "牛奶场; 奶制品",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dam",
+    "phonetic": "/dæm/",
+    "definition": "坝，堤",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "dawn",
+    "phonetic": "/dɔ:n/",
+    "definition": "黎明; 开端",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "deadline",
+    "phonetic": "/'dedlain/",
+    "definition": "最后期限，截止时间",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dealer",
+    "phonetic": "/'di:lə(r)/",
+    "definition": "商人，小贩",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "debate",
+    "phonetic": "/di'beit/",
+    "definition": "v. 辩论; 讨论，争论",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "debris",
+    "phonetic": "/'deibri:/",
+    "definition": "废墟，残骸; 碎片",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "debut",
+    "phonetic": "/'deibju:/",
+    "definition": "v. 首次演出",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "decade",
+    "phonetic": "/'dekeid/",
+    "definition": "十年",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "deciduous",
+    "phonetic": "/di'sidjuəs/",
+    "definition": "每年落叶的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "decipher",
+    "phonetic": "/di'saifə(r)/",
+    "definition": "破译，解释",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "declaration",
+    "phonetic": "/`deklə'reiʃn/",
+    "definition": "宣言",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "declare",
+    "phonetic": "/di'kleə(r)/",
+    "definition": "表明; 宣称",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "decode",
+    "phonetic": "/`di:'kəud/",
+    "definition": "译解",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "decompose",
+    "phonetic": "/`di:kəm'pəuz/",
+    "definition": "分解; (使)腐烂",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "decorate",
+    "phonetic": "/'dekəreit/",
+    "definition": "装饰",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "decrease",
+    "phonetic": "/di'kri:s/",
+    "definition": "减少",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dedication",
+    "phonetic": "/`dedi'keiʃn/",
+    "definition": "奉献; 题献词",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "defense",
+    "phonetic": "/di'fens/",
+    "definition": "防御，防卫",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "deficiency",
+    "phonetic": "/di'fiʃnsi/",
+    "definition": "不足，缺乏",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "deficient",
+    "phonetic": "/di'fiʃnt/",
+    "definition": "不足的，缺乏的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "define",
+    "phonetic": "/di'fain/",
+    "definition": "定义，解释",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "definitive",
+    "phonetic": "/di'finətiv/",
+    "definition": "确定的，最后的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "deform",
+    "phonetic": "/di'fɔ:m/",
+    "definition": "(使)变形",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "deliberate",
+    "phonetic": "/di'libərət/",
+    "definition": "审慎的，深思熟虑的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "delight",
+    "phonetic": "/di'lait/",
+    "definition": "使人高兴的东西; v. (使)愉快",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "deliver",
+    "phonetic": "/di'livə(r)/",
+    "definition": "传送，传递; 陈述",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "delta",
+    "phonetic": "/'deltə/",
+    "definition": "(河流的)三角洲",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "demanding",
+    "phonetic": "/di'mɑ:ndiŋ/",
+    "definition": "苛求的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "democrat",
+    "phonetic": "/'deməkræt/",
+    "definition": "[Democrat]美国民主党人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "democratic",
+    "phonetic": "/`demə'krætik/",
+    "definition": "民主的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "dentist",
+    "phonetic": "/'dentist/",
+    "definition": "牙科医生",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "depend",
+    "phonetic": "/di'pend/",
+    "definition": "(on)依靠，依赖; 取决于",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "deplete",
+    "phonetic": "/di'pli:t/",
+    "definition": "(使)枯竭，耗尽",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "deprive",
+    "phonetic": "/di'praiv/",
+    "definition": "(使)失去，剥夺",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "derive",
+    "phonetic": "/di'raiv/",
+    "definition": "(from)得自，源于",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "descend",
+    "phonetic": "/di'send/",
+    "definition": "遗传; 下降",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "descent",
+    "phonetic": "/di'sent/",
+    "definition": "血统; 下降",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "describe",
+    "phonetic": "/di'skraib/",
+    "definition": "描写，描述; 称做",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "descriptive",
+    "phonetic": "/di'skriptiv/",
+    "definition": "描述性的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "deserted",
+    "phonetic": "/di'zə:tid/",
+    "definition": "荒废的; 无人的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "destined",
+    "phonetic": "/'destind/",
+    "definition": "注定的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "destruction",
+    "phonetic": "/di'strʌkʃən/",
+    "definition": "毁坏，毁灭",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "detective",
+    "phonetic": "/di'tektiv/",
+    "definition": "侦探; a. 侦探的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "deter",
+    "phonetic": "/di'tə:(r)/",
+    "definition": "阻止",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "deteriorate",
+    "phonetic": "/di'tiəriəreit/",
+    "definition": "变坏; 变质",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "devote",
+    "phonetic": "/di'vəut/",
+    "definition": "(to)为…付出(时间、精力等); 献身于; 作…之用",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "diagonal",
+    "phonetic": "/dai'ægənl/",
+    "definition": "倾斜的; n. 斜线",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dictate",
+    "phonetic": "/dik'teit/",
+    "definition": "规定; 决定",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "diction",
+    "phonetic": "/'dikʃən/",
+    "definition": "措辞，用语",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "differentiate",
+    "phonetic": "/`difə'renʃieit/",
+    "definition": "(使)不同，区别",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "digest",
+    "phonetic": "/di'dʒest/",
+    "definition": "消化，吸收",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "digestive",
+    "phonetic": "/di'dʒestiv/",
+    "definition": "消化的; 助消化的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "dinosaur",
+    "phonetic": "/'dainəsɔ(r)/",
+    "definition": "恐龙",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dioxide",
+    "phonetic": "/dai'ɔksaid/",
+    "definition": "二氧化物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "diplomat",
+    "phonetic": "/'dipləmæt/",
+    "definition": "外交官",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "director",
+    "phonetic": "/di'rektə(r)/",
+    "definition": "导演; 主管; 负责人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "directory",
+    "phonetic": "/di'rektəri/",
+    "definition": "人名地址录; 目录",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "disadvantage",
+    "phonetic": "/`disəd'vɑ:ntidʒ/",
+    "definition": "缺点; 不利",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "discipline",
+    "phonetic": "/'disiplin/",
+    "definition": "纪律; 学科; v. 训练; 惩罚",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "disease",
+    "phonetic": "/di'zi:z/",
+    "definition": "疾病",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "disguise",
+    "phonetic": "/dis'gaiz/",
+    "definition": "n. 掩饰; 伪装",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "disintegrate",
+    "phonetic": "/dis'intigreit/",
+    "definition": "(使)瓦解; (使)碎裂",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "disorder",
+    "phonetic": "/dis'ɔ:də(r)/",
+    "definition": "混乱，动乱; 失调",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "display",
+    "phonetic": "/di'splei/",
+    "definition": "n. 陈列; 展示; 显示",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dispute",
+    "phonetic": "/di'spju:t/",
+    "definition": "争论; 纠纷; v. 争论",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dissolve",
+    "phonetic": "/di'zɔlv/",
+    "definition": "(使)溶解; 清除",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "distinct",
+    "phonetic": "/di'stiŋkt/",
+    "definition": "明显的; 明确的; 不同的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "distinguish",
+    "phonetic": "/di'stiŋgwiʃ/",
+    "definition": "区别，辨别; 出名",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "distress",
+    "phonetic": "/di'stres/",
+    "definition": "痛苦，不幸",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "disturbance",
+    "phonetic": "/di'stə:bəns/",
+    "definition": "干扰; 骚动",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "dive",
+    "phonetic": "/daiv/",
+    "definition": "v. 跳水; 潜水",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "diversification",
+    "phonetic": "/dai`və:sifi'keiʃn/",
+    "definition": "多样化",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "diversity",
+    "phonetic": "/dai'və:səti/",
+    "definition": "多样性",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "divert",
+    "phonetic": "/dai'və:t/",
+    "definition": "转移; 使娱乐",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "division",
+    "phonetic": "/di'viʒn/",
+    "definition": "划分; 除法",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "documentary",
+    "phonetic": "/`dɔkju'mentri/",
+    "definition": "文献的; 记实的; n. 纪录片",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "documentation",
+    "phonetic": "/`dɔkjumen'teiʃn/",
+    "definition": "文件",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "domain",
+    "phonetic": "/dəu'mein/",
+    "definition": "领域; 领土",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "downtown",
+    "phonetic": "/`daun'taun/",
+    "definition": "a. 在市区(的)，往市区(的)",
+    "partOfSpeech": "adv.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "draft",
+    "phonetic": "/drɑ:ft/",
+    "definition": "草图，草稿; v. 起草; a. 供役使的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "drain",
+    "phonetic": "/drein/",
+    "definition": "排水; 消耗; v. (使)流走",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dramatic",
+    "phonetic": "/drə'mætik/",
+    "definition": "引人注目的; 戏剧性的; 生动的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "drift",
+    "phonetic": "/drift/",
+    "definition": "v. 漂流; 漂泊",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "drill",
+    "phonetic": "/dril/",
+    "definition": "钻(孔)，打眼; n. 钻(孔); 操练",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dull",
+    "phonetic": "/dʌl/",
+    "definition": "单调的; 迟钝的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "dump",
+    "phonetic": "/dʌmp/",
+    "definition": "倾卸，倾倒",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "dwarf",
+    "phonetic": "/dwɔ:f/",
+    "definition": "侏儒; 矮小的东西; v. 使…显得矮小",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ease",
+    "phonetic": "/i:z/",
+    "definition": "不费力",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "easter",
+    "phonetic": "/'i:stə/",
+    "definition": "复活节",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "eclipse",
+    "phonetic": "/i'klips/",
+    "definition": "(日、月)食; vt. 使相形见绌",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ecology",
+    "phonetic": "/i:'kɔlədʒi/",
+    "definition": "生态，生态学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "economy",
+    "phonetic": "/i'kɔnəmi/",
+    "definition": "经济(制度); 节俭，节约",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ecosystem",
+    "phonetic": "/'i:kəusistəm/",
+    "definition": "生态系统",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "edifice",
+    "phonetic": "/'edifis/",
+    "definition": "高大的或宏伟的建筑物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "editorial",
+    "phonetic": "/`edi'tɔ:riəl/",
+    "definition": "社论; a. 社论的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "elective",
+    "phonetic": "/i'lektiv/",
+    "definition": "选修的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "electricity",
+    "phonetic": "/i`lek'trisəti/",
+    "definition": "电; 电流",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "electron",
+    "phonetic": "/i'lektrɔn/",
+    "definition": "电子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "elicit",
+    "phonetic": "/i'lisit/",
+    "definition": "得出，引出",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "eligible",
+    "phonetic": "/'elidʒəbl/",
+    "definition": "符合条件的，合格的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "eliminate",
+    "phonetic": "/i'limineit/",
+    "definition": "消除; 淘汰",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "elliptical",
+    "phonetic": "/i'liptikl/",
+    "definition": "椭圆的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "elm",
+    "phonetic": "/elm/",
+    "definition": "榆树",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "emblem",
+    "phonetic": "/'embləm/",
+    "definition": "徽章",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "embryo",
+    "phonetic": "/'embriəu/",
+    "definition": "胚胎; 雏形",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "emerald",
+    "phonetic": "/'emərəld/",
+    "definition": "绿宝石",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "emission",
+    "phonetic": "/i'miʃən/",
+    "definition": "散发(物)，发射",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "emit",
+    "phonetic": "/i'mit/",
+    "definition": "发出; 放射",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "emotion",
+    "phonetic": "/i'məuʃn/",
+    "definition": "感情; 情绪",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "emotional",
+    "phonetic": "/i'məuʃənl/",
+    "definition": "感情(上)的，情绪(上)的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "enactment",
+    "phonetic": "/i'næktmənt/",
+    "definition": "制定",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "encase",
+    "phonetic": "/in'keis/",
+    "definition": "包住",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "enclose",
+    "phonetic": "/in'kləuz/",
+    "definition": "围住; 把…装入(信封、包裹等)",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "encounter",
+    "phonetic": "/in'kauntə(r)/",
+    "definition": "vt. 偶然碰到; 遭遇",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "endangered",
+    "phonetic": "/in'deindʒəd/",
+    "definition": "将要绝种的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "endow",
+    "phonetic": "/in'dau/",
+    "definition": "使天生具有",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "enforce",
+    "phonetic": "/in'fɔ:s/",
+    "definition": "实施，执行; 强迫",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "engaging",
+    "phonetic": "/in'geidʒiŋ/",
+    "definition": "迷人的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "engine",
+    "phonetic": "/'endʒin/",
+    "definition": "引擎，发动机",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "engraving",
+    "phonetic": "/in'greiviŋ/",
+    "definition": "雕刻术; 版画",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "enlightenment",
+    "phonetic": "/in'laitnmənt/",
+    "definition": "启发，启迪",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "enroll",
+    "phonetic": "/in'rəul/",
+    "definition": "(in)登记; 注册",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "enterprising",
+    "phonetic": "/'entəpraiziŋ/",
+    "definition": "有事业心的，有进取心的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "entry",
+    "phonetic": "/'entri/",
+    "definition": "进入(权); 入口处",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "enzyme",
+    "phonetic": "/'enzaim/",
+    "definition": "酶，酵素",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ephemeral",
+    "phonetic": "/i'femərəl/",
+    "definition": "短暂的，转瞬即逝的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "epic",
+    "phonetic": "/'epik/",
+    "definition": "史诗; a. 英雄的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "epidemic",
+    "phonetic": "/`epi'demik/",
+    "definition": "流行; 流行病",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "epitomize",
+    "phonetic": "/i'pitəmaiz/",
+    "definition": "成为…的缩影",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "era",
+    "phonetic": "/'iərə/",
+    "definition": "纪元; 时代",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "errand",
+    "phonetic": "/'erənd/",
+    "definition": "差事; 差使",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "essay",
+    "phonetic": "/'esei/",
+    "definition": "散文，短文，评论",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "essence",
+    "phonetic": "/'esns/",
+    "definition": "本质，精髓",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "establish",
+    "phonetic": "/i'stæbliʃ/",
+    "definition": "建立，安置",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "estate",
+    "phonetic": "/i'steit/",
+    "definition": "地产",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "evacuation",
+    "phonetic": "/i`vækju'eiʃn/",
+    "definition": "撤离",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "exceed",
+    "phonetic": "/ik'si:d/",
+    "definition": "超过，超出",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "exclude",
+    "phonetic": "/ik'sklu:d/",
+    "definition": "把…排除在外",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "excursion",
+    "phonetic": "/ik'skə:ʃn/",
+    "definition": "远足",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "execute",
+    "phonetic": "/'eksikju:t/",
+    "definition": "执行; 处死; 完成",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "exhilarating",
+    "phonetic": "/ig'ziləreitiŋ/",
+    "definition": "令人高兴的，使人兴奋的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "expel",
+    "phonetic": "/ik'spel/",
+    "definition": "排出",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "exposition",
+    "phonetic": "/`ekspə'ziʃn/",
+    "definition": "展览会，博览会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "extend",
+    "phonetic": "/ik'stend/",
+    "definition": "延长，延伸",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "extent",
+    "phonetic": "/ik'stent/",
+    "definition": "程度，范围",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "exterior",
+    "phonetic": "/ik'stiəriə/",
+    "definition": "a. 外部(的)，外表(的)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "extract",
+    "phonetic": "/ik'strækt,'ekstrækt] vt./",
+    "definition": "取出，提取; n. 提出物，汁",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "extraordinary",
+    "phonetic": "/ik'strɔ:dnri/",
+    "definition": "特别的; 非凡的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "extreme",
+    "phonetic": "/ik'stri:m/",
+    "definition": "极度的; n. 极端",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fabric",
+    "phonetic": "/'fæbrik/",
+    "definition": "布，织品; 结构",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "facade",
+    "phonetic": "/fə'sɑ:d/",
+    "definition": "正面; 表面",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "facial",
+    "phonetic": "/'feiʃl/",
+    "definition": "面部的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "facilitate",
+    "phonetic": "/fə'siliteit/",
+    "definition": "推动，促进",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "factor",
+    "phonetic": "/'fæktə/",
+    "definition": "要素，因素; 【数】因数; 变量",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "factual",
+    "phonetic": "/'fæktʃuəl/",
+    "definition": "实际的，真实的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "faculty",
+    "phonetic": "/'fæklti/",
+    "definition": "全体教职员工; 能力",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fade",
+    "phonetic": "/feid/",
+    "definition": "褪色; 凋谢; 消失",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fahrenheit",
+    "phonetic": "/'færənhait/",
+    "definition": "华氏温度计",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fair",
+    "phonetic": "/feə/",
+    "definition": "公平的，合理的; n. 展览会; 集市",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fairly",
+    "phonetic": "/'feəli/",
+    "definition": "相当地; 公正地",
+    "partOfSpeech": "adv.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fancy",
+    "phonetic": "/'fænsi/",
+    "definition": "奇特的; 异样的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fare",
+    "phonetic": "/feə/",
+    "definition": "费用; v. 进展",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fashion",
+    "phonetic": "/'fæʃən/",
+    "definition": "方式; 流行，风尚; v. 形成，把…塑造成",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fasten",
+    "phonetic": "/'fɑ:sn/",
+    "definition": "强加于; 使固定; 系",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fatal",
+    "phonetic": "/'feitl/",
+    "definition": "致命的; 毁灭性的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fatigue",
+    "phonetic": "/fə'ti:g/",
+    "definition": "劳累; (金属材料等)疲劳",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "faucet",
+    "phonetic": "/'fɔ:sit/",
+    "definition": "水龙头; 插口",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fault",
+    "phonetic": "/fɔ:lt/",
+    "definition": "过错; 【地质学】断层",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fauna",
+    "phonetic": "/'fɔ:nə/",
+    "definition": "动物群",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "favorable",
+    "phonetic": "/'feivərəbl/",
+    "definition": "良好的; 赞成的; 有利的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "favored",
+    "phonetic": "/'feivəd/",
+    "definition": "有利的; 受优待的，首选的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "federal",
+    "phonetic": "/'fedərəl/",
+    "definition": "联邦(制、政府)的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fellow",
+    "phonetic": "/'feləu/",
+    "definition": "家伙; 同事; a. 同道的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fellowship",
+    "phonetic": "/'feləuʃip/",
+    "definition": "友谊; 奖学金",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "female",
+    "phonetic": "/'fi:meil/",
+    "definition": "女性; a. 女(性)的; 母的，雌性的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "feminist",
+    "phonetic": "/'feminist/",
+    "definition": "女权主义者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ferment",
+    "phonetic": "/fə'ment/",
+    "definition": "使发酵",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fertilize",
+    "phonetic": "/'fə:təlaiz/",
+    "definition": "使…受精，受粉; 施肥",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "feudal",
+    "phonetic": "/'fju:dl/",
+    "definition": "封建(制度)的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fiber",
+    "phonetic": "/'faibə/",
+    "definition": "纤维; 光纤",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "file",
+    "phonetic": "/fail/",
+    "definition": "档案; 行列; v. 归档; 提出",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "filter",
+    "phonetic": "/'filtə/",
+    "definition": "过滤器; vt. 过滤",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fin",
+    "phonetic": "/fin/",
+    "definition": "鳍",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fitness",
+    "phonetic": "/'fitnis/",
+    "definition": "健康",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "flag",
+    "phonetic": "/flæg/",
+    "definition": "旗帜; 标记",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "flagellum",
+    "phonetic": "/flə'dʒeləm/",
+    "definition": "[pl. flagella]鞭毛",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "flake",
+    "phonetic": "/fleik/",
+    "definition": "薄片; v. 使成薄片; 雪片般落下",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "flame",
+    "phonetic": "/fleim/",
+    "definition": "火焰; 光辉; v. 闪耀",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "flap",
+    "phonetic": "/flæp/",
+    "definition": "拍打; v. (使)摆动; 拍打",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "flask",
+    "phonetic": "/flɑ:sk/",
+    "definition": "细颈瓶",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "flat",
+    "phonetic": "/flæt/",
+    "definition": "平(坦)的; n. 平地，平面",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "flavoring",
+    "phonetic": "/'fleivəriŋ/",
+    "definition": "调味(品、料)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "flint",
+    "phonetic": "/flint/",
+    "definition": "燧石，打火石",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "float",
+    "phonetic": "/fləut/",
+    "definition": "(使)漂浮",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "flock",
+    "phonetic": "/flɔk/",
+    "definition": "群; 大量; v. 聚结",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "flourish",
+    "phonetic": "/'flʌriʃ/",
+    "definition": "繁荣，茂盛",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "flux",
+    "phonetic": "/flʌks/",
+    "definition": "变迁",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fold",
+    "phonetic": "/fəuld/",
+    "definition": "褶皱; v. 合拢",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "foliage",
+    "phonetic": "/'fəuliidʒ/",
+    "definition": "树叶; 植物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  }
+]

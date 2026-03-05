@@ -1,0 +1,9 @@
+{
+  "name": "TOEFL",
+  "description": "托福考试核心词汇，适合北美留学考生",
+  "level": "advanced",
+  "category": "exam",
+  "coverColor": "#dc2626",
+  "sortOrder": 5,
+  "wordCount": 4510
+}

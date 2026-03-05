@@ -1,0 +1,23 @@
+[
+  {
+    "category": "functional",
+    "description": "词库列表页在无数据库时优雅降级",
+    "steps": [
+      "打开 /wordbooks 页面",
+      "等待 API 请求完成",
+      "验证页面标题包含 词库选择",
+      "验证显示 暂无词库 提示和导入数据引导文字"
+    ],
+    "passes": true
+  },
+  {
+    "category": "functional",
+    "description": "学习中心页显示未选择词库时的提示",
+    "steps": [
+      "打开 /learn 页面",
+      "若未选择词库，验证显示 尚未选择词库 提示",
+      "验证存在 去选择词库 按钮"
+    ],
+    "passes": true
+  }
+]

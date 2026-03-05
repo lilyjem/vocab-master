@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "principle",
+    "phonetic": "/'prinsəpl/",
+    "definition": "原则; 原理",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "prior",
+    "phonetic": "/'praiə/",
+    "definition": "a. (to)在…之前; 优先(的)",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "priority",
+    "phonetic": "/prai'ɔrəti/",
+    "definition": "在先; 优先权",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "prize",
+    "phonetic": "/praiz/",
+    "definition": "珍视; 估价; n. 奖品; 奖金",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "procedure",
+    "phonetic": "/prə'si:dʒə/",
+    "definition": "程序，手续，步骤",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "productivity",
+    "phonetic": "/`prɔdʌk'tivəti/",
+    "definition": "生产力",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "profession",
+    "phonetic": "/prə'feʃn/",
+    "definition": "职业; 同行; 专业",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "professional",
+    "phonetic": "/prə'feʃənl/",
+    "definition": "职业的; 专业的; n. 专业人员",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "proficient",
+    "phonetic": "/prə'fiʃənt/",
+    "definition": "熟练的，精通的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "profound",
+    "phonetic": "/prə'faund/",
+    "definition": "深远的; 知识渊博的; 深奥的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "progressive",
+    "phonetic": "/prə'gresiv/",
+    "definition": "进步的; 渐进的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "prohibitively",
+    "phonetic": "/prə'hibətivli/",
+    "definition": "(价格)极高地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "project",
+    "phonetic": "/'prɔdʒekt,prə'dʒekt] n./",
+    "definition": "方案，项目; v. 放映，规划",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "prolonged",
+    "phonetic": "/prə'lɔŋd/",
+    "definition": "延长的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "promote",
+    "phonetic": "/prə'məut/",
+    "definition": "促进，提升，宣传",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "proof",
+    "phonetic": "/pru:f/",
+    "definition": "证据; 试验",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "proofread",
+    "phonetic": "/'pru:fri:d/",
+    "definition": "校对，校正",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "proper",
+    "phonetic": "/'prɔpə/",
+    "definition": "正确的; 适当的; 特有的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "property",
+    "phonetic": "/'prɔpəti/",
+    "definition": "财产; 特性; 所有权; 房地产",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "proponent",
+    "phonetic": "/prə'pəunənt/",
+    "definition": "支持者; 倡导者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "prose",
+    "phonetic": "/prəuz/",
+    "definition": "散文",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "prosper",
+    "phonetic": "/'prɔspə/",
+    "definition": "繁荣; 成功",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "protest",
+    "phonetic": "/'prəutest/",
+    "definition": "抗议，反对; v. 抗议，反对",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "prototype",
+    "phonetic": "/'prəutətaip/",
+    "definition": "原型",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "psychoanalysis",
+    "phonetic": "/`saikəuə'næləsis/",
+    "definition": "(心理、精神)分析",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "psychology",
+    "phonetic": "/sai'kɔlədʒi/",
+    "definition": "心理学; 心理",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "publication",
+    "phonetic": "/`pʌbli'keiʃn/",
+    "definition": "出版，发行; 出版物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "publicize",
+    "phonetic": "/'pʌblisaiz/",
+    "definition": "宣传; 宣扬",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "pueblo",
+    "phonetic": "/'pwebləu/",
+    "definition": "印第安人村庄",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pulp",
+    "phonetic": "/pʌlp/",
+    "definition": "纸浆",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pulse",
+    "phonetic": "/pʌls/",
+    "definition": "脉搏; 脉冲",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pump",
+    "phonetic": "/pʌmp/",
+    "definition": "泵; vt. (用泵)抽",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "puncture",
+    "phonetic": "/'pʌŋktʃəl/",
+    "definition": "刺穿",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pupil",
+    "phonetic": "/'pju:pl/",
+    "definition": "瞳孔; 小学生",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "puppet",
+    "phonetic": "/'pʌpit/",
+    "definition": "木偶",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pure",
+    "phonetic": "/pjuə/",
+    "definition": "纯洁的; 纯净的; 完全的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "purity",
+    "phonetic": "/'pjuərəti/",
+    "definition": "纯度; 纯净",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "purple",
+    "phonetic": "/'pə:pl/",
+    "definition": "a. 紫色(的)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pursue",
+    "phonetic": "/pə'sju:/",
+    "definition": "继续; 从事; 追击; 追踪",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pursuit",
+    "phonetic": "/pə'sju:t/",
+    "definition": "追求，[常pl. ]花时间和精力等做的事、职业",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pyramid",
+    "phonetic": "/'pirəmid/",
+    "definition": "金字塔",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "qualify",
+    "phonetic": "/'kwɔlifai/",
+    "definition": "(使)具有资格，(使)合格",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "quantify",
+    "phonetic": "/'kwɔntifai/",
+    "definition": "量化",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "quarry",
+    "phonetic": "/'kwɔri/",
+    "definition": "石矿; 被追求人或事物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "quasar",
+    "phonetic": "/'kweizɑ:/",
+    "definition": "类星体",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "questionnaire",
+    "phonetic": "/`kwestʃə'neə/",
+    "definition": "问卷，调查表",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "quilt",
+    "phonetic": "/kwilt/",
+    "definition": "棉被; vt. 制成棉被",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "quit",
+    "phonetic": "/kwit/",
+    "definition": "停止; 放弃; 离开; 辞(职)",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "quiz",
+    "phonetic": "/kwiz/",
+    "definition": "小测验",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "quote",
+    "phonetic": "/kwəut/",
+    "definition": "引文; v. 引用",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "racing",
+    "phonetic": "/'reisiŋ/",
+    "definition": "比赛，竞赛; a. 比赛的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "racket",
+    "phonetic": "/'rækit/",
+    "definition": "(网球等的)球拍",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "radar",
+    "phonetic": "/'reidɑ:/",
+    "definition": "雷达",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "radioactive",
+    "phonetic": "/`reidiəu'æktiv/",
+    "definition": "放射性的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "raft",
+    "phonetic": "/rɑ:ft/",
+    "definition": "木筏",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "rainbow",
+    "phonetic": "/'reinbəu/",
+    "definition": "虹",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "rainfall",
+    "phonetic": "/'reinfɔ:l/",
+    "definition": "降雨; 降雨量",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ranch",
+    "phonetic": "/rɑ:ntʃ/",
+    "definition": "大牧场",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "random",
+    "phonetic": "/'rændəm/",
+    "definition": "随机的，任意的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "range",
+    "phonetic": "/reindʒ/",
+    "definition": "范围; 山脉; v. (在某范围内)变动",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "rare",
+    "phonetic": "/reə/",
+    "definition": "稀有的，罕见的; (肉类)半熟的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "rash",
+    "phonetic": "/ræʃ/",
+    "definition": "疹，皮疹",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "rattle",
+    "phonetic": "/'rætl/",
+    "definition": "产生连续声音的器具，拨浪鼓",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "raw",
+    "phonetic": "/rɔ:/",
+    "definition": "未加工过的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "rayon",
+    "phonetic": "/'reiɔn/",
+    "definition": "人造丝，人造纤维",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "rear",
+    "phonetic": "/riə/",
+    "definition": "后部; 臀部; v. 养育; 饲养",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "receiver",
+    "phonetic": "/ri'si:və/",
+    "definition": "接收器",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "receptacle",
+    "phonetic": "/ri'septəkl/",
+    "definition": "容器",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "receptor",
+    "phonetic": "/ri'septə/",
+    "definition": "感受器",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "recession",
+    "phonetic": "/ri'seʃn/",
+    "definition": "萧条时期",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "recipe",
+    "phonetic": "/'resipi/",
+    "definition": "食谱; 方法",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "recycle",
+    "phonetic": "/`ri:'saikl/",
+    "definition": "回收利用",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "reddish",
+    "phonetic": "/'rediʃ/",
+    "definition": "微红的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "reef",
+    "phonetic": "/ri:f/",
+    "definition": "礁，暗礁",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "reference",
+    "phonetic": "/'refərəns/",
+    "definition": "提到; 参考; 介绍信",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "refine",
+    "phonetic": "/ri'fain/",
+    "definition": "精炼，精制; 使完善",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "reflect",
+    "phonetic": "/ri'flekt/",
+    "definition": "反射; 反映",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "refreshing",
+    "phonetic": "/ri'freʃiŋ/",
+    "definition": "使人耳目一新的; 提神的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "refrigerate",
+    "phonetic": "/ri'fridʒəreit/",
+    "definition": "冷藏; 使变冷",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "refurbish",
+    "phonetic": "/`ri:'fə:biʃ/",
+    "definition": "重新装饰",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "regardless",
+    "phonetic": "/ri'gɑ:dlis/",
+    "definition": "(of)不顾，不管",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "regenerate",
+    "phonetic": "/ri'dʒenəreit/",
+    "definition": "使恢复",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "region",
+    "phonetic": "/'ri:dʒən/",
+    "definition": "地区，区域; (大气等的)层",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "regular",
+    "phonetic": "/'regjulə/",
+    "definition": "有规律的; 正常的; 经常的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "regulate",
+    "phonetic": "/'regjuleit/",
+    "definition": "管理，控制; 调节",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "rehabilitate",
+    "phonetic": "/`ri:ə'biliteit/",
+    "definition": "使恢复原状，修复",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "rejuvenate",
+    "phonetic": "/ri'dʒu:vəneit/",
+    "definition": "使恢复活力",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "relative",
+    "phonetic": "/'relətiv/",
+    "definition": "相对的; 有关的; n. 亲属",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "relatively",
+    "phonetic": "/'relətivli/",
+    "definition": "相对地; 相当地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "relay",
+    "phonetic": "/'ri:lei/",
+    "definition": "补充物资; vt. 传达，转播",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "release",
+    "phonetic": "/ri'li:s/",
+    "definition": "n. 释放，解放; 发布",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "relic",
+    "phonetic": "/'relik/",
+    "definition": "遗迹",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "relief",
+    "phonetic": "/ri'li:f/",
+    "definition": "浮雕; 缓解",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "relieve",
+    "phonetic": "/ri'li:v/",
+    "definition": "缓解，减轻",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "remainder",
+    "phonetic": "/ri'meində/",
+    "definition": "剩余物，残余",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "remains",
+    "phonetic": "/ri'meinz/",
+    "definition": "剩余，残余; 遗骸",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "remark",
+    "phonetic": "/ri'mɑ:k/",
+    "definition": "评论; 谈论; n. 评论",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "remodel",
+    "phonetic": "/ri:'mɔdl/",
+    "definition": "重新塑造，改造",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "removal",
+    "phonetic": "/ri'mu:vəl/",
+    "definition": "除去; 移动",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "renew",
+    "phonetic": "/ri'nju:/",
+    "definition": "使续期; 重建",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "repertoire",
+    "phonetic": "/'repətwɑ:/",
+    "definition": "(剧团等)常备剧目，保留剧目",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "repertory",
+    "phonetic": "/'repətri/",
+    "definition": "保留剧目",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "repetition",
+    "phonetic": "/`repi'tiʃn/",
+    "definition": "重复",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "replicate",
+    "phonetic": "/'replikeit/",
+    "definition": "复制",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "represent",
+    "phonetic": "/`repri'zent/",
+    "definition": "代表; 表现; 描绘",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "reproduce",
+    "phonetic": "/`ri:prə'dju:s/",
+    "definition": "繁殖; 复制",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "reptile",
+    "phonetic": "/'reptail/",
+    "definition": "爬行动物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "republic",
+    "phonetic": "/ri'pʌblik/",
+    "definition": "共和国，共和政体",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "repute",
+    "phonetic": "/ri'pju:t/",
+    "definition": "(被)称为，认为",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "request",
+    "phonetic": "/ri'kwest/",
+    "definition": "v. 要求，请求",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "require",
+    "phonetic": "/ri'kwaiə/",
+    "definition": "需要; 要求; 规定",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "reserve",
+    "phonetic": "/ri'zə:v/",
+    "definition": "储备(物); 自然保护区; v. 保留; 预订",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "reservoir",
+    "phonetic": "/'rezəvwɑ:/",
+    "definition": "水库，蓄水池",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "resin",
+    "phonetic": "/'rezin/",
+    "definition": "树脂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "resort",
+    "phonetic": "/ri'zɔ:t/",
+    "definition": "度假胜地; (to)求助",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "resource",
+    "phonetic": "/ri'sɔ:s/",
+    "definition": "[常pl. ]资源，财力",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "respect",
+    "phonetic": "/ri'spekt/",
+    "definition": "尊重; n. 尊重; 方面",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "respond",
+    "phonetic": "/ri'spɔnd/",
+    "definition": "(to)回答; 做出反应",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "response",
+    "phonetic": "/ri'spɔns/",
+    "definition": "回答; 反应，响应",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "restore",
+    "phonetic": "/ri'stɔ:/",
+    "definition": "恢复，修复",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "restraint",
+    "phonetic": "/ri'streint/",
+    "definition": "抑制，限制",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "restricted",
+    "phonetic": "/ri'striktid/",
+    "definition": "受约束的，限制的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "retail",
+    "phonetic": "/'ri:teil/",
+    "definition": "零售的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "retreat",
+    "phonetic": "/ri'tri:t/",
+    "definition": "退却，撤退; n. 退却; 隐退处",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "reverse",
+    "phonetic": "/ri'və:s/",
+    "definition": "反转; n. 反面; a. 相反的",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "review",
+    "phonetic": "/ri'vju:/",
+    "definition": "审查; 复习; n. 复习; 评论",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "revitalize",
+    "phonetic": "/ri:'vaitəlaiz/",
+    "definition": "使恢复生机",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "revival",
+    "phonetic": "/ri'vaivl/",
+    "definition": "复兴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "revolt",
+    "phonetic": "/ri'vəult/",
+    "definition": "反叛; n. 起义; 反抗",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "revolution",
+    "phonetic": "/`revə'lu:ʃn/",
+    "definition": "革命",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "reward",
+    "phonetic": "/ri'wɔ:d/",
+    "definition": "奖赏，报酬; v. 奖赏",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "rhinoceros",
+    "phonetic": "/rai'nɔsərəs/",
+    "definition": "犀牛",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "rhyme",
+    "phonetic": "/raim/",
+    "definition": "韵，押韵; v. 押韵",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "rhythm",
+    "phonetic": "/'riðəm/",
+    "definition": "节奏，韵律",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ribbon",
+    "phonetic": "/'ribən/",
+    "definition": "(打印机等的)色带; 带状物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ridge",
+    "phonetic": "/ridʒ/",
+    "definition": "脊，山脊",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ritual",
+    "phonetic": "/'ritʃuəl/",
+    "definition": "典礼，(宗教等的)仪式; 固定方式; a. 仪式的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "roam",
+    "phonetic": "/rəum/",
+    "definition": "漫游，漫步",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "rod",
+    "phonetic": "/rɔd/",
+    "definition": "杆，棒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "rodent",
+    "phonetic": "/'rəudənt/",
+    "definition": "啮齿目动物(如松鼠或海狸)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "rodeo",
+    "phonetic": "/rəu'deiəu/",
+    "definition": "牛仔竞技表演",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "roe",
+    "phonetic": "/rəu/",
+    "definition": "雌鱼腹中的鱼卵",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "roll",
+    "phonetic": "/rəul/",
+    "definition": "(使)滚动，转动; n. (一)卷，卷形物",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "romantic",
+    "phonetic": "/rəu'mæntik/",
+    "definition": "浪漫的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "rotate",
+    "phonetic": "/rəu'teit/",
+    "definition": "(使)转动; (使)轮流",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "roughly",
+    "phonetic": "/'rʌfli/",
+    "definition": "大致地; 粗糙地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "rub",
+    "phonetic": "/rʌb/",
+    "definition": "v. 擦，摩擦",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "rug",
+    "phonetic": "/rʌg/",
+    "definition": "(小)地毯; 围毯",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "ruin",
+    "phonetic": "/'ru:in/",
+    "definition": "破坏，毁灭; n. [常pl. ]废墟，遗迹",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "rumor",
+    "phonetic": "/'ru:mə/",
+    "definition": "传闻，谣言",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "rural",
+    "phonetic": "/'ruərəl/",
+    "definition": "乡村的，农村的; 田园的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sac",
+    "phonetic": "/sæk/",
+    "definition": "囊，液囊",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "salamander",
+    "phonetic": "/'sæləmændə/",
+    "definition": "火蜥蜴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "salient",
+    "phonetic": "/'seiliənt/",
+    "definition": "显著的，突出的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "salmon",
+    "phonetic": "/'sæmən/",
+    "definition": "鲑鱼，大马哈鱼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "salon",
+    "phonetic": "/'sælɔn/",
+    "definition": "营业性高级服务厅",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sanitation",
+    "phonetic": "/`sæni'teiʃn/",
+    "definition": "卫生; 卫生设施",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sapphire",
+    "phonetic": "/'sæfaiə/",
+    "definition": "蓝宝石",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "satellite",
+    "phonetic": "/'sætəlait/",
+    "definition": "卫星; 人造卫星",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "satiric",
+    "phonetic": "/sə'tirik/",
+    "definition": "(=satirical)讽刺的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "saturation",
+    "phonetic": "/`sætʃə'reiʃn/",
+    "definition": "饱和(状态)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "saturn",
+    "phonetic": "/'sætən/",
+    "definition": "土星",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sauce",
+    "phonetic": "/sɔ:s/",
+    "definition": "沙司; 调味汁，佐料",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "saving",
+    "phonetic": "/'seiviŋ/",
+    "definition": "节省; [常pl. ]存款，积蓄",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scar",
+    "phonetic": "/skɑ:/",
+    "definition": "疤痕; v. (给…)留下伤痕",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "scarf",
+    "phonetic": "/skɑ:f/",
+    "definition": "围巾，披巾",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scavenger",
+    "phonetic": "/'skævindʒə/",
+    "definition": "清道夫; 食腐动物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "scent",
+    "phonetic": "/sent/",
+    "definition": "香气; 气味",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scheme",
+    "phonetic": "/ski:m/",
+    "definition": "计划，方案",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scholar",
+    "phonetic": "/'skɔlə/",
+    "definition": "学者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "score",
+    "phonetic": "/skɔ:/",
+    "definition": "得分，分数; 乐谱; v. 评分",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scrape",
+    "phonetic": "/skreip/",
+    "definition": "刮，擦掉; n. 擦痕",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "script",
+    "phonetic": "/skript/",
+    "definition": "脚本; 文字体系",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scrub",
+    "phonetic": "/skrʌb/",
+    "definition": "灌木丛",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scruffy",
+    "phonetic": "/'skrʌfi/",
+    "definition": "不整洁的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "scuba",
+    "phonetic": "/'sku:bə/",
+    "definition": "水中呼吸器",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sculpt",
+    "phonetic": "/skʌlpt/",
+    "definition": "雕刻",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scurry",
+    "phonetic": "/'skʌri/",
+    "definition": "急跑",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "seal",
+    "phonetic": "/si:l/",
+    "definition": "海豹; v. 密封",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "season",
+    "phonetic": "/'si:zn/",
+    "definition": "季(节); 时期",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "section",
+    "phonetic": "/'sekʃən/",
+    "definition": "部分; 地区; 部门",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "secure",
+    "phonetic": "/si'kjuə/",
+    "definition": "获得; 保护; a. 安全的，有保障的; 确定的",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sedentary",
+    "phonetic": "/'sedntri/",
+    "definition": "土生的，不移栖的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "seep",
+    "phonetic": "/si:p/",
+    "definition": "漏出，渗漏",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "seismic",
+    "phonetic": "/'saizmik/",
+    "definition": "地震(引起)的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "seismograph",
+    "phonetic": "/'saizməgrɑ:f/",
+    "definition": "地震仪",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "seismology",
+    "phonetic": "/saiz'mɔlədʒi/",
+    "definition": "地震学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "seminar",
+    "phonetic": "/'seminɑ:/",
+    "definition": "研讨会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "senate",
+    "phonetic": "/'senit/",
+    "definition": "参议院; 上院",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "senior",
+    "phonetic": "/'si:niə/",
+    "definition": "地位较高的; n. 较年长者; 四年级学生",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sensory",
+    "phonetic": "/'sensəri/",
+    "definition": "感觉的; 感官的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "separate",
+    "phonetic": "/'seprət/",
+    "definition": "分离的，个别的; v. 分离，划分，区别",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sequoia",
+    "phonetic": "/si'kwɔiə/",
+    "definition": "美洲杉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "series",
+    "phonetic": "/'siəri:z/",
+    "definition": "系列，连续; 连续剧",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "setting",
+    "phonetic": "/'setiŋ/",
+    "definition": "环境; 背景; 布景; [常pl. ]设置，安装",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "settlement",
+    "phonetic": "/'setlmənt/",
+    "definition": "住宅区",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sew",
+    "phonetic": "/səu/",
+    "definition": "缝(纫)",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "sewage",
+    "phonetic": "/'su:idʒ/",
+    "definition": "污水，污物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shallow",
+    "phonetic": "/'ʃæləu/",
+    "definition": "浅的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sharply",
+    "phonetic": "/'ʃɑ:pli/",
+    "definition": "急剧地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  }
+]

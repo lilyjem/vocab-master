@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "brown",
+    "phonetic": "/braun/",
+    "definition": "/a.褐色(的),棕色(的)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "browse",
+    "phonetic": "/brauz/",
+    "definition": "随意翻阅,浏览;(牛、羊等)吃草",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "bruise",
+    "phonetic": "/bruːz/",
+    "definition": "青肿,挫伤;伤痕vt.打青;挫伤",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "brush",
+    "phonetic": "/brʌʃ/",
+    "definition": "刷(子),毛刷;画笔 v.刷,擦,掸,拂;掠过",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "brutal",
+    "phonetic": "/ˈbruːtəl/",
+    "definition": "残忍的;严峻的;严酷的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "bubble",
+    "phonetic": "/ˈbʌbl/",
+    "definition": "泡,水泡,气泡 v.冒泡,起泡,沸腾",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "bucket",
+    "phonetic": "/ˈbʌkit/",
+    "definition": "水桶,吊桶",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "bud",
+    "phonetic": "/bʌd/",
+    "definition": "芽,花苞 v.发芽,含苞欲放",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "budget",
+    "phonetic": "/ˈbʌdʒit/",
+    "definition": "预算 v.做预算",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "buffet",
+    "phonetic": "/ˈbʌfit/",
+    "definition": "自助餐",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "bug",
+    "phonetic": "/bʌɡ/",
+    "definition": "臭虫;小毛病;窃听器 v.窃听",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "build",
+    "phonetic": "/bild/",
+    "definition": "建造,建筑;建设,建立 vi.增大,增强",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "building",
+    "phonetic": "/ˈbildiŋ/",
+    "definition": "建筑(物),房屋,大楼 [同]structure",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "bulb",
+    "phonetic": "/bʌlb/",
+    "definition": "灯泡,球状物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "bulk",
+    "phonetic": "/bʌlk/",
+    "definition": "体积,容积;主体,大批,大量,大块",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "bull",
+    "phonetic": "/bul/",
+    "definition": "公牛",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "bullet",
+    "phonetic": "/ˈbulit/",
+    "definition": "子弹,枪弹",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "bulletin",
+    "phonetic": "/ˈbulitin/",
+    "definition": "公报,公告,告示",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "bully",
+    "phonetic": "/ˈbuli/",
+    "definition": "恃强欺弱者,小流氓 vt.威胁,欺侮",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "bump",
+    "phonetic": "/bʌmp/",
+    "definition": "(against,into)碰;颠簸着前进 n.碰撞",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "bunch",
+    "phonetic": "/ˈbʌntʃ/",
+    "definition": "(一)簇,束,捆,串",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "bundle",
+    "phonetic": "/ˈbʌndl/",
+    "definition": "捆,包,束",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "burden",
+    "phonetic": "/ˈbəːdən/",
+    "definition": "担子,重担,负担 vt.给予负担或麻烦",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "bureau",
+    "phonetic": "/ˈbjuərəu/",
+    "definition": "署,局,司,处",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "bureaucracy",
+    "phonetic": "/bjuəˈrɔkrəsi/",
+    "definition": "官僚主义,官僚机构;(非民选的)委任官员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "burglar",
+    "phonetic": "/ˈbəːɡlə/",
+    "definition": "(入室行窃的)盗贼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "burn",
+    "phonetic": "/bəːn/",
+    "definition": "燃烧,烧着;烧毁;灼伤 n.烧伤,灼伤",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "burst",
+    "phonetic": "/bəːst/",
+    "definition": "爆裂,炸破;突然发生 n.突然破裂,爆发",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "bury",
+    "phonetic": "/ˈberi/",
+    "definition": "埋(葬),安葬;埋藏,遮盖",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "bus",
+    "phonetic": "/bʌs/",
+    "definition": "公共汽车,总线,信息通路",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "bush",
+    "phonetic": "",
+    "definition": "灌木(丛)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "business",
+    "phonetic": "/ˈbiznis/",
+    "definition": "商业,生意;事务,业务,职责",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "busy",
+    "phonetic": "/ˈbizi/",
+    "definition": "忙,忙碌的;热闹的,繁忙的;(电话)占线",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "but",
+    "phonetic": "/强 bʌt, 弱 bət, bʌt/",
+    "definition": "但是 prep.除...以外 ad.只,才,仅仅",
+    "partOfSpeech": "conj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "butcher",
+    "phonetic": "/ˈbutʃə/",
+    "definition": "屠夫,卖肉者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "butter",
+    "phonetic": "/ˈbʌtə/",
+    "definition": "黄油,奶油 v.涂黄油于…上",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "butterfly",
+    "phonetic": "/ˈbʌtəflai/",
+    "definition": "蝴蝶",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "button",
+    "phonetic": "/ˈbʌtən/",
+    "definition": "纽扣,按钮(开关) v.扣紧;扣上纽扣",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "buy",
+    "phonetic": "/bai/",
+    "definition": "买,买得;向…行贿,收买vi.购买东西",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "by",
+    "phonetic": "/bai/",
+    "definition": "被;凭借;经由;由于ad.在近旁;经过",
+    "partOfSpeech": "prep.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "bypass",
+    "phonetic": "/ˈbaipɑːs,-pæs/",
+    "definition": "(by-pass)旁道;vt.绕过",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cab",
+    "phonetic": "/kæb/",
+    "definition": "出租车,出租马车;驾驶室 vi.乘出租马车",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cabbage",
+    "phonetic": "/ˈkæbidʒ/",
+    "definition": "洋白菜,卷心菜",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cabin",
+    "phonetic": "/ˈkæbin/",
+    "definition": "客舱,机舱;小(木)屋",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cabinet",
+    "phonetic": "/ˈkæbinit/",
+    "definition": "内阁,内阁会议;(带玻璃门存物品的)橱柜",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cable",
+    "phonetic": "/ˈkeibl/",
+    "definition": "电报;电缆;缆,索,钢丝绳 v.拍电报",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cafe",
+    "phonetic": "",
+    "definition": "咖啡馆,(小)餐馆",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cafeteria",
+    "phonetic": "/ˌkæfiˈtiəriə/",
+    "definition": "自助食堂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "cage",
+    "phonetic": "/keidʒ/",
+    "definition": "笼,鸟笼;牢房,监狱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cake",
+    "phonetic": "/keik/",
+    "definition": "饼,糕,蛋糕;扁平的块状物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "calcium",
+    "phonetic": "/ˈkælsiəm/",
+    "definition": "钙(化学符号Ca)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "calculate",
+    "phonetic": "/ˈkælkjuleit/",
+    "definition": "计算,推算;计划,打算",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "calendar",
+    "phonetic": "/ˈkælində/",
+    "definition": "日历,月历",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "call",
+    "phonetic": "/kɔːl/",
+    "definition": "叫,喊;打电话 vi.叫;访问 n.叫;号召",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "calm",
+    "phonetic": "/kɑːm, kɑːlm/",
+    "definition": "(天气,海洋等)静的 n.平静 v.(使)平静",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "calorie",
+    "phonetic": "/ˈkæləri/",
+    "definition": "卡路里(食物所产生的热量或能量单位)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "camel",
+    "phonetic": "/ˈkæməl/",
+    "definition": "骆驼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "camera",
+    "phonetic": "/ˈkæmərə/",
+    "definition": "照相机,摄影机",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "camp",
+    "phonetic": "/kæmp/",
+    "definition": "野营,营地;帐篷,阵营 v.设营,宿营",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "campaign",
+    "phonetic": "/kæmˈpein/",
+    "definition": "战役;运动",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "campus",
+    "phonetic": "/ˈkæmpəs/",
+    "definition": "(大学)校园",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "can",
+    "phonetic": "/强kæn, 弱kən/",
+    "definition": "v.能;可以 n.罐头;容器 vt.把…装罐",
+    "partOfSpeech": "aux.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "canal",
+    "phonetic": "/kəˈnæl/",
+    "definition": "运河;(沟)渠",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cancel",
+    "phonetic": "/ˈkænsəl/",
+    "definition": "取消,把…作废;删去,划掉",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cancer",
+    "phonetic": "/ˈkænsə/",
+    "definition": "癌",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "candidate",
+    "phonetic": "/ˈkændideit, -dət/",
+    "definition": "候选人,候补者;报考者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "candle",
+    "phonetic": "/ˈkændl/",
+    "definition": "蜡烛",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "candy",
+    "phonetic": "/ˈkændi/",
+    "definition": "糖果,vt.用糖煮",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cannon",
+    "phonetic": "/ˈkænən/",
+    "definition": "大炮,火炮",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "canoe",
+    "phonetic": "/kəˈnuː/",
+    "definition": "独木舟,小游艇",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "canteen",
+    "phonetic": "/kænˈtiːn/",
+    "definition": "(工厂、办公室等)食堂或小卖部",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "canvas",
+    "phonetic": "/ˈkænvəs/",
+    "definition": "帆布;帆布画布,(帆布)油画",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cap",
+    "phonetic": "/kæp/",
+    "definition": "便帽,军帽;盖,罩,套 v.覆盖于…顶端",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "capable",
+    "phonetic": "/ˈkeipəbl/",
+    "definition": "有本领的,有能力的;(of)可以…的,能…的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "capacity",
+    "phonetic": "/kəˈpæsəti/",
+    "definition": "容量,容积;能量,能力;接受力",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cape",
+    "phonetic": "/keip/",
+    "definition": "海角,岬;披肩,短披风",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "capital",
+    "phonetic": "/ˈkæpitəl/",
+    "definition": "首都;大写字母;资本 a.主要的,大写字母的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "capitalism",
+    "phonetic": "/ˈkæpitəlizəm/",
+    "definition": "资本主义",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "capsule",
+    "phonetic": "/ˈkæpsjuːl/",
+    "definition": "胶囊;太空舱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "captain",
+    "phonetic": "/ˈkæptin/",
+    "definition": "首领,队长;船长;上尉 v.做…的首领,指挥",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "captive",
+    "phonetic": "/ˈkæptiv/",
+    "definition": "俘虏 a.被俘虏的,被监禁的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "capture",
+    "phonetic": "/ˈkæptʃə/",
+    "definition": "/n.捕获,俘虏;夺得,攻占",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "car",
+    "phonetic": "/kɑː/",
+    "definition": "汽车,车辆,车;(火车)车厢",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "carbohydrate",
+    "phonetic": "/ˌkɑːbəuˈhaidreit/",
+    "definition": "碳水化合物; 糖类;(plural)淀粉质或糖类",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "carbon",
+    "phonetic": "/ˈkɑːbən/",
+    "definition": "碳",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "card",
+    "phonetic": "/kɑːd/",
+    "definition": "卡片,名片;纸牌;纸片",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cardinal",
+    "phonetic": "/ˈkɑːdinəl/",
+    "definition": "(天主教的)红衣主教 a.首要的,基本的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "care",
+    "phonetic": "/kεə/",
+    "definition": "小心;关怀,照料 v.(about)关心,介意,计较",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "career",
+    "phonetic": "/kəˈriə/",
+    "definition": "(个人的)事业;专业,生涯,职业,经历",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "careful",
+    "phonetic": "/ˈkεəful/",
+    "definition": "小心的,仔细的;细致的,精心的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "caress",
+    "phonetic": "/kəˈres/",
+    "definition": "/n.爱抚,抚摸",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cargo",
+    "phonetic": "/ˈkɑːɡəu/",
+    "definition": "船货,货物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "carpenter",
+    "phonetic": "/ˈkɑːpəntə/",
+    "definition": "木工,木匠",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "carpet",
+    "phonetic": "/ˈkɑːpit/",
+    "definition": "地毯",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "carriage",
+    "phonetic": "/ˈkæridʒ/",
+    "definition": "(四轮)马车;(火车)客车厢",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "carrier",
+    "phonetic": "/ˈkæriə/",
+    "definition": "搬运人;载体",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "carrot",
+    "phonetic": "/ˈkærət/",
+    "definition": "胡萝卜",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "carry",
+    "phonetic": "/ˈkæri/",
+    "definition": "运送,搬运;传送,传播;领,带",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cart",
+    "phonetic": "/kɑːt/",
+    "definition": "(二轮货运)马车,手推车",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cartoon",
+    "phonetic": "/kɑːˈtuːn/",
+    "definition": "漫画,幽默画;动画片",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "carve",
+    "phonetic": "/kɑːv/",
+    "definition": "(雕)刻",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "case",
+    "phonetic": "/keis/",
+    "definition": "箱,盒,容器;情况,事实;病例;案件",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cash",
+    "phonetic": "/kæʃ/",
+    "definition": "现金,现款 v.兑现,付(或收)现款",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cashier",
+    "phonetic": "/kæˈʃiə/",
+    "definition": "收银员,出纳员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cassette",
+    "phonetic": "/kæˈset/",
+    "definition": "盒子;盒式磁带",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cast",
+    "phonetic": "/kɑːs, kæst/",
+    "definition": "投,扔,掷,抛;铸造;投票;n.演员表",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "castle",
+    "phonetic": "/ˈkɑːsl, ˈkæ-/",
+    "definition": "城堡;(国际象棋中的)车",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "casual",
+    "phonetic": "/ˈkæʒjuəl/",
+    "definition": "偶然的,碰巧的;临时的,非正式的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "casualty",
+    "phonetic": "/ˈkæʒjuəlti/",
+    "definition": "伤亡人员;受害人;损失的东西;急诊室",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cat",
+    "phonetic": "/kæt/",
+    "definition": "猫;猫科动物;",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "catalog",
+    "phonetic": "/ˈkætəlɔɡ/",
+    "definition": "(catalogue)目录(册) v.编目(录)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "catastrophe",
+    "phonetic": "/kəˈtæstrəfi/",
+    "definition": "大灾难;(悲剧)结局",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "catch",
+    "phonetic": "/kætʃ/",
+    "definition": "捕捉,捕获;赶上;感染;理解,听到",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "category",
+    "phonetic": "/ˈkætiɡəri/",
+    "definition": "种类,部属,类目;范畴,类型",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cater",
+    "phonetic": "/ˈkeitə/",
+    "definition": "(for/to)满足,迎合;(for)提供饮食及服务",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cathedral",
+    "phonetic": "/kəˈθiːdrəl/",
+    "definition": "大教堂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "catholic",
+    "phonetic": "",
+    "definition": "天主教的 n.天主教徒",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cattle",
+    "phonetic": "/ˈkætl/",
+    "definition": "牛;牲口,家畜",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cause",
+    "phonetic": "/kɔːz/",
+    "definition": "原因;事业,事件,奋斗目标 v.使产生,引起",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "caution",
+    "phonetic": "/ˈkɔːʃən/",
+    "definition": "谨慎;注意(事项),警告vt.劝…小心",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cautious",
+    "phonetic": "/ˈkɔːʃəs/",
+    "definition": "(of)小心的,谨慎的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cave",
+    "phonetic": "/keiv/",
+    "definition": "洞,穴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cease",
+    "phonetic": "/siːs/",
+    "definition": "/n.停止,中止",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ceiling",
+    "phonetic": "/ˈsiːliŋ/",
+    "definition": "天花板;(规定价格、工资等的)最高限额",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "celebrate",
+    "phonetic": "/ˈselibreit/",
+    "definition": "庆祝;颂扬,赞美vi.庆祝,过节",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "celebrity",
+    "phonetic": "/siˈlebrəti/",
+    "definition": "名人,名流;著名,名声,名望",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "cell",
+    "phonetic": "/sel/",
+    "definition": "细胞;小房间;蜂房;电池",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cellar",
+    "phonetic": "/ˈselə/",
+    "definition": "地窑,地下室",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cement",
+    "phonetic": "/siˈment/",
+    "definition": "水泥;胶泥,胶接剂 v.胶合;巩固,加强",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cemetery",
+    "phonetic": "/ˈsemitəri/",
+    "definition": "坟墓,墓地,坟场",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "census",
+    "phonetic": "/ˈsensəs/",
+    "definition": "人口普查(调查)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cent",
+    "phonetic": "/sent/",
+    "definition": "分(币);百 per cent百分之",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "centigrade",
+    "phonetic": "/ˈsentiɡreid/",
+    "definition": "/a.摄氏温度计(的);百分度(的)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "centimetre",
+    "phonetic": "/ˈsenti,miːtə/",
+    "definition": "(centimeter)厘米",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "central",
+    "phonetic": "/ˈsentrəl/",
+    "definition": "中心的,中央的,中枢的;主要的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "centre",
+    "phonetic": "/ˈsentə/",
+    "definition": "中心,中央,中间 vt.集中 vi.以..为中心",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "century",
+    "phonetic": "/ˈsentʃuri/",
+    "definition": "世纪,(一)百年",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cereal",
+    "phonetic": "/ˈsiəriəl/",
+    "definition": "加工而成的谷类食物;谷类植物,谷物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ceremony",
+    "phonetic": "/ˈseriməuni/",
+    "definition": "典礼,仪式;礼节,礼仪",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "certain",
+    "phonetic": "/ˈsəːtən/",
+    "definition": "某,某一,某些;(of)一定的,确信的,可靠的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "certainly",
+    "phonetic": "/ˈsəːtənli/",
+    "definition": "一定,必定,无疑;当然,行",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "certainty",
+    "phonetic": "/ˈsəːtənti/",
+    "definition": "必然,肯定;必然的事",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "certificate",
+    "phonetic": "/səˈtifikeit/",
+    "definition": "证(明)书,执照",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "certify",
+    "phonetic": "/ˈsəːtifai/",
+    "definition": "证明,证实;发证书(或执照)给",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chain",
+    "phonetic": "/tʃein/",
+    "definition": "链(条);(pl.)镣铐;一连串 v.用链条拴住",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chair",
+    "phonetic": "/tʃεə/",
+    "definition": "椅子;(会议的)主席 vt.当…的主席,主持",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chairman",
+    "phonetic": "/ˈtʃεəmən/",
+    "definition": "主席,议长,会长,董事长",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chalk",
+    "phonetic": "/tʃɔːk/",
+    "definition": "粉笔,白垩",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "challenge",
+    "phonetic": "/ˈtʃælindʒ/",
+    "definition": "挑战(书);艰巨任务,难题 v.向…挑战",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "chamber",
+    "phonetic": "/ˈtʃeimbə/",
+    "definition": "房间,室;会议室;议院;(动物体内)腔室",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "champagne",
+    "phonetic": "/ˌʃæmˈpein/",
+    "definition": "香槟酒;微黄色",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "champion",
+    "phonetic": "/ˈtʃæmpiən/",
+    "definition": "冠军,得胜者;拥护者,斗士",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chance",
+    "phonetic": "/tʃɑːns, tʃæns/",
+    "definition": "机会;可能性;偶然性,运气v.碰巧,偶然发生",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chancellor",
+    "phonetic": "",
+    "definition": "(英)大臣;法官;(德、奥)总理;大学校长",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "change",
+    "phonetic": "/tʃeindʒ/",
+    "definition": "改变,变化;零钱 v.更换,调换,交换;改变",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "channel",
+    "phonetic": "/ˈtʃænəl/",
+    "definition": "海峡,水道;信道,波道;路线,途径",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chaos",
+    "phonetic": "/ˈkeiɔs/",
+    "definition": "混乱,紊乱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chap",
+    "phonetic": "/tʃæp/",
+    "definition": "/v.(皮肤)变粗糙;发痛;n.小伙子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "chapter",
+    "phonetic": "/ˈtʃæptə/",
+    "definition": "章;回,篇",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "character",
+    "phonetic": "/ˈkærəktə/",
+    "definition": "性格,品质,特性;人物,角色;字符,(汉)字",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "characteristic",
+    "phonetic": "/ˌkærəktəˈristik/",
+    "definition": "(of)特有的,独特的 n.特征,特性",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "characterize",
+    "phonetic": "/ˈkærəktəraiz/",
+    "definition": "(characterise)表示…的特性;描述…特性",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "charge",
+    "phonetic": "/tʃɑːdʒ/",
+    "definition": "索(价);控告;充电 n.(pl.)费用,代价;电荷",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "charity",
+    "phonetic": "/ˈtʃærəti/",
+    "definition": "慈善(团体),仁慈,施舍",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "charm",
+    "phonetic": "/tʃɑːm/",
+    "definition": "吸引力,魅力 v.迷人,(使)陶醉;施魔法于",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chart",
+    "phonetic": "/tʃɑːt/",
+    "definition": "图表;航海图;航行图 vt.绘图表,制图表",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "charter",
+    "phonetic": "/ˈtʃɑˈtə/",
+    "definition": "租船,租车,租用飞机;n.宪章,特许状",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chase",
+    "phonetic": "/tʃeis/",
+    "definition": "/n.追逐,追求",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chat",
+    "phonetic": "/tʃæt/",
+    "definition": "/n.闲谈,聊天",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cheap",
+    "phonetic": "/tʃiːp/",
+    "definition": "便宜的;低劣的,不值钱的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cheat",
+    "phonetic": "/tʃiːt/",
+    "definition": "欺骗;作弊 n.骗子;欺诈,欺骗行为",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cheek",
+    "phonetic": "/tʃiːk/",
+    "definition": "面颊,脸",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cheer",
+    "phonetic": "/tʃiə/",
+    "definition": "(使)振奋,(使)高兴 v./n.喝彩,欢呼",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cheese",
+    "phonetic": "/tʃiːz/",
+    "definition": "干酪,乳酪",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chef",
+    "phonetic": "/ʃef/",
+    "definition": "(餐馆等的)厨师长,厨师",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "chemical",
+    "phonetic": "/ˈkemikəl/",
+    "definition": "化学的 n.(pl.)化学制品,化学药品",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chemist",
+    "phonetic": "/ˈkemist/",
+    "definition": "化学家;药剂师",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chemistry",
+    "phonetic": "/ˈkemistri/",
+    "definition": "化学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "cheque",
+    "phonetic": "/tʃek/",
+    "definition": "(check)支票,空白支票;总收入",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cherish",
+    "phonetic": "/ˈtʃeriʃ/",
+    "definition": "抱有,怀有(希望等);爱护,抚育;珍爱",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cherry",
+    "phonetic": "/ˈtʃeri/",
+    "definition": "樱桃(树)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chess",
+    "phonetic": "/tʃes/",
+    "definition": "棋,国际象棋",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chest",
+    "phonetic": "/tʃest/",
+    "definition": "胸腔,胸膛;箱,柜",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chew",
+    "phonetic": "/tʃuː/",
+    "definition": "咀嚼;思量",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "chicken",
+    "phonetic": "/ˈtʃikin/",
+    "definition": "鸡肉;鸡,小鸡,小鸟",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chief",
+    "phonetic": "/tʃiːf/",
+    "definition": "主要的,首要的 n.首领,领袖",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "child",
+    "phonetic": "/tʃaild/",
+    "definition": "( [pl.] children)小孩,儿童,儿女",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "childhood",
+    "phonetic": "/ˈtʃaildhud/",
+    "definition": "幼年,童年",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "chill",
+    "phonetic": "/tʃil/",
+    "definition": "寒冷,寒气,寒战 v.使寒冷",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chimney",
+    "phonetic": "/ˈtʃimni/",
+    "definition": "烟囱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chin",
+    "phonetic": "/tʃin/",
+    "definition": "下巴,颏",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "china",
+    "phonetic": "",
+    "definition": "瓷器",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chip",
+    "phonetic": "/tʃip/",
+    "definition": "切屑,碎片;(土豆等的)薄片;集成电路块",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "chocolate",
+    "phonetic": "/ˈtʃɔkəlit/",
+    "definition": "巧克力(糖),赭色",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "choice",
+    "phonetic": "/tʃɔis/",
+    "definition": "选择(机会),抉择,选择项;入选者 a.精选的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "choke",
+    "phonetic": "/tʃəuk/",
+    "definition": "窒息,噎住;闷塞,堵塞,阻塞",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "choose",
+    "phonetic": "/tʃuːz/",
+    "definition": "选择,挑选;甘愿",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chop",
+    "phonetic": "/tʃɔp/",
+    "definition": "砍,劈,斩 n.排骨,肉块",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "chorus",
+    "phonetic": "/ˈkɔːrəs/",
+    "definition": "合唱队;合唱 v.异口同声地说,随声附和",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "christ",
+    "phonetic": "",
+    "definition": "基督,救世主,耶稣",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  }
+]

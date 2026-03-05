@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "supreme",
+    "phonetic": "/sju:'pri:m/",
+    "definition": "至高,霸权a. 至高的,终极的,极端的,最大的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "surmise",
+    "phonetic": "/sə:maiz/",
+    "definition": "推测,猜测vt. vi. 推测,臆测",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "surmount",
+    "phonetic": "/sə:'maunt/",
+    "definition": "战胜,超越,克服",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "surpass",
+    "phonetic": "/sə:'pa:s/",
+    "definition": "超越,凌驾,胜过",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "surplus",
+    "phonetic": "/'sə:pləs/",
+    "definition": "剩余,过剩,盈余a. 过剩的,剩余的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "survey",
+    "phonetic": "/sə:'vei/",
+    "definition": "纵览,视察,测量,概观,调查,俯瞰vt. 审视,视察,俯瞰,通盘考虑vi.",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "survive",
+    "phonetic": "/sə'vaiv/",
+    "definition": "生存,生还,幸免于vi. 活下来,幸存",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "susceptible",
+    "phonetic": "/sə'septəbl/",
+    "definition": "易受影响的,易感动的,容许. . . 的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "suspect",
+    "phonetic": "/səs'pekt,'sʌspekt/",
+    "definition": "嫌疑犯a. 令人怀疑的,不可信的,可疑的vt. vi. 怀疑,猜想",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "suspicious",
+    "phonetic": "/səs'piʃəs/",
+    "definition": "可疑的,疑惧的,怀疑的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sustain",
+    "phonetic": "/səs'tein/",
+    "definition": "承受,支持,支撑,供养,继续,忍受,准许,证实,蒙受",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sustenance",
+    "phonetic": "/'sʌstənəns/",
+    "definition": "生计,食物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "swarm",
+    "phonetic": "/swɔ:m/",
+    "definition": "群,大群,蜂群vi. 群集,聚集一块,云集,爬树vt. 挤满,爬(树)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "swell",
+    "phonetic": "/swel/",
+    "definition": "增大,隆起的部分,巨浪,肿大a. 优秀的,一流的vi. 增大,膨胀,骄傲,",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "swift",
+    "phonetic": "/swift/",
+    "definition": "雨燕,大滚筒a. 迅速的,快的,敏捷的,立刻的ad. 迅速地,敏捷地",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "symbol",
+    "phonetic": "/'simbəl/",
+    "definition": "符号,象征,代号,信条",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "symmetry",
+    "phonetic": "/'simitri/",
+    "definition": "对称,调和,匀称",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sympathetic",
+    "phonetic": "/'simpə'θetik/",
+    "definition": "有同情心的,合意的,赞成的n. 交感神经,容易感受的人",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "symptom",
+    "phonetic": "/'simptəm/",
+    "definition": "症状,征候,征兆",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "synchronize",
+    "phonetic": "/'siŋkrə'naiz/",
+    "definition": "使同步,使合拍vi. 同时发生",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "synopsis",
+    "phonetic": "/si'nɔpsis/",
+    "definition": "概要,摘要,大意",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "synthetic",
+    "phonetic": "/sin'θetik/",
+    "definition": "合成物质a. 综合性的,人造的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "taboo",
+    "phonetic": "/tə'bu:/",
+    "definition": "禁忌,禁止接近,禁止使用a. 禁忌的,忌讳的vt. 禁忌,禁制,禁止",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tacit",
+    "phonetic": "/'tæsit/",
+    "definition": "沉默寡言的,心照不宣的,缄默的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tackle",
+    "phonetic": "/'tækl/",
+    "definition": "工具,复滑车,扭倒,装备,滑车vt. 固定,处理,抓住vi. 扭倒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tactics",
+    "phonetic": "/'tæktiks/",
+    "definition": "用兵学,战术,兵法",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "tag",
+    "phonetic": "/tæg/",
+    "definition": "标签,附属物,名称,碎片,结束语,口头禅,陈词滥调,附加语,浑名, 标记",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "talent",
+    "phonetic": "/'tælənt/",
+    "definition": "才能,有才干的人,天才,天资",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tally",
+    "phonetic": "/'tæli/",
+    "definition": "符木,记账,得分,比分,计数器,对应物,符合,标签vt. 点数,计算,使符",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tamper",
+    "phonetic": "/'tæmpə/",
+    "definition": "干预,玩弄,贿赂,窜改,削弱,损害vt. 窜改n. 捣棒,夯,填塞者",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tangible",
+    "phonetic": "/tændʒəbl/",
+    "definition": "有形资产a. 实体的,明白的,有形的,明确的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "tangle",
+    "phonetic": "/'tæŋgl/",
+    "definition": "缠结,纠缠,混乱,纠纷vt. 使缠结,使纠缠vi. 缠结,被纠缠",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tantalize",
+    "phonetic": "/'tæntl'aiz/",
+    "definition": "逗弄,使干着急",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "tardy",
+    "phonetic": "/'ta:di/",
+    "definition": "慢的,迟钝的,迟到的,迟的,拖拉的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tarnish",
+    "phonetic": "/'tɑ:niʃ/",
+    "definition": "晦暗,玷污,污点vt. 使失去光泽,玷污vi. 失去光泽,被玷污",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "taste",
+    "phonetic": "/teist/",
+    "definition": "味道,品味,味觉,感受,体验,爱好,审美,少量,得体,大方vt. 尝,体会,",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "taunt",
+    "phonetic": "/tɔ:nt/",
+    "definition": "辱骂,嘲弄vt. 嘲弄,奚落a. 很高的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tease",
+    "phonetic": "/ti:z/",
+    "definition": "揶揄者,戏弄vt. 欺负,嘲弄,取笑,使起毛,梳理,强求",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tedious",
+    "phonetic": "/'ti:diəs/",
+    "definition": "沉闷的,冗长乏味的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "teem",
+    "phonetic": "/ti:m/",
+    "definition": "充满,富于,涌现,倾注vt. 倒出",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "temperament",
+    "phonetic": "/'tempərəmənt/",
+    "definition": "气质,性质,性情",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "temperance",
+    "phonetic": "/'tempərəns/",
+    "definition": "温暖的,温和的,有节制的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "temperate",
+    "phonetic": "/'tempərit/",
+    "definition": "温和的,适度的,有节制的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "temperature",
+    "phonetic": "/'tempəritʃə/",
+    "definition": "温度,发烧,热度",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "temporal",
+    "phonetic": "/'tempərəl/",
+    "definition": "当时的,暂时的,太阳穴的,世俗的,现世的n. 世间万物,教会财产",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "temporary",
+    "phonetic": "/'tempərəri/",
+    "definition": "暂时的,临时的n. 临时工n. 临时",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "tempt",
+    "phonetic": "/tempt/",
+    "definition": "诱惑,引诱,冒. . . 风险,吸引",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tenacious",
+    "phonetic": "/ti'neiʃəs/",
+    "definition": "紧粘不放的,固执的,紧握的,不屈不挠的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "tenant",
+    "phonetic": "/'tenənt/",
+    "definition": "承租人,房客,不动产占有人,居住者vt. 租借",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tendency",
+    "phonetic": "/'tendənsi/",
+    "definition": "趋向,倾向",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "tender",
+    "phonetic": "/'tendə/",
+    "definition": "嫩的,柔软的,脆弱的,温柔的,亲切的,未成熟的,担心的,棘手的,微妙的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tense",
+    "phonetic": "/tens/",
+    "definition": "紧张的,拉紧的vt. vi. (使)紧张,(使)拉紧n. 时态",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tentative",
+    "phonetic": "/'tentətiv/",
+    "definition": "试验,假设a. 试验性质的,暂时的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "tenuous",
+    "phonetic": "/'tenjuəs/",
+    "definition": "稀薄的,微细的,纤细的,脆弱的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "tepid",
+    "phonetic": "/'tepid/",
+    "definition": "微温的,温热的,不太热心的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "terminate",
+    "phonetic": "/'tə:mineit/",
+    "definition": "有结尾的,有限的vi. 结束,终止,满期vt. 使停止,使结束,使终止",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "terrify",
+    "phonetic": "/'terifai/",
+    "definition": "使恐怖,恐吓",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "terror",
+    "phonetic": "/'terə/",
+    "definition": "恐怖,可怕的人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "testify",
+    "phonetic": "/'testifai/",
+    "definition": "vi. 证明,作证,声明,表明",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "testimony",
+    "phonetic": "/'testiməni/",
+    "definition": "证言,证据,声明",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "textile",
+    "phonetic": "/'tekstail/",
+    "definition": "纺织品,织物a. 织的,可织的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "thaw",
+    "phonetic": "/θɔ:/",
+    "definition": "融雪,融化,温暖气候vt. 使融解,使缓和vi. 融化,解冻",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "theft",
+    "phonetic": "/θeft/",
+    "definition": "盗窃,盗窃罪,赃物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "theoretical",
+    "phonetic": "/θiə'retikl/",
+    "definition": "1 a. 理论 (上) 的,学理的,纯理论性的b. 理论上的,只有理论的,",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "thermometer",
+    "phonetic": "/θə'mɔmitə/",
+    "definition": "温度计,体温计",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "thesis",
+    "phonetic": "/'θi:sis/",
+    "definition": "论题,论文",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "threaten",
+    "phonetic": "/'θretn/",
+    "definition": "恐吓,威胁,预示. . . 的凶兆vi. 威胁,恫吓,可能来临",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "threshold",
+    "phonetic": "/'θreʃhəuld/",
+    "definition": "门槛,入口,开端,阈",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "thrift",
+    "phonetic": "/θrift/",
+    "definition": "节约,繁荣",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "thrive",
+    "phonetic": "/θraiv/",
+    "definition": "繁荣,兴旺,茁壮成长",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "throng",
+    "phonetic": "/θrɔŋ/",
+    "definition": "群,人群,群集,众多a. 拥挤的,忙的vi. 群集,蜂拥vt. 挤入,挤满",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "thrust",
+    "phonetic": "/θrʌst/",
+    "definition": "插,戳,刺,推力,口头攻击vt. 插入,猛推,刺,戳,延伸,强加,突然提出vi",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "thump",
+    "phonetic": "/θʌmp/",
+    "definition": "重打,重击声vt. vi. 重打,砰地撞到,用拳头打",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tide",
+    "phonetic": "/taid/",
+    "definition": "潮,潮汐,趋势,高潮,涨潮,潮流vt. 使随潮漂流vi. 顺潮行驶",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tilted",
+    "phonetic": "/tiltid/",
+    "definition": "倾斜的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "timber",
+    "phonetic": "/'timbə/",
+    "definition": "木材,木料vt. 用木材建造",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tingle",
+    "phonetic": "/'tiŋgl/",
+    "definition": "兴奋,激动,感到刺痛,抖动vt. 使感刺痛n. 刺痛,震颤,耳鸣",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tint",
+    "phonetic": "/tint/",
+    "definition": "色彩,浅色vt. 染色于",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tiny",
+    "phonetic": "/'taini/",
+    "definition": "很少的,微小的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tip",
+    "phonetic": "/tip/",
+    "definition": "顶,尖端,梢,末端,倾斜,垃圾场,小费,秘密消息vt. 装顶端,使倾斜,使",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tissue",
+    "phonetic": "/'tisju:/",
+    "definition": "薄的纱织品,薄纸,连篇,组织,棉纸",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "titanic",
+    "phonetic": "/tai'tænik/",
+    "definition": "四价钛的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "toe",
+    "phonetic": "/təu/",
+    "definition": "足趾,趾部,脚趾vt. 以趾踏触,用脚尖走vi. 动脚尖",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tolerable",
+    "phonetic": "/'tɔlərəbl/",
+    "definition": "可容忍的,可以的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "tolerate",
+    "phonetic": "/'tɔləreit/",
+    "definition": "宽容,默认,有耐力",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "toll",
+    "phonetic": "/təul/",
+    "definition": "通行费,代价,钟声vt. 征收,敲钟,引诱,勾引,鸣钟vi. 征税,鸣钟",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "torment",
+    "phonetic": "/'tɔ:ment,tɔ:'ment/",
+    "definition": "苦痛,拷问vt. 使苦恼,搅动,歪曲,拷问",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "torpid",
+    "phonetic": "/'tɔ:pid/",
+    "definition": "麻痹的,迟缓的,迟钝的,蛰伏的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "torturous",
+    "phonetic": "/'tɔ:tʃərəs/",
+    "definition": "拷问的,痛苦的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "touching",
+    "phonetic": "/'tʌtʃiŋ/",
+    "definition": "触摸a. 动人的,悲惨的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "touchy",
+    "phonetic": "/'tʌtʃi/",
+    "definition": "易怒的,难以取悦的,过敏的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tow",
+    "phonetic": "/təu/",
+    "definition": "拖,拖曳所用之绳,麻的粗纤维vt. 拖,曳,牵引",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tower",
+    "phonetic": "/'tauə/",
+    "definition": "塔,高楼,堡垒vi. 高耸,翱翔",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "trace",
+    "phonetic": "/treis/",
+    "definition": "痕迹,踪迹,缰绳,迹线vt. 追踪,回溯,描绘vi. 上溯,沿路走",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tractable",
+    "phonetic": "/'træktəbl/",
+    "definition": "易于管教的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "tragedy",
+    "phonetic": "/'trædʒidi/",
+    "definition": "悲剧,惨案,悲惨",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "trait",
+    "phonetic": "/treit/",
+    "definition": "特色,品质,少许,一笔,特性",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "traitor",
+    "phonetic": "/'treitə/",
+    "definition": "叛逆者,叛国者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "trample",
+    "phonetic": "/'træmpl/",
+    "definition": "踩踏,蹂躏vt. vi. 践踏,轻视",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "tranquil",
+    "phonetic": "/'træŋkwil/",
+    "definition": "安静的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "transact",
+    "phonetic": "/træn'zækt/",
+    "definition": "办理,处理,执行vi. 作交易,谈判",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "transaction",
+    "phonetic": "/træn'zækʃən/",
+    "definition": "交易,办理,执行,和解,学报,报告书",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "transcend",
+    "phonetic": "/træn'send/",
+    "definition": "超越,胜过",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "transfix",
+    "phonetic": "/træns'fiks/",
+    "definition": "刺穿,使呆住",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "transform",
+    "phonetic": "/træns'fɔ:m/",
+    "definition": "转换,改变,改造,使. . . 变形vi. 改变,转化,变换",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "transient",
+    "phonetic": "/'trænziənt/",
+    "definition": "暂态,短期居留者,侯鸟,瞬变值a. 短暂的,易变的,瞬变的,路过的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "transition",
+    "phonetic": "/træn'siʃən/",
+    "definition": "转变,转换,变调,过渡时期,跃迁",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "transitory",
+    "phonetic": "/'trænsitəri/",
+    "definition": "暂时的,短暂的,昙花一现的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "transparent",
+    "phonetic": "/træns'pεərənt/",
+    "definition": "透明的,显然的,明晰的n. 透明",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "transpire",
+    "phonetic": "/træns'paiə/",
+    "definition": "使蒸发,使排出vi. 蒸发,发散,泄露",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "trap",
+    "phonetic": "/træp/",
+    "definition": "圈套,陷阱,诡计,存水弯vi. 设圈套,设陷阱vt. 诱捕,诱骗,抓住,使",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "trash",
+    "phonetic": "/træʃ/",
+    "definition": "垃圾,废物vt. 废弃",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "traverse",
+    "phonetic": "/'trævə:s/",
+    "definition": "横贯,横木,反驳,否认vt. 横过,穿过,经过,在. . . 来回移动,反对vi",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "treason",
+    "phonetic": "/'tri:zn/",
+    "definition": "(U) (对国家、君主) 叛逆 (罪)",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "treatment",
+    "phonetic": "/'tri:tmənt/",
+    "definition": "治疗,待遇,处置",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "tremble",
+    "phonetic": "/'trembl/",
+    "definition": "战栗,颤抖vi. 战栗,忧虑,微动",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "tremendous",
+    "phonetic": "/tri'mendəs/",
+    "definition": "巨大的,非常的,可怕的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "tremor",
+    "phonetic": "/'tremə/",
+    "definition": "震动,颤动",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "trend",
+    "phonetic": "/trend/",
+    "definition": "趋势,倾向,方位vi. 倾向,转向n. 趋势",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "trepidation",
+    "phonetic": "/trepi'deiʃən/",
+    "definition": "恐惧,惊惶,忧虑",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "trial",
+    "phonetic": "/'traiəl/",
+    "definition": "审判,试验,考验,麻烦事a. 尝试的,试验性的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "triangle",
+    "phonetic": "/'traiængl/",
+    "definition": "三角形,三人一组,三角关系",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "trickle",
+    "phonetic": "/'trikl/",
+    "definition": "滴,细流vi. 滴流,细细地流vt. 使滴,使细流",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "trifling",
+    "phonetic": "/'traifliŋ/",
+    "definition": "些许的,不足道的,不足取的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "triumph",
+    "phonetic": "/'traiəmf/",
+    "definition": "凯旋,胜利,欢欣vi. 得胜,成功",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "trivial",
+    "phonetic": "/'triviəl/",
+    "definition": "琐细的,日常的,轻微的,平常的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "trot",
+    "phonetic": "/trɔt/",
+    "definition": "快步vi. 快步走,小跑步走vt. 使小跑",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "trudge",
+    "phonetic": "/trʌdʒ/",
+    "definition": "沉重的步伐,长途跋涉vi. 沉重地走,蹒跚地走vt. 跋涉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "trying",
+    "phonetic": "/'traiiŋ/",
+    "definition": "难受的,费劲的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tug",
+    "phonetic": "/tʌg/",
+    "definition": "用力拉,拖船,绳索,挣扎,苦干vi. vt. 用力拉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "turmoil",
+    "phonetic": "/'tə:mɔil/",
+    "definition": "骚动,混乱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "twig",
+    "phonetic": "/twig/",
+    "definition": "小枝,末梢vt. vi. 注意,了解",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "typical",
+    "phonetic": "/'tipikəl/",
+    "definition": "典型的,象征性的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ultimate",
+    "phonetic": "/'ʌltimit/",
+    "definition": "终极,根本,顶点,基本原理a. 终极的,根本的,极限的,最大的,最后的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unanimity",
+    "phonetic": "/junə'niməti/",
+    "definition": "无异议,同意,一致",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unanimous",
+    "phonetic": "/juæ:ɔ'næniməs/",
+    "definition": "意见一致的,无异议的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unbecoming",
+    "phonetic": "/ʌnbi'kʌmiŋ/",
+    "definition": "不适合的,不得体的,不相配的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unbiased",
+    "phonetic": "/ʌn'baiəst/",
+    "definition": "没有偏见的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unblemished",
+    "phonetic": "/ʌn'blemiʃt/",
+    "definition": "无瑕疵的,无缺点的,无污点的,清白的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "uncanny",
+    "phonetic": "/ʌn'kæni/",
+    "definition": "怪诞的,可怕的,离奇的,神秘的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unconscious",
+    "phonetic": "/ʌn'kɔʃəs/",
+    "definition": "无意识的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unconventional",
+    "phonetic": "/ʌnkən'venʃənl/",
+    "definition": "非传统的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "undaunted",
+    "phonetic": "/ʌn'dɔ:ntid/",
+    "definition": "大无畏的,勇敢的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "underestimate",
+    "phonetic": "/'ʌndər'estimeit/",
+    "definition": "低估vt. 低估,看轻",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "undertaking",
+    "phonetic": "/'ʌndə'teikiŋ/",
+    "definition": "事业,企业,保证",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "undo",
+    "phonetic": "/'ʌn'du:/",
+    "definition": "解开,打开,取消,扰乱,毁灭,破坏vi. 松开v. 撤消",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "unearth",
+    "phonetic": "/ʌn'ə:θ/",
+    "definition": "发掘,掘出,发现,揭露,从洞中赶出",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unfair",
+    "phonetic": "/'ʌn'fεə/",
+    "definition": "不公平的,不正直的,不正当的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "unfortunately",
+    "phonetic": "/ʌn'fɔ:tʃənətli/",
+    "definition": "1 (无比较级、最高级)[修饰整句]不幸地,倒楣地,不巧地,遗憾地2",
+    "partOfSpeech": "adv.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "unique",
+    "phonetic": "/ju:'ni:k/",
+    "definition": "独一无二的,独特的,蟍钡?",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "universal",
+    "phonetic": "/'ju:ni'və:səl/",
+    "definition": "全世界的,普遍的,,通用的n. 一般概念",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "universe",
+    "phonetic": "/'ju:nivə:s/",
+    "definition": "宇宙,星系,思想等范围",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unruly",
+    "phonetic": "/ʌn'ru:li/",
+    "definition": "难控制的,无法无天的,任性的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "unseemly",
+    "phonetic": "/ʌn'si:mli/",
+    "definition": "不体面的,不相配的,不好看的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unshaken",
+    "phonetic": "/ʌn'ʃeikən/",
+    "definition": "坚决的,不动摇的,泰然自若的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unveil",
+    "phonetic": "/ʌn'veil/",
+    "definition": "揭开,揭幕,除去. . . 的面纱vi. 显露,除去面纱",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "uphold",
+    "phonetic": "/ʌp'həuld/",
+    "definition": "支撑,赞成,坚持,举起,鼓励",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "upright",
+    "phonetic": "/'ʌprait/",
+    "definition": "正直的,诚实的,竖式的,垂直的,合乎正道的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "uprising",
+    "phonetic": "/ʌp'raiziŋ/",
+    "definition": "起义,升起",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "uproar",
+    "phonetic": "/'ʌprɔ:/",
+    "definition": "喧嚣,骚动",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "upset",
+    "phonetic": "/ʌp'set/",
+    "definition": "烦乱的,不高兴vt. 颠覆,推翻,使心烦,使不适,扰乱vi. 翻倒",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "urban",
+    "phonetic": "/'ə:bən/",
+    "definition": "都市的,住在都市的,习惯于都市的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "urge",
+    "phonetic": "/ə:dʒ/",
+    "definition": "冲动,推动力,迫切的要求vt. 驱策,力劝,力陈,推动vi. 强烈要求",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "urgent",
+    "phonetic": "/'ə:dʒənt/",
+    "definition": "紧急的,急切的,催促的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "useless",
+    "phonetic": "/'ju:zlis/",
+    "definition": "无用的,无效的,无益的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "utility",
+    "phonetic": "/ju:'tiliti/",
+    "definition": "公用程序,实用品,实用,公用事业a. 实用的,有多种用途的n. 实用程",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "utilize",
+    "phonetic": "/'ju:tilaiz/",
+    "definition": "利用",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vacant",
+    "phonetic": "/'veikənt/",
+    "definition": "空的,空白的,空灵的,空缺的,茫然的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vacuum",
+    "phonetic": "/'vækjuəm/",
+    "definition": "真空,空间,真空吸尘器a. 真空的,产生真空的,利用真空的vt. 用吸",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vague",
+    "phonetic": "/veig/",
+    "definition": "含糊的,不清楚的,茫然的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "valiant",
+    "phonetic": "/'væljənt/",
+    "definition": "英勇的n. 勇敢的人",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "valid",
+    "phonetic": "/'vælid/",
+    "definition": "有确实根据的,有效的,正当的,正确的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "valor",
+    "phonetic": "/'vælə/",
+    "definition": "英勇,刚勇,勇猛",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vanish",
+    "phonetic": "/'væniʃ/",
+    "definition": "消失,不见,成为零",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vanity",
+    "phonetic": "/'væniti/",
+    "definition": "虚荣心,虚无,手袋,空虚,自负",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vanquish",
+    "phonetic": "/'væŋkwiʃ/",
+    "definition": "打败,征服,克服",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "variable",
+    "phonetic": "/'vεəriəbl/",
+    "definition": "变数,可变物a. 可变的,不定的,易变的,变量的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "variant",
+    "phonetic": "/'vεəriənt/",
+    "definition": "变体,异体a. 不同的,差别的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "variation",
+    "phonetic": "/'vεəri'eiʃən/",
+    "definition": "变更,变化,变种,变奏",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "various",
+    "phonetic": "/'vεəriəs/",
+    "definition": "不同的,各种的,多方面的,杂色的,个别的,许多的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "varnish",
+    "phonetic": "/'va:niʃ/",
+    "definition": "油漆,清漆,掩饰,光泽面vt. 粉饰,涂油漆于,装饰,使有光泽",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vary",
+    "phonetic": "/'vεəri/",
+    "definition": "改变,使多样化vi. 变化,不同,违反",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "vast",
+    "phonetic": "/va:st/",
+    "definition": "巨大的,广大的,非常的,大量的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "vault",
+    "phonetic": "/vɔ:lt/",
+    "definition": "窖,地下室,撑竿跳,圆顶vt. 做成圆拱形,撑竿跳跃vi. 成穹状弯曲,",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vehemence",
+    "phonetic": "/'vi:iməns/",
+    "definition": "热烈,激烈",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "vehement",
+    "phonetic": "/'vi:imənt/",
+    "definition": "热烈的,激烈的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vein",
+    "phonetic": "/vein/",
+    "definition": "血管,静脉,情绪,性情,纹理vt. 使成脉络,象脉络般分布于",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "venerate",
+    "phonetic": "/'venəreit/",
+    "definition": "尊敬,崇敬,崇拜",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ventilation",
+    "phonetic": "/'venti'leiʃən/",
+    "definition": "通风,空气流通,公开讨论",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "venture",
+    "phonetic": "/'ventʃə/",
+    "definition": "冒险,风险vt. 敢于,冒. . . 的危险vi. 冒险",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "verdict",
+    "phonetic": "/'və:dikt/",
+    "definition": "裁决,判决,结论,定论,判断",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "verify",
+    "phonetic": "/'verifai/",
+    "definition": "查证,证实,检验v. 校验,检验",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "versatile",
+    "phonetic": "/'və:sətail/",
+    "definition": "多才多艺的,万用的,万向的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "verse",
+    "phonetic": "/və:s/",
+    "definition": "诗,韵文,诗句vt. 用诗表达vi. 作诗",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "version",
+    "phonetic": "/'və:ʃən/",
+    "definition": "版本,翻译",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vertical",
+    "phonetic": "/'və:tikəl/",
+    "definition": "垂直的,直立的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vestige",
+    "phonetic": "/'vestidʒ/",
+    "definition": "遗迹,痕迹,退化的器官,丝毫,残余",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "veteran",
+    "phonetic": "/'vetərən/",
+    "definition": "老手,退伍军人,老兵,老树a. 老兵的,老练的,经验丰富的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "veto",
+    "phonetic": "/'vi:təu/",
+    "definition": "否决权vt. 否决,禁止",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "vex",
+    "phonetic": "/veks/",
+    "definition": "使烦恼,恼怒",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  }
+]

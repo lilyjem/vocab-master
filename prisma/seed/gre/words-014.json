@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "obtuse",
+    "phonetic": "/əbˈtjuːs/",
+    "definition": "愚笨的；迟钝的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "obverse",
+    "phonetic": "/ˈɔbvəːs/",
+    "definition": "/a. 正面（的）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "obviate",
+    "phonetic": "/ˈɔbvieit/",
+    "definition": "排除（困难）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "occidental",
+    "phonetic": "/ɔksiˈdəntəl/",
+    "definition": "/a. 西方（的）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "occlude",
+    "phonetic": "/ɔˈkluːd/",
+    "definition": "使闭塞",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "occult",
+    "phonetic": "/ɔˈkʌlt/",
+    "definition": "秘密的，不公开的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "octogenarian",
+    "phonetic": "/ˌɔktəudʒiˈneəriən/",
+    "definition": "80到89岁的老人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "ocular",
+    "phonetic": "/ˈɔkjulə/",
+    "definition": "眼睛的；视觉的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "oddments",
+    "phonetic": "/ˈɔdmənts/",
+    "definition": "残余物，零头",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ode",
+    "phonetic": "/əud/",
+    "definition": "长诗，颂歌",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "odious",
+    "phonetic": "/ˈəudjəs/",
+    "definition": "可憎的，讨厌的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "odium",
+    "phonetic": "/ˈəudiəm/",
+    "definition": "憎恶，反感",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "odometer",
+    "phonetic": "/ɔˈdɔmitə/",
+    "definition": "（汽车）里程表",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "odoriferous",
+    "phonetic": "/ˌəudəˈrifərəs/",
+    "definition": "有气味的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "odyssey",
+    "phonetic": "/ˈɔdisi/",
+    "definition": "长途的冒险旅行",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "off-key",
+    "phonetic": "/ˈɔːfkiː/",
+    "definition": "走调的，不和谐的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "offbeat",
+    "phonetic": "/ɔfˈbiːt/",
+    "definition": "非传统的，不平常的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "officious",
+    "phonetic": "/əˈfiʃəs/",
+    "definition": "爱发命令的，好忠告的，好管闲事的；过度殷勤的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "offish",
+    "phonetic": "/ˈɔːfiʃ/",
+    "definition": "冷淡的，疏远的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "offstage",
+    "phonetic": "/ˈɔːfˈsteidʒ/",
+    "definition": "/a. 台后（的），幕后（的）",
+    "partOfSpeech": "adv.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ogle",
+    "phonetic": "/ˈəuɡl/",
+    "definition": "送秋波，色迷迷地看（女子）；n. 媚眼",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "ointment",
+    "phonetic": "/ˈɔintmənt/",
+    "definition": "油膏，软膏",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "oleaginous",
+    "phonetic": "/ˌəuliˈædʒinəs/",
+    "definition": "油腻的；圆滑的，满口恭维的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "olfaction",
+    "phonetic": "/ɔlˈfækʃən/",
+    "definition": "嗅觉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "oligarch",
+    "phonetic": "/ˈɔliɡɑːk/",
+    "definition": "寡头政治执政者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "oligarchy",
+    "phonetic": "/ˈɔliɡɑːki/",
+    "definition": "寡头统治（政府权力集中在少数人手里）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "omelet",
+    "phonetic": "/ˈɔmlit/",
+    "definition": "煎蛋卷",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ominous",
+    "phonetic": "/ˈɔminəs/",
+    "definition": "不祥的，不吉利的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "omnipotent",
+    "phonetic": "/ɔmˈnipətənt/",
+    "definition": "全能的，万能的；权利无限的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "omnipresent",
+    "phonetic": "/ɔmniˈprezənt/",
+    "definition": "无处不在的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "omniscient",
+    "phonetic": "/ɔmˈnisiənt/",
+    "definition": "无所不知的，博识的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "omnivorous",
+    "phonetic": "/ɔmˈnivərəs/",
+    "definition": "杂食的；兴趣杂的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "onerous",
+    "phonetic": "/ˈɔnərəs/",
+    "definition": "繁重的，麻烦的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "onus",
+    "phonetic": "/ˈəunəs/",
+    "definition": "义务，负担",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "opacity",
+    "phonetic": "/əuˈpæsiti/",
+    "definition": "不透明性；晦涩，难懂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "opalescence",
+    "phonetic": "/ˌəupəˈlesəns/",
+    "definition": "（不透明的）乳白光",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "operetta",
+    "phonetic": "/ˌɔpəˈretə/",
+    "definition": "小歌剧",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "opiate",
+    "phonetic": "/ˈəupiit/",
+    "definition": "安眠药，鸦片制剂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "opine",
+    "phonetic": "/əuˈpain/",
+    "definition": "想，以为",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "opinionated",
+    "phonetic": "/əˈpinjəneitid/",
+    "definition": "固执己见的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "opportune",
+    "phonetic": "/ˈɔpətjuːn/",
+    "definition": "合适的，适当的（尤指时机适时）",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "opprobrious",
+    "phonetic": "/əˈprəubriəs/",
+    "definition": "（言语）辱骂的，骂人的；可耻的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "optimization",
+    "phonetic": "/ˌɔptimaiˈzeiʃən/",
+    "definition": "最优化",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "opulent",
+    "phonetic": "/ˈɔpjulənt/",
+    "definition": "富裕的；充足的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "opus",
+    "phonetic": "/ˈəupəs, ˈɔpəs/",
+    "definition": "巨著；（尤指）音乐作品",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "oracular",
+    "phonetic": "/ɔˈrækjulə/",
+    "definition": "神谕的；意义模糊的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "oratorio",
+    "phonetic": "/ˌɔrəˈtɔriəu/",
+    "definition": "清唱剧（没有舞台行动、道具的戏剧）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "oratory",
+    "phonetic": "/ˈɔrətəri/",
+    "definition": "演讲术",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "orchard",
+    "phonetic": "/ˈɔːtʃəd/",
+    "definition": "果园",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ordain",
+    "phonetic": "/ɔːˈdein/",
+    "definition": "任命（神职）；颁发命令",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ordinance",
+    "phonetic": "/ˈɔːdinəns/",
+    "definition": "法令，条例",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ordnance",
+    "phonetic": "/ˈɔːdnəns/",
+    "definition": "大炮；军械，军用器材",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "orifice",
+    "phonetic": "/ˈɔrifis/",
+    "definition": "小开口，小孔",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ornate",
+    "phonetic": "/ɔːˈneit/",
+    "definition": "（贬）华美的；充满装饰的，重度装饰的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ornery",
+    "phonetic": "/ˈɔːnəri/",
+    "definition": "顽固的，爱争吵的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ornithologist",
+    "phonetic": "/ˌɔːniˈθɔlədʒist/",
+    "definition": "鸟类学家，鸟类学者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "ornithology",
+    "phonetic": "/ˌɔːniˈθɔlədʒi/",
+    "definition": "鸟类学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "orotund",
+    "phonetic": "/ˈɔ(ː)rəutʌnd/",
+    "definition": "（声音）洪亮的；夸张的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "orthodontics",
+    "phonetic": "/ˌɔːθəuˈdɔntiks/",
+    "definition": "畸齿矫正学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "oscillate",
+    "phonetic": "/ˈɔsileit/",
+    "definition": "摆动；（思想、想法、感情）摇摆不定",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "osmosis",
+    "phonetic": "/ɔzˈməusis/",
+    "definition": "渗透；（思想、观念）潜移默化",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "osseous",
+    "phonetic": "/ˈɔsiəs/",
+    "definition": "骨的，多骨的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ossify",
+    "phonetic": "/ˈɔsifai/",
+    "definition": "硬化，骨化；（贬）使（传统）僵化",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ostensible",
+    "phonetic": "/ɔsˈtensəbl/",
+    "definition": "表面上的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ostentation",
+    "phonetic": "/ˌɔstenˈteiʃən/",
+    "definition": "夸示，炫耀",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ostracism",
+    "phonetic": "/ˈɔstrəsizəm/",
+    "definition": "放逐，排斥（出某集团）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ostracize",
+    "phonetic": "/ˈɔstrəsaiz/",
+    "definition": "放逐，排斥（出某集团）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ostrich",
+    "phonetic": "/ˈɔstritʃ/",
+    "definition": "鸵鸟；不接受不利现实的人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "other-directed",
+    "phonetic": "/ˈʌðədiˈrektid/",
+    "definition": "受人支配的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "otiose",
+    "phonetic": "/ˈəuʃiəus/",
+    "definition": "不必要的，多余的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "otter",
+    "phonetic": "/ˈɔtə/",
+    "definition": "水獭",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "outfox",
+    "phonetic": "/autˈfɔks/",
+    "definition": "以机智胜过",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "outgrowth",
+    "phonetic": "/ˈautɡrəuθ/",
+    "definition": "自然结果；（某物上的）生长物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "outlandish",
+    "phonetic": "/autˈlændiʃ/",
+    "definition": "古怪的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "outmaneuver",
+    "phonetic": "/autməˈnuːvə(r)/",
+    "definition": "以策略制胜",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "outmoded",
+    "phonetic": "/autˈməudid/",
+    "definition": "不再流行的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "outshine",
+    "phonetic": "/autˈʃain/",
+    "definition": "比...更好，比...更出色",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "outstrip",
+    "phonetic": "/autˈstrip/",
+    "definition": "超过；（赛跑中）跑过，超过",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ovation",
+    "phonetic": "/əuˈveiʃən/",
+    "definition": "热烈的欢迎、鼓掌",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overdose",
+    "phonetic": "/ˈəuvədəus/",
+    "definition": "（药物）过大的剂量",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overexposure",
+    "phonetic": "/ˈəuvəriksˈpəuʒə/",
+    "definition": "过分暴露，（照相）暴光过度",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "overpowering",
+    "phonetic": "/əuvəˈpauriŋ/",
+    "definition": "压倒性的，不可抗拒的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "overreach",
+    "phonetic": "/ˌəuvəˈriːtʃ/",
+    "definition": "做事过头（而失败）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "overriding",
+    "phonetic": "/ˌəuvəˈraidiŋ/",
+    "definition": "最主要的，优先的，首要的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "overrule",
+    "phonetic": "/ˌəuvəˈruːl/",
+    "definition": "（高位的人）否决（低位的人或事）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overshadow",
+    "phonetic": "/ˌəuvəˈʃædəu/",
+    "definition": "遮蔽；使失色，使相形见绌",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "overture",
+    "phonetic": "/ˈəuvətjuə/",
+    "definition": "前奏曲，序曲",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overweening",
+    "phonetic": "/ˌəuvəˈwiːniŋ/",
+    "definition": "自负的，过于自信的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "overwrought",
+    "phonetic": "/ˈəuvəˈrɔːt/",
+    "definition": "紧张过度的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "oxidize",
+    "phonetic": "/ˈɔksiˌdaiz/",
+    "definition": "氧化，生锈",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pacifist",
+    "phonetic": "/ˈpæsifist/",
+    "definition": "和平主义者，反战主义者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "padding",
+    "phonetic": "/ˈpædiŋ/",
+    "definition": "衬垫，填料",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "paean",
+    "phonetic": "/ˈpiːən/",
+    "definition": "赞美歌，颂歌",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pagan",
+    "phonetic": "/ˈpeiɡən/",
+    "definition": "没有宗教信仰的人；异教徒（指不信犹太教、基督教、伊斯兰教恶人）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pageant",
+    "phonetic": "/ˈpædʒənt/",
+    "definition": "壮观的游行；露天历史剧",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "painkiller",
+    "phonetic": "/ˈpein,kilə(r)/",
+    "definition": "止痛药",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "palatial",
+    "phonetic": "/pəˈleiʃəl/",
+    "definition": "宫殿般的；宏伟的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "palaver",
+    "phonetic": "/pəˈlɑːvə/",
+    "definition": "/n. 空谈；奉承",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "paleolithic",
+    "phonetic": "/ˌpæliəuˈliθik/",
+    "definition": "旧石器时代的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "paleontology",
+    "phonetic": "/ˌpæliɔnˈtɔlədʒi/",
+    "definition": "古生物学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "palette",
+    "phonetic": "/ˈpælət/",
+    "definition": "调色板，颜料配置",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "palings",
+    "phonetic": "/ˈpeiliŋz/",
+    "definition": "篱笆，木栅栏",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pall",
+    "phonetic": "/pɔːl/",
+    "definition": "（因过多或过久而）令人发腻，失去吸引力",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "palliate",
+    "phonetic": "/ˈpælieit/",
+    "definition": "减轻（痛苦）；掩饰（罪行）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "palliative",
+    "phonetic": "/ˈpæliətiv/",
+    "definition": "缓释剂；a. 减轻的，缓和的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "pallid",
+    "phonetic": "/ˈpælid/",
+    "definition": "苍白的，没血色的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "palmy",
+    "phonetic": "/ˈpaːmi/",
+    "definition": "繁荣的；棕榈的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "palpable",
+    "phonetic": "/ˈpælpəbl/",
+    "definition": "可触知的；明显的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "palpitate",
+    "phonetic": "/ˈpælpiteit/",
+    "definition": "（心脏）急速而不规则地跳动",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "palter",
+    "phonetic": "/ˈpɔːltə/",
+    "definition": "含糊其词，说模棱两可的话，敷衍",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "paltry",
+    "phonetic": "/ˈpɔːltri/",
+    "definition": "无价值的，微不足道的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pamper",
+    "phonetic": "/ˈpæmpə/",
+    "definition": "纵容，过分关怀",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "panache",
+    "phonetic": "/pəˈnæʃ/",
+    "definition": "羽饰；炫耀",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pandemic",
+    "phonetic": "/pænˈdemik/",
+    "definition": "（病）大范围流行的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pandemonium",
+    "phonetic": "/ˌpændiˈməunjəm/",
+    "definition": "喧嚣，大混乱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "pander",
+    "phonetic": "/ˈpændə/",
+    "definition": "怂恿，迎合（不良欲望）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pane",
+    "phonetic": "/pein/",
+    "definition": "窗格玻璃",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "panegyric",
+    "phonetic": "/ˌpæniˈdʒirik/",
+    "definition": "颂词，颂扬",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "pang",
+    "phonetic": "/pæŋ/",
+    "definition": "一阵剧痛",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pantechnicon",
+    "phonetic": "/pænˈteknikən/",
+    "definition": "家具仓库，家具搬运车",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "pantheon",
+    "phonetic": "/ˈpænθiən/",
+    "definition": "万神殿",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "panther",
+    "phonetic": "/ˈpænθə/",
+    "definition": "黑豹",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pantomime",
+    "phonetic": "/ˈpæntəmaim/",
+    "definition": "哑剧",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "pantry",
+    "phonetic": "/ˈpæntri/",
+    "definition": "食品室",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "papyrus",
+    "phonetic": "/pəˈpaiərəs/",
+    "definition": "莎草，莎草纸（古埃及人用来书写的一种草纸）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "parable",
+    "phonetic": "/ˈpærəbl/",
+    "definition": "寓言故事",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "parabola",
+    "phonetic": "/pəˈræbələ/",
+    "definition": "抛物线",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "paragon",
+    "phonetic": "/ˈpærəɡən/",
+    "definition": "（褒）模范，典型",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "parallelism",
+    "phonetic": "/ˈpærəlelizəm/",
+    "definition": "平行，类似",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "paranoia",
+    "phonetic": "/ˌpærəˈnɔiə/",
+    "definition": "偏执狂；多疑症",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "paranoid",
+    "phonetic": "/ˈpærənɔid/",
+    "definition": "偏执狂的，过分怀疑的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "parch",
+    "phonetic": "/pɑːtʃ/",
+    "definition": "烘烤；烤焦",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pare",
+    "phonetic": "/peə/",
+    "definition": "削皮；修剪；削减，缩减",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pariah",
+    "phonetic": "/ˈpæriə/",
+    "definition": "贱民，被社会遗弃者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "parity",
+    "phonetic": "/ˈpæriti/",
+    "definition": "（水平，地位，数量等的）同等，相等",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "parka",
+    "phonetic": "/ˈpɑːkə/",
+    "definition": "派克大衣（毛皮风雪大衣）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "parlance",
+    "phonetic": "/ˈpɑːləns/",
+    "definition": "说法，用语，词汇，术语",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "parley",
+    "phonetic": "/ˈpɑːli/",
+    "definition": "和谈；会谈；v. 和谈，会谈",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "parlous",
+    "phonetic": "/ˈpɑːləs/",
+    "definition": "靠不住的，危险的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "parochial",
+    "phonetic": "/pəˈrəukjəl/",
+    "definition": "教区的；地方性的，狭小的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "parody",
+    "phonetic": "/ˈpærədi/",
+    "definition": "模仿性嘲弄文章或表演；拙劣的模仿",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "paroxysm",
+    "phonetic": "/ˈpærəksizəm/",
+    "definition": "（感情等）突发",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "parquet",
+    "phonetic": "/ˈpɑːkei/",
+    "definition": "镶木地板",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "parry",
+    "phonetic": "/ˈpæri/",
+    "definition": "挡开，避开（武器，问题等）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "parse",
+    "phonetic": "/pɑːz/",
+    "definition": "对...作语法分析",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "parsimony",
+    "phonetic": "/ˈpɑːsiməni/",
+    "definition": "过分节俭，吝啬",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "partiality",
+    "phonetic": "/ˌpɑːʃiˈæliti/",
+    "definition": "偏袒，偏心",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "particularize",
+    "phonetic": "/pəˈtikjuləraiz/",
+    "definition": "详述，逐一列举",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "parturition",
+    "phonetic": "/ˌpɑːtjuəˈriʃən/",
+    "definition": "生产，分娩",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "pastel",
+    "phonetic": "/ˈpæsetl/",
+    "definition": "彩色粉笔或蜡笔画；柔和的色彩",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pasteurize",
+    "phonetic": "/ˈpæstəraiz/",
+    "definition": "加热杀菌，消毒",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "pastiche",
+    "phonetic": "/pæsˈtiːʃ/",
+    "definition": "（音乐、文学、艺术等）混合拼凑的作品",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pastor",
+    "phonetic": "/ˈpɑːstə/",
+    "definition": "牧师，牧人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pastoral",
+    "phonetic": "/ˈpɑːstərəl/",
+    "definition": "田园生活的；宁静的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pathogen",
+    "phonetic": "/ˈpæθədʒ（ə）n/",
+    "definition": "病原体",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pathological",
+    "phonetic": "/ˌpæθəˈlɔdʒikəl/",
+    "definition": "病态的；病理的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "pathos",
+    "phonetic": "/ˈpeiθɔs/",
+    "definition": "感伤，哀婉，悲怆",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "patina",
+    "phonetic": "/ˈpætinə/",
+    "definition": "（铜）绿锈；光亮的外表",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "patrician",
+    "phonetic": "/pəˈtriʃən/",
+    "definition": "贵族",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "patrimony",
+    "phonetic": "/ˈpætriməni/",
+    "definition": "祖传的财产",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "paucity",
+    "phonetic": "/ˈpɔːsiti/",
+    "definition": "小量，少量，缺乏",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "paunchy",
+    "phonetic": "/ˈpɔːntʃi/",
+    "definition": "（尤指男子）大肚子的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pauper",
+    "phonetic": "/ˈpɔːpə/",
+    "definition": "贫民",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pavid",
+    "phonetic": "/ˈpævid/",
+    "definition": "害怕的，胆小的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pawn",
+    "phonetic": "/pɔːn/",
+    "definition": "/v. 典当，抵押；n. 被小人物利用",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "peachy",
+    "phonetic": "/ˈpiːtʃi/",
+    "definition": "极好的，漂亮的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "peaky",
+    "phonetic": "/ˈpiːki/",
+    "definition": "消瘦的；虚弱的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pecan",
+    "phonetic": "/piˈkæn/",
+    "definition": "山核桃",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "peccadillo",
+    "phonetic": "/pekəˈdiləu/",
+    "definition": "小过失",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "peckish",
+    "phonetic": "/ˈpekiʃ/",
+    "definition": "饿的；急躁的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "peculate",
+    "phonetic": "/ˈpekjuleit/",
+    "definition": "挪用（公款）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pecuniary",
+    "phonetic": "/piˈkjuːnjəri/",
+    "definition": "金钱的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "pedagogue",
+    "phonetic": "/ˈpedəɡɔɡ/",
+    "definition": "教师，教育者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "pedant",
+    "phonetic": "/ˈpedənt/",
+    "definition": "书呆子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pedestal",
+    "phonetic": "/ˈpedistl/",
+    "definition": "（柱石或雕像的）基座",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pediatrics",
+    "phonetic": "/ˌpiːdiˈætriks/",
+    "definition": "（医）小儿科",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "peek",
+    "phonetic": "/piːk/",
+    "definition": "偷看",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "peery",
+    "phonetic": "/ˈpiəri/",
+    "definition": "窥视的；好奇的；怀疑的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "peeve",
+    "phonetic": "/piːv/",
+    "definition": "使气恼，使发脾气",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "peevish",
+    "phonetic": "/ˈpiːviʃ/",
+    "definition": "坏脾气的，易怒的（尤指对小事）",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pejorative",
+    "phonetic": "/ˈpiːdʒərətiv/",
+    "definition": "带有轻蔑意义的，贬低的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "pelagic",
+    "phonetic": "/piˈlædʒik/",
+    "definition": "远洋的，海水的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pelf",
+    "phonetic": "/pelf/",
+    "definition": "（贬）钱财；不义之财",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pell-mell",
+    "phonetic": "/pelˈmel/",
+    "definition": "混乱地，乱糟糟地",
+    "partOfSpeech": "adv.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "pellucid",
+    "phonetic": "/pəˈljuːsid/",
+    "definition": "清晰的，清澈的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pelt",
+    "phonetic": "/pelt/",
+    "definition": "扔；n. 毛皮",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "penance",
+    "phonetic": "/ˈpenəns/",
+    "definition": "自我惩罚",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pendent",
+    "phonetic": "/ˈpendənt/",
+    "definition": "吊着的，悬挂的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pendulous",
+    "phonetic": "/ˈpendjuləs/",
+    "definition": "下垂的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "penitent",
+    "phonetic": "/ˈpenitənt/",
+    "definition": "后悔的，忏悔的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pennant",
+    "phonetic": "/ˈpenənt/",
+    "definition": "（船上用的）信号旗",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "penultimate",
+    "phonetic": "/piˈnʌltimit/",
+    "definition": "倒数第二的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "penumbra",
+    "phonetic": "/piˈnʌmbrə/",
+    "definition": "半明半暗之处；边缘部分",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "peptic",
+    "phonetic": "/ˈpeptik/",
+    "definition": "产生胃酶的，助消化的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "perambulate",
+    "phonetic": "/pəˈræmbjuleit/",
+    "definition": "（以漫步）巡视；漫步",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "percolate",
+    "phonetic": "/ˈpəːkəleit/",
+    "definition": "过滤出；渗透",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "percussionist",
+    "phonetic": "/pəˈkʌʃənist/",
+    "definition": "敲击乐器的乐师",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "peregrination",
+    "phonetic": "/periɡriˈneiʃ（ə）n/",
+    "definition": "游历（尤指在国外）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "peremptory",
+    "phonetic": "/pəˈremptəri/",
+    "definition": "（命令）不容反抗的，强制的；（人，举止）专横的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "perfervid",
+    "phonetic": "/pəːˈfəːvid/",
+    "definition": "非常热心的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  }
+]

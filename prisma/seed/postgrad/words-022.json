@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "sacred",
+    "phonetic": "/ˈseikrid/",
+    "definition": "神圣的;宗教的;庄严的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sacrifice",
+    "phonetic": "/ˈsækrifais/",
+    "definition": "牺牲,牺牲品;祭品 v.(for,to)牺牲,献出",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sad",
+    "phonetic": "/sæd/",
+    "definition": "悲哀的,忧愁的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "saddle",
+    "phonetic": "/ˈsædl/",
+    "definition": "鞍,马鞍,鞍状物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "safe",
+    "phonetic": "/seif/",
+    "definition": "安全的,牢靠的;谨慎的,可靠的 n.保险箱",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "safeguard",
+    "phonetic": "/ˈseifɡɑːd/",
+    "definition": "维护,保护,捍卫 n.安全装置,安全措施",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "safety",
+    "phonetic": "/ˈseifti/",
+    "definition": "安全,保险;安全设备,保险装置",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sail",
+    "phonetic": "/seil/",
+    "definition": "帆,航行 v.航行",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "sailor",
+    "phonetic": "/ˈseilə/",
+    "definition": "水手,海员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "saint",
+    "phonetic": "/seint/",
+    "definition": "圣人,基督教徒;(S-或St.用于人,地名前)圣",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sake",
+    "phonetic": "/seik/",
+    "definition": "缘故,理由",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "salad",
+    "phonetic": "/ˈsæləd/",
+    "definition": "色拉,凉拌菜",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "salary",
+    "phonetic": "/ˈsæləri/",
+    "definition": "薪金,薪水",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sale",
+    "phonetic": "/seil/",
+    "definition": "出售,上市;贱卖,廉价出售;销售额",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "salesman",
+    "phonetic": "/ˈseilzmən/",
+    "definition": "售货员,推销员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "salt",
+    "phonetic": "/sɔːlt/",
+    "definition": "盐,盐,类 v.腌,盐渍",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "salute",
+    "phonetic": "/səˈljuːt, sɑːˈluːte/",
+    "definition": "/n.敬礼,鸣礼炮;迎接,欢迎",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "salvation",
+    "phonetic": "/sælˈveiʃən/",
+    "definition": "拯救,救助;救济(者,品),救助工具;救世主",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "same",
+    "phonetic": "/seim/",
+    "definition": "相同的 pron.相同的人(或物) ad.同样地",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "sample",
+    "phonetic": "/ˈsɑːmpl, ˈsæ-/",
+    "definition": "样品,实例,标本,抽样检查 v.取样,采样",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sanction",
+    "phonetic": "/ˈsæŋ,kʃən/",
+    "definition": "/v.批准,同意,支持,认可 n.处罚,制裁",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sand",
+    "phonetic": "/sænd/",
+    "definition": "沙;(pl.)沙滩,沙地",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "sandwich",
+    "phonetic": "/ˈsænwidʒ/",
+    "definition": "三明治,夹肉面包 v.夹入,挤进",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sane",
+    "phonetic": "/sein/",
+    "definition": "心智健全的,神志清醒的,明智的,稳健的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "sarcastic",
+    "phonetic": "/sɑːˈkæztik/",
+    "definition": "讽刺的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "satellite",
+    "phonetic": "/ˈsætəlait/",
+    "definition": "卫星,人造卫星;附属物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "satire",
+    "phonetic": "/ˈsætaiə/",
+    "definition": "讽刺,讽刺文学,讽刺作品",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "satisfaction",
+    "phonetic": "/ˌsætisˈfækʃən/",
+    "definition": "满足,满意;乐事,愉快",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "satisfactory",
+    "phonetic": "/ˌsætisˈfæktəri/",
+    "definition": "令人满意的,圆满的,良好的,符合要求的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "satisfy",
+    "phonetic": "/ˈsætisfai/",
+    "definition": "满意,使满意,使相信,说服",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "saturate",
+    "phonetic": "/ˈsætʃəreit, ˈsætʃərit/",
+    "definition": "使湿透,浸透;使充满,使饱和",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "saturday",
+    "phonetic": "",
+    "definition": "星期六",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sauce",
+    "phonetic": "/sɔːs/",
+    "definition": "酱汁,调味汁",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "saucer",
+    "phonetic": "/ˈsɔːsə/",
+    "definition": "茶托,碟子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sausage",
+    "phonetic": "/ˈsɔsidʒ, ˈsɔː-/",
+    "definition": "香肠,腊肠",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "savage",
+    "phonetic": "/ˈsævidʒ/",
+    "definition": "野蛮的;凶恶的,残暴的 n.野人,未开化的人",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "save",
+    "phonetic": "/seiv/",
+    "definition": "救,拯救;储蓄,贮存;节省",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "saving",
+    "phonetic": "",
+    "definition": "挽救,救助,节约,储蓄;(pl.)储蓄金,存款",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "saw",
+    "phonetic": "/sɔː/",
+    "definition": "锯子,锯床 v.锯,锯开",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "say",
+    "phonetic": "/sei/",
+    "definition": "说,讲;说明;比如说 vi.说,发表意见",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "scale",
+    "phonetic": "/skeil/",
+    "definition": "刻度;天平,磅秤;比例尺;规模;音阶;鱼鳞",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scan",
+    "phonetic": "/skæn/",
+    "definition": "细看,审视;浏览;扫描 n.扫描",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "scandal",
+    "phonetic": "/ˈskændəl/",
+    "definition": "丑闻,诽谤,耻辱,流言蜚语,反感,公愤",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "scar",
+    "phonetic": "/skɑː/",
+    "definition": "疤,疤痕;创伤 v.使留下伤痕,创伤",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "scarce",
+    "phonetic": "/skεəs/",
+    "definition": "缺乏的,不足的;稀少的,罕见的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scarcely",
+    "phonetic": "/ˈskεəsli/",
+    "definition": "几乎不,简直没有,勉强",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "scare",
+    "phonetic": "/skεə/",
+    "definition": "惊恐,恐慌v.惊吓,受惊",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scarf",
+    "phonetic": "/skɑːf/",
+    "definition": "围巾,头巾,领巾,领带",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scatter",
+    "phonetic": "/ˈskætə/",
+    "definition": "散开,驱散;散布,散播",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "scene",
+    "phonetic": "/siːn/",
+    "definition": "景色,景象,舞台;(戏)一场",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scenery",
+    "phonetic": "/ˈsiːnəri/",
+    "definition": "风景,舞台布景",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "scent",
+    "phonetic": "/sent/",
+    "definition": "气味,香味,香水,线索,嗅觉 v.嗅,发觉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "schedule",
+    "phonetic": "/ˈʃədjuːəl,ˈskedʒuːəl/",
+    "definition": "时间表,进度表 v.安排,预定",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "scheme",
+    "phonetic": "/skiːm/",
+    "definition": "计划,方案;阴谋;配置 v.计划,策划;阴谋",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scholar",
+    "phonetic": "/ˈskɔlə/",
+    "definition": "学者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "scholarship",
+    "phonetic": "/ˈskɔləʃip/",
+    "definition": "奖学金;学问,学识",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "school",
+    "phonetic": "/skuːl/",
+    "definition": "学校,(大学里的)学院;上学,学业;学派",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "science",
+    "phonetic": "/ˈsaiəns/",
+    "definition": "科学;学科",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "scientific",
+    "phonetic": "/ˌsaiənˈtifik/",
+    "definition": "科学上的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "scientist",
+    "phonetic": "/ˈsaiəntist/",
+    "definition": "科学家",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "scissors",
+    "phonetic": "/ˈsizəz/",
+    "definition": "剪子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "scold",
+    "phonetic": "/skəuld/",
+    "definition": "责骂,训斥",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scope",
+    "phonetic": "/skəup/",
+    "definition": "(活动)范围;机会,余地",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "score",
+    "phonetic": "/skɔː/",
+    "definition": "得分,分数;二十 v.得(分),记(…的)分数",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scorn",
+    "phonetic": "/skɔːn/",
+    "definition": "/n.轻蔑,藐视",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scout",
+    "phonetic": "/skaut/",
+    "definition": "侦察员,侦察机(舰) v.搜索,侦察",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scramble",
+    "phonetic": "/ˈskræmbl/",
+    "definition": "(快速地)爬,攀登;互相争夺,争先",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "scrap",
+    "phonetic": "/skræp/",
+    "definition": "碎片;废料 v.废弃,报废",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scrape",
+    "phonetic": "/skreip/",
+    "definition": "刮(掉),擦过,勉强通过 n.刮,擦痕,刮擦声",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scratch",
+    "phonetic": "/skrætʃ/",
+    "definition": "抓,搔,扒 n.抓,搔,抓痕;起跑线",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "scream",
+    "phonetic": "/skriːm/",
+    "definition": "/n.尖声叫,喊叫着说出,(风)呼啸",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "screen",
+    "phonetic": "/skriːn/",
+    "definition": "屏幕,屏风;帘 v.掩蔽,包庇;筛选",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "screw",
+    "phonetic": "/skruː/",
+    "definition": "螺旋,螺丝(钉) v.拧,拧紧",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "script",
+    "phonetic": "/skript/",
+    "definition": "剧本(原稿);手稿,原稿;笔迹,手迹",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scrutiny",
+    "phonetic": "/ˈskruːtini/",
+    "definition": "周密的调查;仔细看;监视;选票复查",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sculpture",
+    "phonetic": "/ˈskʌlptʃə/",
+    "definition": "雕刻(术),雕塑(术);雕刻作品",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sea",
+    "phonetic": "/siː/",
+    "definition": "海,海洋,大量",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "seal",
+    "phonetic": "/siːl/",
+    "definition": "封铅,封条;印,图章;海豹 v.封,密封",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "seam",
+    "phonetic": "/siːm/",
+    "definition": "缝,接缝;缝合,接合;vi.裂开,产生裂缝",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "search",
+    "phonetic": "/səːtʃ/",
+    "definition": "/n.(for)搜索,寻找,探查",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "seaside",
+    "phonetic": "/ˈsiːsaid/",
+    "definition": "海滨,海边",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "season",
+    "phonetic": "/ˈsiːzən/",
+    "definition": "季,季节,时节",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "seat",
+    "phonetic": "/siːt/",
+    "definition": "座位,底座;所在地,场所 v.使坐下",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "second",
+    "phonetic": "/ˈsekənd/",
+    "definition": "第二;次等的,二等的 n.秒 v.赞成,附和",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "secondary",
+    "phonetic": "/ˈsekəndəri/",
+    "definition": "次要的,二级的;中级的,第二的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "secret",
+    "phonetic": "/ˈsiːkrit/",
+    "definition": "秘密的,机密的 n.秘密",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "secretary",
+    "phonetic": "/ˈsekrətəri/",
+    "definition": "秘书,书记;部长,大臣",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "section",
+    "phonetic": "/ˈsekʃən/",
+    "definition": "章节,部分;地区,部门,科;截面,剖面",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sector",
+    "phonetic": "/ˈsektə/",
+    "definition": "部门,部分;防御地段,防区;扇形",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "secure",
+    "phonetic": "/siˈkjuə/",
+    "definition": "(from,against)安全的,放心的v.得到;防护",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "security",
+    "phonetic": "/siˈkjuəriti/",
+    "definition": "安全(感),防御(物),保证(人),(pl.)证券",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "see",
+    "phonetic": "/siː/",
+    "definition": "看见;会面;探望;知道,获悉;送行",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "seed",
+    "phonetic": "/siːd/",
+    "definition": "种子 v.播种;结实,结籽",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "seek",
+    "phonetic": "/siːk/",
+    "definition": "(after,for)寻找,探索;试图,企图",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "seem",
+    "phonetic": "/siːm/",
+    "definition": "好像,似乎",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "seemingly",
+    "phonetic": "",
+    "definition": "外观上,表面上",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "segment",
+    "phonetic": "/ˈseɡmənt, seɡˈment/",
+    "definition": "段,片,节,部分",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "segregate",
+    "phonetic": "/ˈseɡriɡit, -ɡeit/",
+    "definition": "使···分开,隔离(病患等)",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "seize",
+    "phonetic": "/siːz/",
+    "definition": "抓住,逮住;夺取,占领;没收,查封",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "seldom",
+    "phonetic": "/ˈseldəm/",
+    "definition": "很少,不常",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "select",
+    "phonetic": "/siˈlekt/",
+    "definition": "选择,挑选 a.精选的,选择的",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "selection",
+    "phonetic": "/siˈlekʃən/",
+    "definition": "选择,挑选;选集,精选物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "self",
+    "phonetic": "/self/",
+    "definition": "自我,自己(pl.selves)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "selfish",
+    "phonetic": "/ˈselfiʃ/",
+    "definition": "自私的,利己的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sell",
+    "phonetic": "/sel/",
+    "definition": "卖,出售",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "semester",
+    "phonetic": "/siˈmestə/",
+    "definition": "学期",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "semiconductor",
+    "phonetic": "/ˌsemikənˈdɔktə/",
+    "definition": "半导体",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "seminar",
+    "phonetic": "/ˈseminɑː/",
+    "definition": "(大学的)研究班,研讨会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "senate",
+    "phonetic": "/ˈsenit/",
+    "definition": "参议院,上院",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "senator",
+    "phonetic": "/ˈsenətə/",
+    "definition": "参议员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "send",
+    "phonetic": "/send/",
+    "definition": "(sent,sent)1.打发;派遣 2.送;寄出",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "senior",
+    "phonetic": "/ˈsiːnjə/",
+    "definition": "年长的;地位较高的 n.(大学)四年级学生",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sensation",
+    "phonetic": "/senˈseiʃən/",
+    "definition": "感觉,知觉;激动,轰动,轰动一时的事情",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sense",
+    "phonetic": "/sens/",
+    "definition": "感官;感觉;判断力;意义 v.觉得,意识到",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sensible",
+    "phonetic": "/ˈsensəbl/",
+    "definition": "明智的,达理的;可觉察的,明显的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sensitive",
+    "phonetic": "/ˈsensitiv/",
+    "definition": "(to)敏感的,易受伤害的;灵敏的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sentence",
+    "phonetic": "/ˈsentəns/",
+    "definition": "句子;判决,宣判 v.宣判,判决",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sentiment",
+    "phonetic": "/ˈsentimənt/",
+    "definition": "感情,柔情;看法;感觉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "separate",
+    "phonetic": "/ˈsepəreit, ˈsepərit/",
+    "definition": "(from)分离的,分开的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "september",
+    "phonetic": "/ˈsiːkwəns/",
+    "definition": "九月",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sequence",
+    "phonetic": "/ˈsiːkwəns/",
+    "definition": "先后,次序;连续,数列",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "serial",
+    "phonetic": "/ˈsiəriəl, ˈsiːr-/",
+    "definition": "连载小说,连续剧;连载刊物 a.连续的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "series",
+    "phonetic": "/ˈsiəriːz, -riz/",
+    "definition": "一系列,连续;丛书",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "serious",
+    "phonetic": "/ˈsiəriəs, ˈsiːr-/",
+    "definition": "严肃的;主要的;严重的,危急的;认真的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "servant",
+    "phonetic": "/ˈsəːvənt/",
+    "definition": "仆人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "serve",
+    "phonetic": "/səːv/",
+    "definition": "服务,尽责;招待,侍候;符合,适用",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "service",
+    "phonetic": "/ˈsəːvis/",
+    "definition": "服务;公共设施;维修保养;行政部门v.维修",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "session",
+    "phonetic": "/ˈseʃən/",
+    "definition": "(一届)会议,一段时间",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "set",
+    "phonetic": "/set/",
+    "definition": "一套,一副,装置,接受机v.提出,调整,日落",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "setback",
+    "phonetic": "/ˈsetbæk/",
+    "definition": "挫折;失效;复发;倒退",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "setting",
+    "phonetic": "/ˈsetiŋ/",
+    "definition": "安置;落山;(固定东西的)柜架底座;环境",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "settle",
+    "phonetic": "/ˈsetl/",
+    "definition": "安定,安顿;停息;定居;解决,调停",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "settlement",
+    "phonetic": "/ˈsetlmənt/",
+    "definition": "解决,决定,调停;居留区,住宅区",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "seven",
+    "phonetic": "/ˈsevən/",
+    "definition": "七,七个(人或物)",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "several",
+    "phonetic": "/ˈsevərəl/",
+    "definition": "几个,若干,数个;各个的,各自的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "severe",
+    "phonetic": "/siˈviə/",
+    "definition": "严厉的;剧烈的,严重的,严峻的,艰难的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sew",
+    "phonetic": "/səu/",
+    "definition": "缝,缝纫",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "sex",
+    "phonetic": "/seks/",
+    "definition": "性别,性",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "shabby",
+    "phonetic": "/ˈʃæbi/",
+    "definition": "简陋的,破旧的,卑鄙的,不公平的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shade",
+    "phonetic": "/ʃeid/",
+    "definition": "荫,阴影;遮光物,罩 v.遮蔽,遮光",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shadow",
+    "phonetic": "/ˈʃædəu/",
+    "definition": "阴影,影子,荫;暗处,阴暗",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shady",
+    "phonetic": "/ˈʃeidi/",
+    "definition": "成荫的,多荫的;可疑的,靠不住的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shaft",
+    "phonetic": "/ʃɑːft, ʃæft/",
+    "definition": "轴;杆状物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shake",
+    "phonetic": "/ʃeik/",
+    "definition": "/v.摇动,摇;颤抖,震动",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shall",
+    "phonetic": "/ʃæl, 弱ʃəl, ʃl, ʃə, ʃ/",
+    "definition": "v.(我,我们)将要,会;必须,应该",
+    "partOfSpeech": "aux.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shallow",
+    "phonetic": "/ˈʃæləu/",
+    "definition": "浅的,浅薄的 n.浅滩,浅处",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sham",
+    "phonetic": "/ʃæm/",
+    "definition": "/a.假冒(的),虚伪(的)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "shame",
+    "phonetic": "/ʃeim/",
+    "definition": "羞耻,耻辱;可耻的人(或事物) v.使羞愧",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shampoo",
+    "phonetic": "/ʃæmˈpuː/",
+    "definition": "洗发膏,香波;洗发,洗头 v.洗发,洗头",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "shape",
+    "phonetic": "/ʃeip/",
+    "definition": "形状,外形;情况,状态;种类v.成型,塑造",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "share",
+    "phonetic": "/ʃεə/",
+    "definition": "(with)分配,共用;分担n.一份,份额;股份",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shark",
+    "phonetic": "/ʃɑːk/",
+    "definition": "鲨鱼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sharp",
+    "phonetic": "/ʃɑːp/",
+    "definition": "锋利的;轮廓分明的;急转的ad.(指时刻)正",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shatter",
+    "phonetic": "/ˈʃætə/",
+    "definition": "碎片;粉碎　v.粉碎;使疲惫;使震骇",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "shave",
+    "phonetic": "/ʃeiv/",
+    "definition": "剃,刮,刨,削 n.刮脸",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "she",
+    "phonetic": "/ʃiː/",
+    "definition": "(主格)她",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "shear",
+    "phonetic": "/ʃiə/",
+    "definition": "剪,修剪",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shed",
+    "phonetic": "/ʃed/",
+    "definition": "流出;发散,散发,脱落,脱去 n.棚,小屋",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "sheep",
+    "phonetic": "/ʃip/",
+    "definition": "(绵)羊;易受人摆布的人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sheer",
+    "phonetic": "/ʃiə/",
+    "definition": "纯粹的,十足的,全然的;陡峭的,险峻的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sheet",
+    "phonetic": "/ʃiːt/",
+    "definition": "被单;(一)张,(一)片,薄片;大片",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shelf",
+    "phonetic": "/ʃelf/",
+    "definition": "架子,搁板",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shell",
+    "phonetic": "/ʃel/",
+    "definition": "壳,贝壳;炮弹",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shelter",
+    "phonetic": "/ˈʃeltə/",
+    "definition": "掩蔽处;掩蔽,保护 v.掩蔽,躲避,庇护",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "shepherd",
+    "phonetic": "/ˈʃepəd/",
+    "definition": "牧民,牧羊人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "shield",
+    "phonetic": "/ʃiːld/",
+    "definition": "防护物,护罩;盾,盾状物 v.保护,防护",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shift",
+    "phonetic": "/ʃift/",
+    "definition": "替换,转移n.转换,转变;(轮)班,(换)班",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shilling",
+    "phonetic": "/ˈʃiliŋ/",
+    "definition": "先令",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "shine",
+    "phonetic": "/ʃain/",
+    "definition": "照耀,发光;擦亮 n.光泽,光",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ship",
+    "phonetic": "/ʃip/",
+    "definition": "船舶,舰艇 v.装运,航运,运送;发货",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "shipment",
+    "phonetic": "/ˈʃipmənt/",
+    "definition": "装船,装运;装载的货物,装货量",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "shirt",
+    "phonetic": "/ʃəːt/",
+    "definition": "衬衫",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shiver",
+    "phonetic": "/ˈʃivə/",
+    "definition": "/n.战栗,发抖",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shock",
+    "phonetic": "/ʃɔk/",
+    "definition": "震动;电击,触电;休克v.(使)震动/震惊",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shoe",
+    "phonetic": "/ʃuː/",
+    "definition": "鞋",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "shoot",
+    "phonetic": "/ʃuːt/",
+    "definition": "发射;掠过,疾驰而过 n.嫩枝,苗,射击",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shop",
+    "phonetic": "/ʃɔp/",
+    "definition": "商店,店铺;工厂,车间 v.买东西",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "shopkeeper",
+    "phonetic": "/ˈʃɔp,kiːpə/",
+    "definition": "店主,老板",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "shore",
+    "phonetic": "/ʃɔː/",
+    "definition": "海滨,湖滨",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "short",
+    "phonetic": "/ʃɔːt/",
+    "definition": "短的,矮的;(of)缺乏,不足 n.(pl.)短裤",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shortage",
+    "phonetic": "/ˈʃɔːtidʒ/",
+    "definition": "不足,缺少",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "shortcoming",
+    "phonetic": "/ˈʃɔːtˈcʌmiŋ/",
+    "definition": "短处,缺点",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "shorthand",
+    "phonetic": "/ˈʃɔːthænd/",
+    "definition": "速记",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "shortly",
+    "phonetic": "/ˈʃɔːtli/",
+    "definition": "立刻,不久;不耐烦地,简慢地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "shot",
+    "phonetic": "/ʃɔt/",
+    "definition": "开枪,射击;投篮;弹丸,炮弹,子弹",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "should",
+    "phonetic": "/ʃud, 弱 ʃəd, ʃd/",
+    "definition": "v.应该;万一;可能,该;就;竟然会",
+    "partOfSpeech": "aux.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shoulder",
+    "phonetic": "/ˈʃəuldə/",
+    "definition": "肩,肩部 v.肩负,承担",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "shout",
+    "phonetic": "/ʃaut/",
+    "definition": "大声叫,喊,呼出 n.呼喊,叫",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shove",
+    "phonetic": "/ʃʌv/",
+    "definition": "乱推;乱塞vi.用力推,挤n.猛推",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "show",
+    "phonetic": "/ʃəu/",
+    "definition": "节目,表演 v.上演(戏剧等),放映(电影)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "shower",
+    "phonetic": "/ˈʃauə/",
+    "definition": "阵雨;沐浴;(一)阵/大批v.下阵雨,倾注",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shrewd",
+    "phonetic": "/ʃruːd/",
+    "definition": "机灵的,敏锐的;精明的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shrink",
+    "phonetic": "/ʃriŋk/",
+    "definition": "起皱,收缩;退缩,畏缩",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shrug",
+    "phonetic": "/ʃrʌɡ/",
+    "definition": "/n.耸肩(表示冷淡、怀疑、无奈、不满等)",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shut",
+    "phonetic": "/ʃʌt/",
+    "definition": "关,关闭",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "shutter",
+    "phonetic": "/ˈʃʌtə/",
+    "definition": "百叶窗;(照相机)快门;关闭装置",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "shuttle",
+    "phonetic": "/ˈʃʌtl/",
+    "definition": "往返汽车/列车/飞机;穿梭 v.往返穿梭",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "shy",
+    "phonetic": "/ʃai/",
+    "definition": "怕羞的,腼腆的;胆怯的vi.惊退,畏缩",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "sick",
+    "phonetic": "/sik/",
+    "definition": "有病的,患病的;恶心的,想吐的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "side",
+    "phonetic": "/said/",
+    "definition": "旁边,侧面;坡,岸;一边/侧/方 vi.支持",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  }
+]

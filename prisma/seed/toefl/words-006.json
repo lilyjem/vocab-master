@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "ecstasy",
+    "phonetic": "/'ekstəsi/",
+    "definition": "狂喜,心醉神迷,忘形",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "edge",
+    "phonetic": "/edʒ/",
+    "definition": "边缘,尖锐,刀刃,优势vt. 使锐利,挤进,镶边,开刃vi. 缓缓移动",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "edible",
+    "phonetic": "/'edibl/",
+    "definition": "食品,食物a. 可食用的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "edify",
+    "phonetic": "/'edifai/",
+    "definition": "启迪,熏陶,教诲",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "efface",
+    "phonetic": "/i'feis/",
+    "definition": "抹去,消除,忘却",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "effect",
+    "phonetic": "/i'fekt/",
+    "definition": "结果,影响,效果,印象vt. 招致,引起,完成v. 效果",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "effective",
+    "phonetic": "/i'fektiv/",
+    "definition": "有效的,有力的,实际的n. 有生力量",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "effectuate",
+    "phonetic": "/ə'fektʃu'et/",
+    "definition": "招致,实行,完成",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "efficient",
+    "phonetic": "/i'fiʃənt/",
+    "definition": "有效率的,能干的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "effuse",
+    "phonetic": "/e'fjuz/",
+    "definition": "vi. 涌出,流出,泻出",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "egoist",
+    "phonetic": "/'egouist/",
+    "definition": "自我主义者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "eject",
+    "phonetic": "/i:'dʒekt/",
+    "definition": "逐放,放逐,喷射n. 推断的事物",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "elaborate",
+    "phonetic": "/i'læbərit/",
+    "definition": "精细的,详尽的,精心的vt. 详细地说明,用心地制作,推敲vi. 变复杂",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "elapse",
+    "phonetic": "/i'læps/",
+    "definition": "逝去,过去n. 逝去,过去",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "elasticity",
+    "phonetic": "/i'læs'tisəti/",
+    "definition": "弹力,弹性",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "elation",
+    "phonetic": "/i'leʃən/",
+    "definition": "得意洋洋,兴高采烈",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "election",
+    "phonetic": "/i'lekʃən/",
+    "definition": "选举,当选,选择权",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "elegant",
+    "phonetic": "/'eligənt/",
+    "definition": "优雅的,端庄的,高雅的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "element",
+    "phonetic": "/'elimənt/",
+    "definition": "元件,元素,要素",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "elementary",
+    "phonetic": "/'eli'mentəri/",
+    "definition": "初步的,基本的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "elevate",
+    "phonetic": "/'eliveit/",
+    "definition": "举起,提拔,鼓舞",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "elite",
+    "phonetic": "/ei'li:t/",
+    "definition": "精华,精锐,中坚分子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "eloquence",
+    "phonetic": "/'eləkwəns/",
+    "definition": "口才,雄辩术,雄辩",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "eloquent",
+    "phonetic": "/'eləkwənt/",
+    "definition": "雄辩的,有口才的,动人的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "elucidate",
+    "phonetic": "/i'lu:sideit/",
+    "definition": "阐明,说明",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "elude",
+    "phonetic": "/i'lu:d/",
+    "definition": "逃避,规避,使困惑",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "elusive",
+    "phonetic": "/i'lu:siv/",
+    "definition": "难懂的,易忘的,难捉摸的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "emaciate",
+    "phonetic": "/i'meiʃieit/",
+    "definition": "使消瘦,使憔悴vi. 消瘦",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "emaciated",
+    "phonetic": "/i'meiʃieitid/",
+    "definition": "瘦弱的,衰弱的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "embalm",
+    "phonetic": "/im'bam/",
+    "definition": "以药物防腐,铭记于心,使不朽",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "embarrass",
+    "phonetic": "/im'bærəs/",
+    "definition": "使困窘,使局促不安,阻碍",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "embellish",
+    "phonetic": "/im'bæliʃ/",
+    "definition": "修饰,装饰,润色",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "embezzle",
+    "phonetic": "/im'bezl/",
+    "definition": "盗用,挪用",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "embody",
+    "phonetic": "/im'bɔdi/",
+    "definition": "具体表达,使具体化",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "embrace",
+    "phonetic": "/im'breis/",
+    "definition": "拥抱vt. 拥抱,互相拥抱,包含,收买vi. 拥抱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "embroider",
+    "phonetic": "/im'brɔidə/",
+    "definition": "刺绣,镶边,装饰vi. 绣花",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "emend",
+    "phonetic": "/i'mend/",
+    "definition": "修订,校勘",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "emerge",
+    "phonetic": "/i'mə:dʒ/",
+    "definition": "浮现,形成,(由某种状态)脱出,(事实)显现出来",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "emigrate",
+    "phonetic": "/'emigreit/",
+    "definition": "vt. (使)移居,(使)移民",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "eminent",
+    "phonetic": "/'eminənt/",
+    "definition": "显赫的,杰出的,有名的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "emphasize",
+    "phonetic": "/'emfəsaiz/",
+    "definition": "强调,加强语气,着重",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "emphatic",
+    "phonetic": "/im'fætik/",
+    "definition": "语调强的,用力的,强调了的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "employee",
+    "phonetic": "/'emplɔi'i:/",
+    "definition": "职员,员工,受雇人员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "employer",
+    "phonetic": "/im'plɔiə/",
+    "definition": "雇主,老板",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "empower",
+    "phonetic": "/im'pauə/",
+    "definition": "授予权力,允许,使能够",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "empty",
+    "phonetic": "/'empti/",
+    "definition": "空的东西,空物a. 空的,空虚的,空腹的,空洞的vt. 倒空,使变空,使",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "emulate",
+    "phonetic": "/'emjuleit/",
+    "definition": "效法,尽力赶上,同. . . 竞争",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "enable",
+    "phonetic": "/i'neibl/",
+    "definition": "使能够",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "enact",
+    "phonetic": "/i'nækt/",
+    "definition": "制定法律,扮演,颁布",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "enchant",
+    "phonetic": "/in'tʃa:nt/",
+    "definition": "施魔法,使迷惑",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "encompass",
+    "phonetic": "/in'kʌmpəs/",
+    "definition": "(文语)1 围绕,包围2 包含,含有ɔ 造成 <坏的结果等>",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "encourage",
+    "phonetic": "/in'kʌridʒ/",
+    "definition": "鼓励,支持,激励",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "encroach",
+    "phonetic": "/in'kroutʃ/",
+    "definition": "侵犯,侵蚀,蚕食",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "encumber",
+    "phonetic": "/in'kʌmbə/",
+    "definition": "妨害,阻害,拖累",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "endanger",
+    "phonetic": "/in'deindʒə/",
+    "definition": "危及",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "endeavor",
+    "phonetic": "/in'devə/",
+    "definition": "努力,尽力vi. 努力,尽力",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "endless",
+    "phonetic": "/'endlis/",
+    "definition": "不停的,无穷尽的,无尽的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "endorse",
+    "phonetic": "/in'dɔ:s/",
+    "definition": "支持,赞同,背书于,签",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "endure",
+    "phonetic": "/in'djuə/",
+    "definition": "(耐心地) 忍受,容忍a. 忍耐b. 对<做…事>忍耐,忍受<做…事> vi.",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "energetic",
+    "phonetic": "/'enə'dʒetik/",
+    "definition": "精力充沛的,积极的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "energize",
+    "phonetic": "/'enə'dʒaiz/",
+    "definition": "使活跃,给予精力",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "enervate",
+    "phonetic": "/'enə'veit/",
+    "definition": "使衰弱a. 衰弱的,无力的",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "engender",
+    "phonetic": "/in'dʒendə/",
+    "definition": "产生,引起vi. 发生,形成",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "engross",
+    "phonetic": "/in'grəus/",
+    "definition": "用大字体书写,独占,使全神贯注",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "engrossed",
+    "phonetic": "/in'ɡrəust/",
+    "definition": "1 热衷的,着迷的2 热衷于,埋头于[in]",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "engulf",
+    "phonetic": "/in'gʌlf/",
+    "definition": "卷入,吸进,使全神贯注,吞没,投入深渊",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "enhance",
+    "phonetic": "/in'ha:ns/",
+    "definition": "提高,加强,增加",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "enigma",
+    "phonetic": "/i'nigmə/",
+    "definition": "谜,不可思议的东西",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "enigmatic",
+    "phonetic": "/enig'mætik/",
+    "definition": "阴阳怪气的,谜一般的,高深莫测的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "enlighten",
+    "phonetic": "/in'laitn/",
+    "definition": "授予. . . 知识,启发,教导,开导",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "enlist",
+    "phonetic": "/in'list/",
+    "definition": "征募,参与,谋取vi. 从军,应募,赞助",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "enormous",
+    "phonetic": "/i'nɔ:məs/",
+    "definition": "巨大的,庞大的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "enrage",
+    "phonetic": "/in'reidʒ/",
+    "definition": "激怒,使暴怒",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "enrapture",
+    "phonetic": "/in'ræptʃə/",
+    "definition": "使狂喜",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "enrich",
+    "phonetic": "/in'ritʃ/",
+    "definition": "使富足,使肥沃",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "enslave",
+    "phonetic": "/in'sleiv/",
+    "definition": "奴役,束缚,沉溺,征服",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "entail",
+    "phonetic": "/in'teil/",
+    "definition": "使必需,使蒙受,使承担,遗传给n. 限定继承权",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "entangle",
+    "phonetic": "/in'tæŋgl/",
+    "definition": "使纠缠,卷入,使混乱",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "enterprise",
+    "phonetic": "/'entəpraiz/",
+    "definition": "企业,事业心,进取心,干事业",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "entertain",
+    "phonetic": "/'entə'tein/",
+    "definition": "娱乐,招待,怀抱vi. 款待",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "enthrall",
+    "phonetic": "/in'θrɔl/",
+    "definition": "迷惑,奴役,迷住",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "enthusiasm",
+    "phonetic": "/in'θju:ziæzəm/",
+    "definition": "狂热,热心",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "entice",
+    "phonetic": "/in'tais/",
+    "definition": "诱骗,引诱,怂恿",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "entitle",
+    "phonetic": "/in'taitl/",
+    "definition": "取名为,给予名称,叫做",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "entitled",
+    "phonetic": "/in'taitld/",
+    "definition": "给. . . 权力,给与标题,使有资格,给与标题,给与名称; vbl. 给. .",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "entity",
+    "phonetic": "/'entiti/",
+    "definition": "实体,实存物,存在",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "entrap",
+    "phonetic": "/in'træp/",
+    "definition": "骗入,诱捕,使陷入",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "entrepreneur",
+    "phonetic": "/'ɔntrəprə'nə:/",
+    "definition": "企业家,主办人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "enumerate",
+    "phonetic": "/i'nju:məreit/",
+    "definition": "列举,计算,枚举,数",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "enunciate",
+    "phonetic": "/i'nʌnsieit/",
+    "definition": "明确地叙述,表明vi. 发音",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "envelop",
+    "phonetic": "/in'veləp/",
+    "definition": "包封,遮盖,包围n. 信封",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "envoy",
+    "phonetic": "/'envɔi/",
+    "definition": "外交使节,特使",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "episode",
+    "phonetic": "/'episəud/",
+    "definition": "插曲,插话,有趣的事件,一段情节",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "epoch",
+    "phonetic": "/'i:pɔk/",
+    "definition": "新纪元,时代,时期",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "equal",
+    "phonetic": "/'i:kwəl/",
+    "definition": "对手,匹敌,同辈a. 相等的,平等的,胜任的,不相上下的,平静的vt.",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "equate",
+    "phonetic": "/i'kwet/",
+    "definition": "使相等,视为平等vi. 等同",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "equation",
+    "phonetic": "/i'kweiʃən/",
+    "definition": "相等,等式,平衡",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "equator",
+    "phonetic": "/i'kweitə/",
+    "definition": "赤道",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "equilibrium",
+    "phonetic": "/i:kwi'libriəm/",
+    "definition": "平衡,平静,均衡",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "equipment",
+    "phonetic": "/i'kwipmənt/",
+    "definition": "装备,设备品,才能",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "equitable",
+    "phonetic": "/'əkwitəbl/",
+    "definition": "公平的,公正的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "equivalent",
+    "phonetic": "/i'kwivələnt/",
+    "definition": "同等物,等价物,相等物a. 相等的,相当的,同意义的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "equivocate",
+    "phonetic": "/i'kwivəkeit/",
+    "definition": "说模棱两可的话,支吾",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "equivocal",
+    "phonetic": "/i'kwivəkl/",
+    "definition": "意义不明确的,模棱两可的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "erase",
+    "phonetic": "/i'reiz/",
+    "definition": "抹去,擦掉",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "erect",
+    "phonetic": "/i'rekt/",
+    "definition": "直立的,竖立的,笔直的vt. 使竖立,使直立,树立,建立vi. 勃起",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "erode",
+    "phonetic": "/i'rəud/",
+    "definition": "腐蚀,侵蚀vi. 受腐蚀",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "erosion",
+    "phonetic": "/i'rəuʒən/",
+    "definition": "腐蚀,冲蚀,侵蚀",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "err",
+    "phonetic": "/ə:/",
+    "definition": "犯错,做错,犯罪",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "erratic",
+    "phonetic": "/i'rætik/",
+    "definition": "古怪的人,漂泊无定的人a. 不稳定的,奇怪的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "erroneous",
+    "phonetic": "/i'rəunjəs/",
+    "definition": "错误的,不正确的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "erupt",
+    "phonetic": "/i'rʌpt/",
+    "definition": "爆发vt. 喷出",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "escape",
+    "phonetic": "/is'keip/",
+    "definition": "逃亡,避难设备,出口,逃跑vi. 逃脱,避开,溜走vt. 逃避,避免,被忘",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "eschew",
+    "phonetic": "/es'tʃu/",
+    "definition": "避开,远避",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "escort",
+    "phonetic": "/'eskɔ:t/",
+    "definition": "护送者,护卫者,护航舰vt. 护卫,护送",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "essential",
+    "phonetic": "/i'senʃəl/",
+    "definition": "要素,要点,本质a. 必要的,重要的,本质的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "esteem",
+    "phonetic": "/is'ti:m/",
+    "definition": "尊敬,尊重vt. 尊敬,尊重,认为",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "estimable",
+    "phonetic": "/'estəməbl/",
+    "definition": "可尊敬的,可估计的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "estimate",
+    "phonetic": "/'estimit,'estimeit/",
+    "definition": "估计,判断vt. 估计,评价,判断vi. 估计",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "eternal",
+    "phonetic": "/i'tə:nl/",
+    "definition": "永恒的,永远的,不灭的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ethics",
+    "phonetic": "/'eθiks/",
+    "definition": "道德规范",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ethnic",
+    "phonetic": "/'eθnik/",
+    "definition": "1 民族 [人种] 的2 民族特有的 (C) 少数民族的成员",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "etiquette",
+    "phonetic": "/'eti'ket,'etiket/",
+    "definition": "礼仪,礼节,成规",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "euphonious",
+    "phonetic": "/ju:'founiəs/",
+    "definition": "音响好的,悦耳的,和谐的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "evacuate",
+    "phonetic": "/i'vækjueit/",
+    "definition": "vi. 疏散,撤出,排泄",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "evade",
+    "phonetic": "/i'veid/",
+    "definition": "vi. 规避,逃避,躲避",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "evaluate",
+    "phonetic": "/i'væljueit/",
+    "definition": "评估,评价,赋值",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "evaporate",
+    "phonetic": "/i'væpəreit/",
+    "definition": "蒸发,失去水分,消失vt. 使蒸发",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "evasion",
+    "phonetic": "/i'veʒən/",
+    "definition": "逃避,藉口",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "evasive",
+    "phonetic": "/i'veisiv/",
+    "definition": "逃避的,回避的,托辞的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "even",
+    "phonetic": "/'i:vən/",
+    "definition": "平坦的,偶数的,相等的,均匀的,连贯的,均等的,公平的,荹玫?平静的,",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "eventual",
+    "phonetic": "/i'ventjuəl/",
+    "definition": "最后的,终于的,可能的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "evidence",
+    "phonetic": "/'evidəns/",
+    "definition": "证据,迹象",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "evident",
+    "phonetic": "/'evidənt/",
+    "definition": "显然的,明显的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "evoke",
+    "phonetic": "/i'vəuk/",
+    "definition": "唤起,引起",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "evolutionary",
+    "phonetic": "/'i:və'lu:ʃnəri/",
+    "definition": "1 进化论的2 展开 [进展] 的; 演变 [演化] 的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "evolve",
+    "phonetic": "/i'vɔlv/",
+    "definition": "进展,进化,展开vt. 使发展,推论,使进化",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "exacting",
+    "phonetic": "/ig'zæktiŋ/",
+    "definition": "苛求的,吃力的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "exaggerate",
+    "phonetic": "/ig'zædʒəreit/",
+    "definition": "vi. 夸大,夸张",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "exalt",
+    "phonetic": "/ig'zɔ:lt/",
+    "definition": "提升,提高,赞扬,使得意vi. 使人兴奋",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "exalted",
+    "phonetic": "/ig'zɔ:ltid/",
+    "definition": "尊贵的,高位的,高尚的,兴奋的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "exasperate",
+    "phonetic": "/ig'za:spəreit/",
+    "definition": "使恼怒,激怒,恶化a. 恼怒的,激怒的,恶化的",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "excavate",
+    "phonetic": "/'ekskəveit/",
+    "definition": "vi. 挖,挖开,凿通",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "excellent",
+    "phonetic": "/'eksələnt/",
+    "definition": "优良的,杰出的,出色的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "exception",
+    "phonetic": "/ik'sepʃən/",
+    "definition": "例外,除外,异议",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "exceptional",
+    "phonetic": "/ik'sepʃənl/",
+    "definition": "例外的,异常的,特别的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "excerpt",
+    "phonetic": "/'eksə:pt/",
+    "definition": "摘录,引用vt. 摘录,引用",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "excess",
+    "phonetic": "/ik'ses,'ekses/",
+    "definition": "过度,剩于,超过,超额a. 过度的,额外的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "excessive",
+    "phonetic": "/ik'sesiv/",
+    "definition": "过度的,格外的,极端的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "exchange",
+    "phonetic": "/iks'tʃeindʒ/",
+    "definition": "交换,汇兑,交易所vt. vi. 交换,交易,兑换",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "excitement",
+    "phonetic": "/ik'saitmənt/",
+    "definition": "刺激,兴奋",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "exclaim",
+    "phonetic": "/iks'kleim/",
+    "definition": "vi. 大叫,呼喊,大声叫",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "exclusion",
+    "phonetic": "/iks'klu:ʒən/",
+    "definition": "排除,除外,逐出",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "exclusive",
+    "phonetic": "/iks'klu:siv/",
+    "definition": "独占的,唯一的,排外的a. 独占的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "excuse",
+    "phonetic": "/iks'kju:z,iks'kju:s] vt./",
+    "definition": "原谅,申辩,做为. . . 的托辞n. 致歉,理由,借口,饶恕,口实",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "exemplary",
+    "phonetic": "/ig'zempləri/",
+    "definition": "可仿效的,可做模范的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "exemplify",
+    "phonetic": "/ig'zəmplifai/",
+    "definition": "例证,例示",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "exempt",
+    "phonetic": "/ig'zempt/",
+    "definition": "免税者,被免除义务者a. 免除的vt. 使免除,豁免",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "exert",
+    "phonetic": "/ig'zə:t/",
+    "definition": "发挥,运用,施以影响",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "exhale",
+    "phonetic": "/'eksheil,eg'zeil/",
+    "definition": "vi. 呼气,发出,发散",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "exhaust",
+    "phonetic": "/ig'zɔ:st/",
+    "definition": "排气,排气装置vt. 用尽,耗尽,抽完,使精疲力尽vi. 排气",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "exhaustive",
+    "phonetic": "/ig'zɔ:stiv/",
+    "definition": "无遗漏的,彻底的,详尽的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "exhibit",
+    "phonetic": "/ig'zibit/",
+    "definition": "展览品,陈列品,展览vt. 展现,陈列,展览vi. 开展览会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "exhume",
+    "phonetic": "/eks'hju:m/",
+    "definition": "掘出,发掘",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "exile",
+    "phonetic": "/'eksail/",
+    "definition": "放逐,流放,被放逐者vt. 放逐,流放,使背井离乡",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "exist",
+    "phonetic": "/ig'zist/",
+    "definition": "存在,发生,生存",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "exit",
+    "phonetic": "/'eksit/",
+    "definition": "出口,退场,离去,去世vi. 退出,脱离,去世v. 退出",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "exodus",
+    "phonetic": "/'eksədəs/",
+    "definition": "大批的离去",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "exorbitant",
+    "phonetic": "/ig'zɔ:bitənt/",
+    "definition": "过度的,过高的,过分的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "exotic",
+    "phonetic": "/ig'zɔutik/",
+    "definition": "异国的,外来的n. 外来物,舶来品",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "expand",
+    "phonetic": "/iks'pænd/",
+    "definition": "使膨胀,详述,扩张vi. 张开,发展v. 展开",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "expansive",
+    "phonetic": "/iks'pænsiv/",
+    "definition": "易膨胀的,易扩张的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "expedient",
+    "phonetic": "/iks'pi:djənt/",
+    "definition": "权宜之计,临时手段a. 权宜的,方便的,有用的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "expedite",
+    "phonetic": "/'ekspidait/",
+    "definition": "加快,促进,派出a. 畅通的,无阻碍的,迅速的,方便的",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "expedition",
+    "phonetic": "/'ekspi'diʃən/",
+    "definition": "远征,探险队,迅速",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "expeditious",
+    "phonetic": "/ekspi'diʃəs/",
+    "definition": "迅速的,敏捷的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "experienced",
+    "phonetic": "/iks'piəriənst/",
+    "definition": "富有经验的,老练的,熟练的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "expertise",
+    "phonetic": "/ekspə'ti:z/",
+    "definition": "专家的意见,专门技术",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "expire",
+    "phonetic": "/iks'paiə/",
+    "definition": "期满,呼气,断气vt. 呼出",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "explicit",
+    "phonetic": "/iks'plisit/",
+    "definition": "外在的,清楚的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "explode",
+    "phonetic": "/iks'pləud/",
+    "definition": "爆炸,爆发,激发vt. 使爆炸",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "exploit",
+    "phonetic": "/'eksplɔit,iks'plɔit] n./",
+    "definition": "功绩,勋绩vt. 开发,利用,开拓,剥削",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "explore",
+    "phonetic": "/iks'plɔ:/",
+    "definition": "vi. 探险,探测,探究",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "explosive",
+    "phonetic": "/iks'pləusiv/",
+    "definition": "炸药,爆炸物a. 易爆发的,爆炸的,暴躁的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "exponent",
+    "phonetic": "/iks'pounənt/",
+    "definition": "说明者,说明物a. 说明的n. 指数",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "exposure",
+    "phonetic": "/iks'pəuʒə/",
+    "definition": "暴露,揭发,揭露",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "expound",
+    "phonetic": "/iks'paund/",
+    "definition": "vi. 详细说明,解释",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "exquisite",
+    "phonetic": "/'ekskwizit/",
+    "definition": "精致的,细腻的,敏锐的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "extant",
+    "phonetic": "/eks'tænt/",
+    "definition": "现存的,未毁的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "extemporaneous",
+    "phonetic": "/ekstempə'reinjə/",
+    "definition": "无准备的,即席的,临时的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "extension",
+    "phonetic": "/iks'tenʃən/",
+    "definition": "延长,扩充,范围n. 扩展名",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "extensive",
+    "phonetic": "/iks'tensiv/",
+    "definition": "广的,广泛的,多方面的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "extenuate",
+    "phonetic": "/ik'stenju'et/",
+    "definition": "减轻,使人原谅",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "exterminate",
+    "phonetic": "/eks'tə:mineit/",
+    "definition": "扑灭,消灭,根绝",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "external",
+    "phonetic": "/eks'tə:nl/",
+    "definition": "外部,外面a. 外部的,客观的,表面的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "extinct",
+    "phonetic": "/iks'tiŋkt/",
+    "definition": "熄灭的,灭绝的,耗尽的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "extinction",
+    "phonetic": "/iks'tiŋkʃən/",
+    "definition": "消失,消灭,废止",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "extinguish",
+    "phonetic": "/iks'tiŋgwiʃ/",
+    "definition": "熄灭,消灭,偿清",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "extol",
+    "phonetic": "/iks'tɔl/",
+    "definition": "颂扬,称赞,吹捧",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "extraneous",
+    "phonetic": "/eks'treinjəs/",
+    "definition": "无关系的,外来的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  }
+]

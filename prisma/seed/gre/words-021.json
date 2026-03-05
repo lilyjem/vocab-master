@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "twinge",
+    "phonetic": "/twindʒ/",
+    "definition": "（生理，心理上的）剧痛",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "typhoon",
+    "phonetic": "/taiˈfuːn/",
+    "definition": "台风",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "typo",
+    "phonetic": "/ˈtaipəu/",
+    "definition": "排印错误",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "typographical",
+    "phonetic": "/ˌtaipəˈɡræfikəl/",
+    "definition": "印刷上的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "tyranny",
+    "phonetic": "/ˈtirəni/",
+    "definition": "暴政，专制统治；暴行",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "tyrant",
+    "phonetic": "/ˈtaiərənt/",
+    "definition": "暴君",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tyro",
+    "phonetic": "/ˈtaiərəu/",
+    "definition": "新手",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "ubiquitous",
+    "phonetic": "/juːˈbikwitəs/",
+    "definition": "无所不在的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ulcer",
+    "phonetic": "/ˈʌlsə/",
+    "definition": "溃疡；腐烂物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ulcerate",
+    "phonetic": "/ˈʌlsəreit/",
+    "definition": "溃烂，生恶疮",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ulterior",
+    "phonetic": "/ʌlˈtiəriə/",
+    "definition": "隐秘的，不可告人的；较晚的，较远的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ultramundane",
+    "phonetic": "/ˌʌltrəˈmʌndein/",
+    "definition": "超俗的，世界之外的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "umbrage",
+    "phonetic": "/ˈʌmbridʒ/",
+    "definition": "不快，感到受了侮辱或冒犯",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "umpire",
+    "phonetic": "/ˈʌmpaiə/",
+    "definition": "裁判；v. 对...进行仲裁",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "unaffected",
+    "phonetic": "/ˌʌnəˈfektid/",
+    "definition": "自然的，不矫揉造作的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unassuming",
+    "phonetic": "/ˈʌnəˈsjuːmiŋ/",
+    "definition": "不摆架子的，不造作的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unbend",
+    "phonetic": "/ˈʌnˈbend/",
+    "definition": "弄直；放松，变得随便",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "unbidden",
+    "phonetic": "/ˌʌnˈbidn/",
+    "definition": "未经邀请的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unbosom",
+    "phonetic": "/ˌʌnˈbuzəm/",
+    "definition": "倾诉，吐露心事",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unbridled",
+    "phonetic": "/ˌʌnˈbraidld/",
+    "definition": "放纵的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "uncommitted",
+    "phonetic": "/ˈʌnkəˈmitid/",
+    "definition": "不受约束的；不承担责任的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unconscionable",
+    "phonetic": "/ʌnˈkɔnʃənəbl/",
+    "definition": "无节制的，过度的，不合理的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "uncooperative",
+    "phonetic": "/ˌʌnkəuˈɔpərətiv/",
+    "definition": "不愿合作的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "uncouth",
+    "phonetic": "/ʌnˈkuːθ/",
+    "definition": "粗野笨拙的，无教养的；拙于说话的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unctuous",
+    "phonetic": "/ˈʌŋktjuəs/",
+    "definition": "油质的；油腔滑调的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "underbid",
+    "phonetic": "/ˈʌndəˈbid/",
+    "definition": "要价过低",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "undercut",
+    "phonetic": "/ˈʌndəkʌt/",
+    "definition": "削价与（竞争者）抢生意",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "underdog",
+    "phonetic": "/ˈʌndədɔɡ/",
+    "definition": "处于劣势的人或国家",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "underestimated",
+    "phonetic": "/ˈʌndərˈestimeitid/",
+    "definition": "低估的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "undergird",
+    "phonetic": "/ˈʌndəˈɡəːd/",
+    "definition": "从底部加强，加固",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "underhanded",
+    "phonetic": "/ˈʌndəhændid/",
+    "definition": "不光明的，卑鄙的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "underling",
+    "phonetic": "/ˈʌndəliŋ/",
+    "definition": "下属，手下",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "underplay",
+    "phonetic": "/ˈʌndəˈplei/",
+    "definition": "淡化...的重要性；表演（角色）不充分",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "underrate",
+    "phonetic": "/ʌndəˈreit/",
+    "definition": "低估，轻视，对...评价过低",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "understate",
+    "phonetic": "/ˈʌndəˈsteit/",
+    "definition": "掩饰地说，轻描淡写地说",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "understated",
+    "phonetic": "/ˈʌndəˈsteitid/",
+    "definition": "不完全陈述的，轻描淡写的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "understatement",
+    "phonetic": "/ˌʌndəˈsteitmənt/",
+    "definition": "轻描淡写的陈述，不充分的陈述",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "understudy",
+    "phonetic": "/ˈʌndə,stʌdi/",
+    "definition": "预备演员，替角；v. 充当...的替角",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "underutilized",
+    "phonetic": "/ˌʌndəˈjuːtilaizd/",
+    "definition": "未充分利用的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "underwrite",
+    "phonetic": "/ˈʌndərait/",
+    "definition": "同意负担...的费用；为...保险",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "undeserved",
+    "phonetic": "/ʌndiˈzəːvd/",
+    "definition": "不应得的，不公平的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "undesirable",
+    "phonetic": "/ˈʌndiˈzaiərəbl/",
+    "definition": "令人不悦的，讨厌的；不想要的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "undirected",
+    "phonetic": "/ˈʌndiˈrektid/",
+    "definition": "未受指导的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "undisputable",
+    "phonetic": "/ˌʌndisˈpjuːtəbl/",
+    "definition": "无可争辩的，毫无疑问的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "undulate",
+    "phonetic": "/ˈʌndjuleit/",
+    "definition": "波动，起伏",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unearthly",
+    "phonetic": "/ʌnˈəːθli/",
+    "definition": "奇异的，超自然的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unenlightened",
+    "phonetic": "/ˈʌninˈlaitnd/",
+    "definition": "愚昧无知的；不文明的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "unexceptionable",
+    "phonetic": "/ˈʌnikˈsepʃənəbl/",
+    "definition": "无可非议的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "unexceptional",
+    "phonetic": "/ˌʌnikˈsepʃənl/",
+    "definition": "非例外的，普通的，平凡的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "unfailing",
+    "phonetic": "/ʌnˈfeiliŋ/",
+    "definition": "无尽的，无穷的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unfasten",
+    "phonetic": "/ˈʌnˈfɑːsn/",
+    "definition": "解开",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unfeigned",
+    "phonetic": "/ʌnˈfeind/",
+    "definition": "真实的；不作假的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unflappable",
+    "phonetic": "/ˈʌnˈflæpəbl/",
+    "definition": "不惊慌的，镇定的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unfounded",
+    "phonetic": "/ˈʌnˈfaundid/",
+    "definition": "无事实根据的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ungainly",
+    "phonetic": "/ʌnˈɡeinli/",
+    "definition": "笨拙的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ungrudging",
+    "phonetic": "/ˈʌnˈɡrʌdʒiŋ/",
+    "definition": "慷慨的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unguent",
+    "phonetic": "/ˈʌŋɡwənt/",
+    "definition": "药膏，软膏",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unicorn",
+    "phonetic": "/ˈjuːnikɔːn/",
+    "definition": "（传说中的）独角兽",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unidimensional",
+    "phonetic": "/ˈjuːnidiˈmenʃənl/",
+    "definition": "一方面的；一维的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "unimpassioned",
+    "phonetic": "/ˈʌnimˈpæʃənd/",
+    "definition": "没有激情的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "unimpeachable",
+    "phonetic": "/ˌʌnimˈpiːtʃəbl/",
+    "definition": "无可指摘的，无可置疑的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "uninitiated",
+    "phonetic": "/ʌniˈniʃieitid/",
+    "definition": "外行的，缺乏经验的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unison",
+    "phonetic": "/ˈjuːnisn/",
+    "definition": "齐奏，齐唱；一致的或协调的行动",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "univocal",
+    "phonetic": "/ˌjuːniˈvəukəl/",
+    "definition": "（词，术语）只有一个意义的，单义的；无歧义的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unjustified",
+    "phonetic": "/ʌnˈdʒʌstifaid/",
+    "definition": "未被证明为正当的，无法解释的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unjustly",
+    "phonetic": "/ʌnˈdʒʌstli/",
+    "definition": "不正当地，不公平地",
+    "partOfSpeech": "adv.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unkempt",
+    "phonetic": "/ˈʌnˈkempt/",
+    "definition": "（衣服、头发）不整洁的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unmitigated",
+    "phonetic": "/ʌnˈmitiɡeitid/",
+    "definition": "未缓和的，未减轻的，全然的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unmoved",
+    "phonetic": "/ˈʌnˈmuːvd/",
+    "definition": "无动于衷的，冷漠的；镇定的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unnoticed",
+    "phonetic": "/ˈʌnˈnəutist/",
+    "definition": "不引人注意的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unobtrusive",
+    "phonetic": "/ˈʌnəbˈtruːsiv/",
+    "definition": "不引人注目的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unpalatable",
+    "phonetic": "/ʌnˈpælətəbl/",
+    "definition": "不可口的；令人讨厌的，令人无法认同的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unpremeditated",
+    "phonetic": "/ˈʌnpriˈmediteitid/",
+    "definition": "非预谋的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "unprepossessing",
+    "phonetic": "/ʌnpriːpəˈzesiŋ/",
+    "definition": "不吸引人的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "unpretentious",
+    "phonetic": "/ʌnpriˈtenʃəs/",
+    "definition": "不炫耀的，质朴的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "unprincipled",
+    "phonetic": "/ʌnˈprinsəpld/",
+    "definition": "肆无忌惮的，不道德的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "unproductive",
+    "phonetic": "/ˈʌnprəˈdʌktiv/",
+    "definition": "徒然的，无成效的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "unprovoked",
+    "phonetic": "/ˈʌnprəˈvəukt/",
+    "definition": "（生气等）无缘无故的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unqualified",
+    "phonetic": "/ˈʌnˈkwɔlifaid/",
+    "definition": "无资格的；无限制的，绝对的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unregenerate",
+    "phonetic": "/ʌnriˈdʒenərət/",
+    "definition": "不知悔改的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "unregulated",
+    "phonetic": "/ʌnˈreɡjuleitid/",
+    "definition": "未受管理的，未受约束的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unremitting",
+    "phonetic": "/ˈʌnriˈmitiŋ/",
+    "definition": "不间断的，持续的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unrepentant",
+    "phonetic": "/ˈʌnriˈpentənt/",
+    "definition": "不悔悟的，不后悔的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unrequited",
+    "phonetic": "/ˈʌnriˈkwaitid/",
+    "definition": "无报答的，无回报的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unreserved",
+    "phonetic": "/ˈʌnriˈzəːvd/",
+    "definition": "无限制的；未被预定的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unscathed",
+    "phonetic": "/ˈʌnˈskeiðd/",
+    "definition": "未受损伤的，未遭伤害的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unscented",
+    "phonetic": "/ˌʌnˈsentid/",
+    "definition": "无气味的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unscrupulous",
+    "phonetic": "/ʌnˈskruːpjuləs/",
+    "definition": "肆无忌惮的，无道德原则的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "unscrupulousness",
+    "phonetic": "/ʌnˈskruːpjuləsnis/",
+    "definition": "狂妄，肆无忌惮",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "unsettle",
+    "phonetic": "/ˈʌnˈsetl/",
+    "definition": "使不安宁，搅乱",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unsettling",
+    "phonetic": "/ˈʌnˈsetliŋ/",
+    "definition": "令人不安的，扰乱的，使窘困的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unsound",
+    "phonetic": "/ˈʌnˈsaund/",
+    "definition": "不结实的，不坚固的；无根据的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unspoiled",
+    "phonetic": "/ʌnˈspɔild/",
+    "definition": "未损坏的，未宠坏的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unspotted",
+    "phonetic": "/ˈʌnˈspɔtid/",
+    "definition": "清白的，无污点的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unstinting",
+    "phonetic": "/ˈʌnˈstintiŋ/",
+    "definition": "极为慷慨的，大方的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unthreatening",
+    "phonetic": "/ˈʌnˈθretəniŋ/",
+    "definition": "不威胁的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "untimely",
+    "phonetic": "/ʌnˈtaimli/",
+    "definition": "过早的；不适时的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "untold",
+    "phonetic": "/ˈʌnˈtəuld/",
+    "definition": "无数的，数不清的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "untoward",
+    "phonetic": "/ʌnˈtəuəd/",
+    "definition": "不幸的，（坏事）没料到的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "untrammeled",
+    "phonetic": "/ʌnˈtræmld/",
+    "definition": "自由自在的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "untutored",
+    "phonetic": "/ˈʌnˈtjuːtəd/",
+    "definition": "未经教育的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unwarranted",
+    "phonetic": "/ˈʌnˈwɔrəntid/",
+    "definition": "没有根据的，不应当的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unwieldy",
+    "phonetic": "/ʌnˈwiːldi/",
+    "definition": "笨重的，笨拙的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unwitting",
+    "phonetic": "/ˌʌnˈwitiŋ/",
+    "definition": "无心的，不经意的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unwonted",
+    "phonetic": "/ʌnˈwəuntid/",
+    "definition": "不寻常的；不习惯的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unworldly",
+    "phonetic": "/ˈʌnˈwəːldli/",
+    "definition": "非世俗的；精神上的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "upbraid",
+    "phonetic": "/ʌpˈbreid/",
+    "definition": "斥责，责骂",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "upfront",
+    "phonetic": "/ˌʌpˈfrʌnt/",
+    "definition": "坦率的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "uproarious",
+    "phonetic": "/ʌpˈrɔːriəs/",
+    "definition": "骚动的，喧嚣的；令人捧腹（大笑）的，非常有趣的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "upstage",
+    "phonetic": "/ˈʌpsteidʒ/",
+    "definition": "骄傲的，高傲的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "upstart",
+    "phonetic": "/ˈʌpstɑːt/",
+    "definition": "突然升官的人，暴发户",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "upsurge",
+    "phonetic": "/ʌpˈsəːdʒ/",
+    "definition": "（情绪）高涨",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "upswing",
+    "phonetic": "/ˈʌpswiŋ/",
+    "definition": "上升，增长",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "uptight",
+    "phonetic": "/ˈʌpˈtait/",
+    "definition": "焦虑不安的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "urchin",
+    "phonetic": "/ˈəːtʃin/",
+    "definition": "顽童；[动物]海胆",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ursine",
+    "phonetic": "/ˈəːsain/",
+    "definition": "熊的，像熊的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "usurp",
+    "phonetic": "/juːˈzəːp/",
+    "definition": "篡夺，霸占（权位）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "usury",
+    "phonetic": "/ˈjuːʒuri/",
+    "definition": "放高利贷",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "utensil",
+    "phonetic": "/ju(ː)ˈtensl/",
+    "definition": "工具，（厨房）用具",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "utopia",
+    "phonetic": "/juːˈtəupjə/",
+    "definition": "理想国，理想的完美境界",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "utopian",
+    "phonetic": "/juːˈtəupjən/",
+    "definition": "乌托邦式的，空想的，不切实际的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "uxorious",
+    "phonetic": "/ʌkˈsɔːriəs/",
+    "definition": "宠爱妻子的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vacillate",
+    "phonetic": "/ˈvæsileit/",
+    "definition": "举棋不定，踌躇",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "vacuous",
+    "phonetic": "/ˈvækjuəs/",
+    "definition": "发呆的，愚笨的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vagabond",
+    "phonetic": "/ˈvæɡəbənd/",
+    "definition": "浪荡子，流浪者；a. 流浪的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vagary",
+    "phonetic": "/ˈveiɡəri/",
+    "definition": "奇想，异想天开",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vagrancy",
+    "phonetic": "/ˈveiɡrənsi/",
+    "definition": "游荡，流浪",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vagrant",
+    "phonetic": "/ˈveiɡrənt/",
+    "definition": "漂泊的，流浪的；n. 流浪汉，居无定所或无固定工作的人",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "valediction",
+    "phonetic": "/ˈvælidikʃən/",
+    "definition": "告别演说",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "valedictory",
+    "phonetic": "/ˌvæliˈdiktəri/",
+    "definition": "告别的，离别的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "valetudinarian",
+    "phonetic": "/ˈvælitjuːdiˈneəriən/",
+    "definition": "体弱的人，过分担心生病的人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "valorous",
+    "phonetic": "/ˈvælərəs/",
+    "definition": "勇敢的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vampire",
+    "phonetic": "/ˈvæmpaiə/",
+    "definition": "吸血鬼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vandalism",
+    "phonetic": "/ˈvændəliz（ə）m/",
+    "definition": "（对公物等）恶意破坏",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "vandalize",
+    "phonetic": "/ˈvændlaiz/",
+    "definition": "肆意破坏（公物）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "vanguard",
+    "phonetic": "/ˈvænɡɑːd/",
+    "definition": "前卫",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vanilla",
+    "phonetic": "/vəˈnilə/",
+    "definition": "香草，香子兰（热带兰科植物）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vantage",
+    "phonetic": "/ˈvaːntidʒ/",
+    "definition": "优势，有利地位",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vapid",
+    "phonetic": "/ˈvæpid/",
+    "definition": "索然无味的，枯燥的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vaporization",
+    "phonetic": "/ˌveipəraiˈzeiʃən/",
+    "definition": "蒸发",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "vaporize",
+    "phonetic": "/ˈveipəraiz/",
+    "definition": "（使）蒸发",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vaporous",
+    "phonetic": "/ˈveipərəs/",
+    "definition": "无实质的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "variance",
+    "phonetic": "/ˈveəriəns/",
+    "definition": "矛盾，意见不一；不同",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "variegate",
+    "phonetic": "/ˈveəriɡeit/",
+    "definition": "使...多样化；使...呈杂色",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "variegation",
+    "phonetic": "/ˌveəriəˈɡeiʃən/",
+    "definition": "杂色，班驳",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "vaunting",
+    "phonetic": "/ˈvɔːntiŋ/",
+    "definition": "吹嘘的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "veer",
+    "phonetic": "/viə/",
+    "definition": "转向，改变（话题等）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "vegetate",
+    "phonetic": "/ˈvedʒiteit/",
+    "definition": "像植物般生活,无所事事",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "velvety",
+    "phonetic": "/ˈvelviti/",
+    "definition": "柔软光滑的，爽口的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "venal",
+    "phonetic": "/ˈviːnl/",
+    "definition": "可收买的，贪赃枉法的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vendetta",
+    "phonetic": "/venˈdetə/",
+    "definition": "世仇，宿怨",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "veneer",
+    "phonetic": "/vəˈniə/",
+    "definition": "（镶于劣质东西上的）镶饰；虚饰的外表",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vengeance",
+    "phonetic": "/ˈvendʒəns/",
+    "definition": "报仇，报复",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "vengeful",
+    "phonetic": "/ˈvendʒful/",
+    "definition": "报复的，复仇心理的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "venial",
+    "phonetic": "/ˈviːniəl/",
+    "definition": "（错误等）轻微的，可原谅的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "venom",
+    "phonetic": "/ˈvenəm/",
+    "definition": "毒液；恶毒，痛恨",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ventral",
+    "phonetic": "/ˈventrəl/",
+    "definition": "腹部的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ventriloquist",
+    "phonetic": "/venˈtriləkwist/",
+    "definition": "口技表演者，会口技的人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "veracious",
+    "phonetic": "/vəˈreiʃəs/",
+    "definition": "诚实的，说真话的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "veracity",
+    "phonetic": "/vəˈræsiti/",
+    "definition": "真实性，诚实",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "verbatim",
+    "phonetic": "/vəːˈbeitim/",
+    "definition": "逐字的，照字面的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "verbiage",
+    "phonetic": "/ˈvəːbiidʒ/",
+    "definition": "啰嗦，赘语，冗词",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "verbose",
+    "phonetic": "/vəːˈbəus/",
+    "definition": "冗长的，啰嗦的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "verboten",
+    "phonetic": "/vəːˈbəutən/",
+    "definition": "被禁止的，严禁的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "verdant",
+    "phonetic": "/ˈvəːdənt/",
+    "definition": "青葱的，翠绿的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "verdigris",
+    "phonetic": "/ˈvəːdiɡris/",
+    "definition": "铜锈，铜绿",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "verified",
+    "phonetic": "/ˈverifaid/",
+    "definition": "核实的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "verisimilar",
+    "phonetic": "/ˌveriˈsimilə/",
+    "definition": "好像真实的；可能的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "verisimilitude",
+    "phonetic": "/ˌverəsiˈmili,tuːd/",
+    "definition": "逼真",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "veritable",
+    "phonetic": "/ˈveritəbl/",
+    "definition": "确实的，名副其实的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "vermin",
+    "phonetic": "/ˈvəːmin/",
+    "definition": "害虫，寄生虫",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vernacular",
+    "phonetic": "/vəˈnækjulə/",
+    "definition": "本国语，地方语",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "vernal",
+    "phonetic": "/ˈvəːnl/",
+    "definition": "春季的，春季似的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "versant",
+    "phonetic": "/ˈvəːsənt/",
+    "definition": "专心从事的；n. 斜坡",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "versemonger",
+    "phonetic": "/ˌvəːsˈmʌŋɡə/",
+    "definition": "拙劣诗人，打油诗人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "vertex",
+    "phonetic": "/ˈvəːteks/",
+    "definition": "（三角形等）顶角；顶点，最高点",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vertigo",
+    "phonetic": "/ˈvəːtiɡəu/",
+    "definition": "眩晕",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "verve",
+    "phonetic": "/vəːv/",
+    "definition": "（艺术作品的）神韵，气韵；（人）生机（尤指在文艺工作中）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vestigial",
+    "phonetic": "/vesˈtidʒiəl/",
+    "definition": "退化的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "vestment",
+    "phonetic": "/ˈvestmənt/",
+    "definition": "（作礼拜时教士的）法衣，官服",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vesture",
+    "phonetic": "/ˈvestʃə/",
+    "definition": "衣服；覆盖物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "veterinary",
+    "phonetic": "/ˈvetərinəri/",
+    "definition": "兽医的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "vexation",
+    "phonetic": "/vekˈseiʃən/",
+    "definition": "困扰，苦恼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "viability",
+    "phonetic": "/ˌvaiəˈbiliti/",
+    "definition": "可行性；生存能力，存活力",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "viaduct",
+    "phonetic": "/ˈvaiədʌkt/",
+    "definition": "高架桥",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "viand",
+    "phonetic": "/ˈvaiənd/",
+    "definition": "[-s]食品，食物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vibrancy",
+    "phonetic": "/ˈvaibrənsi/",
+    "definition": "生机勃勃，活泼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vibrant",
+    "phonetic": "/ˈvaibrənt/",
+    "definition": "振动的；（颜色）鲜明的，明快的；生机勃勃的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vicar",
+    "phonetic": "/ˈvikə/",
+    "definition": "教区牧师",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vicarious",
+    "phonetic": "/vaiˈkeəriəs/",
+    "definition": "替代别人（感受，做）的，代理的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "vicissitude",
+    "phonetic": "/viˈsisitjuːd/",
+    "definition": "变化，变迁，荣枯，盛衰",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "vicissitudinous",
+    "phonetic": "/vi,sisiˈtjuːdinəs/",
+    "definition": "有变化的，变迁的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "vie",
+    "phonetic": "/vai/",
+    "definition": "竞争",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "vile",
+    "phonetic": "/vail/",
+    "definition": "恶劣的，卑鄙的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "vilify",
+    "phonetic": "/ˈvilifai/",
+    "definition": "辱骂，诽谤",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "villainous",
+    "phonetic": "/ˈvilənəs/",
+    "definition": "邪恶的，恶毒的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "vim",
+    "phonetic": "/vim/",
+    "definition": "精力，活力",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "vindication",
+    "phonetic": "/ˌvindiˈkeiʃən/",
+    "definition": "洗冤；证实",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "vindictive",
+    "phonetic": "/vinˈdiktiv/",
+    "definition": "报复性的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "vinegared",
+    "phonetic": "/ˈviniɡəd/",
+    "definition": "酸的，尖刻的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  }
+]

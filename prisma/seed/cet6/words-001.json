@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "abandon",
+    "phonetic": "/əˈbændən/",
+    "definition": "1. 抛弃，放弃 2. 离弃(家园、船只、飞机等) 3. 遗弃(妻、子女等)",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "abnormal",
+    "phonetic": "/æbˈnɔːməl/",
+    "definition": "不正常的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "abolish",
+    "phonetic": "/əˈbɒlɪʃ/",
+    "definition": "废除，消除 v. 废除，取消",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "abortion",
+    "phonetic": "/әˈbɒːʃәn/",
+    "definition": "1. 流产，小产，堕胎 2. (计划、工程等的)中途失败;中止，中辍的计划",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "abrupt",
+    "phonetic": "/əˈbrʌpt/",
+    "definition": "1. 突然的，出其 不意的 2. 陡峭的  3. 粗鲁的，无礼的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "absence",
+    "phonetic": "/ˈæbsəns/",
+    "definition": "1. 缺席 2. 缺乏，不存在",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "absorb",
+    "phonetic": "/əbˈsɔːb/",
+    "definition": "1. 吸收(水、热、光等) 2. 吸引(注意)，使专心，使全神贯注",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "abstract",
+    "phonetic": "/ˈæbstrækt/",
+    "definition": "抽象的 n. 摘要，概括 v. 1. 提取，抽取 2. 摘录…的要点 3. 转移…(注意等)",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "absurd",
+    "phonetic": "/əbˈsɜːd/",
+    "definition": "不合理的，荒谬的，可笑的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "abundance",
+    "phonetic": "/əˈbʌndəns/",
+    "definition": "丰富，充裕，大量",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "abundant",
+    "phonetic": "/əˈbʌndənt/",
+    "definition": "大量的，充裕的，丰富的 || be abundant in, be abundant with 有丰富的，有大量的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "abuse",
+    "phonetic": "/əˈbjuːz/",
+    "definition": "1. 辱骂，咒骂 2. 滥用，妄用 3. 虐待  [əˈbjuːs] n. 1. 辱骂，咒骂 2. 滥用，妄用 3. 虐待 4. 弊病，恶习",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "academic",
+    "phonetic": "/ˌækəˈdemɪk/",
+    "definition": "1. 学校的，学院的 2. 学者式的，非实用的 3. 学术的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "accelerate",
+    "phonetic": "/əkˈseləreɪt/",
+    "definition": "(使)加速",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "acceptance",
+    "phonetic": "/əkˈseptəns/",
+    "definition": "接受，领受",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "access",
+    "phonetic": "/ˈækses/",
+    "definition": "1. (接近或进入某地的)方法，通路  2. (使用某物或接近某人的)机会或权利  v. 存取(计算机文件)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "accessory",
+    "phonetic": "/əkˈsesərɪ/",
+    "definition": "附属品，附件",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "accident",
+    "phonetic": "/ˈæksɪdənt/",
+    "definition": "意外事件 || by accident偶然地  /without accident平安无事地",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "accommodate",
+    "phonetic": "/əˈkɒmədeɪt/",
+    "definition": "1. 容纳，接纳，提供…住宿  2. 使适应，使适合，调节 3. 帮助解决(困难)",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "accommodation",
+    "phonetic": "/əˌkɒməˈdeɪʃən/",
+    "definition": "(usu pl) 住宿等条件，设施",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "accomplish",
+    "phonetic": "/əˈkʌmplɪʃ/",
+    "definition": "完成，实现，达到(目的)",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "accord",
+    "phonetic": "/əˈkɔːd/",
+    "definition": "符合，一致 n. 协调，一致  || of one’s own accord自愿地，自动地",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "accordance",
+    "phonetic": "/əˈkɔːdəns/",
+    "definition": "符合，一致  || in accordance with根据",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "account",
+    "phonetic": "/əˈkaʊnt/",
+    "definition": "1. 账，账目，账户 2. 报道，记载，叙述  3. 原因，理由 || on account of 因为 /take into account考虑，重视",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "accumulate",
+    "phonetic": "/əˈkjʊːmjʊleɪt/",
+    "definition": "积蓄，积累",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "accurate",
+    "phonetic": "/ˈækjʊrət/",
+    "definition": "准确的，精确的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "accuse",
+    "phonetic": "/əˈkjuːz/",
+    "definition": "1. 指责，谴责 2. 控诉，控告",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "accustomed",
+    "phonetic": "/әˈkʌstәmd/",
+    "definition": "惯常的，习惯了的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "achievement",
+    "phonetic": "/əˈtʃiːvmənt/",
+    "definition": "1. 完成，达到 2. 成就，成绩",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "acid",
+    "phonetic": "/ˈæsɪd/",
+    "definition": "1. 酸味的，苦味的 2. 尖刻的 n. 1. 酸(含氢的化学物质) 2. 迷幻药",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "acknowledge",
+    "phonetic": "/əkˈnɒlɪdʒ/",
+    "definition": "1. 承认 2. 告知收到(信件、礼物等) 3. 表示感谢",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "acquaint",
+    "phonetic": "/əˈkweɪnt/",
+    "definition": "使认识，使了解",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "acquaintance",
+    "phonetic": "/əˈkweɪntəns/",
+    "definition": "1. 相识，了解 2. 相识的人，熟人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "acquire",
+    "phonetic": "/əˈkwaɪə/",
+    "definition": "1. 取得，获得，习得 2. 学到(知识等)",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "activate",
+    "phonetic": "/ˈæktɪveɪt/",
+    "definition": "1. 使活动，使活跃，使积极 2. 刺激，激化",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "acute",
+    "phonetic": "/əˈkjuːt/",
+    "definition": "1. 尖锐的，锐角的 2. 激烈的，严重的 3. 敏锐的 4. (疾病)急性的，(疼痛)剧烈的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "adapt",
+    "phonetic": "/əˈdæpt/",
+    "definition": "1. 使适应，适合 2. 改编，改写",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "addict",
+    "phonetic": "/ˈædɪkt; əˈdɪkt/",
+    "definition": "1. 有瘾的人 2. 对某事有强烈兴趣的人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "addition",
+    "phonetic": "/əˈdɪʃən/",
+    "definition": "加，加法 || in addition (to)另外，除…之外",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "additional",
+    "phonetic": "/əˈdɪʃənəl/",
+    "definition": "附加的，追加的，另外的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "adequate",
+    "phonetic": "/ˈædɪkwɪt/",
+    "definition": "适当的，充分的，足够的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "adhere",
+    "phonetic": "/ədˈhɪə/",
+    "definition": "1. 粘附， 粘着 2. 坚持，遵循",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "adjacent",
+    "phonetic": "/əˈdʒeɪsənt/",
+    "definition": "邻近的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "adjoin",
+    "phonetic": "/əˈdʒɔɪn/",
+    "definition": "贴近，相接",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "adjust",
+    "phonetic": "/əˈdʒʌst/",
+    "definition": "1. 整顿，整理，安排 2. 使适应于(新环境等)",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "administration",
+    "phonetic": "/ədˌmɪnɪˈstreɪʃən/",
+    "definition": "1. (行政)管理 2. (AmE)政府",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "admit",
+    "phonetic": "/ədˈmɪt/",
+    "definition": "1. 允许(人或物)进入 2. 承认，供认，招认 3. (指在一范围内)可容纳(某人或某事) || admit of  …容纳得下，有…的余地",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "adolescent",
+    "phonetic": "/ˌædəˈlesənt/",
+    "definition": "青少年期的 n. 青少年",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "adopt",
+    "phonetic": "/əˈdɒpt/",
+    "definition": "1. 采用，采纳，采取(态度等) 2. 收养 3. 接受某种习俗 4. 正式通过",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "adore",
+    "phonetic": "/əˈdɔː/",
+    "definition": "1. 敬慕，钟爱，崇拜 2. (infml)很喜欢",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "advantage",
+    "phonetic": "/ədˈvɑːntɪdʒ/",
+    "definition": "优势，益处，利益 || take advantage of利用，乘…机 /to one’s advantage对某人有利",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "adverse",
+    "phonetic": "/ˈædvɜːs/",
+    "definition": "不利的，相反的，敌对的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "advocate",
+    "phonetic": "/ˈædvəkeɪt/",
+    "definition": "拥护，提倡 [ˈædvəkɪt] n. 提倡者，拥护者",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "aerial",
+    "phonetic": "/ˈeərɪəl/",
+    "definition": "1. 空气的，大气的 2. 航空的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "aesthetic",
+    "phonetic": "/iːsˈθetik/",
+    "definition": "美学的，审美的，有美感的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "affection",
+    "phonetic": "/əˈfekʃən/",
+    "definition": "慈爱，友爱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "affiliate",
+    "phonetic": "/əˈfɪlɪeɪt/",
+    "definition": "(指团体)加入(联合),使隶属，附属于",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "affirm",
+    "phonetic": "/əˈfɜːm/",
+    "definition": "坚称，断言，肯定地说",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "afflict",
+    "phonetic": "/əˈflɪkt/",
+    "definition": "使身体(精神)痛苦，折磨",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "aggregate",
+    "phonetic": "/ˈæɡrɪɡeɪt/",
+    "definition": "总数，合计",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "aggressive",
+    "phonetic": "/əˈɡresɪv/",
+    "definition": "1. 侵略性的， 攻击性的，爱寻衅的 2. 有进取心的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "agony",
+    "phonetic": "/ˈæɡənɪ/",
+    "definition": "1. 极度的痛苦 2. 痛苦的挣扎",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "agreeable",
+    "phonetic": "/əˈɡriːəbl/",
+    "definition": "1. 惬意的，爽快的 2. 易相处的  3. 适宜的，适合的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "aid",
+    "phonetic": "/eɪd/",
+    "definition": "援助，帮助 n. 1. 援助，帮助，救护 2. 助手，辅助物",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "air-condition",
+    "phonetic": "/ˈeәkәnˌdiʃən/",
+    "definition": "设以空调设备，用空调调节",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "aisle",
+    "phonetic": "/aɪl/",
+    "definition": "(教堂、戏院等的)通道，走廊",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "alarm",
+    "phonetic": "/əˈlɑːm/",
+    "definition": "1. 警报 2. 惊恐 v. 1. 向…报警，使警觉  2. 使惊恐",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "album",
+    "phonetic": "/ˈælbəm/",
+    "definition": "照相簿，邮票册",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "alcohol",
+    "phonetic": "/ˈælkəhɒl/",
+    "definition": "乙醇，酒精",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "alert",
+    "phonetic": "/əˈlɜːt/",
+    "definition": "1. 警惕的，警觉的 2. 敏捷的，灵活的  n. 警报 ||on the alert (for)警惕着，对…保持戒备(状态)  v. 向…发出警报",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "alien",
+    "phonetic": "/ˈeɪlɪən/",
+    "definition": "外侨，外国人 adj. 1. 外国的，异邦的 2. 敌对的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "alienate",
+    "phonetic": "/ˈeɪlɪəneɪt/",
+    "definition": "使疏远，离间",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "allege",
+    "phonetic": "/əˈledʒ/",
+    "definition": "(在提不出证明的情况下)断言，声称",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "alleviate",
+    "phonetic": "/əˈliːvɪeɪt/",
+    "definition": "缓和，减轻(痛苦等)",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "alliance",
+    "phonetic": "/əˈlaɪəns/",
+    "definition": "同盟，联盟",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "allocate",
+    "phonetic": "/ˈæləkeɪt/",
+    "definition": "分配，配给",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "alloy",
+    "phonetic": "/ˈælɔɪ/",
+    "definition": "合金",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "alter",
+    "phonetic": "/ˈɔːltə/",
+    "definition": "变动",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "alternate",
+    "phonetic": "/ɔːlˈtɜːnət/",
+    "definition": "交替的，轮流的，交错的  [ˈɔːltəneɪt] v. (使)交替，(使)轮流",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "alternative",
+    "phonetic": "/ɔːlˈtɜːnətɪv/",
+    "definition": "1. 两者(或两者以上)选一的，另一可供选择的 2. 选择性的 n. 1. 取舍，抉择 2. 替换物，可供选择的方法",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ambiguous",
+    "phonetic": "/æmˈbɪɡjʊəs/",
+    "definition": "模棱两可的，意义不明确的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ambition",
+    "phonetic": "/æmˈbɪʃən/",
+    "definition": "1. 志向，抱负，雄心 2. 野心，奢望",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ambitious",
+    "phonetic": "/æmˈbɪʃəs/",
+    "definition": "1. 有雄心的，野心勃勃的 2. 劲头十足的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "amend",
+    "phonetic": "/əˈmend/",
+    "definition": "修改，修正，改进",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ammunition",
+    "phonetic": "/ˌæmjʊˈnɪʃən/",
+    "definition": "弹药",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "amplify",
+    "phonetic": "/ˈæmplɪfaɪ/",
+    "definition": "1. 详述，详加解说 2. 放大(声音等)，增强(音量)",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "analogy",
+    "phonetic": "/əˈnælədʒɪ/",
+    "definition": "1. 相似，类似 2. 类推，类比，比拟",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "analyse",
+    "phonetic": "/ˈænәlaiz/",
+    "definition": "分析，细察，分解",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "analysis",
+    "phonetic": "/əˈnæləsɪs/",
+    "definition": "(pl analyses) n. 分析，分解 || in the last (final) analysis归根结底，总而言之",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ancestor",
+    "phonetic": "/ˈænsestə/",
+    "definition": "祖先，祖宗",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ancient",
+    "phonetic": "/ˈeɪnʃənt/",
+    "definition": "古代的，古老的，古式的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "annoy",
+    "phonetic": "/əˈnɔɪ/",
+    "definition": "1. 使烦恼，使生气 2. 打搅",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "annual",
+    "phonetic": "/ˈænjʊəl/",
+    "definition": "每年的，年度的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "anonymous",
+    "phonetic": "/əˈnɒnɪməs/",
+    "definition": "无名的，不具名的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "anticipate",
+    "phonetic": "/ænˈtɪsɪpeɪt/",
+    "definition": "1. 预期，预料，期待 2. 抢先行动，先发制人 3. 预先考虑到，料到…并采取行动",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "anxiety",
+    "phonetic": "/æŋˈzaɪətɪ/",
+    "definition": "1. 忧虑，担心，焦虑 2. 渴望，热望",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "apartment",
+    "phonetic": "/əˈpɑːtmənt/",
+    "definition": "1. 一套房间 2. 一套公寓房间",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "apology",
+    "phonetic": "/əˈpɒlədʒɪ/",
+    "definition": "1. 道歉，认错，谢罪 2. (为信仰等的)辩解",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "apparatus",
+    "phonetic": "/ˌæpəˈreɪtəs/",
+    "definition": "(pl apparatus, apparatuses) n. 器械，设备",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "appeal",
+    "phonetic": "/əˈpiːl/",
+    "definition": "1. 感染力，吸引力 2. 恳求，呼吁 3. 上诉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "appearance",
+    "phonetic": "/əˈpɪərəns/",
+    "definition": "1. 出现，出场，露面 2. 外貌，外观，外表",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "appease",
+    "phonetic": "/əˈpiːz/",
+    "definition": "使满足，平息，抚慰",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "appendix",
+    "phonetic": "/əˈpendɪks/",
+    "definition": "(pl appendixes appendices)  n. 1. 附录 2. 末尾 3. 阑尾",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "applaud",
+    "phonetic": "/əˈplɔːd/",
+    "definition": "1. 鼓掌，欢迎，欢呼 2. 赞成，称赞",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "appliance",
+    "phonetic": "/əˈplaɪəns/",
+    "definition": "器具，机械，装置",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "application",
+    "phonetic": "/ˌæplɪˈkeɪʃən/",
+    "definition": "1. 请求，申请，申请表  2. 应用，适用，运用  3. 施用，敷用药等",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "apply",
+    "phonetic": "/əˈplaɪ/",
+    "definition": "1. 申请，请求 2. 应用，施用，运用 3. 适用",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "appraisal",
+    "phonetic": "/əˈpreɪzəl/",
+    "definition": "评定，鉴定，评价",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "approach",
+    "phonetic": "/əˈprəʊtʃ/",
+    "definition": "1. 靠近，接近 2. 与…打交道  3. 探讨，看待，处理 n. 1. 靠近，接近 2. 探讨，态度，方法",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "appropriate",
+    "phonetic": "/əˈprəʊprɪɪt/",
+    "definition": "适合的，适宜的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "approve",
+    "phonetic": "/əˈpruːv/",
+    "definition": "1. 批准，通过 2. 赞成，称许",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "apt",
+    "phonetic": "/æpt/",
+    "definition": "1. 恰当的，贴切的 2. 易于…的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "arbitrary",
+    "phonetic": "",
+    "definition": "ˈɑːbɪtrərɪ /adj. 1. 随意的，武断的 2. 霸道的，专横的",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "arc",
+    "phonetic": "/ɑːk/",
+    "definition": "弧线，弧形",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "arena",
+    "phonetic": "/əˈriːnə/",
+    "definition": "1. (古罗马圆形剧场中央的)竞技场地，竞技场 2. 活动场所，竞争场所",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "argue",
+    "phonetic": "/ˈɑːɡjuː/",
+    "definition": "辩论，争论",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "armor",
+    "phonetic": "/ˈɑːmә/",
+    "definition": "盔甲，潜水服，装甲 v. 为……装甲",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "arouse",
+    "phonetic": "/əˈraʊz/",
+    "definition": "1. 唤醒  2. 唤起，激起，引起(注意、同情、嫉妒、怀疑等)",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "arrange",
+    "phonetic": "/əˈreɪndʒ/",
+    "definition": "1. 整理，分类，排列 2. 筹备，安排  3. 商妥，商定",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "arrangement",
+    "phonetic": "/əˈreɪndʒmənt/",
+    "definition": "1. 整理，排列，布置 2. 安排，准备，筹备 3. 商定",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "array",
+    "phonetic": "/əˈreɪ/",
+    "definition": "1. 展示，陈列 2. 排列整齐的一队人，一长列(物品) 3. (特殊场合穿的)盛装",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "arrest",
+    "phonetic": "/əˈrest/",
+    "definition": "1. 逮捕，拘留，扣留 2. 抓住，吸引 3. 阻止，阻碍，抑制",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "arrogant",
+    "phonetic": "/ˈærəɡənt/",
+    "definition": "adj·傲慢无礼的，骄傲自大的",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "artery",
+    "phonetic": "/ˈɑːtərɪ/",
+    "definition": "1. 动脉 2. 干线，要道(道路、铁路等)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "articulate",
+    "phonetic": "/ɑːˈtɪkjʊlɪt/",
+    "definition": "1. 清楚明白地表 2. 用关节连接",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "artificial",
+    "phonetic": "/ˌɑːtɪˈfɪʃəl/",
+    "definition": "1. 人造的，人工的 2. 假装的，不自然的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "artillery",
+    "phonetic": "/ɑːˈtɪlərɪ/",
+    "definition": "大炮，炮兵部队",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ascend",
+    "phonetic": "/əˈsend/",
+    "definition": "登高，上升，升高",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ascertain",
+    "phonetic": "/ˌæsəˈteɪn/",
+    "definition": "发现，查明，确定",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ascribe",
+    "phonetic": "/əˈskraɪb/",
+    "definition": "把…归因于，认为…是某人所做",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "aspect",
+    "phonetic": "/ˈæspekt/",
+    "definition": "1. 方面 2. 面貌，外表",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "aspiration",
+    "phonetic": "/ˌæspɪˈreɪʃən/",
+    "definition": "渴望，志向，抱负",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "assassination",
+    "phonetic": "/әˌsæsiˈneiʃәn/",
+    "definition": "暗杀，行刺",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "assault",
+    "phonetic": "/əˈsɔːlt/",
+    "definition": "猛烈地攻击，突击，突袭 v. 1. 突击，袭击 2. 殴打 3. 强奸",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "assemble",
+    "phonetic": "/əˈsembl/",
+    "definition": "1. 聚集，集合 2. 装配(机器等)",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "assert",
+    "phonetic": "/əˈsɜːt/",
+    "definition": "1. 宣称，断言 2. 维护，坚持(权利等)",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "assess",
+    "phonetic": "/əˈses/",
+    "definition": "评估(价值或数额)，评定，核定",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "asset",
+    "phonetic": "/ˈæset/",
+    "definition": "1. 资产，财产 2. 有价值的特性(技能)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "assign",
+    "phonetic": "/əˈsaɪn/",
+    "definition": "1. 分配  (房屋、土地、工作、任务等) 2. 指定(时间、地点等) 3. 委派，指派",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "assignment",
+    "phonetic": "/əˈsaɪnmənt/",
+    "definition": "1. 分配，委派 2. (分派)的任务，指定的(课外)作业",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "assimilate",
+    "phonetic": "/əˈsɪməleɪt/",
+    "definition": "1. 消化，吸收(食物、思想等)  2. 使…同化",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "assistance",
+    "phonetic": "/əˈsɪstəns/",
+    "definition": "援助，帮助",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "associate",
+    "phonetic": "/əˈsəʊʃɪeɪt/",
+    "definition": "1. 结交，交往 2. 使联合 3. 联想  [əˈsəʊʃɪət] n. 同事，同伴",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "association",
+    "phonetic": "/əˌsəʊsiˈeɪʃən/",
+    "definition": "1. 联合，联盟 2. 联想 3. 协会，社团",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "assume",
+    "phonetic": "/əˈsjuːm/",
+    "definition": "1. 假定，设想 2. 承担，接受 3. 装出，佯作 || assuming that…  假定…",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "assumption",
+    "phonetic": "/əˈsʌmpʃən/",
+    "definition": "1. 假定，假设 2. 假装",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "assurance",
+    "phonetic": "/əˈʃʊərəns/",
+    "definition": "1. 担保，保证 2. 肯定，确信 3. 自信",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "assure",
+    "phonetic": "/əˈʃʊə/",
+    "definition": "1. 使确信，使放心，向…保证 2. 保障",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "athlete",
+    "phonetic": "/ˈæθliːt/",
+    "definition": "运动员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "atlas",
+    "phonetic": "/ˈætləs/",
+    "definition": "地图册",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "atmosphere",
+    "phonetic": "/ˈætməsfɪə/",
+    "definition": "1. 空气 2. 大气，大气层 3. 气氛，环境",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "attach",
+    "phonetic": "/əˈtætʃ/",
+    "definition": "1. 缚，系，贴 2. 参加(党派) 3. 把(重点等)放在",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "attack",
+    "phonetic": "/əˈtæk/",
+    "definition": "攻击，进攻，攻打 v. 攻击，进攻，侵袭",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "attain",
+    "phonetic": "/əˈteɪn/",
+    "definition": "1. 达到，完成，获得，实现 2. 到达，至",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "attempt",
+    "phonetic": "/əˈtempt/",
+    "definition": "试做，尝试，企图  n. 1. 尝试，企图 2. 试做的事，未成功的事 3. 攻击，侵害",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "attendant",
+    "phonetic": "/əˈtendənt/",
+    "definition": "1. 侍者，服务员 2. 护理员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "attitude",
+    "phonetic": "/ˈætɪtjuːd/",
+    "definition": "1. 态度，看法 2. 姿势",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "attract",
+    "phonetic": "/əˈtrækt/",
+    "definition": "1. 引起…的注意(兴趣)  2. 吸引",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "attractive",
+    "phonetic": "/əˈtræktɪv/",
+    "definition": "有吸引力的，诱人的，令人愉快的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "attribute",
+    "phonetic": "",
+    "definition": "1[əˈtrɪbjʊːt] v. 把…归因于  || attribute to把…归于",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "auction",
+    "phonetic": "/ˈɔːkʃən/",
+    "definition": "拍卖  v. 以拍卖方式出售，拍卖",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "audience",
+    "phonetic": "/ˈɔːdɪəns/",
+    "definition": "1. 听众，观众 2. 接见，会见",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "authentic",
+    "phonetic": "/ɔːˈθentɪk/",
+    "definition": "真正的，真迹的，原作的，正宗的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "author",
+    "phonetic": "/ˈɔːθə/",
+    "definition": "1. 著者，作家 2. 创造者，创始人，发起人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "authoritative",
+    "phonetic": "/ɔːˈθɒrətətɪv/",
+    "definition": "具权威性的，可信赖的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "authority",
+    "phonetic": "/ɔːˈθɒrətɪ;/",
+    "definition": "1. 权，权力 2. 权威 3. (pl art)当局，官方 4. 职权，权限",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "authorize",
+    "phonetic": "/ˈɒːθәraiz/",
+    "definition": "授权，批准，委托",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "autonomous",
+    "phonetic": "/ɔːˈtɒnəməs/",
+    "definition": "自治的，自主的，有自治权的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "autonomy",
+    "phonetic": "/ɔːˈtɒnəmɪ/",
+    "definition": "自治，自治权",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "avail",
+    "phonetic": "/əˈveɪl/",
+    "definition": "利用",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "available",
+    "phonetic": "/əˈveɪləbl/",
+    "definition": "可用的，可得到的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "avert",
+    "phonetic": "/əˈvɜːt/",
+    "definition": "1. 防止，避免 2. 移开(目光)，避开不看",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "aviation",
+    "phonetic": "/ˌeɪvɪˈeɪʃən/",
+    "definition": "航空，航空学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "avoid",
+    "phonetic": "/əˈvɔɪd/",
+    "definition": "避免，回避，躲开",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "award",
+    "phonetic": "/əˈwɔːd/",
+    "definition": "授予，给以奖励 n. 奖品",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "aware",
+    "phonetic": "/əˈweə/",
+    "definition": "知晓，察觉，意识到",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "awkward",
+    "phonetic": "/ˈɔːkwəd/",
+    "definition": "1. 笨拙的，不熟练的 2. 使用不便的 3. 尴尬的 4. 难应付的，难  处理的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "axis",
+    "phonetic": "/ˈæksɪs/",
+    "definition": "1. 轴，轴心  2. 轴线",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "background",
+    "phonetic": "/ˈbækɡraʊnd/",
+    "definition": "1. 背景 2. 个人的背景资料",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "bacteria",
+    "phonetic": "/bækˈtɪərɪə/",
+    "definition": "细菌",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ballet",
+    "phonetic": "/ˈbæleɪ/",
+    "definition": "芭蕾舞(曲、剧、团)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "bamboo",
+    "phonetic": "/bæmˈbuː/",
+    "definition": "竹子，竹竿",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "band",
+    "phonetic": "/bænd/",
+    "definition": "1. 一帮，一伙(人)  2. 乐队 3. 带，带形物，箍  4. 镶边，嵌条 5. (收音机)波段，频带 v. 1. 用带绑扎 2. 联合",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "bandage",
+    "phonetic": "/ˈbændɪdʒ/",
+    "definition": "绷带  v. 用绷带包扎",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "bang",
+    "phonetic": "/bæŋ/",
+    "definition": "1. 猛撞，猛敲 2. 砰的关上(门等) 3. 发出砰的一声 n. 1. 猛击 2. 砰的一响",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "banquet",
+    "phonetic": "/ˈbæŋkwɪt/",
+    "definition": "宴会 v. 宴请，参加宴会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "barely",
+    "phonetic": "/ˈbeəlɪ/",
+    "definition": "勉强，好容易才",
+    "partOfSpeech": "adv.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "bargain",
+    "phonetic": "/ˈbɑːɡɪn/",
+    "definition": "议价，讨价还价  n. 1. 廉价货 2. 合同，协议 3. 交易 || drive a bargain讨价还价",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "barren",
+    "phonetic": "/ˈbærən/",
+    "definition": "1. (土地)贫瘠的 2. 不孕的，不育的，不结果实的 3. 无用的，无效果的，无实际内容的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "barricade",
+    "phonetic": "/ˌbærɪˈkeɪd/",
+    "definition": "路障，街垒 v. 设路障，封闭，拦阻",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "barrier",
+    "phonetic": "/ˈbærɪə/",
+    "definition": "1. 栅栏，篱笆 2. 障碍，障碍物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "basis",
+    "phonetic": "/ˈbeɪsɪs/",
+    "definition": "(pl bases) n. 基础，根据  || on the basis of  根据",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "batch",
+    "phonetic": "/bætʃ/",
+    "definition": "一批，一组，一群",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "batter",
+    "phonetic": "/ˈbætə/",
+    "definition": "1. 连续猛击，炮击 2. 打烂，用旧",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "beam",
+    "phonetic": "/biːm/",
+    "definition": "1. 梁 2. (日光、灯光等)(一)道，(一)束 v. 1. 微笑 2. 发光",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "beforehand",
+    "phonetic": "/bɪˈfɔːhænd/",
+    "definition": "预先，事先",
+    "partOfSpeech": "adv.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "behave",
+    "phonetic": "/bɪˈheɪv/",
+    "definition": "举动，表现，检点(自己的行为) || Behave yourself! 放规矩点!",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "behavior",
+    "phonetic": "/biˈheivjә/",
+    "definition": "行为，举止",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "belly",
+    "phonetic": "/ˈbelɪ/",
+    "definition": "1. 腹部 2. 胃部",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "beneficial",
+    "phonetic": "/ˌbenɪˈfɪʃəl/",
+    "definition": "有益的，有好处的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  }
+]

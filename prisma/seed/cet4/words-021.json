@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "term",
+    "phonetic": "/təːm/",
+    "definition": "期；学期；条件；词",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "terminal",
+    "phonetic": "/ˈtəːminl/",
+    "definition": "末端的 n.末端",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "terrible",
+    "phonetic": "/ˈterəbl/",
+    "definition": "可怕的；极度的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "terrific",
+    "phonetic": "/təˈrifik/",
+    "definition": "可怕的；极大的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "territory",
+    "phonetic": "/ˈteritəri/",
+    "definition": "领土，版图；领域",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "terror",
+    "phonetic": "/ˈterə/",
+    "definition": "恐怖，惊骇",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "test",
+    "phonetic": "/test/",
+    "definition": "&vt.试验；检验",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "text",
+    "phonetic": "/tekst/",
+    "definition": "原文，本文；课文",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "textbook",
+    "phonetic": "/ˈtekstbuk/",
+    "definition": "课本，教科书",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "textile",
+    "phonetic": "/ˈtekstail/",
+    "definition": "纺织品 a.纺织的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "than",
+    "phonetic": "/ðæn/",
+    "definition": "(比较级)比",
+    "partOfSpeech": "conj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "thank",
+    "phonetic": "/θæŋk/",
+    "definition": "谢谢，感谢 n.感谢",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "that",
+    "phonetic": "/ðæt/",
+    "definition": "那 pron.那 ad.那样",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "the",
+    "phonetic": "/ðə/",
+    "definition": "(定冠词)这，那",
+    "partOfSpeech": "art.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "theatre",
+    "phonetic": "/ˈθiətə(r)/",
+    "definition": "戏院；戏剧；教室",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "their",
+    "phonetic": "/ðeə/",
+    "definition": "他(她、它)们的",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "theirs",
+    "phonetic": "/ðeəz/",
+    "definition": "他(她)们的东西",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "them",
+    "phonetic": "/θem/",
+    "definition": "(宾格)他们",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "themselves",
+    "phonetic": "/ðəmˈselvz/",
+    "definition": "他们自己",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "then",
+    "phonetic": "/ðen/",
+    "definition": "当时；然后；那么",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "theoretical",
+    "phonetic": "/θiəˈretikəl/",
+    "definition": "理论(上)的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "theory",
+    "phonetic": "/ˈθiəri/",
+    "definition": "理论；学说；意见",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "there",
+    "phonetic": "/ðeə/",
+    "definition": "在那里；在那点上",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "thereby",
+    "phonetic": "/ˈðeəˈbai/",
+    "definition": "因此，从而，由此",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "therefore",
+    "phonetic": "/ˈðeəfɔː/",
+    "definition": "因此，所以",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "thermometer",
+    "phonetic": "/θəˈmɔmitə(r)/",
+    "definition": "温度计，寒暑表",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "these",
+    "phonetic": "/ðiːz/",
+    "definition": "&pron.这些",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "they",
+    "phonetic": "/ðei/",
+    "definition": "(主格)他(她)们",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "thick",
+    "phonetic": "/θik/",
+    "definition": "厚的；密的；浓",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "thickness",
+    "phonetic": "/ˈθiknis/",
+    "definition": "厚(度)；密(度)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "thief",
+    "phonetic": "/θiːf/",
+    "definition": "窃贼，偷窃犯",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "thin",
+    "phonetic": "/θin/",
+    "definition": "薄的；淡的 vi.变薄",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "thing",
+    "phonetic": "/θiŋ/",
+    "definition": "物；用品；事；情况",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "think",
+    "phonetic": "/θiŋk/",
+    "definition": "想；想要；认为",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "third",
+    "phonetic": "/θəːd/",
+    "definition": "第三；三分之一",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "thirdly",
+    "phonetic": "/ˈθəːdli/",
+    "definition": "第三",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "thirst",
+    "phonetic": "/θəːst/",
+    "definition": "渴，口渴；渴望",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "thirsty",
+    "phonetic": "/ˈθəːsti/",
+    "definition": "渴的；渴望的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "thirteen",
+    "phonetic": "/ˈθəːˈtiːn/",
+    "definition": "十三，十三个",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "thirty",
+    "phonetic": "/ˈθəːti/",
+    "definition": "三十，三十个",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "this",
+    "phonetic": "/ðis/",
+    "definition": "这；今 pron.这",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "thorn",
+    "phonetic": "/θɔːn/",
+    "definition": "刺，棘；荆棘；蒺藜",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "thorough",
+    "phonetic": "/ˈθʌrə/",
+    "definition": "彻底的；详尽的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "those",
+    "phonetic": "/ðəuz/",
+    "definition": "那些",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "though",
+    "phonetic": "/ðəu/",
+    "definition": "虽然 ad.可是",
+    "partOfSpeech": "conj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "thought",
+    "phonetic": "/θɔːt/",
+    "definition": "思想；思维；想法",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "thoughtful",
+    "phonetic": "/ˈθɔːtful/",
+    "definition": "沉思的；体贴的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "thousand",
+    "phonetic": "/ˈθauzənd/",
+    "definition": "千，千个 n.无数",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "thread",
+    "phonetic": "/θred/",
+    "definition": "线；丝；螺纹；头绪",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "threat",
+    "phonetic": "/θret/",
+    "definition": "威胁，恐吓，凶兆",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "threaten",
+    "phonetic": "/ˈθretn/",
+    "definition": "&vi.威胁，恐吓",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "three",
+    "phonetic": "/θriː/",
+    "definition": "三，三个",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "thrill",
+    "phonetic": "/θril/",
+    "definition": "一阵激动",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "thrive",
+    "phonetic": "/θraiv/",
+    "definition": "兴旺，繁荣，旺盛",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "throat",
+    "phonetic": "/θrəut/",
+    "definition": "咽喉，喉咙；嗓音",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "throne",
+    "phonetic": "/θrəun/",
+    "definition": "宝座，御座；王位",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "throng",
+    "phonetic": "/θrɔŋ/",
+    "definition": "群，人群 vt.挤满",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "through",
+    "phonetic": "/θruː/",
+    "definition": "穿过 ad.从头到尾",
+    "partOfSpeech": "prep.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "throughout",
+    "phonetic": "/θru(ː)ˈaut/",
+    "definition": "遍及 ad.到处",
+    "partOfSpeech": "prep.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "throw",
+    "phonetic": "/θrəu/",
+    "definition": "投，掷，抛，扔",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "thrust",
+    "phonetic": "/θrʌst/",
+    "definition": "插，刺 n.插；讽刺",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "thumb",
+    "phonetic": "/θʌm/",
+    "definition": "(大)拇指",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "thunder",
+    "phonetic": "/ˈθʌndə/",
+    "definition": "雷 vi.打雷 vt.吼出",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "thursday",
+    "phonetic": "/ˈθəːzdi/",
+    "definition": "星期四",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "thus",
+    "phonetic": "/ðʌs/",
+    "definition": "如此，这样；因而",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tick",
+    "phonetic": "/tik/",
+    "definition": "滴答声；记号",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "ticket",
+    "phonetic": "/ˈtikit/",
+    "definition": "票，券；纲领；传票",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tide",
+    "phonetic": "/taid/",
+    "definition": "潮，潮汐；潮流",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tidy",
+    "phonetic": "/ˈtaidi/",
+    "definition": "整洁的；整齐的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tie",
+    "phonetic": "/tai/",
+    "definition": "领带；联系 vt.系",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tiger",
+    "phonetic": "/ˈtaigə/",
+    "definition": "虎",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tight",
+    "phonetic": "/tait/",
+    "definition": "紧的；紧身的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "till",
+    "phonetic": "/til/",
+    "definition": "conj.直到…为止",
+    "partOfSpeech": "prep.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "timber",
+    "phonetic": "/ˈtimbə/",
+    "definition": "木材，木料",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "time",
+    "phonetic": "/taim/",
+    "definition": "时间；时机；次，回",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "timetable",
+    "phonetic": "/ˈtaimteib(ə)l/",
+    "definition": "时间表，时刻表",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "timid",
+    "phonetic": "/ˈtimid/",
+    "definition": "胆怯的；羞怯的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tin",
+    "phonetic": "/tin/",
+    "definition": "锡；罐头",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tiny",
+    "phonetic": "/ˈtaini/",
+    "definition": "微小的，极小的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tip",
+    "phonetic": "/tip/",
+    "definition": "梢，末端，尖，尖端",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tire",
+    "phonetic": "/ˈtaiə/",
+    "definition": "疲劳，累；厌倦",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tired",
+    "phonetic": "/ˈtaiəd/",
+    "definition": "疲劳的；厌倦的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tissue",
+    "phonetic": "/ˈtisjuː/",
+    "definition": "薄绢；薄纸；组织",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "title",
+    "phonetic": "/ˈtaitl/",
+    "definition": "标题，题目；称号",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "to",
+    "phonetic": "/tuː/",
+    "definition": "到，向，达到",
+    "partOfSpeech": "prep.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "toast",
+    "phonetic": "/təust/",
+    "definition": "烤面包 vt.烘，烤",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tobacco",
+    "phonetic": "/təˈbækəu/",
+    "definition": "烟草，烟叶",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "today",
+    "phonetic": "/təˈdei/",
+    "definition": "在今天；现在",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "toe",
+    "phonetic": "/təu/",
+    "definition": "脚趾，足尖",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "together",
+    "phonetic": "/təˈgeðə/",
+    "definition": "共同，一起",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "toilet",
+    "phonetic": "/ˈtɔilit/",
+    "definition": "厕所，盥洗室，浴室",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tolerance",
+    "phonetic": "/ˈtɔlərəns/",
+    "definition": "忍受，容忍；公差",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "tolerate",
+    "phonetic": "/ˈtɔləreit/",
+    "definition": "忍受，容忍，宽恕",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "tomato",
+    "phonetic": "/təˈmɑːtəu/",
+    "definition": "番茄，西红柿",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tomb",
+    "phonetic": "/tuːm/",
+    "definition": "坟，冢",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tomorrow",
+    "phonetic": "/təˈmɔrəu/",
+    "definition": "在明天 n.明天",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ton",
+    "phonetic": "/tʌn/",
+    "definition": "吨；大量",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tone",
+    "phonetic": "/təun/",
+    "definition": "音；腔调；声调",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tongue",
+    "phonetic": "/tʌŋ/",
+    "definition": "舌，舌头；语言",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tonight",
+    "phonetic": "/təˈnait/",
+    "definition": "在今夜 n.今夜",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "too",
+    "phonetic": "/tuː/",
+    "definition": "也，还；太，过分",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tool",
+    "phonetic": "/tuːl/",
+    "definition": "工具，器具，用具",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tooth",
+    "phonetic": "/tuːθ/",
+    "definition": "牙齿",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "top",
+    "phonetic": "/tɔp/",
+    "definition": "顶；首位 a.顶的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "topic",
+    "phonetic": "/ˈtɔpik/",
+    "definition": "题目，论题，话题",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "torch",
+    "phonetic": "/tɔːt∫/",
+    "definition": "火炬，火把；手电筒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "torrent",
+    "phonetic": "/ˈtɔrənt/",
+    "definition": "奔流，激流，洪流",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "tortoise",
+    "phonetic": "/ˈtɔːtəs/",
+    "definition": "龟，乌龟",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "torture",
+    "phonetic": "/ˈtɔːt∫ə/",
+    "definition": "拷问；折磨 vt.拷打",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "toss",
+    "phonetic": "/tɔːs/",
+    "definition": "&vi.扔，抛，掷",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "total",
+    "phonetic": "/ˈtəutl/",
+    "definition": "总的 vi.合计，总共",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "touch",
+    "phonetic": "/tʌt∫/",
+    "definition": "触摸；触动 n.触",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tough",
+    "phonetic": "/tʌf/",
+    "definition": "坚韧的；健壮的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tour",
+    "phonetic": "/tuə/",
+    "definition": "&vi.旅行，游历",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tourist",
+    "phonetic": "/ˈtuərist/",
+    "definition": "旅游者，观光者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "towel",
+    "phonetic": "/ˈtauəl/",
+    "definition": "毛巾，手巾",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tower",
+    "phonetic": "/ˈtauə/",
+    "definition": "塔 vi.屹立，高耸",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "town",
+    "phonetic": "/taun/",
+    "definition": "镇，市镇，城镇",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "toy",
+    "phonetic": "/tɔi/",
+    "definition": "玩具，玩物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "trace",
+    "phonetic": "/treis/",
+    "definition": "痕迹；丝毫 vt.跟踪",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "track",
+    "phonetic": "/træk/",
+    "definition": "行踪；路径；轨道",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tractor",
+    "phonetic": "/ˈtræktə/",
+    "definition": "拖拉机；牵引车",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "trade",
+    "phonetic": "/treid/",
+    "definition": "贸易；职业 vi.交易",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tradition",
+    "phonetic": "/trəˈdi∫ən/",
+    "definition": "传统，惯例",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "traditional",
+    "phonetic": "/trəˈdi∫ən(ə)l/",
+    "definition": "传统的，惯例的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "traffic",
+    "phonetic": "/ˈtræfik/",
+    "definition": "交通，通行；交通量",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "tragedy",
+    "phonetic": "/ˈtrædʒidi/",
+    "definition": "悲剧；惨事，惨案",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "trail",
+    "phonetic": "/treil/",
+    "definition": "痕迹；小径 vt.跟踪",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "train",
+    "phonetic": "/trein/",
+    "definition": "培养 n.列车；队列",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "training",
+    "phonetic": "/ˈtreiniŋ/",
+    "definition": "训练，锻炼，培养",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "traitor",
+    "phonetic": "/ˈtreitə/",
+    "definition": "叛徒，卖国贼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "tram",
+    "phonetic": "/træm/",
+    "definition": "(有轨)电车",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tramp",
+    "phonetic": "/træmp/",
+    "definition": "流浪者，游民",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "transfer",
+    "phonetic": "/trænsˈfəː/",
+    "definition": "转移；调动 vi.转移",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "transform",
+    "phonetic": "/trænsˈfɔːm/",
+    "definition": "改变/造；变换",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "transformation",
+    "phonetic": "/ˌtrænsfəˈmei∫ən/",
+    "definition": "变化；改造；转变",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "transformer",
+    "phonetic": "/trænsˈfɔːmə(r)/",
+    "definition": "变压/转换器",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "transistor",
+    "phonetic": "/trænˈsistə/",
+    "definition": "晶体管",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "translate",
+    "phonetic": "/trænsˈleit/",
+    "definition": "翻译，译 vt.翻译",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "translation",
+    "phonetic": "/trænsˈlei∫ən/",
+    "definition": "翻译；译文/本",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "transmission",
+    "phonetic": "/trænzˈmi∫ən/",
+    "definition": "传送;传动;发射",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "transmit",
+    "phonetic": "/trænzˈmit/",
+    "definition": "传送，传达；发射",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "transparent",
+    "phonetic": "/trænsˈpeərənt/",
+    "definition": "透明的;易识破的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "transport",
+    "phonetic": "/trænsˈpɔːt/",
+    "definition": "运输 n.运输",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "transportation",
+    "phonetic": "/ˌtrænspɔːˈtei∫ən/",
+    "definition": "运输，运送，客运",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "trap",
+    "phonetic": "/træp/",
+    "definition": "陷阱；诡计 vt.诱骗",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "travel",
+    "phonetic": "/ˈtrævl/",
+    "definition": "&vi.&n.旅行",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tray",
+    "phonetic": "/trei/",
+    "definition": "(浅)盘，托盘，碟",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "treason",
+    "phonetic": "/ˈtriːzn/",
+    "definition": "谋反，通敌，叛国罪",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "treasure",
+    "phonetic": "/ˈtreʒə/",
+    "definition": "财富；珍宝 vt.珍视",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "treat",
+    "phonetic": "/triːt/",
+    "definition": "对待；处理 n.款待",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "treatment",
+    "phonetic": "/ˈtriːtmənt/",
+    "definition": "待遇；治疗，疗法",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "treaty",
+    "phonetic": "/ˈtriːti/",
+    "definition": "条约；协议，协定",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tree",
+    "phonetic": "/triː/",
+    "definition": "树",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tremble",
+    "phonetic": "/ˈtrembl/",
+    "definition": "发抖，哆嗦；摇动",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "tremendous",
+    "phonetic": "/triˈmendəs/",
+    "definition": "极大的，非常的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "trend",
+    "phonetic": "/trend/",
+    "definition": "伸向；倾向 n.倾向",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "trial",
+    "phonetic": "/ˈtraiəl/",
+    "definition": "试，试验；审判",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "triangle",
+    "phonetic": "/ˈtraiæŋgl/",
+    "definition": "三角(形)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "tribe",
+    "phonetic": "/traib/",
+    "definition": "部落，宗族",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "trick",
+    "phonetic": "/trik/",
+    "definition": "诡计；窍门 vt.哄骗",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "trifle",
+    "phonetic": "/ˈtraifl/",
+    "definition": "小事，琐事；少许",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "trim",
+    "phonetic": "/trim/",
+    "definition": "整齐的 vt.使整齐",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "trip",
+    "phonetic": "/trip/",
+    "definition": "绊；失足 vt .绊倒",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "triumph",
+    "phonetic": "/ˈtraiəmf/",
+    "definition": "凯旋；胜利 vi.成功",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "troop",
+    "phonetic": "/truːp/",
+    "definition": "军队；一群，大量",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tropical",
+    "phonetic": "/ˈtrɔpikl/",
+    "definition": "热带的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "trouble",
+    "phonetic": "/ˈtrʌbl/",
+    "definition": "烦恼；困难 vi.烦恼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "troublesome",
+    "phonetic": "/ˈtrʌblsəm/",
+    "definition": "令人烦恼的；麻烦的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "trousers",
+    "phonetic": "/ˈtrauzəz/",
+    "definition": "裤子，长裤",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "truck",
+    "phonetic": "/trʌk/",
+    "definition": "卡车，载重汽车",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "true",
+    "phonetic": "/truː/",
+    "definition": "真的；忠实的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "truly",
+    "phonetic": "/truːli/",
+    "definition": "真正地；忠实地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "trumpet",
+    "phonetic": "/ˈtrʌmpit/",
+    "definition": "喇叭，小号",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "trunk",
+    "phonetic": "/trʌŋk/",
+    "definition": "树干；大衣箱，皮箱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "trust",
+    "phonetic": "/trʌst/",
+    "definition": "信任 vt.相信；委托",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "truth",
+    "phonetic": "/truːθ/",
+    "definition": "真理；真实；真实性",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "try",
+    "phonetic": "/trai/",
+    "definition": "试；审问 vi.尝试",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tub",
+    "phonetic": "/tʌb/",
+    "definition": "桶，盆，浴缸，浴盆",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tube",
+    "phonetic": "/ˈtjuːb/",
+    "definition": "管；电子管，显像管",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tuck",
+    "phonetic": "/tʌk/",
+    "definition": "折短，卷起；塞",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tuesday",
+    "phonetic": "/ˈtjuːzdi/",
+    "definition": "星期二",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "tuition",
+    "phonetic": "/tjuːˈi∫ən/",
+    "definition": "教，教诲；学费",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "tumble",
+    "phonetic": "/ˈtʌmbl/",
+    "definition": "摔倒，跌倒；打滚",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tune",
+    "phonetic": "/tjuːn/",
+    "definition": "调子；和谐 vt.调谐",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "tunnel",
+    "phonetic": "/ˈtʌnl/",
+    "definition": "隧道，坑道，地道",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "turbine",
+    "phonetic": "/ˈtəːbain/",
+    "definition": "叶轮机，汽轮机",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "turbulent",
+    "phonetic": "/ˈtəːbjulənt/",
+    "definition": "骚动的，骚乱的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "turkey",
+    "phonetic": "/ˈtəːki/",
+    "definition": "火鸡；火鸡肉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "turn",
+    "phonetic": "/təːn/",
+    "definition": "转；翻 vi.转动",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "turning",
+    "phonetic": "/ˈtəːniŋ/",
+    "definition": "旋转；变向；转弯处",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "turnip",
+    "phonetic": "/ˈtəːnip/",
+    "definition": "萝卜，芜菁",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tutor",
+    "phonetic": "/ˈtjuːtə/",
+    "definition": "家庭教师；导师",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "twelfth",
+    "phonetic": "/twelfθ/",
+    "definition": "第十二",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "twelve",
+    "phonetic": "/twelv/",
+    "definition": "十二，十二个",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "twentieth",
+    "phonetic": "/ˈtwentiiθ/",
+    "definition": "第二十",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "twenty",
+    "phonetic": "/ˈtwenti/",
+    "definition": "二十，二十个",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "twice",
+    "phonetic": "/twais/",
+    "definition": "两次，两倍",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "twin",
+    "phonetic": "/twin/",
+    "definition": "孪生的 n.孪生儿",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "twinkle",
+    "phonetic": "/ˈtwiŋkl/",
+    "definition": "闪烁，闪耀",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  }
+]

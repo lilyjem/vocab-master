@@ -1,0 +1,53 @@
+[
+  {
+    "category": "ui",
+    "description": "顶部导航栏显示 Logo 和导航链接",
+    "steps": [
+      "打开首页 http://localhost:3000",
+      "验证页面顶部有 VocabMaster Logo",
+      "验证底部导航显示 首页、词库、学习、统计、我的 五个导航链接",
+      "验证存在主题切换按钮"
+    ],
+    "passes": true
+  },
+  {
+    "category": "functional",
+    "description": "点击导航链接跳转到对应页面",
+    "steps": [
+      "点击 词库 导航链接",
+      "验证 URL 变为 /wordbooks",
+      "点击 学习 导航链接",
+      "验证 URL 变为 /learn",
+      "点击 统计 导航链接",
+      "验证 URL 变为 /stats",
+      "点击 我的 导航链接",
+      "验证 URL 变为 /profile",
+      "点击 首页 导航链接",
+      "验证 URL 变为 /"
+    ],
+    "passes": true
+  },
+  {
+    "category": "functional",
+    "description": "主题切换按钮可以切换明暗主题",
+    "steps": [
+      "打开首页",
+      "点击主题切换按钮",
+      "验证页面切换为暗色主题",
+      "再次点击主题切换按钮",
+      "验证页面切换回亮色主题"
+    ],
+    "passes": true
+  },
+  {
+    "category": "ui",
+    "description": "移动端底部导航栏可见",
+    "steps": [
+      "设置视口为移动端宽度 (375px)",
+      "打开首页",
+      "验证底部固定导航栏可见",
+      "验证显示 首页、词库、学习、统计、我的 五个图标和标签"
+    ],
+    "passes": true
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "book": {
+    "name": "TOEFL",
+    "description": "托福考试核心词汇，适合北美留学考生",
+    "level": "advanced",
+    "category": "exam",
+    "coverColor": "#10b981",
+    "sortOrder": 5
+  },
+  "words": [
+    { "word": "assume", "phonetic": "/əˈsuːm/", "definition": "假定；承担", "partOfSpeech": "v.", "example": "We must not assume that everyone agrees.", "exampleTranslation": "我们不能假定每个人都同意。", "difficulty": 3 },
+    { "word": "attribute", "phonetic": "/əˈtrɪbjuːt/", "definition": "归因于；属性", "partOfSpeech": "v./n.", "example": "Success is often attributed to hard work.", "exampleTranslation": "成功常被归因于努力。", "difficulty": 3 },
+    { "word": "circumstance", "phonetic": "/ˈsɜːrkəmstæns/", "definition": "情况；环境", "partOfSpeech": "n.", "example": "Under the circumstances, we had to cancel.", "exampleTranslation": "在这种情况下，我们不得不取消。", "difficulty": 3 },
+    { "word": "concentrate", "phonetic": "/ˈkɑːnsəntreɪt/", "definition": "集中；专心", "partOfSpeech": "v.", "example": "I need to concentrate on my studies.", "exampleTranslation": "我需要专注于学习。", "difficulty": 2 },
+    { "word": "conduct", "phonetic": "/kənˈdʌkt/", "definition": "进行；实施", "partOfSpeech": "v.", "example": "The team conducted a series of experiments.", "exampleTranslation": "团队进行了一系列实验。", "difficulty": 3 },
+    { "word": "consequence", "phonetic": "/ˈkɑːnsɪkwens/", "definition": "结果；后果", "partOfSpeech": "n.", "example": "We must consider the consequences of our actions.", "exampleTranslation": "我们必须考虑我们行为的后果。", "difficulty": 3 },
+    { "word": "consider", "phonetic": "/kənˈsɪdər/", "definition": "考虑；认为", "partOfSpeech": "v.", "example": "We need to consider all the options.", "exampleTranslation": "我们需要考虑所有选项。", "difficulty": 2 },
+    { "word": "context", "phonetic": "/ˈkɑːntekst/", "definition": "上下文；背景", "partOfSpeech": "n.", "example": "Words must be understood in context.", "exampleTranslation": "词语必须在上下文中理解。", "difficulty": 3 },
+    { "word": "contribute", "phonetic": "/kənˈtrɪbjuːt/", "definition": "贡献；促成", "partOfSpeech": "v.", "example": "Everyone can contribute to the discussion.", "exampleTranslation": "每个人都可以为讨论做出贡献。", "difficulty": 2 },
+    { "word": "demonstrate", "phonetic": "/ˈdemənstreɪt/", "definition": "证明；展示", "partOfSpeech": "v.", "example": "The experiment demonstrated the theory.", "exampleTranslation": "实验证明了该理论。", "difficulty": 3 },
+    { "word": "determine", "phonetic": "/dɪˈtɜːrmɪn/", "definition": "确定；决定", "partOfSpeech": "v.", "example": "Factors that determine success vary.", "exampleTranslation": "决定成功的因素各不相同。", "difficulty": 2 },
+    { "word": "distinguish", "phonetic": "/dɪˈstɪŋɡwɪʃ/", "definition": "区分；辨别", "partOfSpeech": "v.", "example": "It is hard to distinguish between the two species.", "exampleTranslation": "很难区分这两个物种。", "difficulty": 3 },
+    { "word": "establish", "phonetic": "/ɪˈstæblɪʃ/", "definition": "建立；确立", "partOfSpeech": "v.", "example": "The organization was established in 1990.", "exampleTranslation": "该组织成立于1990年。", "difficulty": 2 },
+    { "word": "evaluate", "phonetic": "/ɪˈvæljueɪt/", "definition": "评估；评价", "partOfSpeech": "v.", "example": "We need to evaluate the effectiveness of the program.", "exampleTranslation": "我们需要评估该项目的有效性。", "difficulty": 3 },
+    { "word": "evidence", "phonetic": "/ˈevɪdəns/", "definition": "证据；证明", "partOfSpeech": "n.", "example": "There is strong evidence to support the claim.", "exampleTranslation": "有强有力的证据支持这一说法。", "difficulty": 2 },
+    { "word": "exclude", "phonetic": "/ɪkˈskluːd/", "definition": "排除；排斥", "partOfSpeech": "v.", "example": "No one should be excluded from education.", "exampleTranslation": "任何人都不应被排除在教育之外。", "difficulty": 3 },
+    { "word": "expand", "phonetic": "/ɪkˈspænd/", "definition": "扩大；扩展", "partOfSpeech": "v.", "example": "The company plans to expand overseas.", "exampleTranslation": "公司计划向海外扩张。", "difficulty": 2 },
+    { "word": "extent", "phonetic": "/ɪkˈstent/", "definition": "程度；范围", "partOfSpeech": "n.", "example": "To what extent do you agree?", "exampleTranslation": "你在多大程度上同意？", "difficulty": 3 },
+    { "word": "focus", "phonetic": "/ˈfoʊkəs/", "definition": "聚焦；焦点", "partOfSpeech": "v./n.", "example": "The study focuses on urban development.", "exampleTranslation": "这项研究聚焦于城市发展。", "difficulty": 2 },
+    { "word": "function", "phonetic": "/ˈfʌŋkʃn/", "definition": "功能；运作", "partOfSpeech": "n./v.", "example": "The heart's function is to pump blood.", "exampleTranslation": "心脏的功能是泵血。", "difficulty": 2 },
+    { "word": "identify", "phonetic": "/aɪˈdentɪfaɪ/", "definition": "识别；确定", "partOfSpeech": "v.", "example": "Scientists identified a new species.", "exampleTranslation": "科学家发现了一个新物种。", "difficulty": 2 },
+    { "word": "ignore", "phonetic": "/ɪɡˈnɔːr/", "definition": "忽视；忽略", "partOfSpeech": "v.", "example": "We cannot ignore the warning signs.", "exampleTranslation": "我们不能忽视警告信号。", "difficulty": 2 },
+    { "word": "imply", "phonetic": "/ɪmˈplaɪ/", "definition": "暗示；意味着", "partOfSpeech": "v.", "example": "His silence implied consent.", "exampleTranslation": "他的沉默意味着同意。", "difficulty": 3 },
+    { "word": "include", "phonetic": "/ɪnˈkluːd/", "definition": "包含；包括", "partOfSpeech": "v.", "example": "The price includes all taxes.", "exampleTranslation": "价格包含所有税费。", "difficulty": 2 },
+    { "word": "involve", "phonetic": "/ɪnˈvɑːlv/", "definition": "涉及；使卷入", "partOfSpeech": "v.", "example": "The project involves many stakeholders.", "exampleTranslation": "该项目涉及许多利益相关者。", "difficulty": 2 },
+    { "word": "major", "phonetic": "/ˈmeɪdʒər/", "definition": "主要的；专业", "partOfSpeech": "adj./n.", "example": "Pollution is a major concern.", "exampleTranslation": "污染是一个主要关切。", "difficulty": 2 },
+    { "word": "occur", "phonetic": "/əˈkɜːr/", "definition": "发生；出现", "partOfSpeech": "v.", "example": "Accidents can occur at any time.", "exampleTranslation": "事故随时可能发生。", "difficulty": 2 },
+    { "word": "process", "phonetic": "/ˈprɑːses/", "definition": "过程；处理", "partOfSpeech": "n./v.", "example": "Learning is a continuous process.", "exampleTranslation": "学习是一个持续的过程。", "difficulty": 2 },
+    { "word": "reflect", "phonetic": "/rɪˈflekt/", "definition": "反映；反思", "partOfSpeech": "v.", "example": "The data reflects current trends.", "exampleTranslation": "数据反映了当前趋势。", "difficulty": 2 },
+    { "word": "require", "phonetic": "/rɪˈkwaɪər/", "definition": "要求；需要", "partOfSpeech": "v.", "example": "The job requires a degree.", "exampleTranslation": "这份工作需要学位。", "difficulty": 2 }
+  ]
+}

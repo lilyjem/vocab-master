@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "lure",
+    "phonetic": "/ljuə/",
+    "definition": "饵,诱惑vt. 引诱,诱惑",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "lurk",
+    "phonetic": "/lə:k/",
+    "definition": "潜伏,潜行vi. 潜藏,潜伏,埋伏",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "luster",
+    "phonetic": "/'lʌstə/",
+    "definition": "光彩,荣誉,光泽vi. 有光泽,发亮vt. 使发光辉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "lusty",
+    "phonetic": "/'lʌsti/",
+    "definition": "健壮的,精力充沛的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "luxuriant",
+    "phonetic": "/lʌg'zjuəriənt/",
+    "definition": "繁茂的,丰富的,肥沃的,华丽的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "luxurious",
+    "phonetic": "/lʌg'zjuəriəs/",
+    "definition": "豪华的,奢侈的,放纵的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "lyric",
+    "phonetic": "/'lirik/",
+    "definition": "抒情诗,歌词a. 抒情的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "magnificent",
+    "phonetic": "/mæg'nifisnt/",
+    "definition": "华丽的,高尚的,丰富的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "maim",
+    "phonetic": "/meim/",
+    "definition": "使残废,使不能工作,使伤残",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "maintain",
+    "phonetic": "/mein'tein/",
+    "definition": "维持,维修,保持,主张,供养,坚持",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "major",
+    "phonetic": "/'meidʒə/",
+    "definition": "主修课,成年人,陆军少校a. 主要的,较多的,严重的,成年的vi. 主修",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "majority",
+    "phonetic": "/mə'dʒɔriti/",
+    "definition": "多数,大半",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "malady",
+    "phonetic": "/'mælədi/",
+    "definition": "病,疾病,弊病",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "malcontent",
+    "phonetic": "/'mælkəntent/",
+    "definition": "抱不平的,不满的,不服的n. 不满现状的人",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "malevolent",
+    "phonetic": "/mə'levələnt/",
+    "definition": "有恶意的,坏心肠的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "malice",
+    "phonetic": "/'mælis/",
+    "definition": "恶意,蓄意,怨恨",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "malicious",
+    "phonetic": "/mə'liʃəs/",
+    "definition": "怀恶意的,恶毒的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "malign",
+    "phonetic": "/mə'lain/",
+    "definition": "有害的,恶性的,有恶意的vt. 诽谤,说坏话",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "malleable",
+    "phonetic": "/'mæliəbl/",
+    "definition": "有延展性的,可锻的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "mammals",
+    "phonetic": "/'mæmlz/",
+    "definition": "哺乳动物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "mandate",
+    "phonetic": "/'mændeit/",
+    "definition": "命令,指令,要求vt. 委任统治",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "mandatory",
+    "phonetic": "/'mændə'təuri/",
+    "definition": "命令的,托管的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "maneuver",
+    "phonetic": "/mə'nu:və/",
+    "definition": "演习,调遣,策略vi. vt. 调遣,演习,用计",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "mangle",
+    "phonetic": "/'mæŋgl/",
+    "definition": "乱砍,损坏,轧布n. 轧布机",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mania",
+    "phonetic": "/'meinjə/",
+    "definition": "狂躁,热衷,狂热",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "manifold",
+    "phonetic": "/'mænifəuld/",
+    "definition": "复印本,多种a. 多种的,有许多部分的,多方面的vt. 复写,繁殖,增多",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "manipulate",
+    "phonetic": "/mə'nipjuleit/",
+    "definition": "操纵,利用,假造,应付",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "manufacture",
+    "phonetic": "/'mænju'fæktʃə/",
+    "definition": "产品,制造vt. 制造,假造vi. 制造",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "manure",
+    "phonetic": "/mə'njuə/",
+    "definition": "肥料,粪肥vt. 施肥于",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "marble",
+    "phonetic": "/'ma:bl/",
+    "definition": "大理石,石弹,雕刻品a. 大理石的,冷酷无情的,坚硬的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "margin",
+    "phonetic": "/'ma:dʒin/",
+    "definition": "页边的空白,边缘,界限,余裕,保证金,差额vt. 加边于,加旁注于v.",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "marine",
+    "phonetic": "/mə'ri:n/",
+    "definition": "舰队,水兵,海运业a. 海的,海产的,海运的,船舶的,海底的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "marital",
+    "phonetic": "/'mæritl/",
+    "definition": "丈夫的,婚姻的,夫妇间的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "maritime",
+    "phonetic": "/'mæritaim/",
+    "definition": "海的,海上的,海员的,沿海的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "marvelous",
+    "phonetic": "/'ma:viləs/",
+    "definition": "令人惊异的,了不起的,不平常的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "mass",
+    "phonetic": "/mæs/",
+    "definition": "块,大多数,质量,弥撒,群众a. 群众的,大规模的,集中的vt. 使集合,",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "massive",
+    "phonetic": "/'mæsiv/",
+    "definition": "大而重的,宽大的,宏伟的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "matchless",
+    "phonetic": "/'mætʃlis/",
+    "definition": "无敌的,无比的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "mathematics",
+    "phonetic": "/'mæθi'mætiks/",
+    "definition": "数学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "maxim",
+    "phonetic": "/'mæksim/",
+    "definition": "格言,座右铭",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "maze",
+    "phonetic": "/meiz/",
+    "definition": "迷宫,迷惘vt. 使迷惘,使混乱,迷失",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "mean",
+    "phonetic": "/mi:n/",
+    "definition": "低劣的,卑贱的,卑鄙的,麻烦的,简陋的,吝啬的,惭愧的,中间的vt. 意",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "meander",
+    "phonetic": "/mi'ændə/",
+    "definition": "河流的曲折,漫步,迂回旅行vi. 缓慢而弯曲地流动,漫谈vt. 使蜿蜒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "means",
+    "phonetic": "/mi:nz/",
+    "definition": "方法,手段,收入,财产,工具",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mechanical",
+    "phonetic": "/mi'kænikəl/",
+    "definition": "机械的,机械性的,力学的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "mechanics",
+    "phonetic": "/mi'kæniks/",
+    "definition": "机械学,技巧,力学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "meddle",
+    "phonetic": "/'medl/",
+    "definition": "干涉,干预,乱搞",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mediate",
+    "phonetic": "/'midieit/",
+    "definition": "居间的,间接的vt. 斡旋,调停vi. 处于中间,调解",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "mediocre",
+    "phonetic": "/'midi'əukə/",
+    "definition": "不好不坏的,通常,平凡的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "meditative",
+    "phonetic": "/'mediteitiv/",
+    "definition": "默想的,耽于默想的,冥想的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "medium",
+    "phonetic": "/'mi:djəm/",
+    "definition": "媒体,方法,媒介a. 半生熟的,中的n. 媒体,中",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "meek",
+    "phonetic": "/mi:k/",
+    "definition": "温顺的,谦恭的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "menace",
+    "phonetic": "/'menəs/",
+    "definition": "威胁,胁迫vt. vi. 威吓,胁迫",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mend",
+    "phonetic": "/mend/",
+    "definition": "改进,改良,修补处,好转vt. 修改,改进,加快,修理vi. 好转,改善",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "menial",
+    "phonetic": "/'miniəl/",
+    "definition": "适合仆人做的,卑微的n. 仆人",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mention",
+    "phonetic": "/'menʃən/",
+    "definition": "提到,言及,陈述vt. 提到,提及",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "merchandise",
+    "phonetic": "/'mə:tʃəndaiz/",
+    "definition": "商品,存货vi. vt. 交易,买卖",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "merciful",
+    "phonetic": "/'mə:siful/",
+    "definition": "仁慈的,慈悲的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "merge",
+    "phonetic": "/mə:dʒ/",
+    "definition": "使合并,使消失,吞没vi. 合并,渐渐消失v. 合并",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "merit",
+    "phonetic": "/'merit/",
+    "definition": "优点,功绩,真相,功过,价值vt. 值得vi. 应受",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "messy",
+    "phonetic": "/'mesi/",
+    "definition": "散乱的,污秽的,麻烦的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "metabolism",
+    "phonetic": "/mə'tæblizəm/",
+    "definition": "新陈代谢,变形",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "methodical",
+    "phonetic": "/mə'θɔdikl/",
+    "definition": "有方法的,有系统的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "mighty",
+    "phonetic": "/'maiti/",
+    "definition": "有势力的人a. 有势力的,强大的,有力的ad. 很,极",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mimicry",
+    "phonetic": "/'mimikri/",
+    "definition": "模仿",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "mine",
+    "phonetic": "/main/",
+    "definition": "矿,富源,地雷vt. 挖掘,开采,在. . . 布雷,破坏vi. 开矿,埋设地雷",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "minority",
+    "phonetic": "/mai'nɔriti/",
+    "definition": "少数,未成年,少数民族a. 少数的,属于少数派的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "minute",
+    "phonetic": "/'minit,mai'nju:t/",
+    "definition": "分,分钟,笔记,备忘录,片刻vt. 记录,摘录,测定时间a. 微小的,详细",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "miser",
+    "phonetic": "/'maizə/",
+    "definition": "守财奴,吝啬鬼,凿井机",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "miserable",
+    "phonetic": "/'mizərəbl/",
+    "definition": "悲惨的,穷困的,不幸的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "miserly",
+    "phonetic": "/'maizəli/",
+    "definition": "吝啬的,贪婪的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "misery",
+    "phonetic": "/'mizəri/",
+    "definition": "悲惨,不幸,穷困",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "misgiving",
+    "phonetic": "/mis'giviŋ/",
+    "definition": "(U) [常 ~s] [对有关未来之事的] 不安,疑惑,忧虑,缺乏信心[about]",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "mishap",
+    "phonetic": "/mis'hæp/",
+    "definition": "不幸之事,灾祸,恶运",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mitigate",
+    "phonetic": "/'mitigeit/",
+    "definition": "镇静,缓和,减轻",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "mock",
+    "phonetic": "/mɔk/",
+    "definition": "嘲笑,戏弄,模仿a. 假的,伪造的,模拟的ad. 虚伪地vt. 嘲弄,模仿,",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "moderate",
+    "phonetic": "/'mɔdərit/",
+    "definition": "适度的,稳健的,中等的,节制的vt. 节制,使稳定,使缓和vi. 变缓和,",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "modest",
+    "phonetic": "/'mɔdist/",
+    "definition": "谦逊的,羞怯的,端庄的,适度的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "modify",
+    "phonetic": "/'mɔdifai/",
+    "definition": "修正,变更,减轻,缓和,修饰v. 修改",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "modulate",
+    "phonetic": "/'mɔdjuleit/",
+    "definition": "调整,使转调,调制vi. 转调,调制",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "moist",
+    "phonetic": "/mɔist/",
+    "definition": "潮湿的,多雨的,感伤的,含泪的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "moisten",
+    "phonetic": "/'mɔisn/",
+    "definition": "弄湿vi. 变潮湿",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "mold",
+    "phonetic": "/məuld/",
+    "definition": "模子,雏型,霉vt. vi. 形成,塑造,发霉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "molecule",
+    "phonetic": "/'mɔlikju:l/",
+    "definition": "分子,些微",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "mollify",
+    "phonetic": "/'mɔlifai/",
+    "definition": "平息,缓和,减轻,使镇静",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "momentous",
+    "phonetic": "/mou'mentəs/",
+    "definition": "重大的,重要的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "monarch",
+    "phonetic": "/'mɔnək/",
+    "definition": "帝王,统治者,元首",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "monitor",
+    "phonetic": "/'mɔnitə/",
+    "definition": "监督器,级长,监听员,告诫物,监视器,班长vt. vi. 监视,监听,监督n.",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "monotonous",
+    "phonetic": "/mə'nɔtənəs/",
+    "definition": "单调的,无变化的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "monster",
+    "phonetic": "/'mɔnstə/",
+    "definition": "怪物,恶人,巨物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "morale",
+    "phonetic": "/mɔ'ra:l/",
+    "definition": "士气,民心",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "morbid",
+    "phonetic": "/'mɔ:bid/",
+    "definition": "不健全的,病态的,疾病的,可怕的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "moron",
+    "phonetic": "/'mɔ:rɔn/",
+    "definition": "低能者,笨人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mortal",
+    "phonetic": "/'mɔ:tl/",
+    "definition": "凡人,人类a. 不免一死的,人类的,临终的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mostly",
+    "phonetic": "/'məustli/",
+    "definition": "大概,大部分,主要",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "motif",
+    "phonetic": "/mou'ti:f/",
+    "definition": "主题,意念,动机,基本花纹",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "motion",
+    "phonetic": "/'məuʃən/",
+    "definition": "移动,手势,动作,提议,请求vt. vi. 打手势",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "motivation",
+    "phonetic": "/'məuti'veiʃən/",
+    "definition": "动机,刺激,推动",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "muddle",
+    "phonetic": "/'mʌdl/",
+    "definition": "混合,使微醉,使咬字不清晰vi. 胡乱对付n. 困惑,混浊状态",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "multitude",
+    "phonetic": "/'mʌltitju:d/",
+    "definition": "多数,群众",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "munificent",
+    "phonetic": "/mju:'nifisnt/",
+    "definition": "宽宏的,慷慨的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "mutation",
+    "phonetic": "/mju:'teiʃən/",
+    "definition": "变化,转变,元音变化",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "mutual",
+    "phonetic": "/'mju:tjuəl/",
+    "definition": "相互的,共有的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mysterious",
+    "phonetic": "/mis'tiəriəs/",
+    "definition": "神秘的,难解的,不可思议的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "narrate",
+    "phonetic": "/næ'reit/",
+    "definition": "vi. 说故事,说明,叙述",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "nationality",
+    "phonetic": "/'næʃə'næliti/",
+    "definition": "国籍,国家,民族性",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "natural",
+    "phonetic": "/'nætʃərəl/",
+    "definition": "天生的白痴a. 自然的,自然界的,本能的,天然的,天生的,物质的,正常",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "naughty",
+    "phonetic": "/'nɔ:ti/",
+    "definition": "顽皮的,没规矩的,不适当的,下流的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "naval",
+    "phonetic": "/'neivəl/",
+    "definition": "海军的,军舰的,有舰队的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "navigation",
+    "phonetic": "/'nævi'geiʃən/",
+    "definition": "航行,航海,导航",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "nearly",
+    "phonetic": "/'niəli/",
+    "definition": "几乎,密切地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "needy",
+    "phonetic": "/'ni:di/",
+    "definition": "贫穷的,贫困的,生活艰苦的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "neglect",
+    "phonetic": "/ni'glekt/",
+    "definition": "疏忽,忽略,怠慢vt. 疏忽,忽视,不顾",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "negligence",
+    "phonetic": "/'neglidʒəns/",
+    "definition": "疏忽,粗心大意,忽视",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "negligent",
+    "phonetic": "/'neglidʒənt/",
+    "definition": "疏忽的,粗心的,不在意的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "negotiate",
+    "phonetic": "/ni'gəuʃieit/",
+    "definition": "商议,谈判,交涉vt. 谈妥,转让,处理",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "nervous",
+    "phonetic": "/'nə:vəs/",
+    "definition": "神经紧张的,不安的,神经的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "neutral",
+    "phonetic": "/'nju:trəl/",
+    "definition": "中立者,中立国,非彩色,齿轮的空档a. 中立的,中性的,无色的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "neutralize",
+    "phonetic": "/'nju:trəlaiz/",
+    "definition": "使中立,使成中立地带,使中和,抵销vi. 中立化,变无效,中和",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "nibble",
+    "phonetic": "/'nibl/",
+    "definition": "半位元组,细咬,轻咬,啃vt. vi. 一点一点地咬,细咬,吹毛求疵n. 半",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "nimble",
+    "phonetic": "/'nimbl/",
+    "definition": "敏捷的,伶俐的,精明的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "nocturnal",
+    "phonetic": "/nɔk'tə:nəl/",
+    "definition": "夜的,夜曲的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "nod",
+    "phonetic": "/nɔd/",
+    "definition": "点头,打盹,摆动vi. 点头,打盹,vt. 点头表示,点(头)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "nominate",
+    "phonetic": "/'nɔmineit/",
+    "definition": "提名,任命,命名",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "nonsense",
+    "phonetic": "/'nɔnsəns/",
+    "definition": "无意义的事,荒谬的言行,荒唐",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "nostalgia",
+    "phonetic": "/na'stældʒiə/",
+    "definition": "乡愁,乡往过去,怀旧之情",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "notable",
+    "phonetic": "/'nəutəbl/",
+    "definition": "著名人士,值得注意之事物a. 值得注意的,显著的,善理家的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "noted",
+    "phonetic": "/'nəutid/",
+    "definition": "著名的,显著的,扬名的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "notorious",
+    "phonetic": "/nəu'tɔ:riəs/",
+    "definition": "声名狼藉的,恶名昭张的,众人皆知的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "novelty",
+    "phonetic": "/'nɔvəlti/",
+    "definition": "新奇,新鲜,新奇的事物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "novice",
+    "phonetic": "/'nɔvis/",
+    "definition": "新手,初学者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "noxious",
+    "phonetic": "/'nɔkʃəs/",
+    "definition": "有害的,有毒的,精神不健全的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "nuclear",
+    "phonetic": "/'nju:kliə/",
+    "definition": "核子的,原子能的,核的,中心的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "null",
+    "phonetic": "/nʌl/",
+    "definition": "无效力的,无效的,无价值的n. 零,空,零迅号",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "numb",
+    "phonetic": "/nʌm/",
+    "definition": "麻木的,失去知觉的vt. 使麻木,使昏迷,使失去知觉",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "numerous",
+    "phonetic": "/'nju:mərəs/",
+    "definition": "很多的,数目众多的,多数的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "nurture",
+    "phonetic": "/'nə:tʃə/",
+    "definition": "养育,营养物,教育vt. 养育,给与营养物,教养",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "nutriment",
+    "phonetic": "/'nju:trimənt/",
+    "definition": "营养物,食物,营养素",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "oasis",
+    "phonetic": "/'əueisis/",
+    "definition": "绿洲,舒适的地方",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "oath",
+    "phonetic": "/əuθ/",
+    "definition": "誓约,誓言,咒骂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "obedience",
+    "phonetic": "/ə'bi:djəns/",
+    "definition": "服从,顺从,忠实",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "objective",
+    "phonetic": "/ɔb'dʒektiv/",
+    "definition": "目的,受格,实物a. 客观的,外在的,受词的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "obligatory",
+    "phonetic": "/ə'bligə'təuri/",
+    "definition": "义不容辞的,义务的,必须的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "obliging",
+    "phonetic": "/ə'blaidʒiŋ/",
+    "definition": "亲切的,体贴的,殷勤的,有礼貌的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "oblivion",
+    "phonetic": "/ə'bliviən/",
+    "definition": "遗忘,忘却,赦免,大赦,湮没",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "obscene",
+    "phonetic": "/ɔb'si:n/",
+    "definition": "淫秽的,猥亵的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "obscure",
+    "phonetic": "/əb'skjuə/",
+    "definition": "微暗的,难解的,含糊的,不著名的,偏僻的vt. 使阴暗,隐藏,使含糊",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "observance",
+    "phonetic": "/əb'zə:vəns/",
+    "definition": "遵守,仪式,惯例",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "observation",
+    "phonetic": "/'ɔbzə:'veiʃən/",
+    "definition": "观察,注目,观测",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "observe",
+    "phonetic": "/əb'zə:v/",
+    "definition": "观察,遵守,注意到,纪念vi. 注意,评论",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "obsolete",
+    "phonetic": "/'ɔbsəli:t/",
+    "definition": "荒废的,成废物的,陈旧的n. 废词,陈腐的人,废物",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "obstacle",
+    "phonetic": "/'ɔbstəkl/",
+    "definition": "障碍,妨害物,阻碍",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "obstinate",
+    "phonetic": "/'ɔbstinit/",
+    "definition": "倔强的,顽固的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "obstruct",
+    "phonetic": "/əbs'trʌkt/",
+    "definition": "阻隔,妨碍,阻塞vi. 设障碍",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "obtain",
+    "phonetic": "/əb'tein/",
+    "definition": "获得,达到vi. 流行",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "obvious",
+    "phonetic": "/'ɔbviəs/",
+    "definition": "明显的,明白的,显然的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "occasional",
+    "phonetic": "/ə'keiʒənəl/",
+    "definition": "偶然的,临时的,备不时之需的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "odor",
+    "phonetic": "/'əudə/",
+    "definition": "气味,名声,味",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "offensive",
+    "phonetic": "/ə'fensiv/",
+    "definition": "令人不快的,侮辱的,攻击用的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "offer",
+    "phonetic": "/'ɔfə/",
+    "definition": "出价,提议,意图,报价vt. 提供,出价,奉献,演出,使出现,企图vi. 出",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "offhand",
+    "phonetic": "/'ɔf'hænd/",
+    "definition": "即时的,即席的,无准备的ad. 即时地,即席地,随便地",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "offspring",
+    "phonetic": "/'ɔæ:ɔfspriŋ/",
+    "definition": "子孙,后代,产物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "omit",
+    "phonetic": "/əu'mit/",
+    "definition": "省略,删除,疏忽,遗漏",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "onset",
+    "phonetic": "/'ɔnset/",
+    "definition": "攻击,进攻,肇端",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "opera",
+    "phonetic": "/'ɔpərə/",
+    "definition": "歌剧",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "operate",
+    "phonetic": "/'ɔpəreit/",
+    "definition": "vi. 操作,运转,动手术",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "operator",
+    "phonetic": "/'ɔpəreitə/",
+    "definition": "操作员,行家,经营者,算子n. 运算符",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "opponent",
+    "phonetic": "/ə'pəunənt/",
+    "definition": "对手,敌手,反对者a. 敌对的,反对的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "opportunity",
+    "phonetic": "/'ɔpə'tju:niti/",
+    "definition": "机会,时机",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "opposed",
+    "phonetic": "/ə'pəuzd/",
+    "definition": "反对的,敌对的,对抗的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "optimum",
+    "phonetic": "/'ɔptimiəm/",
+    "definition": "最适宜a. 最适宜的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "option",
+    "phonetic": "/'ɔpʃən/",
+    "definition": "选择权,挑选n. 选项",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "opulence",
+    "phonetic": "/apjələns/",
+    "definition": "丰裕,丰富,丰饶",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "oracle",
+    "phonetic": "/'ɔrəkl/",
+    "definition": "神谕,神谕处,预言",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "oration",
+    "phonetic": "/ɔ'reiʃən/",
+    "definition": "演说,致辞,叙述法",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "orbit",
+    "phonetic": "/'ɔ:bit/",
+    "definition": "轨道,常轨,眼眶vt. 绕. . . 轨道而行vi. 进入轨道,盘旋",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "orchestra",
+    "phonetic": "/'ɔ:kistrə/",
+    "definition": "管弦乐队,乐队演奏处",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ordeal",
+    "phonetic": "/ɔ:'di:l/",
+    "definition": "严酷的考验,痛苦的经验",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ore",
+    "phonetic": "/ɔ:/",
+    "definition": "矿石,含有金属的岩石",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "organism",
+    "phonetic": "/'ɔ:gənizəm/",
+    "definition": "生物,有机体,社会组织",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "original",
+    "phonetic": "/ə'ridʒənəl/",
+    "definition": "最初的,原始的,有创意的n. 原物,原作",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "originally",
+    "phonetic": "/ə'ridʒənəli/",
+    "definition": "本来,原来,最初",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "originate",
+    "phonetic": "/ə'ridʒineit/",
+    "definition": "开始,发明,发起vi. 发源,发生v. 发自",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ornament",
+    "phonetic": "/'ɔ:nəmənt,'ɔ:nəment] n./",
+    "definition": "装饰,装饰,教堂用品vt. 装饰,修饰",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "oust",
+    "phonetic": "/aust/",
+    "definition": "逐出,夺取,驱逐",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "outcome",
+    "phonetic": "/'autkəm/",
+    "definition": "结果,出口,演变",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "outfit",
+    "phonetic": "/'autfit/",
+    "definition": "用具,配备,机构vt. 配备,供应vi. 得到装备",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "outing",
+    "phonetic": "/'autiŋ/",
+    "definition": "郊游,远足a. 远足适用的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "output",
+    "phonetic": "/'autput/",
+    "definition": "输出,产品,生产量",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "outrage",
+    "phonetic": "/'autreidʒ/",
+    "definition": "暴行,侮辱,愤怒vt. 凌辱,虐待,触犯",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "outrageous",
+    "phonetic": "/aut'reidʒəs/",
+    "definition": "暴虐的,极无礼的,可恶的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "outspoken",
+    "phonetic": "/aut'spoukən/",
+    "definition": "直言无讳的,坦率的,坦白无隐的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "outstanding",
+    "phonetic": "/aut'stændiŋ/",
+    "definition": "杰出的,突出的,未付的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "outwit",
+    "phonetic": "/aut'wit/",
+    "definition": "瞒骗,以智取胜",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "overbearing",
+    "phonetic": "/'ouvə'bεəriŋ/",
+    "definition": "傲慢的,骄傲自大的,蛮横的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "overdue",
+    "phonetic": "/'əuvə'dju:/",
+    "definition": "过期的,未兑的,迟到的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overflow",
+    "phonetic": "/'əuvə'fləu/",
+    "definition": "溢值,超值,泛滥vt. vi. (使)溢出,(使)充溢",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overlook",
+    "phonetic": "/'əuvə'luk/",
+    "definition": "俯瞰,远眺,没注意到n. 眺望,俯瞰中的景色",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "oxygen",
+    "phonetic": "/'ɔksidʒən/",
+    "definition": "氧",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pacify",
+    "phonetic": "/'pæsifai/",
+    "definition": "使平静,安慰,绥靖",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "book": {
+    "name": "IELTS",
+    "description": "雅思考试核心词汇，适合出国留学考生",
+    "level": "intermediate",
+    "category": "exam",
+    "coverColor": "#f59e0b",
+    "sortOrder": 4
+  },
+  "words": [
+    { "word": "accommodation", "phonetic": "/əˌkɑːməˈdeɪʃn/", "definition": "住处；住宿", "partOfSpeech": "n.", "example": "The university offers student accommodation.", "exampleTranslation": "大学提供学生宿舍。", "difficulty": 2 },
+    { "word": "biodiversity", "phonetic": "/ˌbaɪoʊdaɪˈvɜːrsəti/", "definition": "生物多样性", "partOfSpeech": "n.", "example": "We must protect biodiversity for future generations.", "exampleTranslation": "我们必须为子孙后代保护生物多样性。", "difficulty": 3 },
+    { "word": "consumption", "phonetic": "/kənˈsʌmpʃn/", "definition": "消费；消耗", "partOfSpeech": "n.", "example": "Energy consumption has increased significantly.", "exampleTranslation": "能源消耗已显著增加。", "difficulty": 3 },
+    { "word": "credential", "phonetic": "/krəˈdenʃl/", "definition": "证书；资格凭证", "partOfSpeech": "n.", "example": "She presented her credentials to the committee.", "exampleTranslation": "她向委员会出示了她的资格证书。", "difficulty": 3 },
+    { "word": "ecosystem", "phonetic": "/ˈiːkoʊsɪstəm/", "definition": "生态系统", "partOfSpeech": "n.", "example": "The rainforest is a delicate ecosystem.", "exampleTranslation": "雨林是一个脆弱的生态系统。", "difficulty": 3 },
+    { "word": "emission", "phonetic": "/ɪˈmɪʃn/", "definition": "排放；散发", "partOfSpeech": "n.", "example": "Carbon emissions contribute to climate change.", "exampleTranslation": "碳排放导致气候变化。", "difficulty": 3 },
+    { "word": "globalization", "phonetic": "/ˌɡloʊbələˈzeɪʃn/", "definition": "全球化", "partOfSpeech": "n.", "example": "Globalization has transformed international trade.", "exampleTranslation": "全球化改变了国际贸易。", "difficulty": 3 },
+    { "word": "urbanization", "phonetic": "/ˌɜːrbənəˈzeɪʃn/", "definition": "城市化", "partOfSpeech": "n.", "example": "Rapid urbanization poses many challenges.", "exampleTranslation": "快速城市化带来诸多挑战。", "difficulty": 3 },
+    { "word": "facilitate", "phonetic": "/fəˈsɪlɪteɪt/", "definition": "促进；使便利", "partOfSpeech": "v.", "example": "Technology facilitates communication across borders.", "exampleTranslation": "技术促进了跨境交流。", "difficulty": 3 },
+    { "word": "highlight", "phonetic": "/ˈhaɪlaɪt/", "definition": "强调；突出", "partOfSpeech": "v.", "example": "The report highlights the main findings.", "exampleTranslation": "报告强调了主要发现。", "difficulty": 2 },
+    { "word": "illustrate", "phonetic": "/ˈɪləstreɪt/", "definition": "说明；阐释", "partOfSpeech": "v.", "example": "The diagram illustrates the process clearly.", "exampleTranslation": "图表清楚地说明了该过程。", "difficulty": 2 },
+    { "word": "indicate", "phonetic": "/ˈɪndɪkeɪt/", "definition": "表明；指出", "partOfSpeech": "v.", "example": "Research indicates a link between diet and health.", "exampleTranslation": "研究表明饮食与健康之间存在联系。", "difficulty": 2 },
+    { "word": "participate", "phonetic": "/pɑːrˈtɪsɪpeɪt/", "definition": "参与；参加", "partOfSpeech": "v.", "example": "Students are encouraged to participate in discussions.", "exampleTranslation": "鼓励学生参与讨论。", "difficulty": 2 },
+    { "word": "perspective", "phonetic": "/pərˈspektɪv/", "definition": "观点；视角", "partOfSpeech": "n.", "example": "We need to consider this from a global perspective.", "exampleTranslation": "我们需要从全球视角来考虑这个问题。", "difficulty": 3 },
+    { "word": "procedure", "phonetic": "/prəˈsiːdʒər/", "definition": "程序；步骤", "partOfSpeech": "n.", "example": "Please follow the correct procedure when applying.", "exampleTranslation": "申请时请遵循正确的程序。", "difficulty": 2 },
+    { "word": "significant", "phonetic": "/sɪɡˈnɪfɪkənt/", "definition": "重大的；有意义的", "partOfSpeech": "adj.", "example": "There has been a significant increase in enrollment.", "exampleTranslation": "入学人数有显著增加。", "difficulty": 2 },
+    { "word": "trend", "phonetic": "/trend/", "definition": "趋势；倾向", "partOfSpeech": "n.", "example": "The current trend favors sustainable products.", "exampleTranslation": "当前趋势有利于可持续产品。", "difficulty": 2 },
+    { "word": "widespread", "phonetic": "/ˈwaɪdspred/", "definition": "普遍的；广泛的", "partOfSpeech": "adj.", "example": "There is widespread support for the proposal.", "exampleTranslation": "该提议得到了广泛支持。", "difficulty": 3 },
+    { "word": "yield", "phonetic": "/jiːld/", "definition": "产生；屈服；产量", "partOfSpeech": "v./n.", "example": "The experiment yielded promising results.", "exampleTranslation": "实验产生了可喜的结果。", "difficulty": 3 },
+    { "word": "emerge", "phonetic": "/ɪˈmɜːrdʒ/", "definition": "出现；浮现", "partOfSpeech": "v.", "example": "New challenges emerged during the project.", "exampleTranslation": "项目期间出现了新的挑战。", "difficulty": 2 },
+    { "word": "ensure", "phonetic": "/ɪnˈʃʊr/", "definition": "确保；保证", "partOfSpeech": "v.", "example": "We must ensure equal access to education.", "exampleTranslation": "我们必须确保平等的教育机会。", "difficulty": 2 },
+    { "word": "essential", "phonetic": "/ɪˈsenʃl/", "definition": "必要的；基本的", "partOfSpeech": "adj.", "example": "Water is essential for human survival.", "exampleTranslation": "水对人类生存至关重要。", "difficulty": 2 },
+    { "word": "evident", "phonetic": "/ˈevɪdənt/", "definition": "明显的；清楚的", "partOfSpeech": "adj.", "example": "It is evident that action is needed.", "exampleTranslation": "显然需要采取行动。", "difficulty": 2 },
+    { "word": "factor", "phonetic": "/ˈfæktər/", "definition": "因素；要素", "partOfSpeech": "n.", "example": "Cost is a major factor in the decision.", "exampleTranslation": "成本是决定中的主要因素。", "difficulty": 2 },
+    { "word": "feature", "phonetic": "/ˈfiːtʃər/", "definition": "特点；特色；以…为特色", "partOfSpeech": "n./v.", "example": "The course features practical workshops.", "exampleTranslation": "该课程以实践工作坊为特色。", "difficulty": 2 },
+    { "word": "maintain", "phonetic": "/meɪnˈteɪn/", "definition": "维持；保持", "partOfSpeech": "v.", "example": "It is important to maintain a healthy lifestyle.", "exampleTranslation": "保持健康的生活方式很重要。", "difficulty": 2 },
+    { "word": "obtain", "phonetic": "/əbˈteɪn/", "definition": "获得；取得", "partOfSpeech": "v.", "example": "You need a visa to obtain entry.", "exampleTranslation": "你需要签证才能入境。", "difficulty": 2 },
+    { "word": "overall", "phonetic": "/ˌoʊvərˈɔːl/", "definition": "总体的；全面的", "partOfSpeech": "adj.", "example": "The overall performance has improved.", "exampleTranslation": "整体表现有所提升。", "difficulty": 2 },
+    { "word": "sequence", "phonetic": "/ˈsiːkwəns/", "definition": "顺序；连续", "partOfSpeech": "n.", "example": "The events occurred in rapid sequence.", "exampleTranslation": "事件接连快速地发生。", "difficulty": 2 },
+    { "word": "resource", "phonetic": "/ˈriːsɔːrs/", "definition": "资源", "partOfSpeech": "n.", "example": "Natural resources are finite.", "exampleTranslation": "自然资源是有限的。", "difficulty": 2 }
+  ]
+}

@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "twist",
+    "phonetic": "/twist/",
+    "definition": "捻；拧 vi.&n.扭弯",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "two",
+    "phonetic": "/tuː/",
+    "definition": "二，两个",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "type",
+    "phonetic": "/taip/",
+    "definition": "型，类型 vi.打字",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "typewriter",
+    "phonetic": "/ˈtaipraitə/",
+    "definition": "打字机",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "typhoon",
+    "phonetic": "/taiˈfuːn/",
+    "definition": "台风",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "typical",
+    "phonetic": "/ˈtipikəl/",
+    "definition": "典型的，代表性的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "typist",
+    "phonetic": "/ˈtaipist/",
+    "definition": "打字员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "tyre",
+    "phonetic": "/ˈtaiə/",
+    "definition": "轮胎，车胎",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "ugly",
+    "phonetic": "/ˈʌgli/",
+    "definition": "丑陋的；可怕的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "ultimate",
+    "phonetic": "/ˈʌltimit/",
+    "definition": "最后的，最终的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ultimately",
+    "phonetic": "/ˈʌltimətli/",
+    "definition": "最终，最后",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "umbrella",
+    "phonetic": "/ʌmˈbrelə/",
+    "definition": "伞，雨伞",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unable",
+    "phonetic": "/ˈʌnˈeibl/",
+    "definition": "不能的，不会的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "unbearable",
+    "phonetic": "/ʌnˈbeərəbl/",
+    "definition": "难堪的，忍受不了的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "uncertain",
+    "phonetic": "/ʌnˈsəːtn/",
+    "definition": "无常的；不确定的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "uncle",
+    "phonetic": "/ˈʌŋkl/",
+    "definition": "伯父，叔父，舅父",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "uncomfortable",
+    "phonetic": "/ʌnˈkʌmfətəbl/",
+    "definition": "不舒服的；不自在的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "unconscious",
+    "phonetic": "/ʌnˈkɔn∫əs/",
+    "definition": "不省人事的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "uncover",
+    "phonetic": "/ʌnˈkʌvə/",
+    "definition": "揭开…的盖子",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "under",
+    "phonetic": "/ˈʌndə/",
+    "definition": "在…下面；低于.",
+    "partOfSpeech": "prep.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "undergo",
+    "phonetic": "/ˌʌndəˈgəu/",
+    "definition": "经历，经受，忍受",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "undergraduate",
+    "phonetic": "/ˌʌndəˈgrædjuit/",
+    "definition": "大学肆业生",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "underground",
+    "phonetic": "/ˈʌndəgraund/",
+    "definition": "地下的；秘密的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "underline",
+    "phonetic": "/ˌʌndəˈlain/",
+    "definition": "划线于…之下",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "underneath",
+    "phonetic": "/ˌʌndəˈniːθ/",
+    "definition": "在下面，在底下",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "understand",
+    "phonetic": "/ˌʌndəˈstænd/",
+    "definition": "懂；获悉 vi.懂得",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "understanding",
+    "phonetic": "/ˌʌndəˈstændiŋ/",
+    "definition": "理解；理解力；协定",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "undertake",
+    "phonetic": "/ˌʌndəˈteik/",
+    "definition": "从事；承担；保证",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "undertaking",
+    "phonetic": "/ˌʌndəˈteikiŋ/",
+    "definition": "任务，事业；许诺",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "undo",
+    "phonetic": "/ˈʌnˈduː/",
+    "definition": "解开，打开；取消",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "undoubtedly",
+    "phonetic": "/ʌnˈdautidli/",
+    "definition": "无容置疑，肯定地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "uneasy",
+    "phonetic": "/ʌnˈiːzi/",
+    "definition": "心神不安的，忧虑的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "unexpected",
+    "phonetic": "/ˈʌniksˈpektid/",
+    "definition": "想不到的，意外的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unfair",
+    "phonetic": "/ˈʌnˈfeə/",
+    "definition": "不公平的，不公正的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "unfortunate",
+    "phonetic": "/ʌnˈfɔːt∫ənit/",
+    "definition": "不幸的；可取的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unfortunately",
+    "phonetic": "/ʌnˈfɔːtjunətli/",
+    "definition": "不幸地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "unhappy",
+    "phonetic": "/ʌnˈhæpi/",
+    "definition": "不幸福的，不快乐的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "uniform",
+    "phonetic": "/ˈjuːnifɔːm/",
+    "definition": "一样的 n.制服",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "union",
+    "phonetic": "/ˈjuːnjən/",
+    "definition": "联合；团结；协会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "unique",
+    "phonetic": "/juːˈniːk/",
+    "definition": "唯一的，独一无二的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "unit",
+    "phonetic": "/ˈjuːnit/",
+    "definition": "单位；单元；部件",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "unite",
+    "phonetic": "/ju(ː)ˈnait/",
+    "definition": "联合 vt.使联合",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "unity",
+    "phonetic": "/ˈjuːniti/",
+    "definition": "单一；统一；团结",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "universal",
+    "phonetic": "/ˌjuːniˈvəːsəl/",
+    "definition": "宇宙的；普遍的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "universe",
+    "phonetic": "/ˈjuːnivəːs/",
+    "definition": "宇宙，世界",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "university",
+    "phonetic": "/ˌjuːniˈvəːsiti/",
+    "definition": "大学，综合性大学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unjust",
+    "phonetic": "/ˈʌnˈdʒʌst/",
+    "definition": "非正义的；不公平的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "unkind",
+    "phonetic": "/ʌnˈkaind/",
+    "definition": "不仁慈的，不和善的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "unknown",
+    "phonetic": "/ˈʌnˈnəun/",
+    "definition": "不知道的；未知的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unless",
+    "phonetic": "/ʌnˈles/",
+    "definition": "除非，如果不",
+    "partOfSpeech": "conj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "unlike",
+    "phonetic": "/ˈʌnˈlaik/",
+    "definition": "不同的 prep.不象…",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "unlikely",
+    "phonetic": "/ʌnˈlaikli/",
+    "definition": "未必的，未必可能的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unload",
+    "phonetic": "/ˈʌnˈləud/",
+    "definition": "卸(货) vi.卸货",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "unlucky",
+    "phonetic": "/ʌnˈlʌki/",
+    "definition": "不幸的；不吉的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unnecessary",
+    "phonetic": "/ʌnˈnesisəri/",
+    "definition": "不必要的，多余的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unpleasant",
+    "phonetic": "/ʌnˈpleznt/",
+    "definition": "令人不快的，讨厌的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unsatisfactory",
+    "phonetic": "/ˈʌnsætisˈfæktəri/",
+    "definition": "不能令人满意的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "unstable",
+    "phonetic": "/ˈʌnˈsteibl/",
+    "definition": "不稳固的；不稳定的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unsuitable",
+    "phonetic": "/ʌnˈsuːtəb(ə)l/",
+    "definition": "不合适的,不适宜的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "until",
+    "phonetic": "/ʌnˈtil/",
+    "definition": "prep&conj.直到…为止",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "unusual",
+    "phonetic": "/ʌnˈjuːʒuəl/",
+    "definition": "不平常的；独特的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "unusually",
+    "phonetic": "/ʌnˈjuːʒəli/",
+    "definition": "不平常地，非常",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "unwilling",
+    "phonetic": "/ˈʌnˈwiliŋ/",
+    "definition": "不愿意的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "up",
+    "phonetic": "/ʌp/",
+    "definition": "向上；起床，起来",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "upon",
+    "phonetic": "/əˈpɔn/",
+    "definition": "在…上；在…旁",
+    "partOfSpeech": "prep.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "upper",
+    "phonetic": "/ˈʌpə/",
+    "definition": "上面的；地位较高的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "upright",
+    "phonetic": "/ˈʌpˈrait/",
+    "definition": "垂直的；正直的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "upset",
+    "phonetic": "/ʌpˈset/",
+    "definition": "弄翻，打翻，倾覆",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "upside-down",
+    "phonetic": "/ˈʌpsaidˈdaun/",
+    "definition": "颠倒的，乱七八糟的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "upstairs",
+    "phonetic": "/ˈʌpˈsteəz/",
+    "definition": "在楼上 a.楼上的",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "up-to-date",
+    "phonetic": "/ˈʌptəˈdeit/",
+    "definition": "直到最近/现代的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "upward",
+    "phonetic": "/ˈʌpwəd/",
+    "definition": "向上的，上升的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "upwards",
+    "phonetic": "/ˈʌpwədz/",
+    "definition": "趋向上升；以上",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "urge",
+    "phonetic": "/əːdʒ/",
+    "definition": "推进；催促 n.冲动",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "urgent",
+    "phonetic": "/ˈəːdʒənt/",
+    "definition": "紧急的；强求的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "us",
+    "phonetic": "/ʌs/",
+    "definition": "(宾格)我们",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "usage",
+    "phonetic": "/ˈjuːsidʒ/",
+    "definition": "使用，对待；惯用法",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "use",
+    "phonetic": "/juːs/",
+    "definition": "用；耗费 n.用",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "used",
+    "phonetic": "/juːst/",
+    "definition": "过去常常",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "useful",
+    "phonetic": "/ˈjuːsful/",
+    "definition": "有用的，有益的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "useless",
+    "phonetic": "/ˈjuːslis/",
+    "definition": "无用的，无价值的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "user",
+    "phonetic": "/ˈjuːzə/",
+    "definition": "用户，使用者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "usual",
+    "phonetic": "/ˈjuːʒuəl/",
+    "definition": "通常的；平常的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "usually",
+    "phonetic": "/ˈjuːʒuəli/",
+    "definition": "通常",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "utility",
+    "phonetic": "/juːˈtiliti/",
+    "definition": "效用，有用，实用",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "utilize",
+    "phonetic": "/juːˈtilaiz/",
+    "definition": "利用",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "utmost",
+    "phonetic": "/ˈʌtməust/",
+    "definition": "最远的 n.极限",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "utter",
+    "phonetic": "/ˈʌtə/",
+    "definition": "完全的，彻底的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vacant",
+    "phonetic": "/ˈveikənt/",
+    "definition": "空的；未被占用的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vacation",
+    "phonetic": "/veiˈkei∫ən/",
+    "definition": "假期，休假",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vacuum",
+    "phonetic": "/ˈvækjuəm/",
+    "definition": "真空；真空吸尘器",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vague",
+    "phonetic": "/veig/",
+    "definition": "模糊的，含糊的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vain",
+    "phonetic": "/vein/",
+    "definition": "徒劳的；自负的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "valid",
+    "phonetic": "/ˈvælid/",
+    "definition": "有效的；正当的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "valley",
+    "phonetic": "/ˈvæli/",
+    "definition": "(山)谷，溪谷；流域",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "valuable",
+    "phonetic": "/ˈvæljuəbl/",
+    "definition": "值钱的；有价值的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "value",
+    "phonetic": "/ˈvæljuː/",
+    "definition": "价值；价格 vt.评价",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "van",
+    "phonetic": "/væn/",
+    "definition": "大篷车，运货车",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "vanish",
+    "phonetic": "/ˈvæni∫/",
+    "definition": "突然不见，消失",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vanity",
+    "phonetic": "/ˈvæniti/",
+    "definition": "虚荣心，虚夸",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vapour",
+    "phonetic": "/ˈveipə/",
+    "definition": "汽，蒸气",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "variable",
+    "phonetic": "/ˈveəriəbl/",
+    "definition": "易变的 n.变量",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "variation",
+    "phonetic": "/ˌveəriˈei∫ən/",
+    "definition": "变化，变动；变异",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "variety",
+    "phonetic": "/vəˈraiəti/",
+    "definition": "多样化；种类；变种",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "various",
+    "phonetic": "/ˈveəriəs/",
+    "definition": "各种各样的，不同的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vary",
+    "phonetic": "/ˈveəri/",
+    "definition": "改变；使多样化",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "vase",
+    "phonetic": "/veis/",
+    "definition": "瓶，花瓶",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "vast",
+    "phonetic": "/vɑːst/",
+    "definition": "巨大的；大量的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "vegetable",
+    "phonetic": "/ˈvedʒitəbl/",
+    "definition": "植物；蔬菜",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "vehicle",
+    "phonetic": "/ˈviːikl/",
+    "definition": "车辆，机动车",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "veil",
+    "phonetic": "/veil/",
+    "definition": "面纱，面罩；遮蔽物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "velocity",
+    "phonetic": "/viˈlɔsiti/",
+    "definition": "速度，速率",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "velvet",
+    "phonetic": "/ˈvelvit/",
+    "definition": "丝绒，天鹅绒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "venture",
+    "phonetic": "/ˈvent∫ə/",
+    "definition": "&vi.冒险 vt.敢于",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "verb",
+    "phonetic": "/vəːb/",
+    "definition": "动词",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "verify",
+    "phonetic": "/ˈverifai/",
+    "definition": "证实，查证；证明",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "version",
+    "phonetic": "/ˈvəː∫(ə)n; (US) ˈvərʒn/",
+    "definition": "译文；说法；改写本",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vertical",
+    "phonetic": "/ˈvəːtik(ə)l/",
+    "definition": "垂直的，竖式的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "very",
+    "phonetic": "/ˈveri/",
+    "definition": "很；完全 a.真的",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "vessel",
+    "phonetic": "/ˈvesl/",
+    "definition": "容器；船，飞船；管",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vest",
+    "phonetic": "/vest/",
+    "definition": "汗衫；背心；内衣",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "veteran",
+    "phonetic": "/ˈvetərən/",
+    "definition": "老兵，老手",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vex",
+    "phonetic": "/veks/",
+    "definition": "使烦恼，使恼火",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "via",
+    "phonetic": "/ˈvaiə/",
+    "definition": "经过；通过",
+    "partOfSpeech": "prep.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "vibrate",
+    "phonetic": "/vaiˈbreit/",
+    "definition": "使颤动 vi.颤动",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vibration",
+    "phonetic": "/vaiˈbrei∫ən/",
+    "definition": "颤动，振动；摆动",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "vice",
+    "phonetic": "/vais/",
+    "definition": "罪恶；恶习；缺点",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "victim",
+    "phonetic": "/ˈviktim/",
+    "definition": "牺牲者，受害者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "victorious",
+    "phonetic": "/vikˈtɔːriəs/",
+    "definition": "胜利的，得胜的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "victory",
+    "phonetic": "/ˈviktəri/",
+    "definition": "胜利，战胜",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "video",
+    "phonetic": "/ˈvidiəu/",
+    "definition": "电视的 n.电视",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "view",
+    "phonetic": "/vjuː/",
+    "definition": "看；视力；风景",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "viewpoint",
+    "phonetic": "/ˈvjuːˌpɔint/",
+    "definition": "观点，看法，见解",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "vigorous",
+    "phonetic": "/ˈvigərəs/",
+    "definition": "朝气蓬勃的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "village",
+    "phonetic": "/ˈvilidʒ/",
+    "definition": "乡村，村庄",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vine",
+    "phonetic": "/vain/",
+    "definition": "葡萄树",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "vinegar",
+    "phonetic": "/ˈvinigə/",
+    "definition": "醋",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "violence",
+    "phonetic": "/ˈvaiələns/",
+    "definition": "猛烈，激烈；暴力",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "violent",
+    "phonetic": "/ˈvaiələnt/",
+    "definition": "猛烈的；狂暴的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "violet",
+    "phonetic": "/ˈvaiəlit/",
+    "definition": "紫罗兰",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "violin",
+    "phonetic": "/ˌvaiəˈlin/",
+    "definition": "小提琴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "virtually",
+    "phonetic": "/ˈvəːtjuəli/",
+    "definition": "实际上，事实上",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "virtue",
+    "phonetic": "/ˈvəːtjuː/",
+    "definition": "善；美德；优点",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "visible",
+    "phonetic": "/ˈvizəbl/",
+    "definition": "可见的，看得见的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vision",
+    "phonetic": "/ˈviʒən/",
+    "definition": "视；想象力；梦幻",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "visit",
+    "phonetic": "/ˈvizit/",
+    "definition": "&n.访问，参观",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "visitor",
+    "phonetic": "/ˈvizitə/",
+    "definition": "访问者；游客",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "visual",
+    "phonetic": "/ˈvizjuəl/",
+    "definition": "看的；看得见的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vital",
+    "phonetic": "/ˈvaitl/",
+    "definition": "生命的；有生命力的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vitamin",
+    "phonetic": "/ˈvaitəmin/",
+    "definition": "维生素，维他命",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "vivid",
+    "phonetic": "/ˈvivid/",
+    "definition": "鲜艳的；生动的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "vocabulary",
+    "phonetic": "/vəˈkæbjuləri/",
+    "definition": "词汇表;词汇，语汇",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "voice",
+    "phonetic": "/vɔis/",
+    "definition": "说话声；意见；语态",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "volcano",
+    "phonetic": "/vɔlˈkeinəu/",
+    "definition": "火山",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "volleyball",
+    "phonetic": "/ˈvɔlibɔːl/",
+    "definition": "排球，排球运动",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "volt",
+    "phonetic": "/vəult/",
+    "definition": "伏特，伏",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "voltage",
+    "phonetic": "/ˈvəultidʒ/",
+    "definition": "电压",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "volume",
+    "phonetic": "/ˈvɔljuːm/",
+    "definition": "卷，册；容积；音量",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "voluntary",
+    "phonetic": "/ˈvɔləntəri; (US) -teri/",
+    "definition": "自/志愿的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "vote",
+    "phonetic": "/vəut/",
+    "definition": "选举，投票，表决",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "voyage",
+    "phonetic": "/ˈvɔiidʒ/",
+    "definition": "&vi.航海，航空",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "wage",
+    "phonetic": "/weidʒ/",
+    "definition": "工资，报酬",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "waggon",
+    "phonetic": "/ˈwægən/",
+    "definition": "四轮运货马车",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "waist",
+    "phonetic": "/weist/",
+    "definition": "腰，腰部",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "wait",
+    "phonetic": "/weit/",
+    "definition": "等，等候 n.等待",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "waiter",
+    "phonetic": "/ˈweitə/",
+    "definition": "侍者，服务员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "wake",
+    "phonetic": "/weik/",
+    "definition": "醒，醒来 vt.唤醒",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "waken",
+    "phonetic": "/ˈweikən/",
+    "definition": "醒来 vt.弄醒",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "walk",
+    "phonetic": "/wɔːk/",
+    "definition": "&n.走，步行",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "wall",
+    "phonetic": "/wɔːl/",
+    "definition": "墙，壁，围墙，城墙",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "wallet",
+    "phonetic": "/ˈwɔlit/",
+    "definition": "钱包，皮夹子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "wander",
+    "phonetic": "/ˈwɔndə/",
+    "definition": "漫游；迷路；离题",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "want",
+    "phonetic": "/wɔnt/",
+    "definition": "要 n.需要；缺乏",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "war",
+    "phonetic": "/wɔː/",
+    "definition": "战争；冲突，斗争",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "warm",
+    "phonetic": "/wɔːm/",
+    "definition": "温暖的；热烈的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "warmth",
+    "phonetic": "/wɔːmθ/",
+    "definition": "暖和，温暖；热烈",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "warn",
+    "phonetic": "/wɔːn/",
+    "definition": "警告 vi.发生警告",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "wash",
+    "phonetic": "/wɔ∫/",
+    "definition": "洗；冲出 vi.洗涤",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "waste",
+    "phonetic": "/weist/",
+    "definition": "浪费；废物；垃圾",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "watch",
+    "phonetic": "/wɔt∫/",
+    "definition": "&vi.观看 n.手表",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "water",
+    "phonetic": "/ˈwɔːtə/",
+    "definition": "水 vt.使湿，灌溉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "waterfall",
+    "phonetic": "/ˈwɔːtəfɔːl/",
+    "definition": "瀑布",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "waterproof",
+    "phonetic": "/ˈwɔːtəpruːf/",
+    "definition": "不透水/防水的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "wave",
+    "phonetic": "/weiv/",
+    "definition": "波；波涛 vi.波动",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "wavelength",
+    "phonetic": "/ˈweivleŋθ/",
+    "definition": "波长",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "wax",
+    "phonetic": "/wæks/",
+    "definition": "蜡，蜂蜡",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "way",
+    "phonetic": "/wei/",
+    "definition": "路；路线；方向",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "we",
+    "phonetic": "/wiː/",
+    "definition": "(主格)我们",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "weak",
+    "phonetic": "/wiːk/",
+    "definition": "弱的；软弱的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "weaken",
+    "phonetic": "/ˈwiːkən/",
+    "definition": "削弱 vi.变弱",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "weakness",
+    "phonetic": "/ˈwiːknis/",
+    "definition": "虚弱，软弱；弱点",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "wealth",
+    "phonetic": "/welθ/",
+    "definition": "财富，财产；丰富",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "wealthy",
+    "phonetic": "/ˈwelθi/",
+    "definition": "富的，富裕的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "weapon",
+    "phonetic": "/ˈwepən/",
+    "definition": "武器，兵器",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "wear",
+    "phonetic": "/wiə/",
+    "definition": "穿着，戴；磨损",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "weary",
+    "phonetic": "/ˈwiəri/",
+    "definition": "疲倦的 vt.使疲乏",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "weather",
+    "phonetic": "/ˈweðə/",
+    "definition": "天气",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "weave",
+    "phonetic": "/wiːv/",
+    "definition": "织，编 vi.纺织",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "wedding",
+    "phonetic": "/ˈwediŋ/",
+    "definition": "婚礼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "wednesday",
+    "phonetic": "/ˈwenzdei/",
+    "definition": "星期三",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  }
+]

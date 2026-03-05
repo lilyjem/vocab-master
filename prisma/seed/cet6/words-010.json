@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "savage",
+    "phonetic": "/ˈsævɪdʒ/",
+    "definition": "1. 野蛮的，未开化的 2. 凶猛的，残酷的 n. 野人，野蛮人",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scale",
+    "phonetic": "",
+    "definition": "1 [skeɪl] n. 1. 尺度，刻度 2. 基准，等级，级别 3. 比例，比率 4. 大小，规模 5. 音阶，音列 6. (also pl)天平，磅秤 v. 1. 称体重 2. 爬，攀",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scan",
+    "phonetic": "/skæn/",
+    "definition": "1. 审视，扫描 2. 浏览 3. (指诗句)符合韵律 n. 审视，扫描",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "scandal",
+    "phonetic": "/ˈskændl/",
+    "definition": "1. 丑事，丑闻 2. 流言蜚语，诽谤",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "scar",
+    "phonetic": "/skɑː/",
+    "definition": "伤痕，疤痕",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "scatter",
+    "phonetic": "/ˈskætə/",
+    "definition": "1. 使分散，使消散 2. 散播，撒播",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "scent",
+    "phonetic": "/sent/",
+    "definition": "1. 气味，香味 2. (猎物的)臭迹 3. 嗅觉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "schedule",
+    "phonetic": "/ˈʃedjuːl/",
+    "definition": "1. 进度表，计划 2. 时刻表，班次表 v. 预定，排定，安排",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "scheme",
+    "phonetic": "/skiːm/",
+    "definition": "1. 安排，配置，系统 2. 计划，方案 3. 诡计，阴谋 v. 1. 设计，策划 2. 图谋，密谋",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scope",
+    "phonetic": "/skəʊp/",
+    "definition": "1. (问题、学科等的)范围，领域 2. (行动或思考的)余地，机会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "score",
+    "phonetic": "/skɔː/",
+    "definition": "1. 得分，得点，得分记录 2. 乐谱 3. 二十 || scores of很多 v. 1. 得分，获分 2. 记下，记住，计算 3. 记入总谱，作成管弦乐",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scorn",
+    "phonetic": "/ˈskɔːn/",
+    "definition": "1. 轻蔑，蔑视 2. 轻蔑、嘲笑的对象 v. 轻蔑，蔑视",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scramble",
+    "phonetic": "/ˈskræmbl/",
+    "definition": "1. 爬行，攀爬 2. 杂乱蔓延 3. 争夺，抢夺 n. 1. 攀缘，爬行 2. 争夺，抢夺",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "scrap",
+    "phonetic": "/skræp/",
+    "definition": "1. 小片，碎屑 2. 废料，废物 3. (从刊物等剪下以供收集的)图片，文章，残篇",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scrape",
+    "phonetic": "/skreɪp/",
+    "definition": "1. 刮，削，擦，刮落，擦去 2. 刮坏，擦伤 3. 擦过，勉强通过 n. 擦伤，擦痕",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scratch",
+    "phonetic": "/skrætʃ/",
+    "definition": "1. 抓，搔 2. 勾掉，划去 n. 1. 抓，搔 2. 抓痕，搔痕",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "screw",
+    "phonetic": "/skruː/",
+    "definition": "1. 螺丝钉，螺旋 2. 螺旋式的转动，螺旋的拧动 v. 1. (用螺丝)固定，(用螺钉)钉住 2. 扭紧，旋紧",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scrub",
+    "phonetic": "",
+    "definition": "1 [skrʌb] v. 1. 用力擦洗，擦净 2. 取消，剔除",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "scrutiny",
+    "phonetic": "/ˈskruːtɪnɪ/",
+    "definition": "细察，详审",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sculpture",
+    "phonetic": "/ˈskʌlptʃə/",
+    "definition": "1. 雕刻术，雕刻，雕塑 2. 雕刻品，雕塑品",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "seam",
+    "phonetic": "/siːm/",
+    "definition": "缝，接缝",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "security",
+    "phonetic": "/sɪˈkjʊərətɪ/",
+    "definition": "1. 安全，平安 2. 治安防卫(部门) 3. 债券，股票",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "seemingly",
+    "phonetic": "/ˈsiːmɪŋlɪ/",
+    "definition": "看上去，表面上",
+    "partOfSpeech": "adv.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "segment",
+    "phonetic": "/ˈseɡmənt/",
+    "definition": "部分，片，片段 v. 分割",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "segregate",
+    "phonetic": "/ˈseɡrɪɡeɪt/",
+    "definition": "1. 将…隔离、分开 2. 歧视，不公平对待",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "semester",
+    "phonetic": "/sɪˈmestə/",
+    "definition": "一学期",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "senator",
+    "phonetic": "/ˈsenətə/",
+    "definition": "参议员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sensation",
+    "phonetic": "/senˈseɪʃən/",
+    "definition": "1. 感觉，知觉 2. 轰动，激动",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sensible",
+    "phonetic": "/ˈsensəbl/",
+    "definition": "1. 明智的，明理的 2. 知道的，察觉的 3. 感觉得到的，显著的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sensitive",
+    "phonetic": "/ˈsensətɪv/",
+    "definition": "1. 敏感的，感觉灵敏的 2. 易受伤害的，易被冒犯的 3. 过敏的，神经过敏的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sentiment",
+    "phonetic": "/ˈsentɪmənt/",
+    "definition": "1. 柔情，伤感，多愁善感 2. 思想感情，情绪，情操",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sequence",
+    "phonetic": "/ˈsiːkwəns/",
+    "definition": "1. 连续，一连串，系列 2. (事情发生的先后)次序，顺序",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sergeant",
+    "phonetic": "/ˈsɑːdʒənt/",
+    "definition": "1. 士官，中士 2. 警官，巡佐",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "serial",
+    "phonetic": "/ˈsɪərɪəl/",
+    "definition": "1. 连续的 2. (指故事等)连续刊登或播出的 n. 连续剧，连载故事",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "series",
+    "phonetic": "/ˈsɪəriːz/",
+    "definition": "一连串，一系列，连续",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "setback",
+    "phonetic": "/ˈsetbæk/",
+    "definition": "挫折，挫败",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "settle",
+    "phonetic": "/ˈsetl/",
+    "definition": "1. 安家，定居 2. 使镇定，使稳定 3. 了结，决定 4. 安身，安放 5. 停留，栖息 6. 偿付，结算 || settle down定居，过安定的生活 [settle on (upon)决定] settle up付清，了结 /settle with…和…取得谅解",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "settlement",
+    "phonetic": "/ˈsetlmənt/",
+    "definition": "1. 移民，殖民 2. (新的)定居点 3. 解决，和解",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "severe",
+    "phonetic": "/sɪˈvɪə/",
+    "definition": "1. 严厉的，严格的 2. (气候等)严酷的，(痛苦等)剧烈的 3. (状况等)严重的，艰难的 4. (批评等)苛刻的，严厉的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shabby",
+    "phonetic": "/ˈʃæbɪ/",
+    "definition": "破旧的，褴褛的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shaft",
+    "phonetic": "/ʃɑːft/",
+    "definition": "1. 杆状物 2. 竖井，坑道 3. 车辕，车杠",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shark",
+    "phonetic": "/ʃɑːk/",
+    "definition": "鲨鱼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shatter",
+    "phonetic": "/ˈʃætə/",
+    "definition": "粉碎，损毁",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "shed",
+    "phonetic": "",
+    "definition": "1 [ʃed] n. 棚，小(木)屋",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "sheer",
+    "phonetic": "/ʃiːə/",
+    "definition": "1. 纯粹的，全然的，地道的 2. 陡峭的，峻峭的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shepherd",
+    "phonetic": "/ˈʃepəd/",
+    "definition": "牧羊人，牧人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "shield",
+    "phonetic": "/ʃiːld/",
+    "definition": "1. 盾 2. 防护物，挡板 v. 保护，防御，掩护",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shipment",
+    "phonetic": "/ˈʃɪpmənt/",
+    "definition": "1. 装船，装运 2. 装运的货物量",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "shove",
+    "phonetic": "/ʃʌv/",
+    "definition": "& n. 推挤，推撞",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shrewd",
+    "phonetic": "/ʃruːd/",
+    "definition": "1. 明智的，精明的 2. 狡狯的，明辨的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shrink",
+    "phonetic": "/ʃrɪŋk/",
+    "definition": "1. (使)收缩，(使)皱缩 2. 退缩，畏缩  n. 1. 收缩 2. 退缩，畏缩",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shrub",
+    "phonetic": "/ʃrʌb/",
+    "definition": "灌木",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shrug",
+    "phonetic": "/ʃrʌɡ/",
+    "definition": "(表示冷淡·怀疑等)耸(肩)",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "shutter",
+    "phonetic": "/ˈʃʌtə/",
+    "definition": "1. (照相机的)快门 2. 百叶窗，窗板",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "shuttle",
+    "phonetic": "/ʃʌtl/",
+    "definition": "1. (织布机的)梭 2. 定期的短程往返班机(车) || shuttle diplomacy穿梭外交 /shuttle service穿梭营运(飞机、公共汽车的定期班次)  v. 穿梭般往返",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "siege",
+    "phonetic": "/siːdʒ/",
+    "definition": "围困，围攻",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sieve",
+    "phonetic": "/sɪv/",
+    "definition": "漏勺，筛子 v. 筛，筛分",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "signal",
+    "phonetic": "/ˈsɪɡnəl/",
+    "definition": "1. 信号，暗号 2. 讯号，讯息 v. 发信号，打信号",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "significant",
+    "phonetic": "/sɪɡˈnɪfɪkənt/",
+    "definition": "1. 重要的，重大的 2. 有特殊意义的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "signify",
+    "phonetic": "/ˈsɪɡnɪfaɪ/",
+    "definition": "1. 意味，表明，表示 2. (以动作)表示",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "silicon",
+    "phonetic": "/ˈsɪlɪkən/",
+    "definition": "硅",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "similar",
+    "phonetic": "/ˈsɪmɪlə/",
+    "definition": "相似的，近似的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "simulate",
+    "phonetic": "/ˈsɪmjʊleɪt/",
+    "definition": "1. 假装，冒充 2. 模拟，模仿",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "simultaneous",
+    "phonetic": "/ˌsɪməlˈteɪnɪəs/",
+    "definition": "同时发生的，同时做出的，同时的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "sip",
+    "phonetic": "/sɪp/",
+    "definition": "小口喝，抿 n. 小口喝，一小口的量",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "situated",
+    "phonetic": "/ˈsitjueitid/",
+    "definition": "位于……的，坐落在……的，处于某种境地的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "skeleton",
+    "phonetic": "/ˈskelɪtən/",
+    "definition": "1. 骨骼，骨架 2. 纲要，轮廓，基干",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "skeptical",
+    "phonetic": "/ˈskeptɪkəl/",
+    "definition": "怀疑的，多疑的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "skip",
+    "phonetic": "/skɪp/",
+    "definition": "1. 轻快地跳，跳跃 2. 跳绳 3. 跳过，略去",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "skull",
+    "phonetic": "/skʌl/",
+    "definition": "脑壳，头盖骨",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "slack",
+    "phonetic": "/slæk/",
+    "definition": "1. 松弛的，没拉紧的 2. 萧条的，清淡的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "slap",
+    "phonetic": "/slæp/",
+    "definition": "掴，拍，掌声 v. 掴，拍打，掌击",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "slash",
+    "phonetic": "/slæʃ/",
+    "definition": "1. 挥砍，劈刺 2. 大幅度裁减或削减(某物) 3. 在(衣服)上开长缝作装饰 4. 严厉批评 n. 1. 砍，抽 2. 长的切口或裂口 3. 衣服的叉",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "slaughter",
+    "phonetic": "/ˈslɔːtə/",
+    "definition": "& v. 屠宰，屠杀",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "slice",
+    "phonetic": "/slaɪs/",
+    "definition": "薄片，切片，一片  v. 把…切成薄片",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "slick",
+    "phonetic": "/slɪk/",
+    "definition": "1. 顺利而有效的，不费力的 2. (指人)圆滑的，油滑的 3. 光滑的 n. 海面浮油",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "slide",
+    "phonetic": "/slaɪd/",
+    "definition": "1. 滑动，滑行 2. 溜进，潜行 n. 1. 滑，滑行 2. 滑道，滑坡，滑梯 3. 幻灯片",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "slight",
+    "phonetic": "/slaɪt/",
+    "definition": "1. 轻微的，少量的 2. 纤弱的，脆弱的 v. 轻视，藐视，怠慢",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "slip",
+    "phonetic": "",
+    "definition": "1 [slɪp] n. 1. 滑，溜，失足 2. 小过失，失误 3. 溜走 v. 1. 失足，滑倒 2. 溜走，潜行 3. 滑落，滑脱 4. 滑动，滑行 5. 犯错误，疏忽",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "slippery",
+    "phonetic": "/ˈslɪpərɪ/",
+    "definition": "1. 光滑的，湿滑的 2. 滑头的，无耻的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "slogan",
+    "phonetic": "/ˈsləʊɡən/",
+    "definition": "标语，口号",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "slope",
+    "phonetic": "/sləʊp/",
+    "definition": "1. 倾斜，坡度 2. 倾斜面，斜坡",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "slot",
+    "phonetic": "/slɒt/",
+    "definition": "1. (可投入东西的)孔 2. 沟，槽，滑道 3. 在名单、系统、组织等中的位置、空位 v. 1. 在(某物)中开缺口、狭缝、沟槽等 2. 把…安插在空位中，安置",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "slum",
+    "phonetic": "/slʌm/",
+    "definition": "贫民区，贫民窟",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "slump",
+    "phonetic": "/slʌmp/",
+    "definition": "1. 沉重地倒下或落下 2. 暴跌，剧降",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "smash",
+    "phonetic": "/smæʃ/",
+    "definition": "1. (使)破碎，粉碎，打碎 2. 猛撞，猛冲，猛击 3. 痛击，打败，打破(记录等)",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "smuggle",
+    "phonetic": "/ˈsmʌɡl/",
+    "definition": "走私，偷运",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "snack",
+    "phonetic": "/snæk/",
+    "definition": "小吃，快餐 || snack bar小吃店，快餐店",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "snatch",
+    "phonetic": "/snætʃ/",
+    "definition": "&n. 抢夺，攫取",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sneak",
+    "phonetic": "/sniːk/",
+    "definition": "潜行，溜走 n. 怯懦鬼祟的人",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sniff",
+    "phonetic": "/snɪf/",
+    "definition": "1. 以鼻吸气 2. 嗅，闻",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "soar",
+    "phonetic": "/sɔː/",
+    "definition": "1. 高飞，翱翔 2. 骤升，腾越",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "sober",
+    "phonetic": "/ˈsəʊbə/",
+    "definition": "1. 未醉的，清醒的 2. 审慎的，镇定的，严肃的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sociology",
+    "phonetic": "/ˌsəʊsɪˈɒlədʒɪ/",
+    "definition": "社会学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "solemn",
+    "phonetic": "/ˈsɒləm/",
+    "definition": "1. 庄严的，肃穆的 2. 真诚的，正式的 3. 隆重的，庄重的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "solicitor",
+    "phonetic": "/səˈlɪsɪtə/",
+    "definition": "(BrE)律师",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "solidarity",
+    "phonetic": "/ˌsɒlɪˈdærətɪ/",
+    "definition": "团结，一致",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "solitary",
+    "phonetic": "/ˈsɒlɪtərɪ/",
+    "definition": "1. 独居的，孤独的 2. 单个的，惟一的 3. 偏僻的，人迹罕至的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "solo",
+    "phonetic": "/ˈsəʊləʊ/",
+    "definition": "1. 独奏(曲)，独唱(曲) 2. 单独表演 adj. 1. 独奏(曲)的，独唱(曲)的 2. 单独的，单独表演的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "soluble",
+    "phonetic": "/ˈsɒljʊbl/",
+    "definition": "1. 可溶的 2. 可解决的，可解答的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "solution",
+    "phonetic": "/səˈluːʃən/",
+    "definition": "1. 解答，解决方法 2. 溶解，溶解过程 3. 溶液",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sophisticated",
+    "phonetic": "/səˈfɪstɪkeɪtɪd/",
+    "definition": "1. 老练的，高雅时髦的  2. 复杂的，精细的，尖端的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "sour",
+    "phonetic": "/ˈsaʊə/",
+    "definition": "1. 酸的，酸味的 2. 酸腐的，酸臭的 3. 乖庆的，不友好的  v. (使)变酸",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "sovereign",
+    "phonetic": "/ˈsɒvrɪn/",
+    "definition": "1. 最高的，无上的 2. 独立的，有主权的  n. 君主，统治者",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "spacious",
+    "phonetic": "/ˈspeɪʃəs/",
+    "definition": "广大的，宽敞的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "span",
+    "phonetic": "/spæn/",
+    "definition": "跨度 v. 横跨，架桥于…",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "sparkle",
+    "phonetic": "/ˈspɑːkl/",
+    "definition": "闪闪发光，闪烁，闪耀 n. 闪光，闪耀，火花",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "specialist",
+    "phonetic": "/ˈspeʃəlɪst/",
+    "definition": "专家",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "specialty",
+    "phonetic": "/ˈspeʃәlti/",
+    "definition": "1. 专业，专长 2. 特产，特制品 a. 专门的，独立的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "species",
+    "phonetic": "/ˈspiːʃiːz/",
+    "definition": "(sing &pl) 1. (生物)种 2. 种类",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "specific",
+    "phonetic": "/spɪˈsɪfɪk/",
+    "definition": "1. 明确的，详尽的 2. 特定的，特指的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "specification",
+    "phonetic": "/ˌspesifiˈkeiʃәn/",
+    "definition": "规格，详述，详细说明书",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "spectacle",
+    "phonetic": "/ˈspektəkl/",
+    "definition": "1. 公开展示 2. 景象，光景，壮观 3. (pl)眼镜",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "spectator",
+    "phonetic": "/spekˈteɪtə/",
+    "definition": "观众，旁观者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "spectrum",
+    "phonetic": "/ˈspektrəm/",
+    "definition": "1. 光谱 2. 波长，范围",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "speculate",
+    "phonetic": "/ˈspekjʊleɪt/",
+    "definition": "1. 思索，推测 2. 投机，做投机生意",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "spice",
+    "phonetic": "/spaɪs/",
+    "definition": "1. 香料，调味品 2. 意味，风味 v. 1. 加香料于 2. 为…增添趣味",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "spine",
+    "phonetic": "/spaɪn/",
+    "definition": "1. 脊柱，脊椎 2. (动植物体上的)刺，棘刺 3. 书脊",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "spiral",
+    "phonetic": "/ˈspaɪərəl/",
+    "definition": "1. 螺线，螺旋状的物体 2. 不断加强的上升或下降 adj. 螺旋形的，盘旋的 v. 1. 螺旋形移动，盘旋移动 2. 连续增长或减少",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "spite",
+    "phonetic": "/spaɪt/",
+    "definition": "怨恨，恶意 || in spite of不管，不顾 v. 刁难，使恼怒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "splash",
+    "phonetic": "/splæʃ/",
+    "definition": "1. 溅，泼 2. (指液体)飞溅，激溅 n. 1. 飞溅，飞溅声，溅污的斑点 2. 有颜色的斑点",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "spoil",
+    "phonetic": "/spɔɪl/",
+    "definition": "1. 损坏，糟蹋 2. 宠坏，溺爱 n. 掠夺物，赃物",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sponge",
+    "phonetic": "/spʌndʒ/",
+    "definition": "海绵， v. 1. 用海绵等擦拭、洗涤或清除 2. 用海绵吸收(液体)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "spontaneous",
+    "phonetic": "/spɒnˈteɪnɪəs/",
+    "definition": "自发的，自然的，自动的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "spouse",
+    "phonetic": "/spaʊz/",
+    "definition": "配偶",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sprinkle",
+    "phonetic": "/ˈsprɪŋkl/",
+    "definition": "洒，喷，淋  n. 少量，少数",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "spy",
+    "phonetic": "/spaɪ/",
+    "definition": "1. 间谍，密探，侦探 2. 窥视者，秘密监视者 v. 1. 侦察，窥探，秘密监视 2. 观察，发现",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "squad",
+    "phonetic": "/skwɒd/",
+    "definition": "班，小组，小队",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "stab",
+    "phonetic": "/stæb/",
+    "definition": "1. 刺，戳，刺入 2. 产生刺痛 n. 刺，戳，刺痛，伤痛",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "stability",
+    "phonetic": "/stəˈbɪlətɪ/",
+    "definition": "坚固性，稳定性，安定",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "stabilize",
+    "phonetic": "/ˈsteɪbɪlaɪz/",
+    "definition": "使稳定，使沉稳",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "stable",
+    "phonetic": "",
+    "definition": "1 [ˈsteɪbl] adj. 坚固的，稳定的，安定的",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "stack",
+    "phonetic": "/stæk/",
+    "definition": "1. 整齐叠起的一堆 2. 干草垛",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "stagger",
+    "phonetic": "/ˈstæɡə/",
+    "definition": "1. (使)摇晃，蹒跚而行 2. 使摇摆，使震惊 3. 间隔，错开",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "staircase",
+    "phonetic": "/ˈsteəkeɪs/",
+    "definition": "楼梯，楼梯间(= stairway)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "stalk",
+    "phonetic": "",
+    "definition": "1 [stɔːk] n. 1. (植物的)茎，秆 2. 叶柄，花梗，果实的柄",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "stall",
+    "phonetic": "",
+    "definition": "1 [stɔːl] n. 1. 摊位 2. 畜舍，厩 3. (BrE)戏院正厅的前排座位",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "standpoint",
+    "phonetic": "/ˈstændpɔɪnt/",
+    "definition": "立场，立脚点，观点",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "staple",
+    "phonetic": "",
+    "definition": "1 [ˈsteɪpl] n. 订书钉 v. 用订书钉订住",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "startle",
+    "phonetic": "/ˈstɑːtl/",
+    "definition": "使惊愕，使吃惊",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "statement",
+    "phonetic": "/ˈsteɪtmənt/",
+    "definition": "1. 陈述，声明 2. 财务报表 /报告书，结算表",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "statesman",
+    "phonetic": "/ˈsteɪtsmən/",
+    "definition": "政治家，政治领导人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "stationary",
+    "phonetic": "/ˈsteɪʃənərɪ/",
+    "definition": "不动的，静止的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "status",
+    "phonetic": "/ˈsteɪtəs/",
+    "definition": "1. 身份，地位 2. 威望，名望 3. 情形，状况",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "stereo",
+    "phonetic": "/ˈsterɪəʊ/",
+    "definition": "立体声，立体声系统 adj. 立体声的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "stereotype",
+    "phonetic": "/ˈsterɪətaɪp/",
+    "definition": "1. 模式化的形象、思想、人物等，老一套 2. 铅版 v. 使定型，使固定",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "stern",
+    "phonetic": "",
+    "definition": "1 [stɜːn] adj. 1. 严苛的，严格的 2. 严厉的，严肃的",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sticky",
+    "phonetic": "/ˈstɪkɪ/",
+    "definition": "1. 粘的，粘性的 2. 棘手的，尴尬的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "stimulus",
+    "phonetic": "/ˈstɪmjʊləs/",
+    "definition": "(pl stimuli) n. 刺激(物)，激励",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "stock",
+    "phonetic": "/stɒk/",
+    "definition": "1. 贮存，储备 2. 存货，现货 3. 股票 || stock certificate股票，证券 [stock dividend红利，股息] stock exchange证券交易所 /stock market股票市场",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "straightforward",
+    "phonetic": "/ˌstreɪtˈfɔːwəd/",
+    "definition": "1. 诚实的，坦白的 2. 易懂的，易做的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "strain",
+    "phonetic": "/streɪn/",
+    "definition": "1. 拉紧，扯紧 2. 需费神之事物 3. 劳累，疲惫，竭尽 4. 扭筋，脱臼 v. 1. 拉紧，扯紧，张紧 2. 尽量利用，尽全力 3. 损伤，耗损",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "strand",
+    "phonetic": "/strænd/",
+    "definition": "(绳索、缆线等的)一股，一缕",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "strategy",
+    "phonetic": "/ˈstrætədʒɪ/",
+    "definition": "1. 战略(学)，策略(学)，兵法 2. 策略，谋略，妙计",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "stray",
+    "phonetic": "/streɪ/",
+    "definition": "走失，迷路，离题 adj. 1. 流浪的，迷路的 2. 孤零的，离群的",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "streak",
+    "phonetic": "/striːk/",
+    "definition": "1. 条纹，纹理 2. (性格上不太好的)特质，性情，癖性 v. 在…上加条纹",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "stream",
+    "phonetic": "/striːm/",
+    "definition": "1. (小)河，川，溪流 2. (液体、人、物等的)不断流出 v. 1. 倾注，流出 2. 飘扬，招展",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "streamline",
+    "phonetic": "/ˈstriːmlaɪn/",
+    "definition": "1. 把…设计或制成流线型 2. 使精简",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "stride",
+    "phonetic": "/straɪd/",
+    "definition": "1. 大步行走 2. 跨过，跨越 n. 大步，阔步，跨幅",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "string",
+    "phonetic": "/strɪŋ/",
+    "definition": "1. 细绳，带子 2. 乐器的弦 3. 以线串成之物，一串，一列 v. 1. 缚，扎，穿 2. 上弦",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "strive",
+    "phonetic": "/straɪv/",
+    "definition": "1. 抗争，搏斗 2. 奋勉，努力",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "stroke",
+    "phonetic": "/strəʊk/",
+    "definition": "1. 打击，一击 2. 身体上部及手臂的活动，一击，一挥，一划，一动 3. 一笔，笔画 4. 钟声，敲击声 5. 中风  v. 抚摸",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "stroll",
+    "phonetic": "/strəʊl/",
+    "definition": "& v. 漫步，闲逛，遨游",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "stubborn",
+    "phonetic": "/ˈstʌbən/",
+    "definition": "1. 顽固的，执拗的 2. 棘手的，难对付的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "stumble",
+    "phonetic": "/ˈstʌmbl/",
+    "definition": "1. 绊脚，绊跌 2. 蹒跚而行，行动不稳 3. 结结巴巴地说 || stumble across [on] upon偶然碰见，偶尔发现",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "stump",
+    "phonetic": "/stʌmp/",
+    "definition": "1. 树桩，残株 2. 残余部分",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "stun",
+    "phonetic": "/stʌn/",
+    "definition": "1. 将(人或动物)打昏(尤指击打头部) 2. 使目瞪口呆，使吃惊 3. 令人喜悦",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "sturdy",
+    "phonetic": "/ˈstɜːdɪ/",
+    "definition": "1. 强健的，结实的 2. 坚定的，不屈不挠的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "subjective",
+    "phonetic": "/səbˈdʒektɪv/",
+    "definition": "1. (指思想、感情等)主观的(属于自我意识方面的) 2. 主观的(以个人的好恶、观点等为依据的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "submarine",
+    "phonetic": "/ˌsʌbməˈriːn/",
+    "definition": "潜水艇，潜水舰 adj. 海下的，海底的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "submit",
+    "phonetic": "/səbˈmɪt/",
+    "definition": "1. 服从，屈从 2. 呈送，提交，提出",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "subordinate",
+    "phonetic": "/səˈbɔːdɪnət/",
+    "definition": "下级的，次要的，附属的 n. 属下，部属，属僚 [səˈbɔːdɪneɪt] v. 使居次要地位，使隶属",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "subscribe",
+    "phonetic": "/səbˈskraɪb/",
+    "definition": "1. 认捐，捐助，应募 2. 订阅(to)，预约(for) 3. 签署",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "subsequent",
+    "phonetic": "/ˈsʌbsɪkwənt/",
+    "definition": "后来的，随后的，继起的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "subsidiary",
+    "phonetic": "/səbˈsɪdɪərɪ/",
+    "definition": "1. 附属的，次要的 2. (指业务机构)附属的，附设的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "subsidy",
+    "phonetic": "/ˈsʌbsɪdɪ/",
+    "definition": "补助金，津贴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "substance",
+    "phonetic": "/ˈsʌbstəns/",
+    "definition": "1. 物质，物 2. 实质，本旨",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "substantial",
+    "phonetic": "/səbˈstænʃəl/",
+    "definition": "1. 牢固的，坚实的 2. 充裕的，丰足的 3. 主要的，实质性的，实体的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "substitute",
+    "phonetic": "/ˈsʌbstɪtjuːt/",
+    "definition": "代理人，代替者，代用品，代替物 v. 代替，替换，代用",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "subtle",
+    "phonetic": "/ˈsʌtl/",
+    "definition": "1. 微细的，微妙的，难以察觉的 2. 精巧的，精妙的 3. 敏感的，敏锐的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "subtract",
+    "phonetic": "/səbˈtrækt/",
+    "definition": "减去，扣除",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "suburb",
+    "phonetic": "/ˈsʌbɜːb/",
+    "definition": "郊区，市郊",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "successive",
+    "phonetic": "/səkˈsesɪv/",
+    "definition": "继续的，连续的，接连的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "successor",
+    "phonetic": "/səkˈsesə/",
+    "definition": "继承人，继任者，接班人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sue",
+    "phonetic": "/sjuː/",
+    "definition": "1. 控告(某人) 2. 请求(常于法庭上)",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "suffice",
+    "phonetic": "/səˈfaɪs/",
+    "definition": "1. 足够 2. 足够…之需，使满足",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sufficient",
+    "phonetic": "/səˈfɪʃənt/",
+    "definition": "足够的，充分的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "suite",
+    "phonetic": "/swiːt/",
+    "definition": "1. 一套家具 2. 一套房间，套间 3. 一套物件 4. (音乐)组曲",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sulfur",
+    "phonetic": "/ˈsʌlfә/",
+    "definition": "硫，硫磺 v. 用硫磺处理",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "summit",
+    "phonetic": "/ˈsʌmɪt/",
+    "definition": "1. 顶点，极点 2. (山的)尖峰，巅峰，高峰 3. 政府首脑会议，高峰会议",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "summon",
+    "phonetic": "/ˈsʌmən/",
+    "definition": "1. 召唤，传唤，召集 2. 鼓起(勇气、力量等)",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "superficial",
+    "phonetic": "/ˌsjuːpəˈfɪʃəl/",
+    "definition": "1. 表面的，表面性的 2. 肤浅的，浅薄的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "superintendent",
+    "phonetic": "/ˌsjuːpərɪnˈtendənt/",
+    "definition": "1. 督导，总监，总管 2. 英国警察局长",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "superior",
+    "phonetic": "/sjuːˈpɪərɪə/",
+    "definition": "1. 优良的，卓越的 2. 数目较大的，较多的 3. (职位等)较高的，上级的 4. 傲慢的，自大的 n. 上司，上级，长辈",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "superiority",
+    "phonetic": "/sjuːˌpɪərɪˈɒrətɪ/",
+    "definition": "优秀，优越，优胜",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "supersonic",
+    "phonetic": "/ˌsjuːpəˈsɒnɪk/",
+    "definition": "超声(频)的，超音速的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "supervise",
+    "phonetic": "/ˈsjuːpəvaɪz/",
+    "definition": "监督，管理，指导",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "supplement",
+    "phonetic": "/ˈsʌplɪmənt/",
+    "definition": "1. 增补，补充 2. 增刊，副刊，补编，附录  v. 增补，补充",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "supplementary",
+    "phonetic": "/ˌsʌplɪˈmentərɪ/",
+    "definition": "1. 补充的，附加的 2. (指角)补角的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "suppress",
+    "phonetic": "/səˈpres/",
+    "definition": "1. 镇压，平定，制止 2. 抑制，隐瞒，扣留",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  }
+]

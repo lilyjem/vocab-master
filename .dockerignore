@@ -1,0 +1,34 @@
+# 版本控制
+.git
+.gitignore
+
+# 依赖（Docker 内重新安装）
+node_modules
+
+# Next.js 构建产物（Docker 内重新构建）
+.next
+
+# 开发文档和测试（不需要打包到镜像）
+docs
+scripts
+__tests__
+coverage
+*.md
+!README.md
+
+# 环境变量
+.env.local
+.env.development
+.env.production
+
+# 编辑器 / IDE
+.vscode
+.cursor
+.idea
+
+# 日志
+npm-debug.log*
+
+# 操作系统
+.DS_Store
+Thumbs.db

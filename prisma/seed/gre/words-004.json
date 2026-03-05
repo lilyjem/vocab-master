@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "civility",
+    "phonetic": "/siˈviliti/",
+    "definition": "彬彬有礼，斯文",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "clairvoyance",
+    "phonetic": "/kleəˈvɔiəns/",
+    "definition": "超人的洞察力",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "clairvoyant",
+    "phonetic": "/kleəˈvɔiənt/",
+    "definition": "透视的，有洞察力的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "clamber",
+    "phonetic": "/ˈklæmbə/",
+    "definition": "爬上，攀登",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "clammy",
+    "phonetic": "/ˈklæmi/",
+    "definition": "冷而粘湿的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "clannish",
+    "phonetic": "/ˈklæniʃ/",
+    "definition": "排他的，门户之见的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "clarion",
+    "phonetic": "/ˈklæriən/",
+    "definition": "声音高而清晰的；n. 尖音小号声；尖音小号",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cleavage",
+    "phonetic": "/ˈkliːvidʒ/",
+    "definition": "裂缝；分裂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cleave",
+    "phonetic": "/kliːv/",
+    "definition": "劈开；分裂",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cleaver",
+    "phonetic": "/ˈkliːvə(r)/",
+    "definition": "切肉刀",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "clemency",
+    "phonetic": "/ˈklemənsi/",
+    "definition": "温和；仁慈，宽厚",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "clement",
+    "phonetic": "/ˈklemənt/",
+    "definition": "温和的；仁慈的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "clientele",
+    "phonetic": "/klaiɑnˈtel/",
+    "definition": "（医生、律师的）顾客，（商店的）常客",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "clique",
+    "phonetic": "/kliːk/",
+    "definition": "朋党派系，小集团",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cloister",
+    "phonetic": "/ˈklɔistə/",
+    "definition": "修道院",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "closed-minded",
+    "phonetic": "/ˈkləuzdˈmaindid/",
+    "definition": "倔强的，顽固的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "closure",
+    "phonetic": "/ˈkləuʒə/",
+    "definition": "关闭；终止",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cloture",
+    "phonetic": "/ˈkləutʃə/",
+    "definition": "（议会等中的）终止辩论提付表决",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cloudburst",
+    "phonetic": "/ˈklaudbəːst/",
+    "definition": "大暴雨，豪雨",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "clout",
+    "phonetic": "/klaut/",
+    "definition": "权力，影响力；用手猛击",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cloy",
+    "phonetic": "/klɔi/",
+    "definition": "（吃甜食）生腻，吃腻",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cloying",
+    "phonetic": "/ˈklɔiiŋ/",
+    "definition": "甜得发腻的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "coagulant",
+    "phonetic": "/kəuˈæɡjulənt/",
+    "definition": "凝结剂；凝血剂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "coagulate",
+    "phonetic": "/kəuˈæɡjuleit/",
+    "definition": "使凝结",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "coagulation",
+    "phonetic": "/kəu,æɡjuˈleiʃən/",
+    "definition": "凝固",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "coalesce",
+    "phonetic": "/ˌkəuəˈles/",
+    "definition": "联合，合并",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "coarsen",
+    "phonetic": "/ˈkɔːsn/",
+    "definition": "使某物变粗糙",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cob",
+    "phonetic": "/kɔb/",
+    "definition": "玉米棒子；雄天鹅",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cobbler",
+    "phonetic": "/ˈkɔblə/",
+    "definition": "补鞋匠",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cocoon",
+    "phonetic": "/kəˈkuːn/",
+    "definition": "茧",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "coda",
+    "phonetic": "/ˈkəudə/",
+    "definition": "乐曲的尾声",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "codify",
+    "phonetic": "/ˈkɔdifai/",
+    "definition": "将法律、规则等编成法典",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "coerce",
+    "phonetic": "/kəuˈəːs/",
+    "definition": "强迫；压制",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "coercion",
+    "phonetic": "/kəuˈəːʃən/",
+    "definition": "强制，高压统治",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "coeval",
+    "phonetic": "/kəuˈiːvəl/",
+    "definition": "同年代的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "coffer",
+    "phonetic": "/ˈkɔfə/",
+    "definition": "保险柜",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cogitate",
+    "phonetic": "/ˈkɔdʒiteit/",
+    "definition": "认真思考，深思熟虑",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cognate",
+    "phonetic": "/ˈkɔɡneit/",
+    "definition": "同词源的；同类的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cognizance",
+    "phonetic": "/ˈkɔɡnizəns/",
+    "definition": "认识，察识，知识",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "cognizant",
+    "phonetic": "/ˈkɔɡnizənt/",
+    "definition": "知道的，认识的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "cognomen",
+    "phonetic": "/kɔɡˈnəumen/",
+    "definition": "（古罗马人的）姓",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cohabit",
+    "phonetic": "/kəuˈhæbit/",
+    "definition": "共栖",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "colander",
+    "phonetic": "/ˈkʌləndə(r)/",
+    "definition": "滤器，漏勺",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cold-blooded",
+    "phonetic": "/ˈkəuldˈblʌdid/",
+    "definition": "[生]冷血的；残酷的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "collage",
+    "phonetic": "/kəˈlɑːʒ/",
+    "definition": "拼贴画",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "collate",
+    "phonetic": "/kɔˈleit/",
+    "definition": "对照，核对",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "collected",
+    "phonetic": "/kəˈlektid/",
+    "definition": "泰然自若的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "colloquium",
+    "phonetic": "/kəˈləukwiəm/",
+    "definition": "学术讨论会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "colloquy",
+    "phonetic": "/ˈkɔləkwi/",
+    "definition": "（非正式的）交谈，会谈",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "collude",
+    "phonetic": "/kəˈluːd/",
+    "definition": "串通，共谋",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "colonnade",
+    "phonetic": "/ˌkɔləˈneid/",
+    "definition": "柱廊（一排柱子长廊）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "coloration",
+    "phonetic": "/kʌləˈreiʃən/",
+    "definition": "着色法，染色法；颜色，色泽",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "colossus",
+    "phonetic": "/kəˈlɔsəs/",
+    "definition": "巨人；巨型雕像",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "colt",
+    "phonetic": "/kəult/",
+    "definition": "小雄驹",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "coltish",
+    "phonetic": "/ˈkəultiʃ/",
+    "definition": "似小马的；不受拘束的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "coma",
+    "phonetic": "/ˈkəumə/",
+    "definition": "昏迷状态",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "comatose",
+    "phonetic": "/ˈkəumətəus/",
+    "definition": "昏迷的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "comedienne",
+    "phonetic": "/kəˌmediˈen/",
+    "definition": "说笑话、演滑稽剧等的女演员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "comely",
+    "phonetic": "/ˈkʌmli/",
+    "definition": "吸引人的，美丽的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "comestible",
+    "phonetic": "/kəˈmestibl/",
+    "definition": "食物，食品；a. 可吃的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "comity",
+    "phonetic": "/ˈkɔmiti/",
+    "definition": "礼让，礼仪",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "commensurate",
+    "phonetic": "/kəˈmenʃərit/",
+    "definition": "同样大小的；相称的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "commingle",
+    "phonetic": "/kɔˈmiŋɡl/",
+    "definition": "搀和，混合",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "commiserate",
+    "phonetic": "/kəˈmizəreit/",
+    "definition": "同情，怜悯",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "committed",
+    "phonetic": "/kəˈmitid/",
+    "definition": "（对事业，本职工作等）尽忠的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "commonsense",
+    "phonetic": "/ˌkɔmənˈsens/",
+    "definition": "具有常识的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "commotion",
+    "phonetic": "/kəˈməuʃən/",
+    "definition": "骚动，动乱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "compatriot",
+    "phonetic": "/kəmˈpætriət/",
+    "definition": "同胞，同国人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "compendium",
+    "phonetic": "/kəmˈpendiəm/",
+    "definition": "简要，概略",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "complaisance",
+    "phonetic": "/kəmˈpleizəns/",
+    "definition": "彬彬有礼，殷勤，柔顺",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "complaisant",
+    "phonetic": "/kəmˈpleizənt/",
+    "definition": "顺从的，讨好的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "compliant",
+    "phonetic": "/kəmˈplaiənt/",
+    "definition": "服从的，顺从的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "complicity",
+    "phonetic": "/kəmˈplisiti/",
+    "definition": "合谋，串通",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "comport",
+    "phonetic": "/kəmˈpɔːt/",
+    "definition": "举止（以一种特殊方式表现）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "compost",
+    "phonetic": "/ˈkɔmpɔst/",
+    "definition": "混合肥料",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "comprehensible",
+    "phonetic": "/ˌkɔmpriˈhensəbl/",
+    "definition": "能充分理解的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "compulsion",
+    "phonetic": "/kəmˈpʌlʃ（ə）n/",
+    "definition": "强迫；难以抗拒的冲动，欲望",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "compunction",
+    "phonetic": "/kəmˈpʌŋkʃ（ə）n/",
+    "definition": "懊悔，良心不安",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "con",
+    "phonetic": "/kɔn/",
+    "definition": "反对；v. 欺骗",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "concatenate",
+    "phonetic": "/kɔnˈkætineit/",
+    "definition": "连结；连锁",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "concave",
+    "phonetic": "/ˈkɔnˈkeiv/",
+    "definition": "凹的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "concentric",
+    "phonetic": "/kɔnˈsentrik/",
+    "definition": "（指数个圆）有同一中心的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "concerto",
+    "phonetic": "/kənˈtʃerto/",
+    "definition": "协奏曲",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "conciliate",
+    "phonetic": "/kənˈsilieit/",
+    "definition": "安抚，使和解，调和",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "conclave",
+    "phonetic": "/ˈkɔŋkleiv/",
+    "definition": "秘密会议",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "concomitant",
+    "phonetic": "/kənˈkɔmitənt/",
+    "definition": "伴随而来的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "concord",
+    "phonetic": "/ˈkɔŋkɔːd/",
+    "definition": "和睦；公约",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "concussion",
+    "phonetic": "/kənˈkʌʃən/",
+    "definition": "脑震荡；强烈震动",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "condescend",
+    "phonetic": "/kɔndiˈsend/",
+    "definition": "屈尊，俯就",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "condescending",
+    "phonetic": "/kɔndiˈsendiŋ/",
+    "definition": "谦逊的，故意屈尊的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "condign",
+    "phonetic": "/kənˈdain/",
+    "definition": "罪有应得的；适宜的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "condole",
+    "phonetic": "/kənˈdəul/",
+    "definition": "向...吊慰",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "condor",
+    "phonetic": "/ˈkɔndɔː/",
+    "definition": "秃鹰；神鹰",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "conduit",
+    "phonetic": "/ˈkɔndit/",
+    "definition": "渠道，引水道；水管",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "confection",
+    "phonetic": "/kənˈfekʃən/",
+    "definition": "甜食，糖果",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "confidant",
+    "phonetic": "/ˌkɔnfiˈdænt/",
+    "definition": "心腹朋友，知己",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "conflagration",
+    "phonetic": "/ˌkɔnfləˈɡreiʃən/",
+    "definition": "建筑物或森林大火",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "conflate",
+    "phonetic": "/kənˈfleit/",
+    "definition": "合并",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "conformist",
+    "phonetic": "/kɔnˈfɔːmist/",
+    "definition": "遵奉习俗者，英国国教徒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "congeal",
+    "phonetic": "/kənˈdʒiːl/",
+    "definition": "冻结，凝固",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "congenital",
+    "phonetic": "/kɔnˈdʒenitl/",
+    "definition": "先天的，天生的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "congest",
+    "phonetic": "/kənˈdʒest/",
+    "definition": "使拥挤；充血",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "conglomerate",
+    "phonetic": "/kɔnˈɡlɔmərit/",
+    "definition": "集聚成团",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "congruent",
+    "phonetic": "/ˈkɔŋɡruənt/",
+    "definition": "（形状大小）全等的，一致的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "congruous",
+    "phonetic": "/ˈkɔŋɡruəs/",
+    "definition": "一致的，符合的；[数]全等的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "conifer",
+    "phonetic": "/ˈkəunifə/",
+    "definition": "针叶树",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "conjecture",
+    "phonetic": "/kənˈdʒektʃə/",
+    "definition": "/n. 推测，臆测",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "conjoin",
+    "phonetic": "/kənˈdʒɔin/",
+    "definition": "使结合",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "conjugal",
+    "phonetic": "/ˈkɔndʒuɡəl/",
+    "definition": "婚姻的，夫妻之间的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "connubial",
+    "phonetic": "/kəˈnjuːbjəl/",
+    "definition": "婚姻的，夫妻的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "conscript",
+    "phonetic": "/ˈkɔnskript/",
+    "definition": "强行征兵，征召",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "consequential",
+    "phonetic": "/ˌkɔnsiˈkwenʃəl/",
+    "definition": "傲慢的，自以为是的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "consign",
+    "phonetic": "/kənˈsain/",
+    "definition": "托运；托人看管",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "consonance",
+    "phonetic": "/ˈkɔnsənəns/",
+    "definition": "一致，调和；和音",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "conspectus",
+    "phonetic": "/kənˈspektəs/",
+    "definition": "概要，大纲",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "consternation",
+    "phonetic": "/ˌkɔnstə(ː)ˈneiʃən/",
+    "definition": "大为吃惊，惊骇",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "constrained",
+    "phonetic": "/kənˈstreind/",
+    "definition": "束缚的，节制的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "constringe",
+    "phonetic": "/kənˈstrindʒ/",
+    "definition": "使收缩，使收敛，压缩",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "consummate",
+    "phonetic": "/kənˈsʌmit；ˈkɑnsəmet/",
+    "definition": "完全的，完善的；v. 完成",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "contiguous",
+    "phonetic": "/kənˈtiɡjuəs/",
+    "definition": "接壤的，接近的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "contort",
+    "phonetic": "/kənˈtɔːt/",
+    "definition": "（使）扭曲；曲解",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "contraband",
+    "phonetic": "/ˈkɔntrə,bænd/",
+    "definition": "违禁品，走私货",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "contrition",
+    "phonetic": "/kənˈtriʃ（ə）n/",
+    "definition": "悔罪，痛悔",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "contrived",
+    "phonetic": "/kənˈtraivd/",
+    "definition": "不自然的，做作的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "contumacious",
+    "phonetic": "/ˌkɔntjuːˈmeiʃəs/",
+    "definition": "（无理）违抗的，不服从的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "contumacy",
+    "phonetic": "/ˈkɔntjuməsi/",
+    "definition": "抗命，不服从",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "contumely",
+    "phonetic": "/ˈkɔntjumli/",
+    "definition": "无礼，傲慢",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "conundrum",
+    "phonetic": "/kəˈnʌndrəm/",
+    "definition": "（答案有双关意义的）谜语；难题",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "convalesce",
+    "phonetic": "/ˌkɔnvəˈles/",
+    "definition": "（病）康复，复原",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "convalescent",
+    "phonetic": "/ˌkɔnvəˈlesnt/",
+    "definition": "/n. 康复中的（病人）",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "convergent",
+    "phonetic": "/kənˈvəːdʒənt/",
+    "definition": "会聚的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "conversant",
+    "phonetic": "/kənˈvəːsənt/",
+    "definition": "精通的，熟知的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "convex",
+    "phonetic": "/kɔnˈveks/",
+    "definition": "凸出的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "convivial",
+    "phonetic": "/kənˈviviəl/",
+    "definition": "欢乐的，狂欢的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "conviviality",
+    "phonetic": "/kən,viviˈæliti/",
+    "definition": "欢乐；爱交际的性格",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "convoke",
+    "phonetic": "/kənˈvəuk/",
+    "definition": "召集",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "convoluted",
+    "phonetic": "/ˈkɔnvəljuːtid/",
+    "definition": "盘绕的；复杂的、费解的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "convulse",
+    "phonetic": "/kənˈvʌls/",
+    "definition": "使震动，震惊",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "convulsion",
+    "phonetic": "/kənˈvʌlʃən/",
+    "definition": "骚动；痉挛",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "coop",
+    "phonetic": "/kuːp/",
+    "definition": "（鸡）笼，栏",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "copious",
+    "phonetic": "/ˈkəupjəs/",
+    "definition": "丰富的，多产的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cornet",
+    "phonetic": "/ˈkɔːnit/",
+    "definition": "短号；圆锥形蛋卷",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cornucopia",
+    "phonetic": "/ˌkɔːnjuˈkəupjə/",
+    "definition": "象征丰收的羊角（羊角装饰器内装满花、果、谷物等以示富饶）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "corny",
+    "phonetic": "/ˈkɔːni/",
+    "definition": "平淡无奇的；乡巴佬的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "coronation",
+    "phonetic": "/kɔrəˈneiʃ（ə）n/",
+    "definition": "加冕",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "corporeal",
+    "phonetic": "/kɔːˈpɔːriəl/",
+    "definition": "肉体的，身体的；物质的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "corpus",
+    "phonetic": "/ˈkɔːpəs/",
+    "definition": "全集，全部资料",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "corpuscle",
+    "phonetic": "/ˈkɔːpʌs（ə）l/",
+    "definition": "血球，细胞",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "corral",
+    "phonetic": "/kɔˈrɑːl/",
+    "definition": "（牛、马等）畜栏",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "corrugate",
+    "phonetic": "/ˈkɔruɡeit/",
+    "definition": "（使）起波浪形，起皱纹",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "corrugated",
+    "phonetic": "/ˈkɔrəɡeitid/",
+    "definition": "起皱纹的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "coruscate",
+    "phonetic": "/ˈkɔrəskeit/",
+    "definition": "闪亮",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "cosmopolitanism",
+    "phonetic": "/ˌkɔzməˈpɔlitənizəm/",
+    "definition": "世界性，世界主义",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "cosset",
+    "phonetic": "/ˈkɔsit/",
+    "definition": "宠爱，溺爱",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "coterie",
+    "phonetic": "/ˈkəutəri/",
+    "definition": "（有共同兴趣的）小团体",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "coterminous",
+    "phonetic": "/kəuˈtəːminəs/",
+    "definition": "毗连的，有共同边界的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "cougar",
+    "phonetic": "/ˈkuːɡər/",
+    "definition": "美洲豹",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "countenance",
+    "phonetic": "/ˈkauntinəns/",
+    "definition": "赞成，批准，支持；容忍；n. 面部表情，面貌",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "counterbalance",
+    "phonetic": "/ˌkauntəˈbæləns/",
+    "definition": "起平衡作用",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "countermand",
+    "phonetic": "/ˌkauntəˈmɑːnd/",
+    "definition": "撤回（命令），取消（订货）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "counterpoise",
+    "phonetic": "/ˈkauntəpɔiz/",
+    "definition": "/v. 平均，平衡",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "counterproductive",
+    "phonetic": "/ˈkautəprə,dʌktiv/",
+    "definition": "事与愿违的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "countrified",
+    "phonetic": "/ˈkʌntrifaid/",
+    "definition": "土气的，粗俗的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "coven",
+    "phonetic": "/ˈkʌvən/",
+    "definition": "（尤指十三个）女巫的集会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "covenant",
+    "phonetic": "/ˈkʌvənənt/",
+    "definition": "契约；v. 立书保证",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "covert",
+    "phonetic": "/ˈkʌvət/",
+    "definition": "秘密的，隐密的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "covet",
+    "phonetic": "/ˈkʌvit/",
+    "definition": "贪求，妄想",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "coy",
+    "phonetic": "/kɔi/",
+    "definition": "腼腆的，忸怩的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cozen",
+    "phonetic": "/ˈkʌzn/",
+    "definition": "欺骗, 哄骗",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "crabbed",
+    "phonetic": "/ˈkræbid/",
+    "definition": "潦草的，难认的；暴躁的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "crackpot",
+    "phonetic": "/ˈkrækpɔt/",
+    "definition": "狂想者，癫狂的人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "crag",
+    "phonetic": "/kræɡ/",
+    "definition": "悬崖，峭壁",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cramp",
+    "phonetic": "/kræmp/",
+    "definition": "铁箍，夹子；v. 把...箍紧",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cranky",
+    "phonetic": "/ˈkræŋki/",
+    "definition": "怪癖的；不稳的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "crass",
+    "phonetic": "/kræs/",
+    "definition": "愚钝的；粗鲁的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cravat",
+    "phonetic": "/krəˈvæt/",
+    "definition": "领巾，围巾",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "craven",
+    "phonetic": "/ˈkreivən/",
+    "definition": "懦弱的，畏缩的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "craving",
+    "phonetic": "/ˈkreiviŋ/",
+    "definition": "强烈的愿望",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "crayon",
+    "phonetic": "/ˈkreiən/",
+    "definition": "彩色腊笔、粉笔或其绘画",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "crease",
+    "phonetic": "/kriːs/",
+    "definition": "折缝，皱痕",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "credence",
+    "phonetic": "/ˈkriːdəns/",
+    "definition": "相信，信任",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "credo",
+    "phonetic": "/ˈkriːdəu/",
+    "definition": "信条",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "crepuscular",
+    "phonetic": "/kriˈpʌskjulə/",
+    "definition": "朦胧的，微明的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "crescendo",
+    "phonetic": "/kriˈʃendəu/",
+    "definition": "（音乐声音）渐强，高潮",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "crestfallen",
+    "phonetic": "/ˈkrestfɔːlən/",
+    "definition": "挫败的，失望的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "crib",
+    "phonetic": "/krib/",
+    "definition": "抄袭，剽窃",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "crimp",
+    "phonetic": "/krimp/",
+    "definition": "压褶，使（头发）卷曲；阻碍，束缚",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cringe",
+    "phonetic": "/krindʒ/",
+    "definition": "畏缩；谄媚",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cringing",
+    "phonetic": "/ˈkrindʒiŋ/",
+    "definition": "/a. 谄媚（的），奉承（的）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "crinkle",
+    "phonetic": "/ˈkriŋkl/",
+    "definition": "（使）变皱；n. 皱纹",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "criteria",
+    "phonetic": "/kraiˈtiəriə/",
+    "definition": "评判标准",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "croak",
+    "phonetic": "/krəuk/",
+    "definition": "蛙鸣声；v. 发牢骚，抱怨",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "crochet",
+    "phonetic": "/ˈkrəuʃei/",
+    "definition": "钩针织物；v. 用钩针编织",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "crockery",
+    "phonetic": "/ˈkrɔkəri/",
+    "definition": "陶器，瓦器",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cronyism",
+    "phonetic": "/krəuniizəm/",
+    "definition": "（由指政治上）任人唯亲；对好朋友的偏袒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "crook",
+    "phonetic": "/kruk/",
+    "definition": "使弯曲；n. 钩状物",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "croon",
+    "phonetic": "/ˈkruːn/",
+    "definition": "低声歌唱",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "crotchety",
+    "phonetic": "/ˈkrɔtʃiti/",
+    "definition": "脾气坏的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "crudity",
+    "phonetic": "/ˈkruːditi/",
+    "definition": "粗糙，生硬",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "crumb",
+    "phonetic": "/krʌm/",
+    "definition": "饼屑，面包屑；碎裂的东西",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  }
+]

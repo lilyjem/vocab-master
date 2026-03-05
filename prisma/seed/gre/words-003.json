@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "bonnet",
+    "phonetic": "/ˈbɔnit/",
+    "definition": "圆帽，扁平软帽",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "bonny",
+    "phonetic": "/ˈbɔni/",
+    "definition": "健美的，漂亮的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "boo",
+    "phonetic": "/buː/",
+    "definition": "作嘘声，蔑视或反对",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "boor",
+    "phonetic": "/buə/",
+    "definition": "举止粗野的人；乡下人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "bootless",
+    "phonetic": "/ˈbuːtlis/",
+    "definition": "无益处的；无用的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "botch",
+    "phonetic": "/bɔtʃ/",
+    "definition": "（笨手笨脚地）弄坏某事",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "bottleneck",
+    "phonetic": "/ˈbɔtl,nek/",
+    "definition": "瓶颈口，（喻）交通易阻塞的狭口",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "bough",
+    "phonetic": "/bau/",
+    "definition": "粗大的树枝或树干",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "bouncing",
+    "phonetic": "/ˈbaunsiŋ/",
+    "definition": "精力充沛的；健康的；活泼的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "bounteous",
+    "phonetic": "/ˈbauntiəs/",
+    "definition": "慷慨的; 丰富的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "bourgeois",
+    "phonetic": "/ˈbuɚʒˌwɑ/",
+    "definition": "中产阶级的；自私拜物的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "bovine",
+    "phonetic": "/ˈbəuvain/",
+    "definition": "（似）牛的; 迟钝的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "bowdlerize",
+    "phonetic": "/ˈbaudləraiz/",
+    "definition": "删除，删改",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "bower",
+    "phonetic": "/ˈbauə(r)/",
+    "definition": "凉亭，树荫下凉快之处",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "bracelet",
+    "phonetic": "/ˈbreislit/",
+    "definition": "手镯，臂镯",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "bracing",
+    "phonetic": "/ˈbreisiŋ/",
+    "definition": "令人振奋的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "brackish",
+    "phonetic": "/ˈbrækiʃ/",
+    "definition": "（指水）略咸的；不好吃的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "braggadocio",
+    "phonetic": "/bræɡəˈdəuʃiəu/",
+    "definition": "吹牛大王；大吹大擂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "braggart",
+    "phonetic": "/ˈbræɡət/",
+    "definition": "吹牛者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "braid",
+    "phonetic": "/breid/",
+    "definition": "穗子；发辫；v. 编成辫子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "brandish",
+    "phonetic": "/ˈbrændiʃ/",
+    "definition": "（威胁性地）挥舞",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "brash",
+    "phonetic": "/bræʃ/",
+    "definition": "性急的；无礼的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "brassy",
+    "phonetic": "/ˈbraːsi/",
+    "definition": "厚脸皮的，无礼的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "brat",
+    "phonetic": "/bræt/",
+    "definition": "孩子；顽童",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "brattish",
+    "phonetic": "/ˈbrætiʃ/",
+    "definition": "（指小孩）讨厌的，宠坏的，不礼貌的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "bravado",
+    "phonetic": "/brəˈvɑːdəu/",
+    "definition": "故作勇敢，虚张声势",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "bravura",
+    "phonetic": "/brəˈvjuərə/",
+    "definition": "华美乐段；a. 华美的；显示技巧的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "brawny",
+    "phonetic": "/ˈbrɔːni/",
+    "definition": "（人）强壮的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "bray",
+    "phonetic": "/brei/",
+    "definition": "大声而刺耳地发出（叫唤或声音）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "brazen",
+    "phonetic": "/ˈbreizn/",
+    "definition": "厚脸皮的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "breezeway",
+    "phonetic": "/ˈbriːzwei/",
+    "definition": "连接廊，有顶过道",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "bricklayer",
+    "phonetic": "/ˈbrikleiə(r)/",
+    "definition": "砌砖盖房者，泥瓦匠",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "bridle",
+    "phonetic": "/ˈbraidl/",
+    "definition": "马笼头，马缰；v. 抑制，控制",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "brindled",
+    "phonetic": "/ˈbrind（ə）ld/",
+    "definition": "有棕色斑纹的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "bristle",
+    "phonetic": "/ˈbrisl/",
+    "definition": "短而硬的毛发；v. （毛）竖起；发怒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "broach",
+    "phonetic": "/brəutʃ/",
+    "definition": "开瓶；提出（讨论）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "brocade",
+    "phonetic": "/brəˈkeid/",
+    "definition": "织锦",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "broil",
+    "phonetic": "/brɔil/",
+    "definition": "烧烤",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "bromide",
+    "phonetic": "/ˈbrəumaid/",
+    "definition": "平庸的人或话；溴化物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "brooch",
+    "phonetic": "/bruːtʃ/",
+    "definition": "胸针",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "brook",
+    "phonetic": "/bruk/",
+    "definition": "小河 v. 允许（通常与no连用）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "browbeat",
+    "phonetic": "/ˈbraubiːt/",
+    "definition": "欺侮；吓唬",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "bruit",
+    "phonetic": "/bruːt/",
+    "definition": "散布（谣言）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "brunt",
+    "phonetic": "/brʌnt/",
+    "definition": "主要冲击力或影响，矛头",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "brusque",
+    "phonetic": "/brʌsk/",
+    "definition": "唐突的，鲁莽的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "brute",
+    "phonetic": "/bruːt/",
+    "definition": "/a. 野兽（的）；残忍的（人）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "bucolic",
+    "phonetic": "/bjuːˈkɔlik/",
+    "definition": "乡村的；牧羊的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "buffoon",
+    "phonetic": "/bəˈfuːn/",
+    "definition": "演出时的丑角；粗俗而愚蠢的人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "bugaboo",
+    "phonetic": "/ˈbʌɡəbuː/",
+    "definition": "吓人的东西；妖怪",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "buggy",
+    "phonetic": "/ˈbʌɡi/",
+    "definition": "轻型马车；婴儿车",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "bulge",
+    "phonetic": "/bʌldʒ/",
+    "definition": "/v. 膨胀，鼓起",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "bulldoze",
+    "phonetic": "/ˈbuldəʊz/",
+    "definition": "用推土机推平；威胁，恐吓",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "bullion",
+    "phonetic": "/ˈbuliən/",
+    "definition": "金条，银条",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "bullish",
+    "phonetic": "/ˈbuliʃ/",
+    "definition": "股票行情看涨的；乐观的，自信的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "bullyrag",
+    "phonetic": "/ˈbuliræɡ/",
+    "definition": "恐吓，威胁",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "bumble",
+    "phonetic": "/ˈbʌmbl/",
+    "definition": "说话含糊；拙劣地做",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "bumpkinly",
+    "phonetic": "/bʌmpkinli/",
+    "definition": "乡巴佬的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "bumptious",
+    "phonetic": "/ˈbʌmpʃəs/",
+    "definition": "傲慢的，自夸的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "bungle",
+    "phonetic": "/ˈbʌŋɡl/",
+    "definition": "粗制滥造",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "buoy",
+    "phonetic": "/bɔi/",
+    "definition": "浮标；救生圈；v. 鼓励",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "buoyant",
+    "phonetic": "/ˈbɔiənt/",
+    "definition": "有浮力的；快乐的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "burlesque",
+    "phonetic": "/bəːˈlesk/",
+    "definition": "讽刺或滑稽的戏剧",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "bustle",
+    "phonetic": "/ˈbʌsl/",
+    "definition": "奔忙，忙碌；n. 喧闹，熙熙攘攘",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "buttress",
+    "phonetic": "/ˈbʌtris/",
+    "definition": "拱墙，拱壁；v. 支持",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "buxom",
+    "phonetic": "/ˈbʌksəm/",
+    "definition": "体态丰满的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "byline",
+    "phonetic": "/ˈbailain/",
+    "definition": "（列作者名字的）报刊文章首行",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "byproduct",
+    "phonetic": "/ˈbai,prɔdʌkt/",
+    "definition": "副产品；副作用",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "byzantine",
+    "phonetic": "/biˈzæntain/",
+    "definition": "像迷宫似的；难变更的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "cabal",
+    "phonetic": "/kəˈbæl/",
+    "definition": "政治阴谋小集团",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cache",
+    "phonetic": "/kæʃ/",
+    "definition": "贮藏处；v. 将...藏于",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cachet",
+    "phonetic": "/ˈkæʃei/",
+    "definition": "声望；名望，优良标志",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cacophonous",
+    "phonetic": "/kəˈkɔfənəs/",
+    "definition": "发音不和谐的，不协调的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "cacophony",
+    "phonetic": "/kæˈkɔfəni/",
+    "definition": "刺耳的噪声",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "cadaver",
+    "phonetic": "/kəˈdeivə/",
+    "definition": "尸体",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cadence",
+    "phonetic": "/ˈkeidəns/",
+    "definition": "抑扬顿挫；节奏，韵律",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cadet",
+    "phonetic": "/kəˈdet/",
+    "definition": "军校或警官学校的学生",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cadge",
+    "phonetic": "/kædʒ/",
+    "definition": "乞讨；诈取，骗取",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cajole",
+    "phonetic": "/kəˈdʒəul/",
+    "definition": "（以甜言蜜语）哄骗",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "calculated",
+    "phonetic": "/ˈkælkjuleitid/",
+    "definition": "蓄意的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "caldron",
+    "phonetic": "/ˈkɔːdrən/",
+    "definition": "（煮汤用的）大锅",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "calibrate",
+    "phonetic": "/ˈkælibreit/",
+    "definition": "量...口径；精确校准",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "calibre",
+    "phonetic": "/ˈkæləbə/",
+    "definition": "（枪等）口径；（人或事）品德，才能",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "calipers",
+    "phonetic": "/ˈkælipəz/",
+    "definition": "测径器，双脚规",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "calligraphy",
+    "phonetic": "/kəˈliɡrəfi/",
+    "definition": "书法",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "callous",
+    "phonetic": "/ˈkæləs/",
+    "definition": "起老茧的，结硬块的；无情的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "callow",
+    "phonetic": "/ˈkæləu/",
+    "definition": "（鸟）未生羽毛的；（人）未成熟的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "callus",
+    "phonetic": "/ˈkæləs/",
+    "definition": "老茧，胼胝",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "calumniate",
+    "phonetic": "/kəˈlʌmnieit/",
+    "definition": "诽谤，中伤",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "calumny",
+    "phonetic": "/ˈkæləmni/",
+    "definition": "诽谤，中伤",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cameo",
+    "phonetic": "/ˈkæmiəu/",
+    "definition": "浮雕宝石；生动刻画；（演员）出演",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "canard",
+    "phonetic": "/kæˈnɑːd/",
+    "definition": "谣言，假新闻",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "canary",
+    "phonetic": "/kəˈneəri/",
+    "definition": "金丝雀；女歌星",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "candid",
+    "phonetic": "/ˈkændid/",
+    "definition": "率直的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "candor",
+    "phonetic": "/ˈkændə/",
+    "definition": "坦白，率直",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "canine",
+    "phonetic": "/ˈkeinain/",
+    "definition": "犬的，似犬的，犬科的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "canker",
+    "phonetic": "/ˈkæŋkə/",
+    "definition": "溃疡病；祸害",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "canon",
+    "phonetic": "/ˈkænən/",
+    "definition": "真作,圣典",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "canonical",
+    "phonetic": "/kəˈnɔnikəl/",
+    "definition": "（教会）符合规定的，被收入真经的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "canorous",
+    "phonetic": "/kəˈnɔːrəs/",
+    "definition": "音调优美的，响亮的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cant",
+    "phonetic": "/kænt/",
+    "definition": "斜坡，斜面；隐语，术语，黑话；v. 使倾斜",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cantankerous",
+    "phonetic": "/kənˈtæŋkərəs/",
+    "definition": "脾气坏的，好争吵的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "cantata",
+    "phonetic": "/kænˈtɑːtə/",
+    "definition": "清唱剧，大合唱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "canto",
+    "phonetic": "/ˈkæntəu/",
+    "definition": "（长诗的）篇",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "canvass",
+    "phonetic": "/ˈkænvəs/",
+    "definition": "调查（民意）；拉选票",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "caper",
+    "phonetic": "/ˈkeipə/",
+    "definition": "/n. 雀跃，欢蹦",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "capillary",
+    "phonetic": "/kəˈpiləri/",
+    "definition": "毛细血管",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "capitalize",
+    "phonetic": "/kəˈpitəlaiz/",
+    "definition": "资本化，获利，利用",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "capitation",
+    "phonetic": "/ˌkæpiˈteiʃən/",
+    "definition": "人头税",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "capitulate",
+    "phonetic": "/kəˈpitjuleit/",
+    "definition": "（有条件地）投降",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "caprice",
+    "phonetic": "/kəˈpriːs/",
+    "definition": "怪想；变化无常，任性",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "capricious",
+    "phonetic": "/kəˈpriʃəs/",
+    "definition": "怪想的；变化无常的，任性的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "capsize",
+    "phonetic": "/kæpˈsaiz/",
+    "definition": "使船翻；倾覆",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "captious",
+    "phonetic": "/ˈkæpʃəs/",
+    "definition": "吹毛求疵的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "carafe",
+    "phonetic": "/kəˈrɑːf/",
+    "definition": "玻璃瓶",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "carapace",
+    "phonetic": "/ˈkærəpeis/",
+    "definition": "（蟹或龟等的）甲壳",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "carat",
+    "phonetic": "/ˈkærət/",
+    "definition": "克拉；（金子）开",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "carcinogen",
+    "phonetic": "/kɑːˈsinədʒən/",
+    "definition": "致癌物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "cardiologist",
+    "phonetic": "/ˌkɑːdiˈɔlədʒist/",
+    "definition": "心脏病专家",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "careen",
+    "phonetic": "/kəˈriːn/",
+    "definition": "（船）倾斜；使倾斜",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "caress",
+    "phonetic": "/kəˈres/",
+    "definition": "爱抚，抚摸；v. 爱抚或抚摸某人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "careworn",
+    "phonetic": "/ˈkeəwɔːn/",
+    "definition": "受忧虑折磨的，饱经风霜的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "caricature",
+    "phonetic": "/kærikəˈtjuə/",
+    "definition": "讽刺画；滑稽模仿",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "carillon",
+    "phonetic": "/kəˈriljən/",
+    "definition": "编钟，钟琴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "carnivorous",
+    "phonetic": "/kɑːˈnivərəs/",
+    "definition": "肉食动物的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "carol",
+    "phonetic": "/ˈkærəl/",
+    "definition": "赞美诗，颂歌；v. 欢唱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "carouse",
+    "phonetic": "/kəˈrauz/",
+    "definition": "狂饮寻乐晚会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "carpentry",
+    "phonetic": "/ˈkɑːpintri/",
+    "definition": "木工工作",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "carrion",
+    "phonetic": "/ˈkæriən/",
+    "definition": "腐肉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cartographer",
+    "phonetic": "/kɑːˈtɔɡrəfə/",
+    "definition": "绘制地图者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "caste",
+    "phonetic": "/kɑːst/",
+    "definition": "社会等级，等级",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "castigation",
+    "phonetic": "/ˌkæstiˈɡeiʃn/",
+    "definition": "惩罚，苛评",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "catapult",
+    "phonetic": "/ˈkætəpʌlt/",
+    "definition": "弹弓；弹射器",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "catharsis",
+    "phonetic": "/kæˈθɑːsis/",
+    "definition": "宣泄；情感（受艺术作用而起的）净化",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "caucus",
+    "phonetic": "/ˈkɔːkəs/",
+    "definition": "政党高层会议",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "caulk",
+    "phonetic": "/kɔːk/",
+    "definition": "填塞（隙缝使不漏水）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "causal",
+    "phonetic": "/ˈkɔːzəl/",
+    "definition": "原因的，因果关系的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cauterize",
+    "phonetic": "/ˈkɔːtəraiz/",
+    "definition": "（用腐蚀性物质或烙铁）烧灼（表皮组织）以消毒或止血",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "cautionary",
+    "phonetic": "/ˈkɔːʃənəri/",
+    "definition": "劝人谨慎的，警戒的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "cavalcade",
+    "phonetic": "/ˌkævəlˈkeid/",
+    "definition": "马队，车队",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "cavalier",
+    "phonetic": "/ˌkævəˈliə/",
+    "definition": "骑士，武士",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cavalry",
+    "phonetic": "/ˈkævəlri/",
+    "definition": "骑兵部队，装甲部队",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "caveat",
+    "phonetic": "/ˈkæviæt/",
+    "definition": "警告，告诫",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cavil",
+    "phonetic": "/ˈkævil/",
+    "definition": "挑毛病，吹毛求疵",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cavort",
+    "phonetic": "/kəˈvɔːt/",
+    "definition": "腾越，欢跃",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cede",
+    "phonetic": "/siːd/",
+    "definition": "割让（土地权利），放弃",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "celerity",
+    "phonetic": "/siˈleriti/",
+    "definition": "快速，迅速",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "celibate",
+    "phonetic": "/ˈselibit/",
+    "definition": "独身者；a. 不结婚的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cello",
+    "phonetic": "/ˈtʃeləu/",
+    "definition": "大提琴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "centaur",
+    "phonetic": "/ˈsentɔː/",
+    "definition": "人头马怪物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "centralization",
+    "phonetic": "/ˈsentrəlaiˈzeiʃən/",
+    "definition": "集中；集权化",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "centrifugal",
+    "phonetic": "/senˈtrifjuɡəl/",
+    "definition": "离心的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "centripetal",
+    "phonetic": "/senˈtripitl/",
+    "definition": "向心的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "centurion",
+    "phonetic": "/senˈtjuəriən/",
+    "definition": "古罗马的百人队长",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "cephalic",
+    "phonetic": "/seˈfælik/",
+    "definition": "头的，头部的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ceramics",
+    "phonetic": "/siˈræmiks/",
+    "definition": "制陶业；陶器",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cerebral",
+    "phonetic": "/ˈseribrəl/",
+    "definition": "大脑的；运用理性的（非感性的）",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "certitude",
+    "phonetic": "/ˈsəːtitjuːd/",
+    "definition": "确信；确定无疑",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "cessation",
+    "phonetic": "/səˈseiʃən/",
+    "definition": "中止，（短暂的）停止",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "cession",
+    "phonetic": "/ˈseʃən/",
+    "definition": "割让，转让",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chaff",
+    "phonetic": "/tʃɑːf/",
+    "definition": "谷物的皮壳，米糠",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chaffing",
+    "phonetic": "/tʃɑːfiŋ/",
+    "definition": "玩笑的，嘲弄的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chagrin",
+    "phonetic": "/ˈʃæɡrin/",
+    "definition": "/n. 失望，懊恼",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chalice",
+    "phonetic": "/ˈtʃælis/",
+    "definition": "大酒杯；圣餐杯",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chameleon",
+    "phonetic": "/kəˈmiːljən/",
+    "definition": "变色龙，蜥蜴；善变之人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "champ",
+    "phonetic": "/tʃæmp/",
+    "definition": "咀嚼（变体chump）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chandelier",
+    "phonetic": "/ˌʃændiˈliə/",
+    "definition": "枝形吊灯（烛台）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "chaperone",
+    "phonetic": "/ˈʃæpərəʊn/",
+    "definition": "（陪少女上交际场所的）女伴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "char",
+    "phonetic": "/tʃɑː/",
+    "definition": "烧焦；使...燃烧成焦炭",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "characterization",
+    "phonetic": "/ˌkæriktəraiˈzeiʃən/",
+    "definition": "描绘，刻画",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "charade",
+    "phonetic": "/ʃəˈrɑːd/",
+    "definition": "用动作等表演文字意义的字谜游戏",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "charlatan",
+    "phonetic": "/ˈʃɑːlətən/",
+    "definition": "江湖郎中，骗子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "chasm",
+    "phonetic": "/ˈkæzəm/",
+    "definition": "深渊，大沟；大差别",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chasten",
+    "phonetic": "/ˈtʃeisn/",
+    "definition": "改正；磨炼",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chastise",
+    "phonetic": "/tʃæsˈtaiz/",
+    "definition": "（严惩）责打，体罚；谴责",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chauvinistic",
+    "phonetic": "/ˌʃəuviˈnistik/",
+    "definition": "沙文主义的，过分爱国主义的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "checkered",
+    "phonetic": "/ˈtʃekəd/",
+    "definition": "盛衰无常的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "cheeky",
+    "phonetic": "/ˈtʃiːkiː/",
+    "definition": "无礼的，厚颜无耻的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cherubic",
+    "phonetic": "/tʃeˈruːbik/",
+    "definition": "（尤指孩子）胖乎乎而天真无邪的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chic",
+    "phonetic": "/ʃi(ː)k/",
+    "definition": "漂亮的，时髦的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "chicanery",
+    "phonetic": "/ʃiˈkeinəri/",
+    "definition": "诡计，狡诈",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "chimera",
+    "phonetic": "/kaiˈmiərə/",
+    "definition": "神话怪物；不可能实现的梦幻",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chipmunk",
+    "phonetic": "/ˈtʃipmʌŋk/",
+    "definition": "花栗鼠（像松鼠的美洲小动物）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chipper",
+    "phonetic": "/ˈtʃipə/",
+    "definition": "充满活力的，愉快的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chisel",
+    "phonetic": "/ˈtʃizl/",
+    "definition": "凿子；v. 凿；欺骗",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chivalrous",
+    "phonetic": "/ˈʃivəlrəs/",
+    "definition": "武士精神的；对女人彬彬有礼的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "choleric",
+    "phonetic": "/ˈkɔlərik/",
+    "definition": "易怒的，暴躁的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "choreography",
+    "phonetic": "/ˌkɔ(ː)riˈɔɡrəfi/",
+    "definition": "舞蹈；舞蹈编排",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "chortle",
+    "phonetic": "/ˈtʃɔːtl/",
+    "definition": "/n. 开心地笑",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chromatic",
+    "phonetic": "/krəˈmætik/",
+    "definition": "彩色的，五彩的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "chrysanthemum",
+    "phonetic": "/kriˈsænθ,əməm/",
+    "definition": "菊，菊花",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "chubby",
+    "phonetic": "/ˈtʃʌbi/",
+    "definition": "丰满的，圆滚滚的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chuck",
+    "phonetic": "/tʃʌk/",
+    "definition": "扔或抛，抛弃，解雇；辞职",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "churl",
+    "phonetic": "/tʃəːl/",
+    "definition": "粗鄙之人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ciliate",
+    "phonetic": "/ˈsiliit/",
+    "definition": "有纤毛的；有睫毛的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cinder",
+    "phonetic": "/ˈsində/",
+    "definition": "余烬，矿渣",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cineaste",
+    "phonetic": "/ˈsiniːæst/",
+    "definition": "影迷，热衷于电影的人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "circumlocution",
+    "phonetic": "/ˌsəːkəmləˈkjuːʃən/",
+    "definition": "迂回累赘的陈述",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "circumlocutory",
+    "phonetic": "/ˌsɜːkəmləuˈkjuːʃən/",
+    "definition": "委婉曲折的，迂回的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "circumstantial",
+    "phonetic": "/ˌsəːkəmˈstænʃəl/",
+    "definition": "不重要的，偶然的；描述详细的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "cistern",
+    "phonetic": "/ˈsistən/",
+    "definition": "贮水池",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  }
+]

@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "overwhelming",
+    "phonetic": "/ˌəuvəˈhwelmiŋ/",
+    "definition": "势不可挡的,压倒的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "owe",
+    "phonetic": "/əu/",
+    "definition": "欠(债等),应向…付出,归功于,得感谢",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "owing",
+    "phonetic": "/ˈəuiŋ/",
+    "definition": "欠的,未付的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "owl",
+    "phonetic": "/aul/",
+    "definition": "猫头鹰",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "own",
+    "phonetic": "/əun/",
+    "definition": "(用在所有格后面,加强语气)自己的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "owner",
+    "phonetic": "/ˈəunə/",
+    "definition": "物主,所有者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ownership",
+    "phonetic": "/ˈəunəʃip/",
+    "definition": "所有(权),所有制",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ox",
+    "phonetic": "/ɔks/",
+    "definition": "牛,公牛",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "oxide",
+    "phonetic": "",
+    "definition": "[化]氧化物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "oxygen",
+    "phonetic": "/ˈɔksidʒən/",
+    "definition": "氧,氧气",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ozone",
+    "phonetic": "/ˈəuzəun/",
+    "definition": "臭氧;(海岸等的)新鲜空气",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pace",
+    "phonetic": "/peis, ˈpeisi/",
+    "definition": "步,步伐,步调,速度 v.踱步,用步测",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pack",
+    "phonetic": "/pæk/",
+    "definition": "捆扎,打包;塞满,挤满n.包裹,背包,一群/副",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "package",
+    "phonetic": "/ˈpækidʒ/",
+    "definition": "包装,包裹,箱,包装费,标准部件,成套设备",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "packet",
+    "phonetic": "/ˈpækit/",
+    "definition": "小包裹,小捆;盒;一捆,一扎;邮船,班轮",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pact",
+    "phonetic": "/pækt/",
+    "definition": "合同,条约,公约,协定",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pad",
+    "phonetic": "/pæd/",
+    "definition": "垫,衬垫;便笺簿 v.加上衬垫",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "paddle",
+    "phonetic": "/ˈpædl/",
+    "definition": "桨 v.用桨划",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "page",
+    "phonetic": "/peidʒ/",
+    "definition": "页,记录,事件,专栏 vt.给...标页码",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pail",
+    "phonetic": "/peil/",
+    "definition": "桶, 提桶; 一桶的量",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pain",
+    "phonetic": "/pein/",
+    "definition": "痛,痛苦;(pl.)努力,劳苦 vt.使痛苦",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "painful",
+    "phonetic": "/ˈpeinfl/",
+    "definition": "疼痛的,使痛苦的,费力[心]的,棘手的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "paint",
+    "phonetic": "/peint/",
+    "definition": "油漆,颜料 v.油漆;涂,涂漆;画;描绘,描述",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "painter",
+    "phonetic": "/ˈpeintə/",
+    "definition": "漆工,画家",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "painting",
+    "phonetic": "/ˈpeintiŋ/",
+    "definition": "上油漆,着色;绘画;油画;画法",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pair",
+    "phonetic": "/pεə/",
+    "definition": "一对,一双;一副;夫妇 v.配对,成对",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "palace",
+    "phonetic": "/ˈpælis/",
+    "definition": "宫,宫殿",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pale",
+    "phonetic": "/peil/",
+    "definition": "苍白的,灰白的;浅的,暗淡的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "palm",
+    "phonetic": "/pɑːm/",
+    "definition": "手掌,掌状物,棕榈vt.与…握手,藏…于掌中",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pamphlet",
+    "phonetic": "/ˈpæmflit/",
+    "definition": "小册子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pan",
+    "phonetic": "/pæn/",
+    "definition": "平底锅,盘子,面板",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "panda",
+    "phonetic": "/ˈpændə/",
+    "definition": "熊猫",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "panel",
+    "phonetic": "/ˈpænl/",
+    "definition": "面,板;控制板,仪表盘;专门小组",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "panic",
+    "phonetic": "/ˈpænik/",
+    "definition": "/a.恐慌(的),惊慌(的) vt.使惊慌,使害怕",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "panorama",
+    "phonetic": "/ˌpænəˈrɑːmə/",
+    "definition": "全景,全景画,全景摄影,全景照片[装置]",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pant",
+    "phonetic": "/pænt/",
+    "definition": "喘气 v.喘,气喘吁吁地说",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pants",
+    "phonetic": "/pænts/",
+    "definition": "裤子, 短裤",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "paper",
+    "phonetic": "/ˈpeipə/",
+    "definition": "纸;纸制品;报纸;(pl)文件;试卷;论文",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "paperback",
+    "phonetic": "/ˈpeipəbæk/",
+    "definition": "平装本,简装本",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "parachute",
+    "phonetic": "/ˈpærə,ʃuːt/",
+    "definition": "降落伞 v.跳伞",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "parade",
+    "phonetic": "/pəˈreid/",
+    "definition": "/v.游行,夸耀n.检阅,阅兵式v.使列队行进",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "paradigm",
+    "phonetic": "/ˈpærədim/",
+    "definition": "典范; 范例; 示例",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "paradox",
+    "phonetic": "/ˈpærədɔks/",
+    "definition": "似非而是的话,自相矛盾的话,反论",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "paragraph",
+    "phonetic": "/ˈpærəɡrɑːf, -ɡræf/",
+    "definition": "段,节;小新闻,短评",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "parallel",
+    "phonetic": "/ˈpærəlel/",
+    "definition": "平行的,相同的,类似的n.平行线,类似,对比",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "paralyze",
+    "phonetic": "/ˈpærəlaiz/",
+    "definition": "(paralyse)使瘫痪(麻痹);使丧失作用",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "parameter",
+    "phonetic": "/pəˈræmitə/",
+    "definition": "参数,参量",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "parasite",
+    "phonetic": "/ˈpærəsait/",
+    "definition": "寄生虫,食客",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "parcel",
+    "phonetic": "/ˈpɑːsl/",
+    "definition": "包裹,邮包,部分 v.打包,捆扎,分配",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pardon",
+    "phonetic": "/ˈpɑːdn/",
+    "definition": "原谅,宽恕;请再说一遍 v.原谅,饶恕,赦免",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "parent",
+    "phonetic": "/ˈpεərənt/",
+    "definition": "父母,母亲;(pl.)双亲;父母",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "park",
+    "phonetic": "/pɑːk/",
+    "definition": "公园,停车场,运动场 v.停放(汽车等),寄放",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "parliament",
+    "phonetic": "/ˈpɑːləmənt/",
+    "definition": "国会,议会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "part",
+    "phonetic": "/pɑːt/",
+    "definition": "部分,角色,一方,零件,地区,部,篇v.使分开",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "partial",
+    "phonetic": "/ˈpɑːʃəl/",
+    "definition": "部分的,不完全的;偏袒的,不公平的,偏爱的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "participant",
+    "phonetic": "/pɑːˈtisipənt/",
+    "definition": "参加者,参与者 a.有份的,参与的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "participate",
+    "phonetic": "/pɑːˈtisipeit/",
+    "definition": "(in)参与,参加;分享,分担;含有,带有",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "particle",
+    "phonetic": "/ˈpɑːtikl/",
+    "definition": "粒子,微粒;极小量;小品词,虚词",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "particular",
+    "phonetic": "/pəˈtikjulə/",
+    "definition": "特殊的,苛求的,个别的n.详情,细节,特色",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "partly",
+    "phonetic": "/ˈpɑːtli/",
+    "definition": "部分地,不完全地,在一定程度上",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "partner",
+    "phonetic": "/ˈpɑːtnə/",
+    "definition": "合作者,合伙人,合股人,伙伴,舞伴,配偶",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "party",
+    "phonetic": "/ˈpɑːti/",
+    "definition": "聚会,政党,当事人 v.举行(参加)社交聚会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pass",
+    "phonetic": "/pɑːs, pæs/",
+    "definition": "经/通/穿/度过;传递 n.通行证;考试及格",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "passage",
+    "phonetic": "/ˈpəsidʒ/",
+    "definition": "通过,经过;通路,走廊;(一)段落,(一)节",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "passenger",
+    "phonetic": "/ˈpæsindʒə/",
+    "definition": "乘客,旅客",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "passer-by",
+    "phonetic": "",
+    "definition": "(pl.passers-by)过路人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "passion",
+    "phonetic": "/ˈpæʃən/",
+    "definition": "热情,激情,爱好;激怒;强烈感情",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "passive",
+    "phonetic": "/ˈpæsiv/",
+    "definition": "被动的,消极的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "passport",
+    "phonetic": "/ˈpɑːspɔːt, ˈpæs-/",
+    "definition": "护照,达到某种目的的手段",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "past",
+    "phonetic": "/pɑːst, pæst/",
+    "definition": "过去的 ad.过 n.过去,昔日 prep.(经)过",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "paste",
+    "phonetic": "/peist/",
+    "definition": "糊,浆糊 v.粘,贴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pastime",
+    "phonetic": "/ˈpɑːstaim/",
+    "definition": "消遣,娱乐",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pasture",
+    "phonetic": "/ˈpɑːstʃə, ˈpæs-/",
+    "definition": "牧草地,牧场",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pat",
+    "phonetic": "/pæt/",
+    "definition": "/n.轻拍,轻打,抚摸",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "patch",
+    "phonetic": "/pætʃ/",
+    "definition": "补丁,斑点,碎片小块 v.补,修补,掩饰",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "patent",
+    "phonetic": "/ˈpeitənt/",
+    "definition": "专利的,特许的n.专利(权、品)v.批准专利",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "path",
+    "phonetic": "/pɑːθ, pæθ/",
+    "definition": "小路,小径;路线,轨道",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pathetic",
+    "phonetic": "/pəˈθetik/",
+    "definition": "可怜的, 悲惨的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "patience",
+    "phonetic": "/ˈpeiʃəns/",
+    "definition": "耐心,忍耐",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "patient",
+    "phonetic": "/ˈpeiʃənt/",
+    "definition": "有耐心的,能忍耐的 n.病人,患者",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "patriotic",
+    "phonetic": "/ˌpætriˈɔtik/",
+    "definition": "爱国的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "patrol",
+    "phonetic": "/pəˈtrəul/",
+    "definition": "巡逻,巡查 n.巡逻,巡查;巡逻队",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "patron",
+    "phonetic": "/ˈpeitrən/",
+    "definition": "赞助人;资助人;老顾客,老主顾",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pattern",
+    "phonetic": "/ˈpætən/",
+    "definition": "模式,式样;图案,图样 v.仿制,模仿",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pause",
+    "phonetic": "/pɔːz/",
+    "definition": "/n.中止,暂停",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pave",
+    "phonetic": "/peiv/",
+    "definition": "铺砌,铺(路)",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pavement",
+    "phonetic": "/ˈpeivmənt/",
+    "definition": "人行道",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "paw",
+    "phonetic": "/pɔː/",
+    "definition": "爪",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pay",
+    "phonetic": "/pei/",
+    "definition": "付款,付出代价,给予注意 n.工资,薪金",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "payment",
+    "phonetic": "/ˈpeimənt/",
+    "definition": "支付,付款额",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pea",
+    "phonetic": "/piː/",
+    "definition": "豌豆",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "peace",
+    "phonetic": "/piːs/",
+    "definition": "和平;平静,安宁",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "peaceful",
+    "phonetic": "/ˈpiːsful/",
+    "definition": "和平的,平静的,安宁的,爱好和平的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "peach",
+    "phonetic": "/piːtʃ/",
+    "definition": "桃,桃树",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "peak",
+    "phonetic": "/piːk/",
+    "definition": "山顶,最高点;峰,山峰 a.高峰的,最高的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "peanut",
+    "phonetic": "/ˈpiːnʌt/",
+    "definition": "花生",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pear",
+    "phonetic": "/pεə/",
+    "definition": "梨子,梨树",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pearl",
+    "phonetic": "/pəːl/",
+    "definition": "珍珠",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "peasant",
+    "phonetic": "/ˈpezənt/",
+    "definition": "(不用于英国或美国)小农;佃农;农民",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pebble",
+    "phonetic": "/ˈpebl/",
+    "definition": "卵石",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "peculiar",
+    "phonetic": "/piˈkjuːljə/",
+    "definition": "古怪的,异常的;特殊的,特有的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pedal",
+    "phonetic": "/ˈpedl/",
+    "definition": "踏板 v.踩踏板,骑自行车",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pedestrian",
+    "phonetic": "/piˈdestriən/",
+    "definition": "步行者 a.徒步的,呆板的,通俗的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "peel",
+    "phonetic": "/piːl/",
+    "definition": "削皮,剥皮 n.果皮",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "peep",
+    "phonetic": "/piːp/",
+    "definition": "偷看,窥视",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "peer",
+    "phonetic": "/piə/",
+    "definition": "同辈,同等地位的人;贵族 v.凝视,隐约出现",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pen",
+    "phonetic": "/pen/",
+    "definition": "钢笔,圆珠笔,作家,围栏 vt.写,关入栏中",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "penalty",
+    "phonetic": "/ˈpenəlti/",
+    "definition": "处罚,刑罚,惩罚,罚金",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pencil",
+    "phonetic": "/ˈpensəl/",
+    "definition": "铅笔 vt.用铅笔写",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pendulum",
+    "phonetic": "/ˈpendjuləm, -dʒə-/",
+    "definition": "摆,钟摆",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "penetrate",
+    "phonetic": "/ˈpenitreit/",
+    "definition": "穿过,渗入,看穿",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "peninsula",
+    "phonetic": "/piˈninsjulə/",
+    "definition": "半岛",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "penny",
+    "phonetic": "/ˈpeni/",
+    "definition": "便士,美分",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pension",
+    "phonetic": "/ˈpenʃən/",
+    "definition": "养老金,抚恤金",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "people",
+    "phonetic": "/ˈpiːpl/",
+    "definition": "人们,人;[the-]人民;一国人民,民族",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pepper",
+    "phonetic": "/ˈpepə/",
+    "definition": "胡椒粉,胡椒;辣椒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "per",
+    "phonetic": "/强pəː, 弱pə/",
+    "definition": "每;经,由",
+    "partOfSpeech": "prep.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "perceive",
+    "phonetic": "/pəˈsiːv/",
+    "definition": "察觉,感知;理解,领悟",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "percent",
+    "phonetic": "/pəˈsent/",
+    "definition": "(per cent)百分之...的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "percentage",
+    "phonetic": "/pəˈsentidʒ/",
+    "definition": "百分数,百分率,百分比",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "perfect",
+    "phonetic": "/ˈpəːfikt, pəˈfekt/",
+    "definition": "完善的;完全的;(语法)完成的 v.使完美",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "perfection",
+    "phonetic": "/pəˈfekʃən/",
+    "definition": "尽善尽美,完美",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "perform",
+    "phonetic": "/pəˈfɔːm/",
+    "definition": "履行,执行;表演,演出;完成(事业)",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "performance",
+    "phonetic": "/pəˈfɔːməns/",
+    "definition": "履行,执行;表演,演出;性能,特性;成绩",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "perfume",
+    "phonetic": "/pəˈfjuːm/",
+    "definition": "香味,芳香;香料 v.使发香,洒香水于",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "perhaps",
+    "phonetic": "/pəˈhæps, præps/",
+    "definition": "也许,大概,恐怕",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "period",
+    "phonetic": "/ˈpiəriəd/",
+    "definition": "时期,时代;学时;周期,一段时间;句点",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "periodical",
+    "phonetic": "/ˌpiəriˈɔdikəl/",
+    "definition": "期刊,杂志 a.周期的,定期的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "perish",
+    "phonetic": "/ˈperiʃ/",
+    "definition": "丧生;凋谢;毁灭,消亡",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "permanent",
+    "phonetic": "/ˈpəːmənənt/",
+    "definition": "永久的,持久的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "permeate",
+    "phonetic": "/ˈpəːmieit/",
+    "definition": "弥漫,遍布,散布;渗入,渗透",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "permission",
+    "phonetic": "/pəˈmiʃən/",
+    "definition": "允许,同意",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "permit",
+    "phonetic": "/pəˈmit/",
+    "definition": "许可,允许 n.许可证,执照",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "perpetual",
+    "phonetic": "/pəˈpetʃuəl, -tju-/",
+    "definition": "永久的,永恒的,长期的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "perplex",
+    "phonetic": "/pəˈpleks/",
+    "definition": "使困惑,使费解,使复杂化",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "persecute",
+    "phonetic": "/ˈpəːsikjuːt/",
+    "definition": "迫害",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "persevere",
+    "phonetic": "/ˌpəːsiˈviə/",
+    "definition": "坚持,坚忍,不屈不挠",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "persist",
+    "phonetic": "/pəˈsist, -ˈzist/",
+    "definition": "(in)坚持,持续",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "person",
+    "phonetic": "/ˈpəːsən/",
+    "definition": "人,喜欢(或适应)..的人;人物;人称",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "personal",
+    "phonetic": "/ˈpəːsənl/",
+    "definition": "个人的,私人的;亲自的;身体的,人身的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "personality",
+    "phonetic": "/ˌpəːsəˈnæləti/",
+    "definition": "人格,个性",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "personnel",
+    "phonetic": "/ˌpəːsəˈnel/",
+    "definition": "全体人员,全体职员;人事(部门)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "perspective",
+    "phonetic": "/pəˈspektiv/",
+    "definition": "透视画法,透视图;远景,前途;观点,看法",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "persuade",
+    "phonetic": "/pəˈsweid/",
+    "definition": "说服,劝说;(of)使相信",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "persuasion",
+    "phonetic": "/pəˈsweiʒən/",
+    "definition": "说服,说服力",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "pessimistic",
+    "phonetic": "/ˌpesiˈmistik/",
+    "definition": "悲观(主义)的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "pest",
+    "phonetic": "/pest/",
+    "definition": "害虫",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pet",
+    "phonetic": "/pet/",
+    "definition": "爱畜,宠儿 a.宠爱的,表示亲昵的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "petition",
+    "phonetic": "/piˈtiʃən/",
+    "definition": "请愿书,申请书 v.(向…)请愿,正式请求",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "petrol",
+    "phonetic": "/ˈpetrəl/",
+    "definition": "汽油",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "petroleum",
+    "phonetic": "/piˈtrəuliəm, pə-/",
+    "definition": "石油",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "petty",
+    "phonetic": "/ˈpeti/",
+    "definition": "小(器、规模)的,不重要的,细微的,卑鄙的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pharmacy",
+    "phonetic": "/ˈfɑːməsi/",
+    "definition": "药房,药剂学,制药业,配药业,一批备用药品",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "phase",
+    "phonetic": "/feiz/",
+    "definition": "阶段,状态,时期;相,相位",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "phenomenon",
+    "phonetic": "/fiˈnɔminən, fə-/",
+    "definition": "现象,稀有现象,珍品,奇迹,杰出人才",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "philosopher",
+    "phonetic": "/fiˈlɔsəfə, fə-/",
+    "definition": "哲学家,哲人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "philosophy",
+    "phonetic": "/fiˈlɔsəfi, fə-/",
+    "definition": "哲学,哲理,人生观,价值观,世界观",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "phone",
+    "phonetic": "/fəun/",
+    "definition": "(telephone)电话,电话机,耳机 v.打电话",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "photo",
+    "phonetic": "/ˈfəutəu/",
+    "definition": "(photograph)照片",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "phrase",
+    "phonetic": "/freiz/",
+    "definition": "短语,词语,习语",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "physical",
+    "phonetic": "/ˈfizikəl/",
+    "definition": "物质的;肉体的,身体的;自然科学的,物理的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "physician",
+    "phonetic": "/fiˈziʃən/",
+    "definition": "内科医生",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "physicist",
+    "phonetic": "/ˈfizisist/",
+    "definition": "物理学家",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "physics",
+    "phonetic": "/ˈfiziks/",
+    "definition": "物理(学)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "physiological",
+    "phonetic": "/ˌfiziəˈlɔdʒikəl/",
+    "definition": "生理学的, 生理学上的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "piano",
+    "phonetic": "/piˈænəu, piˈɑː-/",
+    "definition": "钢琴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pick",
+    "phonetic": "/pik/",
+    "definition": "拾,采,摘;挑选,选择 n.镐,鹤嘴锄",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pickup",
+    "phonetic": "/ˈpikʌp/",
+    "definition": "拾起,获得",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "picnic",
+    "phonetic": "/ˈpiknik/",
+    "definition": "野餐 v.(去)野餐",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "picture",
+    "phonetic": "/ˈpiktʃə/",
+    "definition": "画,图片;影片;美景 v.画,描述,想象",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pie",
+    "phonetic": "/pai/",
+    "definition": "馅饼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "piece",
+    "phonetic": "/piːs/",
+    "definition": "(一)件/片/篇;碎片v.(together)拼合,拼凑",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pierce",
+    "phonetic": "/piəs/",
+    "definition": "剌穿,刺破",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pig",
+    "phonetic": "/piɡ/",
+    "definition": "猪,猪肉;猪一般的人(指肮脏,贪吃的人)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pigeon",
+    "phonetic": "/ˈpidʒin/",
+    "definition": "鸽",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pile",
+    "phonetic": "/pail/",
+    "definition": "堆,大量,大数目 v.(up)堆,叠,堆积",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pilgrim",
+    "phonetic": "/ˈpilɡrim/",
+    "definition": "(在国外)旅游者;朝圣者,最初的移民",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pill",
+    "phonetic": "/pil/",
+    "definition": "药丸",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pillar",
+    "phonetic": "/ˈpilə/",
+    "definition": "柱,台柱,栋梁",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pillow",
+    "phonetic": "/ˈpiləu/",
+    "definition": "枕头",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pilot",
+    "phonetic": "/ˈpailət/",
+    "definition": "飞行员;领港员 v.驾驶(飞机等);领航,引水",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pin",
+    "phonetic": "/pin/",
+    "definition": "钉;大头针,别针,徽章 v.(up)钉住,别住",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pinch",
+    "phonetic": "/pintʃ/",
+    "definition": "捏,掐,拧;收缩;紧急关头;匮乏;压力",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pine",
+    "phonetic": "/pain/",
+    "definition": "松树",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pink",
+    "phonetic": "/piŋk/",
+    "definition": "粉红色 a.粉红色的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pint",
+    "phonetic": "/paint/",
+    "definition": "品脱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pioneer",
+    "phonetic": "/ˌpaiəˈniə/",
+    "definition": "先驱,倡导者,开拓者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pipe",
+    "phonetic": "/paip/",
+    "definition": "管子,导管;烟斗;笛",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pirate",
+    "phonetic": "/ˈpaiərit/",
+    "definition": "/v.海盗,盗版(者)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pistol",
+    "phonetic": "/ˈpistl/",
+    "definition": "手枪",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "piston",
+    "phonetic": "/ˈpistən/",
+    "definition": "活塞",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pit",
+    "phonetic": "/pit/",
+    "definition": "坑,陷阱;煤矿,矿井",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pitch",
+    "phonetic": "/pitʃ/",
+    "definition": "沥青;掷 v.用沥青覆盖;投掷,扔",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pity",
+    "phonetic": "/ˈpiti/",
+    "definition": "(觉得)可怜,惋惜 n.憾事,怜悯",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "place",
+    "phonetic": "/pleis/",
+    "definition": "地方;名次;地位;寓所 v.安排;放置;投(资)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "plague",
+    "phonetic": "/pleiɡ/",
+    "definition": "瘟疫,灾害,麻烦,苦恼 vt.折磨,使苦恼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "plain",
+    "phonetic": "/plein/",
+    "definition": "明白的;朴素的;坦率;平凡 n.平原,旷野",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "plan",
+    "phonetic": "/plæn/",
+    "definition": "计划,规划;平面图,设计图 v.计划",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "plane",
+    "phonetic": "/plein/",
+    "definition": "飞机;平面,水平面",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "planet",
+    "phonetic": "/ˈplænit/",
+    "definition": "行星",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  }
+]

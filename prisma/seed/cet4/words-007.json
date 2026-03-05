@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "eastern",
+    "phonetic": "/ˈiːstən/",
+    "definition": "东方的；朝东的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "easy",
+    "phonetic": "/ˈiːzi/",
+    "definition": "容易的；安逸的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "eat",
+    "phonetic": "/iːt/",
+    "definition": "吃，喝 vi.吃饭",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "echo",
+    "phonetic": "/ˈekəu/",
+    "definition": "回声，反响 vi.重复",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "economic",
+    "phonetic": "/ˌiːkəˈnɔmik/",
+    "definition": "经济的，经济学的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "economical",
+    "phonetic": "/ˌiːkəˈnɔmikəl/",
+    "definition": "节约的;经济学的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "economy",
+    "phonetic": "/i(ː)ˈkɔnəmi/",
+    "definition": "经济；节约，节省",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "edge",
+    "phonetic": "/edʒ/",
+    "definition": "边缘，边；刀口",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "edition",
+    "phonetic": "/iˈdi∫ən/",
+    "definition": "版，版本，版次",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "editor",
+    "phonetic": "/ˈeditə/",
+    "definition": "编辑，编者，校订者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "educate",
+    "phonetic": "/ˈedju(ː)keit/",
+    "definition": "教育；培养；训练",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "education",
+    "phonetic": "/ˌedju(ː)ˈkei∫ən/",
+    "definition": "教育;训导;教育学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "effect",
+    "phonetic": "/iˈfekt/",
+    "definition": "结果；效果，效力",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "effective",
+    "phonetic": "/iˈfektiv/",
+    "definition": "有效的；有影响的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "efficiency",
+    "phonetic": "/iˈfi∫ənsi/",
+    "definition": "效率；功效，效能",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "efficient",
+    "phonetic": "/iˈfi∫ənt/",
+    "definition": "效率高的，有能力的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "effort",
+    "phonetic": "/ˈefət/",
+    "definition": "努力；努力的成果",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "egg",
+    "phonetic": "/eg/",
+    "definition": "蛋，鸡蛋，卵",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "eight",
+    "phonetic": "/eit/",
+    "definition": "八，八个，第八",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "eighteen",
+    "phonetic": "/ˈeiˈtiːn/",
+    "definition": "十八，十八个",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "eighth",
+    "phonetic": "/eitθ/",
+    "definition": "第八 n.八分之一",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "eighty",
+    "phonetic": "/ˈeiti/",
+    "definition": "八十，八十个",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "either",
+    "phonetic": "/ˈaiðə(r)/",
+    "definition": "(两者)任何一个",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "elaborate",
+    "phonetic": "/iˈlæbərət/",
+    "definition": "复杂的；精心制作的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "elastic",
+    "phonetic": "/iˈlæstik/",
+    "definition": "松紧带 a.有弹性的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "elbow",
+    "phonetic": "/ˈelbəu/",
+    "definition": "肘，肘部；弯管",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "elder",
+    "phonetic": "/ˈeldə(r)/",
+    "definition": "年龄较大的 n.长者",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "elect",
+    "phonetic": "/iˈlekt/",
+    "definition": "选举，推选；选择",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "election",
+    "phonetic": "/iˈlek∫(ə)n/",
+    "definition": "选举，选择权；当选",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "electric",
+    "phonetic": "/iˈlektrik/",
+    "definition": "电的，电动的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "electrical",
+    "phonetic": "/iˈlektrik(ə)l/",
+    "definition": "电的，电气科学的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "electricity",
+    "phonetic": "/ilekˈtrisiti/",
+    "definition": "电，电学；电流",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "electron",
+    "phonetic": "/iˈlektrɔn/",
+    "definition": "电子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "electronic",
+    "phonetic": "/ilekˈtrɔnik/",
+    "definition": "电子的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "electronics",
+    "phonetic": "/ilekˈtrɔniks/",
+    "definition": "电子学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "element",
+    "phonetic": "/ˈelimənt/",
+    "definition": "成分；要素；元素",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "elementary",
+    "phonetic": "/ˌeliˈmentəri/",
+    "definition": "基本的；初级的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "elephant",
+    "phonetic": "/ˈelifənt/",
+    "definition": "象",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "elevator",
+    "phonetic": "/ˈeliveitə/",
+    "definition": "电梯；升降机",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "eleven",
+    "phonetic": "/iˈlevən/",
+    "definition": "十一，十一个",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "eleventh",
+    "phonetic": "/iˈlevnθ/",
+    "definition": "第十一(个)",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "eliminate",
+    "phonetic": "/iˈlimineit/",
+    "definition": "消灭，消除，排除",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "elimination",
+    "phonetic": "/iˌlimiˈnei∫ən/",
+    "definition": "消灭，排除，消除",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "else",
+    "phonetic": "/els/",
+    "definition": "其它，另外 a.别的",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "elsewhere",
+    "phonetic": "/ˈelsˈweə/",
+    "definition": "在别处，向别处",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "embarrass",
+    "phonetic": "/imˈbærəs/",
+    "definition": "使窘迫，使为难",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "embrace",
+    "phonetic": "/imˈbreis/",
+    "definition": "拥抱；包括；包围",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "emerge",
+    "phonetic": "/iˈməːdʒ/",
+    "definition": "出现，涌现；冒出",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "emergency",
+    "phonetic": "/iˈməːdʒnsi/",
+    "definition": "紧急情况，突然事件",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "emit",
+    "phonetic": "/iˈmit/",
+    "definition": "散发；发射；发表",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "emotion",
+    "phonetic": "/iˈməu∫ən/",
+    "definition": "情感，感情；激动",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "emotional",
+    "phonetic": "/iˈməu∫ənl/",
+    "definition": "感情的，情绪的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "emperor",
+    "phonetic": "/ˈempərə/",
+    "definition": "皇帝",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "emphasis",
+    "phonetic": "/ˈemfəsis/",
+    "definition": "强调，重点，重要性",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "emphasize",
+    "phonetic": "/ˈemfəsaiz/",
+    "definition": "强调，着重",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "empire",
+    "phonetic": "/ˈempaiə/",
+    "definition": "帝国",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "employ",
+    "phonetic": "/imˈplɔi/",
+    "definition": "雇用；用；使忙于",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "employee",
+    "phonetic": "/ˌemplɔiˈiː/",
+    "definition": "受雇者，雇员，雇工",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "employer",
+    "phonetic": "/imˈplɔiə/",
+    "definition": "雇佣者，雇主",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "employment",
+    "phonetic": "/imˈplɔimənt/",
+    "definition": "工业；雇/使用",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "empty",
+    "phonetic": "/ˈempti/",
+    "definition": "空的；空洞的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "enable",
+    "phonetic": "/iˈneibl/",
+    "definition": "使能够，使可能",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "enclose",
+    "phonetic": "/inˈkləuz/",
+    "definition": "围住，圈起；附上",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "encounter",
+    "phonetic": "/inˈkauntə/",
+    "definition": "遭遇，遇到 n.遭遇",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "encourage",
+    "phonetic": "/inˈkʌridʒ/",
+    "definition": "鼓励，支持，助长",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "end",
+    "phonetic": "/end/",
+    "definition": "末端；目标 vt.结束",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "ending",
+    "phonetic": "/ˈendiŋ/",
+    "definition": "结尾，结局；死亡",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "endless",
+    "phonetic": "/ˈendlis/",
+    "definition": "无止境的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "endure",
+    "phonetic": "/inˈdjuə/",
+    "definition": "忍受；容忍",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "enemy",
+    "phonetic": "/ˈenimi/",
+    "definition": "敌人；仇敌；敌兵",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "energy",
+    "phonetic": "/ˈenədʒi/",
+    "definition": "活力；精力；能",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "enforce",
+    "phonetic": "/inˈfɔːs/",
+    "definition": "实施，执行；强制",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "engage",
+    "phonetic": "/inˈgeidʒ/",
+    "definition": "使从事于；聘用",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "engine",
+    "phonetic": "/ˈendʒin/",
+    "definition": "发动机，引擎；机车",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "engineer",
+    "phonetic": "/ˌendʒiˈniə/",
+    "definition": "工程师，技师",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "engineering",
+    "phonetic": "/ˌendʒiˈniəriŋ/",
+    "definition": "工程，工程学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "england",
+    "phonetic": "/ˈinglənd/",
+    "definition": "英格兰；英国",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "english",
+    "phonetic": "/ˈiŋgli∫/",
+    "definition": "英语 a.英国人的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "englishman",
+    "phonetic": "/ˈiŋgli∫mən/",
+    "definition": "英国男子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "enjoy",
+    "phonetic": "/inˈdʒɔi/",
+    "definition": "享受；欣赏，喜爱",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "enlarge",
+    "phonetic": "/inˈlɑːdʒ/",
+    "definition": "扩大，扩展；放大",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "enormous",
+    "phonetic": "/iˈnɔːməs/",
+    "definition": "巨大的，庞大的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "enough",
+    "phonetic": "/iˈnʌf/",
+    "definition": "足够的 ad.足够地",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ensure",
+    "phonetic": "/inˈ∫uər/",
+    "definition": "保证；保护；赋予",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "enter",
+    "phonetic": "/ˈentə/",
+    "definition": "走进，进入；参加",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "entertain",
+    "phonetic": "/ˌentəˈtein/",
+    "definition": "使欢乐；招待",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "enthusiasm",
+    "phonetic": "/inˈθjuːziæzəm/",
+    "definition": "热情/心，热忱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "enthusiastic",
+    "phonetic": "/inθjuːziˈæstik/",
+    "definition": "热情的，热心的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "entire",
+    "phonetic": "/inˈtaiə/",
+    "definition": "全部的，整个的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "entitle",
+    "phonetic": "/inˈtaitl/",
+    "definition": "给…权利(或资格)",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "entrance",
+    "phonetic": "/inˈtrɑːns/",
+    "definition": "入口，门口；进入",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "entry",
+    "phonetic": "/ˈentri/",
+    "definition": "入口处；登记；进入",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "envelope",
+    "phonetic": "/ˈenviləup/",
+    "definition": "信封；封套；封皮",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "environment",
+    "phonetic": "/inˈvaiərənmənt/",
+    "definition": "环境，外界；围绕",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "envy",
+    "phonetic": "/ˈenvi/",
+    "definition": "&n.妒忌；羡慕",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "equal",
+    "phonetic": "/ˈiːkwəl/",
+    "definition": "相等的；平等的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "equality",
+    "phonetic": "/i(ː)ˈkwɔliti/",
+    "definition": "等同，平等；相等",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "equation",
+    "phonetic": "/iˈkwei∫ən/",
+    "definition": "方程(式)；等式",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "equip",
+    "phonetic": "/iˈkwip/",
+    "definition": "装备，配备",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "equipment",
+    "phonetic": "/iˈkwipmənt/",
+    "definition": "装备，设备，配备",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "equivalent",
+    "phonetic": "/iˈkwivələnt/",
+    "definition": "相等的；等量的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "era",
+    "phonetic": "/ˈiərə/",
+    "definition": "时代，年代；纪元",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "erect",
+    "phonetic": "/iˈrekt/",
+    "definition": "建造；使竖立",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "error",
+    "phonetic": "/ˈerə/",
+    "definition": "错误，谬误；差错",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "escape",
+    "phonetic": "/isˈkeip/",
+    "definition": "逃跑；逸出 n.逃跑",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "especially",
+    "phonetic": "/isˈpe∫əli/",
+    "definition": "特别，尤其，格外",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "essay",
+    "phonetic": "/ˈesei/",
+    "definition": "短文，散文，小品文",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "essential",
+    "phonetic": "/iˈsen∫əl/",
+    "definition": "必要的，本质的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "establish",
+    "phonetic": "/isˈtæbli∫/",
+    "definition": "建立，设立；确立",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "establishment",
+    "phonetic": "/isˈtæbli∫mənt/",
+    "definition": "建立,设/确立",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "estimate",
+    "phonetic": "/ˈestimeit/",
+    "definition": "估计，评价 n.估计",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "europe",
+    "phonetic": "/ˈjuərəp/",
+    "definition": "欧洲",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "european",
+    "phonetic": "/ˌjuərəˈpi(ː)ən/",
+    "definition": "欧洲的 n.欧洲人",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "evaluate",
+    "phonetic": "/iˈvæljueit/",
+    "definition": "评价，估…的价",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "evaporate",
+    "phonetic": "/iˈvæpəreit/",
+    "definition": "使蒸发 vi.蒸发",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "eve",
+    "phonetic": "/iːv/",
+    "definition": "前夜，前夕，前一刻",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "even",
+    "phonetic": "/ˈiːvən/",
+    "definition": "甚至；甚至更，还",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "evening",
+    "phonetic": "/ˈiːvniŋ/",
+    "definition": "傍晚，黄昏，晚上",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "event",
+    "phonetic": "/iˈvent/",
+    "definition": "事件，大事；事变",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "eventually",
+    "phonetic": "/iˈventjuəli/",
+    "definition": "终于；最后",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ever",
+    "phonetic": "/ˈevə/",
+    "definition": "在任何时候；曾经",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "every",
+    "phonetic": "/ˈevri/",
+    "definition": "每一的；每隔…的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "everybody",
+    "phonetic": "/ˈevribɔdi/",
+    "definition": "每人，人人",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "everyday",
+    "phonetic": "/ˈevridei/",
+    "definition": "每天的，日常的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "everyone",
+    "phonetic": "/ˈevriwʌn/",
+    "definition": "每人，人人",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "everything",
+    "phonetic": "/ˈevriθiŋ/",
+    "definition": "每件事，事事",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "everywhere",
+    "phonetic": "/ˈevriweə(r)/",
+    "definition": "到处，处处",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "evidence",
+    "phonetic": "/ˈevidəns/",
+    "definition": "根据；证据，证人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "evident",
+    "phonetic": "/ˈevidənt/",
+    "definition": "明显的，明白的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "evil",
+    "phonetic": "/ˈiːvl/",
+    "definition": "邪恶；祸害 a.坏的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "evolution",
+    "phonetic": "/evəˈluː∫ən/",
+    "definition": "进化，演化；发展",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "evolve",
+    "phonetic": "/iˈvɔlv/",
+    "definition": "使进化；使发展",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "exact",
+    "phonetic": "/igˈzækt/",
+    "definition": "确切的；精确的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "exactly",
+    "phonetic": "/igˈzæktli/",
+    "definition": "确切地；恰恰正是",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "exaggerate",
+    "phonetic": "/igˈzædʒəreit/",
+    "definition": "&vi.夸大，夸张",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "exam",
+    "phonetic": "/igˈzæm/",
+    "definition": "考试；检查，细查",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "examination",
+    "phonetic": "/igˌzæmiˈnei∫ən/",
+    "definition": "考试；检/细查",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "examine",
+    "phonetic": "/igˈzæmin/",
+    "definition": "检查，仔细观察",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "example",
+    "phonetic": "/igˈzɑːmpl/",
+    "definition": "例子，实例；模范",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "exceed",
+    "phonetic": "/ikˈsiːd/",
+    "definition": "超过，胜过；超出",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "exceedingly",
+    "phonetic": "/ikˈsiːdiŋli/",
+    "definition": "极端地，非常",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "excellent",
+    "phonetic": "/ˈeksələnt/",
+    "definition": "优秀的，杰出的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "except",
+    "phonetic": "/ikˈsept/",
+    "definition": "除…之外",
+    "partOfSpeech": "prep.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "exception",
+    "phonetic": "/ikˈsep∫ən/",
+    "definition": "例外，除外",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "excess",
+    "phonetic": "/ˈekses/",
+    "definition": "超越；过量；过度",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "excessive",
+    "phonetic": "/ikˈsesiv/",
+    "definition": "过多的，极度的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "exchange",
+    "phonetic": "/iksˈt∫eindʒ/",
+    "definition": "交换；交流 n.交换",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "excite",
+    "phonetic": "/ikˈsait/",
+    "definition": "使激动；引起",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "exciting",
+    "phonetic": "/ikˈsaitiŋ/",
+    "definition": "令人兴奋的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "exclaim",
+    "phonetic": "/iksˈkleim/",
+    "definition": "呼喊；惊叫",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "exclude",
+    "phonetic": "/iksˈkluːd/",
+    "definition": "把…排除在外",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "exclusively",
+    "phonetic": "/ikˈskluːsivli/",
+    "definition": "专门地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "excursion",
+    "phonetic": "/iksˈkəː∫ən/",
+    "definition": "远足；短途旅行",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "excuse",
+    "phonetic": "/iksˈkjuːz/",
+    "definition": "原谅；免除 n.借口",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "execute",
+    "phonetic": "/ˈeksikjuːt/",
+    "definition": "将…处死；实施",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "executive",
+    "phonetic": "/igˈzekjutiv/",
+    "definition": "执行的 n.执行者",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "exercise",
+    "phonetic": "/ˈeksəsaiz/",
+    "definition": "锻炼，训练 vi.练习",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "exert",
+    "phonetic": "/igˈzəːt/",
+    "definition": "尽(力)，运用",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "exhaust",
+    "phonetic": "/igˈzɔːst/",
+    "definition": "使筋疲力尽；用尽",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "exhibit",
+    "phonetic": "/igˈzibit/",
+    "definition": "显示；陈列，展览",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "exhibition",
+    "phonetic": "/ˌeksiˈbi∫ən/",
+    "definition": "展览，陈列；展览会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "exist",
+    "phonetic": "/igˈzist/",
+    "definition": "存在；生存，生活",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "existence",
+    "phonetic": "/igˈzistəns/",
+    "definition": "存在，实在；生存",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "exit",
+    "phonetic": "/ˈeksit/",
+    "definition": "出口；退场 vi.退出",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "expand",
+    "phonetic": "/iksˈpænd/",
+    "definition": "扩大；使膨胀",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "expansion",
+    "phonetic": "/iksˈpæn∫ən/",
+    "definition": "扩大，扩充；扩张",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "expect",
+    "phonetic": "/iksˈpekt/",
+    "definition": "预料，预期；等待",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "expectation",
+    "phonetic": "/ˌekspekˈtei∫ən/",
+    "definition": "期待/望，预期",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "expense",
+    "phonetic": "/ikˈspens/",
+    "definition": "花费，消费；费用",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "expensive",
+    "phonetic": "/iksˈpensiv/",
+    "definition": "昂贵的，花钱多的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "experience",
+    "phonetic": "/iksˈpiəriəns/",
+    "definition": "经验，感受；经历",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "experiment",
+    "phonetic": "/iksˈperimənt/",
+    "definition": "实验；试验",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "experimental",
+    "phonetic": "/ikˈsperiment(ə)l/",
+    "definition": "实/试验的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "expert",
+    "phonetic": "/ˈekspəːt/",
+    "definition": "专家 a.熟练的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "explain",
+    "phonetic": "/iksˈplein/",
+    "definition": "解释；为…辩解",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "explanation",
+    "phonetic": "/ˌekspləˈnei∫ən/",
+    "definition": "解释,说明;辩解",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "explode",
+    "phonetic": "/iksˈpləud/",
+    "definition": "使爆炸 vi.爆炸",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "exploit",
+    "phonetic": "/iksˈplɔit/",
+    "definition": "剥削；利用；开拓",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "explore",
+    "phonetic": "/iksˈplɔː/",
+    "definition": "&vi.探险，探索",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "explosion",
+    "phonetic": "/iksˈpləuʒən/",
+    "definition": "爆炸，爆发，炸裂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "explosive",
+    "phonetic": "/iksˈpləusiv/",
+    "definition": "炸药 a.爆炸的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "export",
+    "phonetic": "/ˈekspɔːt/",
+    "definition": "输出，出口；运走",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "expose",
+    "phonetic": "/iksˈpəuz/",
+    "definition": "使暴露；揭露",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "exposure",
+    "phonetic": "/iksˈpəuʒə/",
+    "definition": "暴露；揭露；曝光",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "express",
+    "phonetic": "/iksˈpres/",
+    "definition": "表示 n.快车，快递",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "expression",
+    "phonetic": "/iksˈpre∫ən/",
+    "definition": "词句；表达；表情",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "extend",
+    "phonetic": "/iksˈtend/",
+    "definition": "延长；扩大；致",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "extension",
+    "phonetic": "/iksˈten∫ən/",
+    "definition": "延长部分；伸展",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "extensive",
+    "phonetic": "/iksˈtensiv/",
+    "definition": "广阔的；广泛的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "extent",
+    "phonetic": "/iksˈtent/",
+    "definition": "广度；范围；程度",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "exterior",
+    "phonetic": "/eksˈtiəriə/",
+    "definition": "外部的；对外的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "external",
+    "phonetic": "/eksˈtəːnl/",
+    "definition": "外部的，外面的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "extra",
+    "phonetic": "/ˈekstrə/",
+    "definition": "额外的 ad.特别地",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "extraordinary",
+    "phonetic": "/ikˈstrɔːdəneri/",
+    "definition": "非同寻常的，特别的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "extreme",
+    "phonetic": "/ikˈstriːm/",
+    "definition": "极度的；尽头的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "extremely",
+    "phonetic": "/iksˈtriːmli/",
+    "definition": "极端，极其，非常",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "eye",
+    "phonetic": "/ai/",
+    "definition": "眼睛；眼力；鉴赏力",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "eyesight",
+    "phonetic": "/ˈaisait/",
+    "definition": "视力，目力",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fable",
+    "phonetic": "/ˈfeibl/",
+    "definition": "寓言；虚构的故事",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fabric",
+    "phonetic": "/ˈfæbrik/",
+    "definition": "织物，纺织品；结构",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  }
+]

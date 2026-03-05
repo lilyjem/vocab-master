@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "connect",
+    "phonetic": "/kəˈnekt/",
+    "definition": "连接，连结；联系",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "connection",
+    "phonetic": "/kəˈnek∫ən/",
+    "definition": "连接，联系；连贯性",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "conquer",
+    "phonetic": "/ˈkɔŋkə/",
+    "definition": "征服，战胜；破除",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "conquest",
+    "phonetic": "/ˈkɔŋkwest/",
+    "definition": "攻取，征服；克服",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "conscience",
+    "phonetic": "/ˈkɔn∫əns/",
+    "definition": "良心，道德心",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "conscious",
+    "phonetic": "/ˈkɔn∫əs/",
+    "definition": "意识到的；有意的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "consciousness",
+    "phonetic": "/ˈkɔn∫əsnis/",
+    "definition": "意识,觉悟;知觉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "consent",
+    "phonetic": "/kənˈsent/",
+    "definition": "同意，赞成 vi.同意",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "consequence",
+    "phonetic": "/ˈkɔnsikwəns/",
+    "definition": "结果，后果",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "consequently",
+    "phonetic": "/ˈkɔnsikwəntli/",
+    "definition": "因此/而,所以",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "conservation",
+    "phonetic": "/ˌkɔnsə(ː)ˈvei∫ən/",
+    "definition": "保存，保护；守恒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "conservative",
+    "phonetic": "/kənˈsəːvətiv/",
+    "definition": "保守的 n.保守的人",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "consider",
+    "phonetic": "/kənˈsidə/",
+    "definition": "认为；考虑；关心",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "considerable",
+    "phonetic": "/kənˈsidərəbl/",
+    "definition": "相当大的;重要的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "considerate",
+    "phonetic": "/kənˈsidərit/",
+    "definition": "考虑周到的；体谅的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "consideration",
+    "phonetic": "/kənsidəˈrei∫ən/",
+    "definition": "考虑，思考；体贴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "consist",
+    "phonetic": "/kənˈsist/",
+    "definition": "由…组成；在于",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "consistent",
+    "phonetic": "/kənˈsistənt/",
+    "definition": "坚持的，一贯的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "constant",
+    "phonetic": "/ˈkɔnstənt/",
+    "definition": "经常的；永恒的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "constitution",
+    "phonetic": "/ˌkɔnstiˈtjuː∫ən/",
+    "definition": "章程;体质;构造",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "construct",
+    "phonetic": "/kənˈstrʌkt/",
+    "definition": "建造；建设；构筑",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "construction",
+    "phonetic": "/kənˈstrʌk∫ən/",
+    "definition": "建造;建筑(物)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "consult",
+    "phonetic": "/kənˈsʌlt/",
+    "definition": "请教，查阅",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "consume",
+    "phonetic": "/kənˈsjuːm/",
+    "definition": "消耗，消费；消灭",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "consumption",
+    "phonetic": "/kənˈsʌmp∫ən/",
+    "definition": "消耗量；消耗",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "contact",
+    "phonetic": "/ˈkɔntækt/",
+    "definition": "使接触；与…联系",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "contain",
+    "phonetic": "/kənˈtein/",
+    "definition": "包含，容纳；等于",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "container",
+    "phonetic": "/kənˈteinə/",
+    "definition": "容器；集装箱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "contemporary",
+    "phonetic": "/kənˈtempərəri/",
+    "definition": "当代的，同时代的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "contempt",
+    "phonetic": "/kənˈtempt/",
+    "definition": "轻蔑；藐视；受辱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "content",
+    "phonetic": "/kənˈtent/",
+    "definition": "内容，目录；容量",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "contest",
+    "phonetic": "/ˈkɔntest/",
+    "definition": "争夺，争取；辩驳",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "continent",
+    "phonetic": "/ˈkɔntinənt/",
+    "definition": "大陆；陆地；洲",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "continual",
+    "phonetic": "/kənˈtinjuəl/",
+    "definition": "不断的；连续的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "continue",
+    "phonetic": "/kənˈtinjuː/",
+    "definition": "继续，连续；延伸",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "continuous",
+    "phonetic": "/kənˈtinjuəs/",
+    "definition": "连续不断的，持续的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "contract",
+    "phonetic": "/ˈkɔntrækt/",
+    "definition": "契约，合同；婚约",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "contradiction",
+    "phonetic": "/ˌkɔntrəˈdik∫ən/",
+    "definition": "矛盾，不一致；否认",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "contrary",
+    "phonetic": "/ˈkɔntrəri/",
+    "definition": "相反的 n.相反",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "contrast",
+    "phonetic": "/ˈkɔntræst/",
+    "definition": "对比，对照，悬殊",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "contribute",
+    "phonetic": "/kənˈtribjuːt/",
+    "definition": "捐献，捐助；投稿",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "control",
+    "phonetic": "/kənˈtrəul/",
+    "definition": "控制，克制 n.控制",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "convenience",
+    "phonetic": "/kənˈviːnjəns/",
+    "definition": "便利,方便；厕所",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "convenient",
+    "phonetic": "/kənˈviːnjənt/",
+    "definition": "便利的；近便的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "convention",
+    "phonetic": "/kənˈven∫ən/",
+    "definition": "习俗，惯例；公约",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "conventional",
+    "phonetic": "/kənˈven∫ənl/",
+    "definition": "普通的；习惯的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "conversation",
+    "phonetic": "/ˌkɔnvəˈsei∫ən/",
+    "definition": "会话,非正式会谈",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "conversely",
+    "phonetic": "/ˈkɔnvəːsli/",
+    "definition": "相反地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "conversion",
+    "phonetic": "/kənˈvəː∫ən/",
+    "definition": "转变，转化；改变",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "convert",
+    "phonetic": "/kənˈvəːt/",
+    "definition": "使转变；使改变",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "convey",
+    "phonetic": "/kənˈvei/",
+    "definition": "传送；运送；传播",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "convince",
+    "phonetic": "/kənˈvins/",
+    "definition": "使确信，使信服",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cook",
+    "phonetic": "/kuk/",
+    "definition": "烹调，煮 vt.烧菜",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cool",
+    "phonetic": "/kuːl/",
+    "definition": "凉的，冷静的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cooperate",
+    "phonetic": "/kəuˈɔpəreit/",
+    "definition": "合作，协作；配合",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "coordinate",
+    "phonetic": "/kəuˈɔːdinit/",
+    "definition": "使协调，调节",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "cope",
+    "phonetic": "/kəup/",
+    "definition": "对付，应付",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "copper",
+    "phonetic": "/ˈkɔpə/",
+    "definition": "铜；铜币，铜制器",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "copy",
+    "phonetic": "/ˈkɔpi/",
+    "definition": "抄件 vt.抄写，复制",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cord",
+    "phonetic": "/kɔːd/",
+    "definition": "细绳，粗线，索",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cordial",
+    "phonetic": "/ˈkɔːrdʒəl/",
+    "definition": "真诚的，诚恳的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "core",
+    "phonetic": "/kɔː/",
+    "definition": "果实的心，核心",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "corn",
+    "phonetic": "/kɔːn/",
+    "definition": "谷物；(英)小麦",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "corner",
+    "phonetic": "/ˈkɔːnə/",
+    "definition": "角；犄角；边远地区",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "corporation",
+    "phonetic": "/ˌkɔːpəˈrei∫ən/",
+    "definition": "公司，企业；社团",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "correct",
+    "phonetic": "/kəˈrekt/",
+    "definition": "正确的 vt.纠正",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "correction",
+    "phonetic": "/kəˈrek∫ən/",
+    "definition": "改正，纠正，修改",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "correspond",
+    "phonetic": "/kɔːrəˈspɔnd/",
+    "definition": "相符合；相当",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "correspondent",
+    "phonetic": "/ˌkɔrisˈpɔndənt/",
+    "definition": "通信者;通讯员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "corresponding",
+    "phonetic": "/ˌkɔrisˈpɔndiŋ/",
+    "definition": "相应的;符合的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "corridor",
+    "phonetic": "/ˈkɔridɔː/",
+    "definition": "走廊，回廊，通路",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cost",
+    "phonetic": "/kɔst/",
+    "definition": "价格，代价；成本",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "costly",
+    "phonetic": "/ˈkɔstli/",
+    "definition": "昂贵的；价值高的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cottage",
+    "phonetic": "/ˈkɔtidʒ/",
+    "definition": "村舍，小屋",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cotton",
+    "phonetic": "/ˈkɔtn/",
+    "definition": "棉；棉线；棉布",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cough",
+    "phonetic": "/kɔːf/",
+    "definition": "咳，咳嗽 n.咳嗽",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "could",
+    "phonetic": "/kud/",
+    "definition": "v.(can 的过去式)",
+    "partOfSpeech": "aux.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "council",
+    "phonetic": "/ˈkaunsil/",
+    "definition": "理事会，委员会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "count",
+    "phonetic": "/kaunt/",
+    "definition": "计算 vi.数，计数",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "counter",
+    "phonetic": "/ˈkauntə/",
+    "definition": "柜台；计数器",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "country",
+    "phonetic": "/ˈkʌntri/",
+    "definition": "国家，国土；农村",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "countryside",
+    "phonetic": "/ˈkʌntrisaid/",
+    "definition": "乡下，农村",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "county",
+    "phonetic": "/ˈkaunti/",
+    "definition": "英国的郡，美国的县",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "couple",
+    "phonetic": "/ˈkʌpl/",
+    "definition": "夫妇；(一)对；几个",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "courage",
+    "phonetic": "/ˈkʌridʒ/",
+    "definition": "勇气，胆量，胆识",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "course",
+    "phonetic": "/kɔːs/",
+    "definition": "课程；过程；一道菜",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "court",
+    "phonetic": "/kɔːt/",
+    "definition": "法院，法庭；庭院",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cousin",
+    "phonetic": "/ˈkʌzn/",
+    "definition": "堂(或表)兄弟(姐妹)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cover",
+    "phonetic": "/ˈkʌvə/",
+    "definition": "盖，包括 n.盖子",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cow",
+    "phonetic": "/kau/",
+    "definition": "母牛，奶牛；母兽",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "coward",
+    "phonetic": "/ˈkauəd/",
+    "definition": "懦夫；胆怯者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "crack",
+    "phonetic": "/kræk/",
+    "definition": "裂缝，裂纹 vi.爆裂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "craft",
+    "phonetic": "/krɑːft/",
+    "definition": "工艺；手艺，行业",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "crane",
+    "phonetic": "/krein/",
+    "definition": "起重机，摄影升降机",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "crash",
+    "phonetic": "/kræ∫/",
+    "definition": "碰撞，坠落 n.碰撞",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "crawl",
+    "phonetic": "/krɔːl/",
+    "definition": "爬，爬行",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "crazy",
+    "phonetic": "/ˈkreizi/",
+    "definition": "疯狂的，荒唐的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cream",
+    "phonetic": "/kriːm/",
+    "definition": "奶油，乳脂；奶油色",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "create",
+    "phonetic": "/kriˈeit/",
+    "definition": "创造；引起，产生",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "creative",
+    "phonetic": "/kri(ː)ˈeitiv/",
+    "definition": "创造性的，创作的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "creature",
+    "phonetic": "/ˈkriːt∫ə/",
+    "definition": "生物，动物，家畜",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "credit",
+    "phonetic": "/ˈkredit/",
+    "definition": "信用贷款；信用",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "creep",
+    "phonetic": "/kriːp/",
+    "definition": "爬行；缓慢地行进",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "crew",
+    "phonetic": "/kruː/",
+    "definition": "全体船员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cricket",
+    "phonetic": "/ˈkrikit/",
+    "definition": "板球；蟋蟀",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "crime",
+    "phonetic": "/kraim/",
+    "definition": "罪，罪行；犯罪",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "criminal",
+    "phonetic": "/ˈkriminl/",
+    "definition": "犯人，罪犯，刑事犯",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cripple",
+    "phonetic": "/ˈkripl/",
+    "definition": "跛子；残废的人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "crisis",
+    "phonetic": "/ˈkraisis/",
+    "definition": "危机；存亡之际",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "critic",
+    "phonetic": "/ˈkritik/",
+    "definition": "批评家，爱挑剔的人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "critical",
+    "phonetic": "/ˈkritikəl/",
+    "definition": "决定性的；批评的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "criticism",
+    "phonetic": "/ˈkritisiz(ə)m/",
+    "definition": "批评；批判；评论",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "criticize",
+    "phonetic": "/ˈkritisaiz/",
+    "definition": "批评；评论；非难",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "crop",
+    "phonetic": "/krɔp/",
+    "definition": "农作物，庄稼；一熟",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cross",
+    "phonetic": "/krɔs/",
+    "definition": "穿过；使交叉",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "crow",
+    "phonetic": "/krəu/",
+    "definition": "鸦，乌鸦 vi.啼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "crowd",
+    "phonetic": "/kraud/",
+    "definition": "群；大众；一伙人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "crown",
+    "phonetic": "/kraun/",
+    "definition": "王冠，冕；花冠",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "crude",
+    "phonetic": "/kruːd/",
+    "definition": "简陋的；天然的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cruel",
+    "phonetic": "/ˈkruəl/",
+    "definition": "残忍的，残酷的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "crush",
+    "phonetic": "/krʌ∫/",
+    "definition": "压碎，碾碎；镇压",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "crust",
+    "phonetic": "/krʌst/",
+    "definition": "面包皮；硬外皮",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cry",
+    "phonetic": "/krai/",
+    "definition": "哭，哭泣；叫喊",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "crystal",
+    "phonetic": "/ˈkristl/",
+    "definition": "水晶，结晶体；晶粒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cube",
+    "phonetic": "/kjuːb/",
+    "definition": "立方形；立方",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cubic",
+    "phonetic": "/ˈkjuːbik/",
+    "definition": "立方形的；立方的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cucumber",
+    "phonetic": "/ˈkjuːkʌmbə/",
+    "definition": "黄瓜",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cultivate",
+    "phonetic": "/ˈkʌltiveit/",
+    "definition": "耕；种植；培养",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "culture",
+    "phonetic": "/ˈkʌlt∫ə/",
+    "definition": "文化，文明；教养",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cunning",
+    "phonetic": "/ˈkʌniŋ/",
+    "definition": "狡猾的，狡诈的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cup",
+    "phonetic": "/kʌp/",
+    "definition": "杯子；(一)杯；奖杯",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cupboard",
+    "phonetic": "/ˈkʌbəd/",
+    "definition": "碗柜，碗碟橱；食橱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cure",
+    "phonetic": "/kjuə/",
+    "definition": "医治；消除 n.治愈",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "curiosity",
+    "phonetic": "/ˌkjuəriˈɔsiti/",
+    "definition": "好奇，好奇心；珍品",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "curious",
+    "phonetic": "/ˈkjuəriəs/",
+    "definition": "好奇的；稀奇古怪的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "curl",
+    "phonetic": "/kəːl/",
+    "definition": "卷毛；螺旋 vi.卷曲",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "current",
+    "phonetic": "/ˈkʌrənt/",
+    "definition": "当前的；通用的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "curse",
+    "phonetic": "/kəːs/",
+    "definition": "诅咒，咒骂；天谴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "curtain",
+    "phonetic": "/ˈkəːtən/",
+    "definition": "帘，窗帘；幕(布)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "curve",
+    "phonetic": "/kəːv/",
+    "definition": "曲线；弯 vt.弄弯",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cushion",
+    "phonetic": "/ˈku∫ən/",
+    "definition": "垫子，坐垫，靠垫",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "custom",
+    "phonetic": "/ˈkʌstəm/",
+    "definition": "习惯，风俗；海关",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "customer",
+    "phonetic": "/ˈkʌstəmə/",
+    "definition": "顾客，主顾",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cut",
+    "phonetic": "/kʌt/",
+    "definition": "切，割，剪；减少",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cycle",
+    "phonetic": "/ˈsaikl/",
+    "definition": "n 自行车，循环",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "daily",
+    "phonetic": "/ˈdeili/",
+    "definition": "每日的 n.日报",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dairy",
+    "phonetic": "/ˈdeəri/",
+    "definition": "牛奶场；乳制品",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dam",
+    "phonetic": "/dæm/",
+    "definition": "水坝，水堤；障碍物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "damage",
+    "phonetic": "/ˈdæmidʒ/",
+    "definition": "损害，毁坏 n.损害",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "damp",
+    "phonetic": "/dæmp/",
+    "definition": "潮湿的，有湿气的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "dance",
+    "phonetic": "/ˈdɑːns/",
+    "definition": "跳舞；摇晃 n.舞",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "danger",
+    "phonetic": "/ˈdeindʒə/",
+    "definition": "危险；危险事物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dangerous",
+    "phonetic": "/ˈdeindʒrəs/",
+    "definition": "危险的，不安全的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "dare",
+    "phonetic": "/deə/",
+    "definition": "&aux.v.敢；竟敢",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "daring",
+    "phonetic": "/ˈdeəriŋ/",
+    "definition": "大胆的，勇敢的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dark",
+    "phonetic": "/dɑːk/",
+    "definition": "暗的；黑色的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "darling",
+    "phonetic": "/ˈdɑːliŋ/",
+    "definition": "亲爱的人；宠儿",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dash",
+    "phonetic": "/dæ∫/",
+    "definition": "使猛撞；溅 n.猛冲",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "data",
+    "phonetic": "/ˈdeitə/",
+    "definition": "数据; 资料",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "date",
+    "phonetic": "/deit/",
+    "definition": "日期 vt.注…日期",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "daughter",
+    "phonetic": "/ˈdɔːtə/",
+    "definition": "女儿",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dawn",
+    "phonetic": "/dɔːn/",
+    "definition": "黎明；开端 vi.破晓",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "day",
+    "phonetic": "/dei/",
+    "definition": "(一)天，白昼，白天",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "daylight",
+    "phonetic": "/ˈdeilait/",
+    "definition": "白昼，日光；黎明",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dead",
+    "phonetic": "/ded/",
+    "definition": "死的，无生命的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "deadly",
+    "phonetic": "/ˈdedli/",
+    "definition": "致命的，死一般的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "deaf",
+    "phonetic": "/def/",
+    "definition": "聋的；不愿听的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "deal",
+    "phonetic": "/diːl/",
+    "definition": "买卖；待遇 vt.给予",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "dear",
+    "phonetic": "/diə/",
+    "definition": "亲爱的 int.啊",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "death",
+    "phonetic": "/deθ/",
+    "definition": "死，死亡；灭亡",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "debate",
+    "phonetic": "/diˈbeit/",
+    "definition": "&vi.争论，辩论",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "debt",
+    "phonetic": "/det/",
+    "definition": "债，债务，欠债",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "decade",
+    "phonetic": "/ˈdekeid/",
+    "definition": "十年，十年期",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "decay",
+    "phonetic": "/diˈkei/",
+    "definition": "腐烂；衰败 n.腐烂",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "deceit",
+    "phonetic": "/diˈsiːt/",
+    "definition": "欺骗，欺诈",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "deceive",
+    "phonetic": "/diˈsiːv/",
+    "definition": "欺骗，蒙蔽，行骗",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "december",
+    "phonetic": "/diˈsembə/",
+    "definition": "十二月",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "decent",
+    "phonetic": "/ˈdiːsnt/",
+    "definition": "正派的；体面的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "decide",
+    "phonetic": "/diˈsaid/",
+    "definition": "决定，决心；解决",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "decision",
+    "phonetic": "/diˈsiʒən/",
+    "definition": "决定，决心；果断",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "deck",
+    "phonetic": "/dek/",
+    "definition": "甲板；舱面；层面",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "declare",
+    "phonetic": "/diˈkleə/",
+    "definition": "断言；声明；表明",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "decorate",
+    "phonetic": "/ˈdekəreit/",
+    "definition": "装饰，装璜，修饰",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "decrease",
+    "phonetic": "/diːˈkriːs/",
+    "definition": "&n.减少，减少",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "deduce",
+    "phonetic": "/diˈdjuːs/",
+    "definition": "演绎，推论，推断",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "deed",
+    "phonetic": "/diːd/",
+    "definition": "行为；功绩；契约",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "deep",
+    "phonetic": "/diːp/",
+    "definition": "深的；纵深的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "deepen",
+    "phonetic": "/ˈdiːpən/",
+    "definition": "加深 vi.深化",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "deer",
+    "phonetic": "/diə/",
+    "definition": "鹿",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "defeat",
+    "phonetic": "/diˈfiːt/",
+    "definition": "战胜，击败；挫败",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "defect",
+    "phonetic": "/diˈfekt/",
+    "definition": "缺点，缺陷，欠缺",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "defence",
+    "phonetic": "/diˈfens/",
+    "definition": "防御；防务；辩护",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "defend",
+    "phonetic": "/diˈfend/",
+    "definition": "保卫，防守",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "define",
+    "phonetic": "/diˈfain/",
+    "definition": "给…下定义；限定",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "definite",
+    "phonetic": "/ˈdefinit/",
+    "definition": "明确的；肯定的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "definitely",
+    "phonetic": "/ˈdefinitli/",
+    "definition": "一定地，明确地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "definition",
+    "phonetic": "/ˌdefiˈni∫ən/",
+    "definition": "定义，释义；定界",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "degree",
+    "phonetic": "/diˈgriː/",
+    "definition": "程度；度；学位",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "delay",
+    "phonetic": "/diˈlei/",
+    "definition": "推迟；耽搁；延误",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "delete",
+    "phonetic": "/diˈliːt/",
+    "definition": "删除；擦掉",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  }
+]

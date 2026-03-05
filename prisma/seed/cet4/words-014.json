@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "nursery",
+    "phonetic": "/ˈnəːsəri/",
+    "definition": "托儿所；苗圃",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "nut",
+    "phonetic": "/nʌt/",
+    "definition": "坚果，干果；螺母",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "nylon",
+    "phonetic": "/ˈnailən/",
+    "definition": "尼龙，耐纶",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "oak",
+    "phonetic": "/əuk/",
+    "definition": "栎属植物；栎木",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "oar",
+    "phonetic": "/ɔə/",
+    "definition": "浆，橹",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "obey",
+    "phonetic": "/əuˈbei/",
+    "definition": "顺从 vi.服从",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "object",
+    "phonetic": "/ˈɔbdʒikt/",
+    "definition": "物，物体；目的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "objection",
+    "phonetic": "/əbˈdʒek∫ən/",
+    "definition": "反对,异议;不喜欢",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "objective",
+    "phonetic": "/əbˈdʒektiv/",
+    "definition": "客观的；无偏见的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "oblige",
+    "phonetic": "/əˈblaidʒ/",
+    "definition": "迫使；施恩惠于",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "observation",
+    "phonetic": "/ˌəbzəːˈvei∫ən/",
+    "definition": "注意；观察(力)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "observe",
+    "phonetic": "/əbˈzəːv/",
+    "definition": "遵守；看到；说",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "observer",
+    "phonetic": "/əbˈzəːvə/",
+    "definition": "观察员，观测者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "obstacle",
+    "phonetic": "/ˈɔbstəkl/",
+    "definition": "障碍，障碍物，妨害",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "obtain",
+    "phonetic": "/əbˈtein/",
+    "definition": "获得，得到，买到",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "obvious",
+    "phonetic": "/ˈɔbviəs/",
+    "definition": "明显的，显而易见的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "obviously",
+    "phonetic": "/ˈɔbviəsli/",
+    "definition": "明显地，显然地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "occasion",
+    "phonetic": "/əˈkeiʒən/",
+    "definition": "场合，时刻；时机",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "occasional",
+    "phonetic": "/əˈkeiʒənəl/",
+    "definition": "偶然的；临时的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "occasionally",
+    "phonetic": "/əˈkeiʒənəli/",
+    "definition": "偶然;非经常地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "occupation",
+    "phonetic": "/ˌɔkjuˈpei∫ən/",
+    "definition": "占领/据；职业",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "occupy",
+    "phonetic": "/ˈɔkjupai/",
+    "definition": "占领；占，占有",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "occur",
+    "phonetic": "/əˈkəː/",
+    "definition": "发生；出现，存在",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "occurrence",
+    "phonetic": "/əˈkʌrəns/",
+    "definition": "发生，出现；事件",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ocean",
+    "phonetic": "/ˈəu∫ən/",
+    "definition": "海洋；洋",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "oceania",
+    "phonetic": "/ˌəu∫iˈeiniə/",
+    "definition": "大洋洲",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "october",
+    "phonetic": "/ɔkˈtəubə/",
+    "definition": "十月",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "odd",
+    "phonetic": "/ɔd/",
+    "definition": "奇数的；单只的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "odour",
+    "phonetic": "/ˈəudə/",
+    "definition": "气味，香气；味道",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "of",
+    "phonetic": "/ɔːf/",
+    "definition": "…的；由于",
+    "partOfSpeech": "prep.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "off",
+    "phonetic": "/ɔːf/",
+    "definition": "(离)开；(停)止",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "offend",
+    "phonetic": "/əˈfend/",
+    "definition": "冒犯 vi.犯过错",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "offer",
+    "phonetic": "/ˈɔfə/",
+    "definition": "提供；提出 n.提供",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "office",
+    "phonetic": "/ˈɔfis/",
+    "definition": "办公室；处，局，社",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "officer",
+    "phonetic": "/ˈɔfisə/",
+    "definition": "官员；干事；军官",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "official",
+    "phonetic": "/əˈfi∫əl/",
+    "definition": "官员的；官方的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "often",
+    "phonetic": "/ˈɔːfn/",
+    "definition": "经常，常常",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "oh",
+    "phonetic": "/əu/",
+    "definition": "嗬，哦，唉呀",
+    "partOfSpeech": "int.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "oil",
+    "phonetic": "/ɔil/",
+    "definition": "油；石油 vt.加油于",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "okay",
+    "phonetic": "/əuˈkei/",
+    "definition": "(缩作 OK)a.&ad.对，好",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "old",
+    "phonetic": "/əuld/",
+    "definition": "老的；…岁的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "omit",
+    "phonetic": "/əuˈmit/",
+    "definition": "省略，省去；遗漏",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "on",
+    "phonetic": "/ɔn/",
+    "definition": "在…上；在…旁",
+    "partOfSpeech": "prep.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "once",
+    "phonetic": "/wʌns/",
+    "definition": "一次；曾经 n.一次",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "one",
+    "phonetic": "/wʌn/",
+    "definition": "一 pron.一个人",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "oneself",
+    "phonetic": "/wʌnˈself/",
+    "definition": "自己；亲自",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "onion",
+    "phonetic": "/ˈʌnjən/",
+    "definition": "洋葱，洋葱头",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "only",
+    "phonetic": "/ˈəunli/",
+    "definition": "只，仅仅 a.唯一的",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "onto",
+    "phonetic": "/ˈɔntu/",
+    "definition": "到…上",
+    "partOfSpeech": "prep.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "open",
+    "phonetic": "/ˈəupən/",
+    "definition": "开的；开放的 vt.开",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "opening",
+    "phonetic": "/ˈəupniŋ/",
+    "definition": "开始的 n.开始",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "opera",
+    "phonetic": "/ˈɔpərə/",
+    "definition": "歌剧",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "operate",
+    "phonetic": "/ˈɔpəreit/",
+    "definition": "操作；施行手术",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "operation",
+    "phonetic": "/ˌɔpəˈrei∫ən/",
+    "definition": "操作；手术；运算",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "operational",
+    "phonetic": "/ˌɔpəˈrei∫ənl/",
+    "definition": "操作上的；可使用的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "operator",
+    "phonetic": "/ˈɔpəreitə/",
+    "definition": "操作人员，接线员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "opinion",
+    "phonetic": "/əˈpinjən/",
+    "definition": "意见，看法，主张",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "opponent",
+    "phonetic": "/əˈpəunənt/",
+    "definition": "对手,敌手;对抗者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "opportunity",
+    "phonetic": "/ˌɔpəˈtjuːniti/",
+    "definition": "机会，良机",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "oppose",
+    "phonetic": "/əˈpəuz/",
+    "definition": "反对；反抗",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "opposite",
+    "phonetic": "/ˈɔpəzit/",
+    "definition": "对面的 n.对立物",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "oppress",
+    "phonetic": "/əˈpres/",
+    "definition": "压迫，压制；压抑",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "optical",
+    "phonetic": "/ˈɔptikəl/",
+    "definition": "眼的；光学的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "optimistic",
+    "phonetic": "/ˌɔptiˈmistik/",
+    "definition": "乐观/乐观主义的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "option",
+    "phonetic": "/ˈɔp∫ən/",
+    "definition": "选择，选择权",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "optional",
+    "phonetic": "/ˈɔp∫ənəl/",
+    "definition": "可以任意选择的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "or",
+    "phonetic": "/ɔː(r)/",
+    "definition": "或，或者；即",
+    "partOfSpeech": "conj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "oral",
+    "phonetic": "/ˈɔːrəl/",
+    "definition": "口头的；口的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "orange",
+    "phonetic": "/ˈɔrindʒ/",
+    "definition": "橙(树)；柑(树)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "orbit",
+    "phonetic": "/ˈɔːbit/",
+    "definition": "运行轨道 vt.环绕",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "orchestra",
+    "phonetic": "/ˈɔːkistrə/",
+    "definition": "管弦乐队",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "order",
+    "phonetic": "/ˈɔːdə(r)/",
+    "definition": "次序；整齐 vt.命令",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "orderly",
+    "phonetic": "/ˈɔːdəli/",
+    "definition": "整洁的；有秩序的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ordinary",
+    "phonetic": "/ˈɔːdinəri/",
+    "definition": "平常的；平凡的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ore",
+    "phonetic": "/ɔː(r)/",
+    "definition": "矿，矿石，矿砂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "organ",
+    "phonetic": "/ˈɔːgən/",
+    "definition": "器官；机构；管风琴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "organic",
+    "phonetic": "/ɔːˈgænik/",
+    "definition": "有机体的；器官的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "organism",
+    "phonetic": "/ˈɔːgənizəm/",
+    "definition": "生物体；有机体",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "organization",
+    "phonetic": "/ˌɔːgənaiˈzei∫ən/",
+    "definition": "组织;团体,机构",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "organize",
+    "phonetic": "/ˈɔːgənaiz/",
+    "definition": "组织，编组",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "oriental",
+    "phonetic": "/ˌɔ(ː)riˈentl/",
+    "definition": "东方的；东方国家的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "origin",
+    "phonetic": "/ˈɔridʒin/",
+    "definition": "起源，由来；出身",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "original",
+    "phonetic": "/əˈridʒənəl/",
+    "definition": "最初的；新颖的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ornament",
+    "phonetic": "/ˈɔːnəmənt/",
+    "definition": "装饰物；装饰",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "orphan",
+    "phonetic": "/ˈɔːfən/",
+    "definition": "孤儿",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "other",
+    "phonetic": "/ˈʌðə/",
+    "definition": "另外的；其余的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "otherwise",
+    "phonetic": "/ˈʌðəwaiz/",
+    "definition": "另外；要不然",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ought",
+    "phonetic": "/ɔːt/",
+    "definition": "aux.应当，应该",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ounce",
+    "phonetic": "/auns/",
+    "definition": "盎司，英两",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "our",
+    "phonetic": "/ˈauə/",
+    "definition": "我们的",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "ours",
+    "phonetic": "/ˈauəz/",
+    "definition": "我们的",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "ourselves",
+    "phonetic": "/ˌauəˈselvz/",
+    "definition": "我们自己",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "out",
+    "phonetic": "/aut/",
+    "definition": "出，在外；现出来",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "outcome",
+    "phonetic": "/ˈautkʌm/",
+    "definition": "结果，后果，成果",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "outdoor",
+    "phonetic": "/ˈautdɔː/",
+    "definition": "户外的，室外的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "outdoors",
+    "phonetic": "/autˈdɔːz/",
+    "definition": "在户外，在野外",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "outer",
+    "phonetic": "/ˈautə/",
+    "definition": "外部的，外面的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "outlet",
+    "phonetic": "/ˈautlet/",
+    "definition": "出口，出路；排遣",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "outline",
+    "phonetic": "/ˈautlain/",
+    "definition": "轮廓；略图；大纲",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "outlook",
+    "phonetic": "/ˈautluk/",
+    "definition": "观点，看法；展望",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "output",
+    "phonetic": "/ˈautput/",
+    "definition": "产量；输出量；输出",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "outset",
+    "phonetic": "/ˈautset/",
+    "definition": "开始，开端",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "outside",
+    "phonetic": "/ˈautˈsaid/",
+    "definition": "外部；外表 a.外部的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "outskirt",
+    "phonetic": "/ˈautskəːt/",
+    "definition": "外边，郊区",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "outstanding",
+    "phonetic": "/autˈstændiŋ/",
+    "definition": "突出的，杰出的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "outward",
+    "phonetic": "/ˈautwəd/",
+    "definition": "外面的；向外的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "outwards",
+    "phonetic": "/ˈautwədz/",
+    "definition": "向外，往海外",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "oven",
+    "phonetic": "/ˈʌvən/",
+    "definition": "炉，灶；烘箱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "over",
+    "phonetic": "/ˈəuvə/",
+    "definition": "在…上方；超过",
+    "partOfSpeech": "prep.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "overall",
+    "phonetic": "/ˈəuvərɔːl/",
+    "definition": "工装裤 a.全面的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overcoat",
+    "phonetic": "/ˈəuvəkəut/",
+    "definition": "外衣，大衣",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overcome",
+    "phonetic": "/ˌəuvəˈkʌm/",
+    "definition": "战胜，克服",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overhead",
+    "phonetic": "/ˈəuvəhed/",
+    "definition": "在头顶上的；架空的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overlook",
+    "phonetic": "/ˌəuvəˈluk/",
+    "definition": "眺望；看漏；放任",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overnight",
+    "phonetic": "/ˈəuvəˈnait/",
+    "definition": "一夜；突然",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "overseas",
+    "phonetic": "/ˈəuvəˈsiːz/",
+    "definition": "海外 a.在海外的",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overtake",
+    "phonetic": "/ˈəuvəˈteik/",
+    "definition": "追上，赶上；压倒",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overtime",
+    "phonetic": "/ˈəuvətaim/",
+    "definition": "超时的，加班的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "owe",
+    "phonetic": "/əu/",
+    "definition": "欠；应把…归功于",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "owl",
+    "phonetic": "/aul/",
+    "definition": "猫头鹰，枭",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "own",
+    "phonetic": "/əun/",
+    "definition": "自己的 vt.有，拥有",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "owner",
+    "phonetic": "/ˈəunə/",
+    "definition": "物主，所有人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ownership",
+    "phonetic": "/ˈəunə∫ip/",
+    "definition": "所有(权)，所有制",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ox",
+    "phonetic": "/ɔks/",
+    "definition": "牛；公牛，阉牛",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pace",
+    "phonetic": "/peis/",
+    "definition": "步，步速 vi.踱步",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pacific",
+    "phonetic": "/pəˈsifik/",
+    "definition": "和平的 n.太平洋",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pack",
+    "phonetic": "/pæk/",
+    "definition": "捆扎；挤满 n.包",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "package",
+    "phonetic": "/ˈpækidʒ/",
+    "definition": "包裹，包，捆",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "packet",
+    "phonetic": "/ˈpækit/",
+    "definition": "小包(裹)，小捆",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pad",
+    "phonetic": "/pæd/",
+    "definition": "垫；本子 vt.填塞",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "page",
+    "phonetic": "/peidʒ/",
+    "definition": "页",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pail",
+    "phonetic": "/peil/",
+    "definition": "桶，提桶",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pain",
+    "phonetic": "/pein/",
+    "definition": "痛，疼痛；辛苦",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "painful",
+    "phonetic": "/ˈpeinful/",
+    "definition": "使痛的；费力的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "paint",
+    "phonetic": "/peint/",
+    "definition": "画；油漆 vi.绘画",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "painter",
+    "phonetic": "/ˈpeintə/",
+    "definition": "漆工，画家，绘画者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "painting",
+    "phonetic": "/ˈpeintiŋ/",
+    "definition": "油画；绘画；着色",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pair",
+    "phonetic": "/peə/",
+    "definition": "一对 vi.成对，配对",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "palace",
+    "phonetic": "/ˈpælis/",
+    "definition": "宫，宫殿",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pale",
+    "phonetic": "/peil/",
+    "definition": "苍白的；浅的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "palm",
+    "phonetic": "/pɑːm/",
+    "definition": "手掌，手心；掌状物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pan",
+    "phonetic": "/pæn/",
+    "definition": "平底锅，盘子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "panda",
+    "phonetic": "/ˈpændə/",
+    "definition": "小猫熊；猫熊",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pane",
+    "phonetic": "/pein/",
+    "definition": "窗格玻璃",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "panel",
+    "phonetic": "/ˈpænl/",
+    "definition": "专门小组；面，板",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pant",
+    "phonetic": "/pænt/",
+    "definition": "气喘；心跳",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "paper",
+    "phonetic": "/ˈpeipə/",
+    "definition": "纸；官方文件；文章",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "parade",
+    "phonetic": "/pəˈreid/",
+    "definition": "游行；检阅 vi.游行",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "paradise",
+    "phonetic": "/ˈpærədaiz/",
+    "definition": "伊甸乐园；天堂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "paragraph",
+    "phonetic": "/ˈpærəgrɑːf/",
+    "definition": "(文章的)段，节",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "parallel",
+    "phonetic": "/ˈpærəlel/",
+    "definition": "平行的；相同的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "parcel",
+    "phonetic": "/ˈpɑːsl/",
+    "definition": "包裹，小包，邮包",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pardon",
+    "phonetic": "/ˈpɑːdn/",
+    "definition": "原谅；赦免 vt.原谅",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "parent",
+    "phonetic": "/ˈpeərənt/",
+    "definition": "父亲，母亲，双亲",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "park",
+    "phonetic": "/pɑːk/",
+    "definition": "公园；停车场",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "parliament",
+    "phonetic": "/ˈpɑːləmənt/",
+    "definition": "议会，国会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "part",
+    "phonetic": "/pɑːt/",
+    "definition": "一部分；零件；本份",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "partial",
+    "phonetic": "/ˈpɑː∫əl/",
+    "definition": "部分的；不公平的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "partially",
+    "phonetic": "/ˈpɑː∫əli/",
+    "definition": "部分地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "participate",
+    "phonetic": "/pɑːˈtisipeit/",
+    "definition": "参与/加；分享",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "particle",
+    "phonetic": "/ˈpɑːtikl/",
+    "definition": "粒子，微粒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "particular",
+    "phonetic": "/pəˈtikjulə/",
+    "definition": "特殊的；特定的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "particularly",
+    "phonetic": "/pəˈtikjuləli/",
+    "definition": "特别,尤其,格外",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "partly",
+    "phonetic": "/ˈpɑːtli/",
+    "definition": "部分地，不完全地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "partner",
+    "phonetic": "/ˈpɑːtnə/",
+    "definition": "伙伴；搭挡；配偶",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "party",
+    "phonetic": "/ˈpɑːti/",
+    "definition": "党，党派；聚会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pass",
+    "phonetic": "/pɑːs/",
+    "definition": "经过；通过；度过",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "passage",
+    "phonetic": "/ˈpæsidʒ/",
+    "definition": "通过；通路，通道",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "passenger",
+    "phonetic": "/ˈpæsindʒə/",
+    "definition": "乘客,旅客,过路人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "passion",
+    "phonetic": "/ˈpæ∫ən/",
+    "definition": "激情，热情；爱好",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "passive",
+    "phonetic": "/ˈpæsiv/",
+    "definition": "被动的；消极的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "passport",
+    "phonetic": "/ˈpɑːspɔːt/",
+    "definition": "护照",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "past",
+    "phonetic": "/pɑːst/",
+    "definition": "过去的 n.过去",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "paste",
+    "phonetic": "/peist/",
+    "definition": "糊，酱；浆湖",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pastime",
+    "phonetic": "/ˈpɑːstaim/",
+    "definition": "消遣，娱乐",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pat",
+    "phonetic": "/pæt/",
+    "definition": "&vt.&n.轻拍",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "patch",
+    "phonetic": "/pæt∫/",
+    "definition": "补钉；碎片 vt.补缀",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "path",
+    "phonetic": "/pɑːθ/",
+    "definition": "路，小道；道路",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "patience",
+    "phonetic": "/ˈpei∫əns/",
+    "definition": "忍耐，容忍，耐心",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "patient",
+    "phonetic": "/ˈpei∫ənt/",
+    "definition": "忍耐的 n.病人",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pattern",
+    "phonetic": "/ˈpætən/",
+    "definition": "型，式样，模，模型",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pause",
+    "phonetic": "/pɔːz/",
+    "definition": "&vi.中止，暂停",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "pave",
+    "phonetic": "/peiv/",
+    "definition": "铺，筑(路等)",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pavement",
+    "phonetic": "/ˈpeivmənt/",
+    "definition": "(英)人行道",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "paw",
+    "phonetic": "/pɔː/",
+    "definition": "脚爪，爪子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pay",
+    "phonetic": "/pei/",
+    "definition": "支付；付给；给予",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "payment",
+    "phonetic": "/ˈpeimənt/",
+    "definition": "支付，支付的款项",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pea",
+    "phonetic": "/piː/",
+    "definition": "豌豆；豌豆属植物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "peace",
+    "phonetic": "/piːs/",
+    "definition": "和平；和睦；平静",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "peaceful",
+    "phonetic": "/ˈpiːsful/",
+    "definition": "和平的；安静的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "peach",
+    "phonetic": "/piːt∫/",
+    "definition": "桃子，桃树",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "peak",
+    "phonetic": "/piːk/",
+    "definition": "山顶，巅 a.最高的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pear",
+    "phonetic": "/peə/",
+    "definition": "梨子，梨树",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pearl",
+    "phonetic": "/pəːl/",
+    "definition": "珍珠；珍珠母",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "peasant",
+    "phonetic": "/ˈpezənt/",
+    "definition": "农民",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "pebble",
+    "phonetic": "/ˈpebl/",
+    "definition": "卵石，细砾",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "peculiar",
+    "phonetic": "/piˈkjuːljə/",
+    "definition": "特有的；特别的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "peel",
+    "phonetic": "/piːl/",
+    "definition": "剥(皮)，削(皮)",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "peep",
+    "phonetic": "/piːp/",
+    "definition": "(从缝隙中)偷看",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "pen",
+    "phonetic": "/pen/",
+    "definition": "钢笔，自来水笔",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  }
+]

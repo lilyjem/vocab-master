@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "nightmare",
+    "phonetic": "/ˈnaitmεə/",
+    "definition": "恶梦;可怕的事物,无法摆脱的恐惧",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "nine",
+    "phonetic": "/nain/",
+    "definition": "九 pron./ad.九(个,只...)",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "nineteen",
+    "phonetic": "/ˌnainˈtiːn/",
+    "definition": "/a.十九 pron.十九(个,只...)",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ninety",
+    "phonetic": "/ˈnainti/",
+    "definition": "九十,九十个",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "nitrogen",
+    "phonetic": "/ˈnaitrədʒən/",
+    "definition": "[化]氮",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "no",
+    "phonetic": "/nəu/",
+    "definition": "不是,不 a.没有的;不允许 n.不,拒绝",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "noble",
+    "phonetic": "/ˈnəubl/",
+    "definition": "高尚的;贵族的,高贵的 n.贵族",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "nobody",
+    "phonetic": "/ˈnəubədi, -bɔdi/",
+    "definition": "谁也不,无人 n.小人物",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "nod",
+    "phonetic": "/nɔd/",
+    "definition": "点(头),点头招呼 n.点头招呼;打盹,瞌睡",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "noise",
+    "phonetic": "/nɔiz/",
+    "definition": "喧闹声,噪声,吵嚷声",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "noisy",
+    "phonetic": "/ˈnɔizi/",
+    "definition": "吵闹的,喧闹的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "nominal",
+    "phonetic": "/ˈnɔminəl/",
+    "definition": "名义上的;(金额,租金)微不足道的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "nominate",
+    "phonetic": "/ˈnɔmineit/",
+    "definition": "提名,任命",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "none",
+    "phonetic": "/nʌn/",
+    "definition": "没有任何人(东西);都不 ad.一点也不",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "nonetheless",
+    "phonetic": "",
+    "definition": "[nevertheless]虽然如此, 但是",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "nonsense",
+    "phonetic": "/ˈnɔnsəns/",
+    "definition": "胡说,废话",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "noodle",
+    "phonetic": "/ˈnuːdl/",
+    "definition": "(常用复数)面条",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "noon",
+    "phonetic": "/nuːn/",
+    "definition": "中午,正午",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "nor",
+    "phonetic": "/nɔː, 弱 nə/",
+    "definition": "/ad.也不,也没有",
+    "partOfSpeech": "conj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "norm",
+    "phonetic": "/nɔːm/",
+    "definition": "准则,规范,准则,平均数",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "normal",
+    "phonetic": "/ˈnɔːməl/",
+    "definition": "正常的,普通的;正规的,标准的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "normalization",
+    "phonetic": "/ˌnɔːməlaiˈzeiʃən/",
+    "definition": "(normalisation)正常化,标准化",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "north",
+    "phonetic": "/nɔːθ/",
+    "definition": "北,北方a.北方的,北部 ad.向北方,在北方",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "northeast",
+    "phonetic": "/ˌnɔːθˈiːst/",
+    "definition": "东北 a.东北方的 ad.向东北,在东北",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "northern",
+    "phonetic": "",
+    "definition": "北方的,北部的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "northwest",
+    "phonetic": "/ˌnɔːθˈwest/",
+    "definition": "西北方,西北部a.西北的ad.向西北,在西北",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "nose",
+    "phonetic": "/nəuz/",
+    "definition": "鼻子;(飞机,船等的)前端,突出部分",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "not",
+    "phonetic": "/nɔt/",
+    "definition": "不,不是,不会;没有",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "notable",
+    "phonetic": "/ˈnəutəbl/",
+    "definition": "值得注意的,显著的,著名的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "note",
+    "phonetic": "/nəut/",
+    "definition": "笔记;按语,注释;钞票,纸币v.记下,摘下",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "notebook",
+    "phonetic": "/ˈnəutbuk/",
+    "definition": "笔记本",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "nothing",
+    "phonetic": "/ˈnʌθiŋ/",
+    "definition": "没有东西;什么也没有;无关紧要的人或事",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "notice",
+    "phonetic": "/ˈnəutis/",
+    "definition": "通知,通告,布告;注意,认识v.注意到,注意",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "noticeable",
+    "phonetic": "/ˈnəutisəbl/",
+    "definition": "显而易见的,值得注意的,重要的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "notify",
+    "phonetic": "/ˈnəutifai/",
+    "definition": "通知,告知,报告",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "notion",
+    "phonetic": "/ˈnəuʃən/",
+    "definition": "概念,想法,意念,看法,观点",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "notorious",
+    "phonetic": "/nəuˈtɔːriəs/",
+    "definition": "臭名昭著的,声名狼藉的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "notwithstanding",
+    "phonetic": "/ˌnɔtwiθˈstændiŋ/",
+    "definition": "/ad./conj.尽管",
+    "partOfSpeech": "prep.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "noun",
+    "phonetic": "/naun/",
+    "definition": "名词",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "nourish",
+    "phonetic": "/ˈnʌriʃ, ˈnəː-/",
+    "definition": "提供养分,养育,怀有(希望,仇恨等)",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "novel",
+    "phonetic": "/ˈnɔvəl/",
+    "definition": "(长篇)小说 a.新奇的,新颖的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "novelty",
+    "phonetic": "/ˈnɔvəlti/",
+    "definition": "新奇,新颖,新奇的事物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "november",
+    "phonetic": "",
+    "definition": "十一月",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "now",
+    "phonetic": "/nau/",
+    "definition": "现在,如今,目前;当时,于是,然后",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "nowadays",
+    "phonetic": "/ˈnauədeiz/",
+    "definition": "现今,现在",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "nowhere",
+    "phonetic": "/ˈnəuhwεə/",
+    "definition": "任何地方都不,没有地方",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "nuclear",
+    "phonetic": "/ˈnjuːkliə, ˈnuː-/",
+    "definition": "核心的,中心的;原子核的,核能的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "nucleus",
+    "phonetic": "/ˈnjuːkliəs/",
+    "definition": "(pl.nuclei)核,核心,原子核",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "nuisance",
+    "phonetic": "/ˈnjuːsəns/",
+    "definition": "讨厌的人(或东西);麻烦事",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "numb",
+    "phonetic": "/nʌm/",
+    "definition": "麻木的,失去感觉的 v.使麻木",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "number",
+    "phonetic": "/ˈnʌmbə/",
+    "definition": "数,数字,数量,号码,一群 v.共计,编号",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "numerical",
+    "phonetic": "/njuːˈmerikəl/",
+    "definition": "数字的,用数字表示的,数值的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "numerous",
+    "phonetic": "/ˈnjuːmərəs/",
+    "definition": "众多的,许多的,大批的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "nurse",
+    "phonetic": "/nəːs/",
+    "definition": "护士,保姆 v.护理,看护",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "nursery",
+    "phonetic": "/ˈnəːsəri/",
+    "definition": "托儿所",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "nurture",
+    "phonetic": "/ˈnəːtʃə/",
+    "definition": "/v.养育,教育,教养 n.营养品v.给与营养物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "nut",
+    "phonetic": "/nʌt/",
+    "definition": "坚果;螺母,螺帽",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "nutrition",
+    "phonetic": "/njuːˈtriʃən/",
+    "definition": "营养,营养学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "nylon",
+    "phonetic": "/ˈnailɔn/",
+    "definition": "尼龙",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "oak",
+    "phonetic": "/əuk/",
+    "definition": "橡树,橡木 a.橡木的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "oar",
+    "phonetic": "/ɔː, əu/",
+    "definition": "桨,橹 v.划,划动,划行",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "oath",
+    "phonetic": "/əuθ/",
+    "definition": "誓言,誓约,诅咒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "obedience",
+    "phonetic": "/əuˈbiːdiəns/",
+    "definition": "服从,顺从",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "obedient",
+    "phonetic": "/əuˈbiːdiənt/",
+    "definition": "服从的,顺从的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "obey",
+    "phonetic": "/əuˈbei/",
+    "definition": "服从, 顺从",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "object",
+    "phonetic": "/ˈɔbdʒikt/",
+    "definition": "物体;客体,对象;目标;宾语 v.(to)反对",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "objection",
+    "phonetic": "/əbˈdʒekʃən, ɔb-/",
+    "definition": "(to)反对,异议,不喜欢,反对的理由",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "objective",
+    "phonetic": "/əbˈdʒektiv, ɔb-/",
+    "definition": "目标,目的 a.客观的,真实的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "obligation",
+    "phonetic": "/ˌɔbliˈɡeiʃən/",
+    "definition": "义务,责任",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "oblige",
+    "phonetic": "/əˈblaidʒ/",
+    "definition": "强迫,迫使;责成;(使)感激,施恩于",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "obscure",
+    "phonetic": "/əbˈskjuə, ɔb-/",
+    "definition": "暗的,朦胧的;模糊的,晦涩的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "observation",
+    "phonetic": "/ˌɔbzəːˈveiʃən/",
+    "definition": "观察,观测,监视;(pl.)观察资料;观察力",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "observe",
+    "phonetic": "/əbˈzəːv/",
+    "definition": "观察,观测,注意到,监视,遵守,评述,说",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "obsession",
+    "phonetic": "/əbˈseʃən, ɔb-/",
+    "definition": "迷住, 困扰",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "obsolete",
+    "phonetic": "/ˈɔbsəliːt, ,ɔbsəˈliːt/",
+    "definition": "已废弃的,过时的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "obstacle",
+    "phonetic": "/ˈɔbstəkl/",
+    "definition": "障碍(物),妨碍,阻碍,干扰",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "obstruct",
+    "phonetic": "/əbˈstrʌkt, ɔb-/",
+    "definition": "阻隔,阻塞(道路、通道等)n.阻碍物,障碍物",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "obstruction",
+    "phonetic": "/əbˈstrʌkʃən, ɔb-/",
+    "definition": "妨碍,障碍物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "obtain",
+    "phonetic": "/əbˈtein, ɔb-/",
+    "definition": "获得,得到",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "obvious",
+    "phonetic": "/ˈɔbviəs/",
+    "definition": "明显的,显而易见的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "occasion",
+    "phonetic": "/əˈkeiʒən, əu-/",
+    "definition": "场合,时节,时刻;时机,机会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "occasional",
+    "phonetic": "/əˈkeiʒənəl, əu-/",
+    "definition": "偶然的,非经常的,特殊场合的;临时的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "occupation",
+    "phonetic": "/ˌɔkjuˈpeiʃən/",
+    "definition": "占领,占据;占用;职业,工作",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "occupy",
+    "phonetic": "/ˈɔkjupai/",
+    "definition": "占,占用;占据,占领;使忙碌,使从事",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "occur",
+    "phonetic": "/əˈkəː/",
+    "definition": "发生,出现;存在;想起,想到",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "occurrence",
+    "phonetic": "/əˈkəːrəns, -ˈkʌ-/",
+    "definition": "发生,出现;事件,事故,发生的事情",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ocean",
+    "phonetic": "/ˈəuʃən/",
+    "definition": "海洋",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "october",
+    "phonetic": "",
+    "definition": "十月",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "odd",
+    "phonetic": "/ɔd/",
+    "definition": "奇数的;奇怪的;单只的;临时的;带零头的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "odds",
+    "phonetic": "/ɔdz/",
+    "definition": "不平等,差异;机会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "odor",
+    "phonetic": "/ˈəudə/",
+    "definition": "(odour)气味,香味,臭味,名声",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "of",
+    "phonetic": "/ɔv, əv, v, f/",
+    "definition": "…的;在…之中;用…制的;关于…的",
+    "partOfSpeech": "prep.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "off",
+    "phonetic": "/ɔːf, ɔf/",
+    "definition": "离开;在远处;脱开 prep.从,从...离开",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "offend",
+    "phonetic": "/əˈfend/",
+    "definition": "犯罪,冒犯,违反,得罪,使...不愉快",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "offensive",
+    "phonetic": "/əˈfensiv/",
+    "definition": "冒犯的,攻击的 n.攻势,进攻",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "offer",
+    "phonetic": "/ˈɔfə, ˈɔː-/",
+    "definition": "提供,提议,出现 n.出价,提议,意图",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "office",
+    "phonetic": "/ˈɔfis, ˈɔː-/",
+    "definition": "办公室,办事处;职务,公职;部,局,处",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "officer",
+    "phonetic": "/ˈɔfisə, ˈɔː-/",
+    "definition": "官员,办事员;工作人员;军官",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "official",
+    "phonetic": "/əˈfiʃəl, əu-/",
+    "definition": "官员,行政官员 a.官方的,官方的,正式的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "offset",
+    "phonetic": "/ˌɔfˈset, ˈɔfset, ˈɔː-/",
+    "definition": "分支,补偿 v.抵消,补偿",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "offspring",
+    "phonetic": "/ˈɔfspriŋ, ˈɔː-/",
+    "definition": "子孙,后代;结果,产物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "often",
+    "phonetic": "/ˈɔfən, ˈɔftən, ˈɔː-/",
+    "definition": "常常,经常,通常",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "oil",
+    "phonetic": "/ɔil/",
+    "definition": "油,石油 v.给…加润滑油;涂油,上油",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "okay",
+    "phonetic": "",
+    "definition": "(okey,OK,O.K.)好,行,不错 n.同意",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "old",
+    "phonetic": "/əuld/",
+    "definition": "年老的;…岁的;长时间的,老的;过去的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "omit",
+    "phonetic": "/əuˈmit/",
+    "definition": "省略,删去;遗漏,忽略",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "on",
+    "phonetic": "/ɔn, ɔːn, ən, n/",
+    "definition": "连接上 prep.在…上;靠近 ad.向前,继续",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "once",
+    "phonetic": "/wʌns/",
+    "definition": "一次,曾经 conj.一(旦)…就… n.一次",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "one",
+    "phonetic": "/wʌn/",
+    "definition": "一 pron.一个(只)(表示代替可数的东西)",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "oneself",
+    "phonetic": "/wʌnˈself, -zelf/",
+    "definition": "[反身代词]自己;亲自,本人",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "onion",
+    "phonetic": "/ˈʌnjən/",
+    "definition": "洋葱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "only",
+    "phonetic": "/ˈəunli/",
+    "definition": "仅仅,只不过 a.唯一的 conj.可是,不过",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "onto",
+    "phonetic": "/ˈɔntu, -tə/",
+    "definition": "在...上面;到...上面",
+    "partOfSpeech": "prep.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "opaque",
+    "phonetic": "/əuˈpeik/",
+    "definition": "不透明(光)的;难理解的,晦涩的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "open",
+    "phonetic": "/ˈəupən/",
+    "definition": "公开,户外 a.开的,开放的 v.开",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "opening",
+    "phonetic": "/ˈəupəniŋ/",
+    "definition": "开,开放,开始,空缺,机会 a.开始的,开幕的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "opera",
+    "phonetic": "/ˈɔpərə/",
+    "definition": "歌剧",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "operate",
+    "phonetic": "/ˈɔpəreit/",
+    "definition": "操作,运转,开动,起作用,动手术",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "operation",
+    "phonetic": "/ˌɔpəˈreiʃən/",
+    "definition": "运转,开动,操作,手术,运算,经营",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "operational",
+    "phonetic": "/ˌɔpəˈreiʃənəl/",
+    "definition": "操作的,运转的,起作用的,经营的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "operator",
+    "phonetic": "/ˈɔpəreitə/",
+    "definition": "操作人员,(电话)接线员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "opinion",
+    "phonetic": "/əˈpinjən/",
+    "definition": "意见,看法,主张",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "opponent",
+    "phonetic": "/əˈpəunənt/",
+    "definition": "对手,反对者,敌手 a.对立的,对抗的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "opportunity",
+    "phonetic": "/ˌɔpəˈtjuːniti/",
+    "definition": "机会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "oppose",
+    "phonetic": "/əˈpəuz/",
+    "definition": "反对,使对立,使对抗,使相对",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "opposite",
+    "phonetic": "/ˈɔpəzit, -sit/",
+    "definition": "对面的,相对的,相反的 n.对立面",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "oppress",
+    "phonetic": "/əˈpres/",
+    "definition": "压迫,压制",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "opt",
+    "phonetic": "/ɔpt/",
+    "definition": "抉择,选择",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "optical",
+    "phonetic": "/ˈɔptikəl/",
+    "definition": "眼的,视力的;光学的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "optimistic",
+    "phonetic": "/ˌɔptiˈmistik/",
+    "definition": "乐观主义的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "optimum",
+    "phonetic": "/ˈɔptiməm/",
+    "definition": "最适宜的 n.最适宜(条件)",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "option",
+    "phonetic": "/ˈɔpʃən/",
+    "definition": "选择(权),[商]选择买卖的特权",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "optional",
+    "phonetic": "/ˈɔpʃənəl/",
+    "definition": "可以任选的,随意的,非强制的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "or",
+    "phonetic": "/ɔː, ə/",
+    "definition": "或,或者(表示选择);即,大约;否则",
+    "partOfSpeech": "conj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "oral",
+    "phonetic": "/ˈɔːrəl, ˈɔ-/",
+    "definition": "口头的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "orange",
+    "phonetic": "/ˈɔrindʒ, ˈɔː-/",
+    "definition": "柑,桔,橙",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "orbit",
+    "phonetic": "/ˈɔːbit/",
+    "definition": "轨道 v.(使)沿轨道行",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "orchard",
+    "phonetic": "/ˈɔːtʃəd/",
+    "definition": "果园,果园里的全部果树,<美俚>棒球场",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "orchestra",
+    "phonetic": "/ˈɔːkistrə, -kes-/",
+    "definition": "管弦乐队",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "order",
+    "phonetic": "/ˈɔːdə/",
+    "definition": "命令;次序;整齐;定货单;等级 v.定制,订购",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "orderly",
+    "phonetic": "/ˈɔːdəli/",
+    "definition": "整齐的,有秩序的,有条理的 n.勤务兵",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ordinary",
+    "phonetic": "/ˈɔːdinəri, -neri-/",
+    "definition": "普通的,平凡的,平常的;平庸的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ore",
+    "phonetic": "/ɔː/",
+    "definition": "矿石,矿砂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "organ",
+    "phonetic": "/ˈɔːɡən/",
+    "definition": "器官;机构,机关;风琴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "organic",
+    "phonetic": "/ɔːˈɡænik/",
+    "definition": "器官的;有机的;有机体的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "organism",
+    "phonetic": "/ˈɔːɡənizəm/",
+    "definition": "生物,有机体",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "organization",
+    "phonetic": "/ˌɔːɡənaiˈzeiʃən, -niˈz-/",
+    "definition": "(organization)组织,团体,机构",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "organize",
+    "phonetic": "/ˈɔːɡənaiz/",
+    "definition": "(organise)组织,编组",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "orient",
+    "phonetic": "/ˈɔːriənt, ˈəu-, ˈɔːrient/",
+    "definition": "东方,亚洲 v.使朝东,为…定位,使适应",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "oriental",
+    "phonetic": "",
+    "definition": "东方的,东方诸国的 n.东方人",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "orientation",
+    "phonetic": "/ˌɔːrienˈteiʃən, əu-/",
+    "definition": "方向,方位,定位,倾向性,向东方",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "origin",
+    "phonetic": "/ˈɔridʒin, ˈɔː-/",
+    "definition": "起源,由来;出身,来历",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "original",
+    "phonetic": "/əˈridʒənəl/",
+    "definition": "最初的,原文的;新颖的 n.原物,原作,原文",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "originate",
+    "phonetic": "/əˈridʒəneit/",
+    "definition": "(in,from)起源,发生;首创,创造",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ornament",
+    "phonetic": "/ˈɔːnəmənt,ˈɔːnəment/",
+    "definition": "装饰,美化 n.装饰,装饰物",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "orphan",
+    "phonetic": "/ˈɔːfən/",
+    "definition": "孤儿",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "orthodox",
+    "phonetic": "/ˈɔːθədɔks/",
+    "definition": "传统的,正统的,习惯的,保守的,东正教的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "other",
+    "phonetic": "/ˈʌðə/",
+    "definition": "另外的,其他的 n./pron.另一个人(或事)",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "otherwise",
+    "phonetic": "/ˈʌðəwaiz/",
+    "definition": "另样,用别的方法;在其他方面conj.要不然",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ought",
+    "phonetic": "/ɔːt/",
+    "definition": "应该(使用时,之后应接to,再接动词原形)",
+    "partOfSpeech": "aux.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ounce",
+    "phonetic": "/auns/",
+    "definition": "盎司,英两",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "our",
+    "phonetic": "/ˈauə, ɑː/",
+    "definition": "[we的所有格]我们的",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "ours",
+    "phonetic": "/ˈauəz, 弱ɑːz/",
+    "definition": "[we的物主代词]我们的(所有物)",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "ourselves",
+    "phonetic": "/ˌauəˈselvz, ,ɑː-/",
+    "definition": "[反身代词]我们自己;我们亲自",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "out",
+    "phonetic": "/aut/",
+    "definition": "出去;离家;突出来 a.外面的,往外去的",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "outbreak",
+    "phonetic": "/ˈautbreik, ,autˈbreik/",
+    "definition": "(战争,愤怒,火灾等的)爆发,(疾病的)发作",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "outcome",
+    "phonetic": "/ˈautkʌm/",
+    "definition": "结果,成果",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "outdoor",
+    "phonetic": "/ˈəutdɔː/",
+    "definition": "室外的,野外的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "outer",
+    "phonetic": "/ˈautə/",
+    "definition": "外部的,外面的,外层的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "outfit",
+    "phonetic": "/ˈautfit/",
+    "definition": "用具,机构,全套装配 v.配备,(得到)装备",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "outing",
+    "phonetic": "/ˈautiŋ/",
+    "definition": "外出,旅行,散步",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "outlet",
+    "phonetic": "/ˈautlet, -lit/",
+    "definition": "出路,出口;销路,市场;发泄方法;电源插座",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "outline",
+    "phonetic": "/ˈautlain/",
+    "definition": "轮廓,略图;大纲,梗概 v.概述,略述",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "outlook",
+    "phonetic": "/ˈautluk, ,autˈluk/",
+    "definition": "景色,风光;观点,见解;展望,前景",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "output",
+    "phonetic": "/ˈautput, ,autˈput/",
+    "definition": "产量,输出(量)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "outrage",
+    "phonetic": "/ˈautreidʒ/",
+    "definition": "暴行,侮辱,愤怒 v.凌辱,引起…义愤,强奸",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "outset",
+    "phonetic": "/ˈautset/",
+    "definition": "开始,开端",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "outside",
+    "phonetic": "/ˌautˈsaid, ˈautˈsaid/",
+    "definition": "向外面 n.外部 a.外部的 prep.在…外",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "outskirts",
+    "phonetic": "",
+    "definition": "郊区",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "outstanding",
+    "phonetic": "/ˌautˈstændiŋ/",
+    "definition": "突出的,显著的,杰出的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "outward",
+    "phonetic": "/ˈautwəd/",
+    "definition": "外面的,公开的,向外的ad.向外,在外n.外表",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "oval",
+    "phonetic": "/ˈəuvəl/",
+    "definition": "卵形的,椭圆形的 n.卵形,椭圆形",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "oven",
+    "phonetic": "/ˈʌvən/",
+    "definition": "炉,灶,灶箱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "over",
+    "phonetic": "/ˈəuvə/",
+    "definition": "在上方;遍及地 prep.在的上方 a.结束的",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "overall",
+    "phonetic": "/ˈəuvərɔːl, ˌəuvəˈrɔːl/",
+    "definition": "全面的,综合的 n.(pl.)(套头)工作服",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overcoat",
+    "phonetic": "/ˈəuvəkəut/",
+    "definition": "外衣,大衣",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overcome",
+    "phonetic": "/ˌəuvəˈkʌm/",
+    "definition": "战胜,克服",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overflow",
+    "phonetic": "/ˌəuvəˈfləu, ˈəuvəfləu/",
+    "definition": "(使)外溢,(使)溢出;溢出,流出,漫出",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overhead",
+    "phonetic": "/ˈəuvəhed, ,əuvəˈhed/",
+    "definition": "在头顶上的;架空的 ad.在头顶上",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overhear",
+    "phonetic": "/ˌəuvəˈhiə/",
+    "definition": "偶然听到,从旁听到",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overlap",
+    "phonetic": "/ˌəuvəˈlæp, ˈəuvəlæp/",
+    "definition": "重叠,与…交叠 n.重叠",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overlook",
+    "phonetic": "/ˌəuvəˈluk, ˈəuvəluk/",
+    "definition": "看漏,忽略;俯瞰,眺望;宽容,放任",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overnight",
+    "phonetic": "/ˌəuvəˈnait, ˈəuvənait/",
+    "definition": "通宵的,晚上的 ad.在昨夜,一夜工夫,突然",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "overpass",
+    "phonetic": "/ˈəuvəpɑːs, -pæs/",
+    "definition": "过街天桥 vt.胜过,通过,忽视",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overseas",
+    "phonetic": "/ˈəuvəˈsiːz/",
+    "definition": "外国的,海外的 ad.在海外",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overtake",
+    "phonetic": "/ˌəuvəˈteik/",
+    "definition": "追上,超过,突然降临,压倒",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overthrow",
+    "phonetic": "/ˌəuvəˈθrəu/",
+    "definition": "/n.推翻,颠覆",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "overtime",
+    "phonetic": "/ˈəuvətaim/",
+    "definition": "超时的,加班的 ad.加班",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overturn",
+    "phonetic": "/ˌəuvəˈtəːn, ˈəuvətəːn/",
+    "definition": "倾覆,破灭,革命 v.打翻,推翻,颠倒,翻倒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "overwhelm",
+    "phonetic": "/ˌəuvəˈhwelm/",
+    "definition": "淹没,覆没,压倒,制服,使不知所措",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  }
+]

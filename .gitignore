@@ -1,0 +1,59 @@
+# ===== 依赖 =====
+node_modules/
+.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# ===== Next.js =====
+.next/
+out/
+build/
+
+# ===== 测试 =====
+coverage/
+
+# ===== 环境变量（包含敏感信息） =====
+.env
+.env*.local
+.env.development
+.env.production
+
+# ===== 数据库 =====
+*.db
+*.sqlite
+
+# ===== 操作系统 =====
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# ===== 编辑器 / IDE =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.cursor/
+
+# ===== 日志 =====
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ===== TypeScript =====
+*.tsbuildinfo
+next-env.d.ts
+
+# ===== Vercel =====
+.vercel
+
+# ===== 密钥 =====
+*.pem
+*.key
+*.cert
+
+# ===== 杂项 =====
+*.tgz
+.cache/

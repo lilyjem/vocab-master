@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "folklore",
+    "phonetic": "/'fəuklɔ:/",
+    "definition": "民间传说",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "forage",
+    "phonetic": "/'fɔridʒ/",
+    "definition": "草料; v. 寻找",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "forecast",
+    "phonetic": "/'fɔ:kɑ:st/",
+    "definition": "n. 预报; 预测",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "forefront",
+    "phonetic": "/'fɔ:frʌnt/",
+    "definition": "最前沿; 中心",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "foreshorten",
+    "phonetic": "/fɔ:'ʃɔ:tn/",
+    "definition": "(绘画中)按照透视法缩短",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "formation",
+    "phonetic": "/fɔ:'meiʃn/",
+    "definition": "形成，构成; 编队",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "formulate",
+    "phonetic": "/'fɔ:mjuleit/",
+    "definition": "阐明",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fossil",
+    "phonetic": "/'fɔsl/",
+    "definition": "化石; a. 陈腐的; 化石的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "foster",
+    "phonetic": "/'fɔstə/",
+    "definition": "鼓励; 培养",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fountain",
+    "phonetic": "/'fauntin/",
+    "definition": "喷泉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "frame",
+    "phonetic": "/freim/",
+    "definition": "框架; v. 设计，构成",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fray",
+    "phonetic": "/frei/",
+    "definition": "磨(损、破)",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "freight",
+    "phonetic": "/freit/",
+    "definition": "货运",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fresco",
+    "phonetic": "/'freskəu/",
+    "definition": "壁画",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "frost",
+    "phonetic": "/frɔst/",
+    "definition": "霜; 结霜",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fulfill",
+    "phonetic": "/ful'fil/",
+    "definition": "履行; 符合",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "function",
+    "phonetic": "/'fʌŋkʃn/",
+    "definition": "机能; 功能; 作用",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "funding",
+    "phonetic": "/'fʌndiŋ/",
+    "definition": "用发行长期债券的方法来收回短期债券",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fungus",
+    "phonetic": "/'fʌŋgəs/",
+    "definition": "[pl. fungi]真菌，菌类植物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "furnace",
+    "phonetic": "/'fə:nis/",
+    "definition": "暖气锅炉; 熔炉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "furnish",
+    "phonetic": "/'fə:niʃ/",
+    "definition": "提供; 装备",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fuse",
+    "phonetic": "/fju:z/",
+    "definition": "熔合; 合并",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gallop",
+    "phonetic": "/'gæləp/",
+    "definition": "(马)飞奔; 疾驰",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "garbage",
+    "phonetic": "/'gɑ:bidʒ/",
+    "definition": "垃圾; 废物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gaseous",
+    "phonetic": "/'gæsiəs/",
+    "definition": "(含)气体的，气态的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gemstone",
+    "phonetic": "/'dʒem`stəun/",
+    "definition": "经雕琢的宝石",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gender",
+    "phonetic": "/'dʒendə(r)/",
+    "definition": "性别",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gene",
+    "phonetic": "/dʒi:n/",
+    "definition": "基因",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "generation",
+    "phonetic": "/`dʒenə'reiʃn/",
+    "definition": "一代人; 发生",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "genesis",
+    "phonetic": "/'dʒenəsis/",
+    "definition": "起源",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "genetic",
+    "phonetic": "/dʒi'netik/",
+    "definition": "基因的，遗传(学)的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "genetically",
+    "phonetic": "/dʒi'netikli/",
+    "definition": "由基因决定地，与遗传有关地",
+    "partOfSpeech": "adv.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "genetics",
+    "phonetic": "/dʒi'netiks/",
+    "definition": "遗传学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "genius",
+    "phonetic": "/'dʒi:niəs/",
+    "definition": "天才; 天赋",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gentle",
+    "phonetic": "/'dʒentl/",
+    "definition": "温柔的; 温和的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "geology",
+    "phonetic": "/dʒi'ɔlədʒi/",
+    "definition": "地质学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "germ",
+    "phonetic": "/dʒə:m/",
+    "definition": "微生物; 细菌",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "giant",
+    "phonetic": "/'dʒaiənt/",
+    "definition": "巨大的; 超群的; n. 巨大的动植物",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gigantic",
+    "phonetic": "/dʒai'gæntik/",
+    "definition": "巨大的，庞大的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gin",
+    "phonetic": "/dʒin/",
+    "definition": "轧棉机",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "giraffe",
+    "phonetic": "/dʒi'rɑ:f/",
+    "definition": "长颈鹿",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "girder",
+    "phonetic": "/'gə:də(r)/",
+    "definition": "大梁",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "given",
+    "phonetic": "/'givn/",
+    "definition": "特定的; 假定的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "glacial",
+    "phonetic": "/'gleisiəl/",
+    "definition": "冰期的; 冰河时代的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gland",
+    "phonetic": "/glænd/",
+    "definition": "腺",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "glare",
+    "phonetic": "/gleə(r)/",
+    "definition": "耀眼的光",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "glimpse",
+    "phonetic": "/glimps/",
+    "definition": "一看，一瞥; v. 瞥见",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "glorify",
+    "phonetic": "/'glɔ:rifai/",
+    "definition": "美化; 赞扬",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "glow",
+    "phonetic": "/gləu/",
+    "definition": "发光",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "glue",
+    "phonetic": "/glu:/",
+    "definition": "胶; 胶水; v. 粘合; 紧附于",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gorilla",
+    "phonetic": "/gə'rilə/",
+    "definition": "大猩猩",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gospel",
+    "phonetic": "/'gɔspl/",
+    "definition": "信条; 福音音乐",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gothic",
+    "phonetic": "/'gɔθik/",
+    "definition": "哥特式的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gourd",
+    "phonetic": "/guəd/",
+    "definition": "葫芦",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "governor",
+    "phonetic": "/'gʌvənə(r)/",
+    "definition": "省长; 州长; 总督",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "grace",
+    "phonetic": "/greis/",
+    "definition": "优美，优雅",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gradient",
+    "phonetic": "/'greidiənt/",
+    "definition": "梯度",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "grading",
+    "phonetic": "/'greidiŋ/",
+    "definition": "评分; 等级",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gradual",
+    "phonetic": "/'grædʒuəl/",
+    "definition": "逐渐的，逐步的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "grain",
+    "phonetic": "/grein/",
+    "definition": "谷物; 颗粒; 少量",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "granite",
+    "phonetic": "/'grænit/",
+    "definition": "花岗岩",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "grant",
+    "phonetic": "/grɑ:nt/",
+    "definition": "给予，授予; 同意; 承认; n. 拨款",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "granular",
+    "phonetic": "/'grænjulə(r)/",
+    "definition": "粒状的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "graph",
+    "phonetic": "/grɑ:f/",
+    "definition": "图表; 坐标图",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "graphic",
+    "phonetic": "/'græfik/",
+    "definition": "形象的; 文字的，图解的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "grasshopper",
+    "phonetic": "/'grɑ:shɔpə(r)/",
+    "definition": "蚂蚱，蝗虫",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "gravel",
+    "phonetic": "/'grævl/",
+    "definition": "沙砾，砾石",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gravitational",
+    "phonetic": "/`grævi'teiʃənəl/",
+    "definition": "重力的，万有引力的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "grazing",
+    "phonetic": "/'greiziŋ/",
+    "definition": "放牧; 牧草",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "grimly",
+    "phonetic": "/'grimli/",
+    "definition": "冷酷地",
+    "partOfSpeech": "adv.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "groan",
+    "phonetic": "/grəun/",
+    "definition": "呻吟; 叹息",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "grocery",
+    "phonetic": "/'grəusəri/",
+    "definition": "杂货店",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "groom",
+    "phonetic": "/gru:m/",
+    "definition": "(动物)将…的皮毛弄干净; 使做好准备",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gross",
+    "phonetic": "/grəus/",
+    "definition": "总计; n. 一罗(12打，1əə个)",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "guideline",
+    "phonetic": "/'gaidlain/",
+    "definition": "[常pl. ]指导方针",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "guilty",
+    "phonetic": "/'gilti/",
+    "definition": "内疚的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gulf",
+    "phonetic": "/gʌlf/",
+    "definition": "海湾; 分歧",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gull",
+    "phonetic": "/gʌl/",
+    "definition": "鸥，海鸥",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gymnasium",
+    "phonetic": "/dʒim'neiziəm/",
+    "definition": "体育馆; 健身房",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "habitat",
+    "phonetic": "/'hæbitæt/",
+    "definition": "(动物或植物的)自然环境; 栖息地",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hammer",
+    "phonetic": "/'hæmə/",
+    "definition": "槌; 锤子; v. 锤打",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "harbor",
+    "phonetic": "/'hɑ:bə/",
+    "definition": "港口; v. 藏有",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "hardware",
+    "phonetic": "/'hɑ:dwεə/",
+    "definition": "五金制品",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "harmony",
+    "phonetic": "/'hɑ:məni/",
+    "definition": "和声; 协调",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "haste",
+    "phonetic": "/heist/",
+    "definition": "急忙，匆忙",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "hawk",
+    "phonetic": "/hɔ:k/",
+    "definition": "鹰",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "hay",
+    "phonetic": "/hei/",
+    "definition": "干草",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "heading",
+    "phonetic": "/'hediŋ/",
+    "definition": "标题",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "healing",
+    "phonetic": "/'hi:liŋ/",
+    "definition": "有治疗功用的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "heed",
+    "phonetic": "/hi:d/",
+    "definition": "注意; 留心",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "hemisphere",
+    "phonetic": "/'hemisfiə/",
+    "definition": "(地球或天体的)半球; 大脑的半球",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "henceforth",
+    "phonetic": "/`hens'fɔ:θ/",
+    "definition": "从此以后",
+    "partOfSpeech": "adv.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "herald",
+    "phonetic": "/'herəld/",
+    "definition": "信使; vt. 预示; 宣布",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "herb",
+    "phonetic": "/hə:b/",
+    "definition": "药草，(调味用的)香草; 草本植物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "herd",
+    "phonetic": "/hə:d/",
+    "definition": "兽群(尤指牛群)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "hibernation",
+    "phonetic": "/`haibə'neiʃn/",
+    "definition": "冬眠; 进入冬眠状态",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "hide",
+    "phonetic": "/haid/",
+    "definition": "躲藏; 掩藏; 掩盖; n. 兽皮",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "hierarchy",
+    "phonetic": "/'haiərɑ:ki/",
+    "definition": "等级制度; 阶层",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "hieratic",
+    "phonetic": "/haiə'rætik/",
+    "definition": "僧侣的，僧侣用的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hieroglyph",
+    "phonetic": "/'haiərəglif/",
+    "definition": "象形文字",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "hind",
+    "phonetic": "/haind/",
+    "definition": "(成对的事物)后面的，在后的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "hint",
+    "phonetic": "/hint/",
+    "definition": "提示; [常pl. ]忠告",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "hinterland",
+    "phonetic": "/'hintəlænd/",
+    "definition": "内地，腹地; 内地贸易区",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "hitherto",
+    "phonetic": "/`hiðə'tu:/",
+    "definition": "迄今，至今",
+    "partOfSpeech": "adv.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hive",
+    "phonetic": "/haiv/",
+    "definition": "蜂房，蜂箱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "hockey",
+    "phonetic": "/'hɔki/",
+    "definition": "曲棍球; 冰球",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "hollow",
+    "phonetic": "/'hɔləu/",
+    "definition": "空心的; 虚伪的; n. 山谷; vt. 挖空",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "homestead",
+    "phonetic": "/'həumsted/",
+    "definition": "家园; 田产",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "homing",
+    "phonetic": "/'həumiŋ/",
+    "definition": "有自远处返回原地的本能的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "hominid",
+    "phonetic": "/'hɔminid/",
+    "definition": "a. 原始人类(的)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hook",
+    "phonetic": "/huk/",
+    "definition": "钩，吊钩; v. 连接无线电设备以传送",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "horizon",
+    "phonetic": "/hə'raizn/",
+    "definition": "地平线; [常pl. ]眼界，视野",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hormone",
+    "phonetic": "/'hɔ:məun/",
+    "definition": "激素; 荷尔蒙",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "horn",
+    "phonetic": "/hɔ:n/",
+    "definition": "(牛、羊、鹿等的)角; 号角，喇叭",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "host",
+    "phonetic": "/həust/",
+    "definition": "主人; 【生】寄主",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "household",
+    "phonetic": "/'haushəuld/",
+    "definition": "家庭; a. 家庭的，家用的; 家喻户晓的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "hover",
+    "phonetic": "/'hɔvə/",
+    "definition": "徘徊",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "huddle",
+    "phonetic": "/'hʌdl/",
+    "definition": "挤在一起",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "hue",
+    "phonetic": "/hju:/",
+    "definition": "颜色; 类型",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "hum",
+    "phonetic": "/hʌm/",
+    "definition": "发嗡嗡声; interj. 嗯嗯(表示犹豫)",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "humanity",
+    "phonetic": "/hju:'mæniti/",
+    "definition": "人类，(总称)人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hummingbird",
+    "phonetic": "/'hʌmiŋbə:d/",
+    "definition": "蜂鸟",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "hydrogen",
+    "phonetic": "/'haidrədʒən/",
+    "definition": "氢",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "hydrothermal",
+    "phonetic": "/`haidrə'θə:məl/",
+    "definition": "热液的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "hypothesize",
+    "phonetic": "/hai'pɔθəsaiz/",
+    "definition": "假定; 假设",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ideal",
+    "phonetic": "/ai'diəl/",
+    "definition": "理想的; 完美的; n. 理想",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "idealize",
+    "phonetic": "/ai'diəlaiz/",
+    "definition": "理想化",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "identity",
+    "phonetic": "/ai'dentəti/",
+    "definition": "身份; 特性",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "idiom",
+    "phonetic": "/'idiəm/",
+    "definition": "习惯用语; (在艺术上所表现的)风格，特色",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "idle",
+    "phonetic": "/'aidl/",
+    "definition": "懒散的; 空闲的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "ignition",
+    "phonetic": "/ig'niʃən/",
+    "definition": "点火，点燃",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "imagist",
+    "phonetic": "/'imədʒist/",
+    "definition": "意象派的; n. 意象派诗人",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "immature",
+    "phonetic": "/`imə'tjuə/",
+    "definition": "未成熟的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "immigrant",
+    "phonetic": "/'imigrənt/",
+    "definition": "(自外国移入的)移民; a. 移民的; (从外国)移来的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "immunity",
+    "phonetic": "/i'mju:niti/",
+    "definition": "保护; 免除",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "immutable",
+    "phonetic": "/i'mju:təbl/",
+    "definition": "不变的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "impending",
+    "phonetic": "/im'pendiŋ/",
+    "definition": "即将发生的，迫近的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "impermeable",
+    "phonetic": "/im'pə:miəbl/",
+    "definition": "不可渗透的，不透水的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "impersonal",
+    "phonetic": "/im'pə:sənl/",
+    "definition": "冷淡的; 客观的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "implication",
+    "phonetic": "/`impli'keiʃn/",
+    "definition": "含意; 暗示",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "imply",
+    "phonetic": "/im'plai/",
+    "definition": "意味着，暗示",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "impose",
+    "phonetic": "/im'pəuz/",
+    "definition": "把…强加于; 征(税)",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "impressive",
+    "phonetic": "/im'presiv/",
+    "definition": "给人深刻印象的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "imprint",
+    "phonetic": "/im'print/",
+    "definition": "铭记，牢记; n. 印记，印痕",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "inactivate",
+    "phonetic": "/in'æktiveit/",
+    "definition": "使不活动，使不活跃",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inactive",
+    "phonetic": "/in'æktiv/",
+    "definition": "不活动的; 怠惰的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "inanimate",
+    "phonetic": "/in'ænimət/",
+    "definition": "无生命的; 无生气的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inanity",
+    "phonetic": "/i'nænəti/",
+    "definition": "空虚",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "inception",
+    "phonetic": "/in'sepʃn/",
+    "definition": "开端，开始",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "incessantly",
+    "phonetic": "/in'sesntli/",
+    "definition": "不断地",
+    "partOfSpeech": "adv.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "incident",
+    "phonetic": "/'insidənt/",
+    "definition": "事情，事件",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "incinerate",
+    "phonetic": "/in'sinəreit/",
+    "definition": "焚化",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inclination",
+    "phonetic": "/`iŋkli'neiʃn/",
+    "definition": "爱好; 趋向",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inconspicuous",
+    "phonetic": "/`iŋkən'spikjuəs/",
+    "definition": "不显眼的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "inconvenient",
+    "phonetic": "/`iŋkən'vi:niənt/",
+    "definition": "不便的; 让人不舒服的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "incorporate",
+    "phonetic": "/in'kɔ:pəreit/",
+    "definition": "纳入; 合并",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "incubate",
+    "phonetic": "/'iŋkjubeit/",
+    "definition": "孵卵",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "incursion",
+    "phonetic": "/in'kə:ʃn/",
+    "definition": "袭击，入侵",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "independent",
+    "phonetic": "/`indi'pendənt/",
+    "definition": "独立的; 自立的; n. 无党派者",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "indifference",
+    "phonetic": "/in'difrəns/",
+    "definition": "冷漠，不关心",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "indigestion",
+    "phonetic": "/`indi'dʒestʃən/",
+    "definition": "消化不良",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "indispensable",
+    "phonetic": "/`indi'spensəbl/",
+    "definition": "必不可少的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "individual",
+    "phonetic": "/`indi'vidʒuəl/",
+    "definition": "单独的; 独特的; n. 个人，个体",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "industry",
+    "phonetic": "/'indəstri/",
+    "definition": "勤奋; 工业，行业",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "inevitably",
+    "phonetic": "/in'evitəbli/",
+    "definition": "不可避免地，必然地",
+    "partOfSpeech": "adv.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "infancy",
+    "phonetic": "/'infənsi/",
+    "definition": "幼年; (发展或生长的)初期",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "infant",
+    "phonetic": "/'infənt/",
+    "definition": "婴儿，幼儿",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "infection",
+    "phonetic": "/in'fekʃn/",
+    "definition": "感染; 传染病",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inflammation",
+    "phonetic": "/`inflə'meiʃn/",
+    "definition": "炎症，发炎)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "inflate",
+    "phonetic": "/in'fleit/",
+    "definition": "使充气; 使膨胀",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "influenza",
+    "phonetic": "/`influ'enzə/",
+    "definition": "流行性感冒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inform",
+    "phonetic": "/in'fɔ:m/",
+    "definition": "通知; 告诉",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "infrared",
+    "phonetic": "/`infrə'red/",
+    "definition": "红外线的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "infrastructure",
+    "phonetic": "/'infrəstrʌktʃə/",
+    "definition": "基础设施",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "ingredient",
+    "phonetic": "/in'gri:diənt/",
+    "definition": "成分，要素; (烹调的)原料",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inherit",
+    "phonetic": "/in'herit/",
+    "definition": "继承，遗传而得",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "inhibit",
+    "phonetic": "/in'hibit/",
+    "definition": "阻碍，抑制",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "initially",
+    "phonetic": "/i'niʃəli/",
+    "definition": "开头，最初; 首先",
+    "partOfSpeech": "adv.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inn",
+    "phonetic": "/in/",
+    "definition": "小旅馆，客栈",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "inner",
+    "phonetic": "/'inə/",
+    "definition": "a. 内部(的); 内心(的)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "innovative",
+    "phonetic": "/'inəveitiv/",
+    "definition": "创新的; 富有革新精神的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inquire",
+    "phonetic": "/in'kwaiə/",
+    "definition": "打听，询问",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "insanity",
+    "phonetic": "/in'sænəti/",
+    "definition": "精神错乱，疯狂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "inscribe",
+    "phonetic": "/in'skraib/",
+    "definition": "铭刻; 在某物上写",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "insect",
+    "phonetic": "/'insekt/",
+    "definition": "昆虫，虫",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "insight",
+    "phonetic": "/'insait/",
+    "definition": "洞察力; 领悟",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "insistence",
+    "phonetic": "/in'sistəns/",
+    "definition": "坚持",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inspire",
+    "phonetic": "/in'spaiə/",
+    "definition": "鼓舞，激励; 给…以灵感",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "instance",
+    "phonetic": "/'instəns/",
+    "definition": "例子，事例",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "instinct",
+    "phonetic": "/'instiŋkt/",
+    "definition": "本能，天性",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "instruction",
+    "phonetic": "/in'strʌkʃn/",
+    "definition": "教导; [常pl. ]用法说明; 指示",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "insufficient",
+    "phonetic": "/`insə'fiʃənt/",
+    "definition": "不足的，不够的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "insulate",
+    "phonetic": "/'insjuleit/",
+    "definition": "使隔离，使隔绝",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "insulin",
+    "phonetic": "/'insjulin/",
+    "definition": "胰岛素",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "insurance",
+    "phonetic": "/in'ʃɔ:rəns/",
+    "definition": "保险，保险业",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intact",
+    "phonetic": "/in'tækt/",
+    "definition": "无损伤的，完整的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "intellect",
+    "phonetic": "/'intəlekt/",
+    "definition": "智力，理解力",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intent",
+    "phonetic": "/in'tent/",
+    "definition": "意图，目的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "interact",
+    "phonetic": "/`intər'ækt/",
+    "definition": "相互作用; 互相配合",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "interest",
+    "phonetic": "/'intrist/",
+    "definition": "兴趣; 利息; [常pl. ]权益，利益",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  }
+]

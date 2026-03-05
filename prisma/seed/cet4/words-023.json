@@ -1,0 +1,1199 @@
+[
+  {
+    "word": "weed",
+    "phonetic": "/wiːd/",
+    "definition": "杂草，野草 vi.除草",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "week",
+    "phonetic": "/wiːk/",
+    "definition": "星期，周",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "weekday",
+    "phonetic": "/ˈwiːkdei/",
+    "definition": "周日，工作日",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "weekend",
+    "phonetic": "/wiːkˈend/",
+    "definition": "周末，周末假期",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "weekly",
+    "phonetic": "/ˈwiːkli/",
+    "definition": "每周的 ad.每周",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "weep",
+    "phonetic": "/wiːp/",
+    "definition": "哭泣，流泪",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "weigh",
+    "phonetic": "/wei/",
+    "definition": "称…的重量；掂量",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "weight",
+    "phonetic": "/weit/",
+    "definition": "重；砝码；重担",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "welcome",
+    "phonetic": "/ˈwelkəm/",
+    "definition": "&n.&vt.欢迎",
+    "partOfSpeech": "int.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "weld",
+    "phonetic": "/weld/",
+    "definition": "&n.焊接，熔接",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "welfare",
+    "phonetic": "/ˈwelfeə/",
+    "definition": "幸福，福利",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "well",
+    "phonetic": "/wel/",
+    "definition": "井",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "well-known",
+    "phonetic": "",
+    "definition": "众所周知的，出名的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "west",
+    "phonetic": "/west/",
+    "definition": "西；西洋 a.西方的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "western",
+    "phonetic": "/ˈwestən/",
+    "definition": "西方的，西部的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "westward",
+    "phonetic": "/ˈwestwəd/",
+    "definition": "向西的 ad.向西",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "wet",
+    "phonetic": "/wet/",
+    "definition": "湿的；下雨的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "what",
+    "phonetic": "/(h)wɔt/",
+    "definition": "什么 a.什么",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "whatever",
+    "phonetic": "/wɔtˈevə/",
+    "definition": "无论什么",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "wheat",
+    "phonetic": "/wiːt/",
+    "definition": "小麦",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "wheel",
+    "phonetic": "/wiːl/",
+    "definition": "轮，车轮",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "when",
+    "phonetic": "/(h)wen/",
+    "definition": "什么时候；当…时",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "whenever",
+    "phonetic": "/(h)wenˈevə/",
+    "definition": "无论何时，每当",
+    "partOfSpeech": "conj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "where",
+    "phonetic": "/(h)weə/",
+    "definition": "在哪里 pron.哪里",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "wherever",
+    "phonetic": "/(h)weərˈevə/",
+    "definition": "究竟在哪里",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "whether",
+    "phonetic": "/ˈ(h)weðə/",
+    "definition": "是否",
+    "partOfSpeech": "conj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "which",
+    "phonetic": "/(h)wit∫/",
+    "definition": "哪一个 a.哪一个",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "whichever",
+    "phonetic": "/(h)wit∫ˈevə/",
+    "definition": "无论哪个/些",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "while",
+    "phonetic": "/(h)wail/",
+    "definition": "当…的时候；而",
+    "partOfSpeech": "conj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "whilst",
+    "phonetic": "/wailst/",
+    "definition": "&n.当…的时候",
+    "partOfSpeech": "conj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "whip",
+    "phonetic": "/(h)wip/",
+    "definition": "鞭笞；搅打 n.鞭子",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "whirl",
+    "phonetic": "/(h)wəːl/",
+    "definition": "使回旋 vi.&n.回旋",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "whisky",
+    "phonetic": "/ˈ(h)wiski/",
+    "definition": "威士忌酒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "whisper",
+    "phonetic": "/ˈ(h)wispə/",
+    "definition": "低声地讲 vi.低语",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "whistle",
+    "phonetic": "/(h)wisl/",
+    "definition": "口哨 vi.吹口哨",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "white",
+    "phonetic": "/(h)wait/",
+    "definition": "白的 n.白色",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "whitewash",
+    "phonetic": "/ˈ(h)waitwɔ∫/",
+    "definition": "粉刷，涂白",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "who",
+    "phonetic": "/huː/",
+    "definition": "谁；…的人",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "whoever",
+    "phonetic": "/huːˈevə(r)/",
+    "definition": "谁；无论谁",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "whole",
+    "phonetic": "/həul/",
+    "definition": "完整的 n.全部",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "wholly",
+    "phonetic": "/ˈhəuli/",
+    "definition": "完全地，全部",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "whom",
+    "phonetic": "/huːm/",
+    "definition": "(宾格)谁",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "whose",
+    "phonetic": "/huːz/",
+    "definition": "谁的；哪个人的",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "why",
+    "phonetic": "/(h)wai/",
+    "definition": "为什么",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "wicked",
+    "phonetic": "/ˈwikid/",
+    "definition": "坏的；令人厌恶的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "wide",
+    "phonetic": "/waid/",
+    "definition": "宽阔的 ad.全部地",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "widely",
+    "phonetic": "/ˈwaidli/",
+    "definition": "广，广泛",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "widen",
+    "phonetic": "/ˈwaidn/",
+    "definition": "加宽 vi.变宽",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "widespread",
+    "phonetic": "/ˈwaidspred/",
+    "definition": "分布广/普遍的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "widow",
+    "phonetic": "/ˈwidəu/",
+    "definition": "寡妇",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "width",
+    "phonetic": "/widθ/",
+    "definition": "宽阔，广阔；宽度",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "wife",
+    "phonetic": "/waif/",
+    "definition": "妻子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "wild",
+    "phonetic": "/waild/",
+    "definition": "野生的；野蛮的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "will",
+    "phonetic": "/wil/",
+    "definition": "v.将要，会；愿",
+    "partOfSpeech": "aux.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "willing",
+    "phonetic": "/ˈwiliŋ/",
+    "definition": "愿意的，心甘情愿的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "win",
+    "phonetic": "/win/",
+    "definition": "获胜，赢 vt.赢得",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "wind",
+    "phonetic": "/waind/",
+    "definition": "风；气息，呼吸",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "window",
+    "phonetic": "/ˈwindəu/",
+    "definition": "窗子，窗户，窗口",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "wine",
+    "phonetic": "/wain/",
+    "definition": "葡萄酒，果酒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "wing",
+    "phonetic": "/wiŋ/",
+    "definition": "翼，翅膀，翅",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "winner",
+    "phonetic": "/ˈwinə/",
+    "definition": "获胜者，优胜者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "winter",
+    "phonetic": "/ˈwintə/",
+    "definition": "冬天，冬季",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "wipe",
+    "phonetic": "/waip/",
+    "definition": "&n.揩，擦",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "wire",
+    "phonetic": "/ˈwaiə/",
+    "definition": "金属线；电缆；电信",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "wireless",
+    "phonetic": "/ˈwaiəlis/",
+    "definition": "不用电线的，无线的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "wisdom",
+    "phonetic": "/ˈwizdəm/",
+    "definition": "智慧，才智；名言",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "wise",
+    "phonetic": "/waiz/",
+    "definition": "有智慧的，聪明的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "wish",
+    "phonetic": "/wi∫/",
+    "definition": "祝；想要 n.希望",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "wit",
+    "phonetic": "/wit/",
+    "definition": "智力，才智，智能",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "with",
+    "phonetic": "/wið/",
+    "definition": "和…一起；具有",
+    "partOfSpeech": "prep.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "withdraw",
+    "phonetic": "/wiðˈdrɔː/",
+    "definition": "收回；撤回 vi.撤退",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "within",
+    "phonetic": "/wiˈðin/",
+    "definition": "在…里面",
+    "partOfSpeech": "prep.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "without",
+    "phonetic": "/wiðˈaut/",
+    "definition": "无，没有，不",
+    "partOfSpeech": "prep.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "withstand",
+    "phonetic": "/wiðˈstænd/",
+    "definition": "抵挡，反抗",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "witness",
+    "phonetic": "/ˈwitnis/",
+    "definition": "证据；证人 vt.目击",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "wolf",
+    "phonetic": "/wulf/",
+    "definition": "狼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "woman",
+    "phonetic": "/ˈwumən/",
+    "definition": "妇女，女人，女性",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "wonder",
+    "phonetic": "/ˈwʌndə/",
+    "definition": "惊异，惊奇；奇迹",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "wonderful",
+    "phonetic": "/ˈwʌndəful/",
+    "definition": "惊人的；极好的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "wood",
+    "phonetic": "/wud/",
+    "definition": "树林，森林；木头",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "wooden",
+    "phonetic": "/ˈwudn/",
+    "definition": "木制的；呆板的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "wool",
+    "phonetic": "/wul/",
+    "definition": "羊毛；毛线，绒线",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "woollen",
+    "phonetic": "/ˈwulin/",
+    "definition": "羊毛制的，毛线的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "word",
+    "phonetic": "/wəːd/",
+    "definition": "词；话；消息；语言",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "work",
+    "phonetic": "/wəːk/",
+    "definition": "工作；职业 vi.工作",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "worker",
+    "phonetic": "/ˈwəːkə/",
+    "definition": "工人；工作者，人员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "workman",
+    "phonetic": "/ˈwəːkmən/",
+    "definition": "工人/匠，劳动者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "workshop",
+    "phonetic": "/ˈwəːk∫ɔp/",
+    "definition": "车间，工场；创作室",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "world",
+    "phonetic": "/wəːld/",
+    "definition": "世界；世人；世间",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "world-wide",
+    "phonetic": "/ˈwəːldwaid/",
+    "definition": "遍及全球的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "worm",
+    "phonetic": "/wəːm/",
+    "definition": "虫，蠕虫",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "worry",
+    "phonetic": "/ˈwʌri/",
+    "definition": "使烦恼 vi.发愁",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "worse",
+    "phonetic": "/wəːs/",
+    "definition": "更坏的 ad.更坏",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "worship",
+    "phonetic": "/ˈwəː∫ip/",
+    "definition": "礼拜；崇拜 vt.崇拜",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "worst",
+    "phonetic": "/wəːst/",
+    "definition": "最坏的 ad.最坏地",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "worth",
+    "phonetic": "/wəːθ/",
+    "definition": "值…的 n.价值",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "worthless",
+    "phonetic": "/ˈwəːθlis/",
+    "definition": "无价值的，无用的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "worthwhile",
+    "phonetic": "/ˈwəːðˈ(h)wail/",
+    "definition": "值得花时间的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "worthy",
+    "phonetic": "/ˈwəːði/",
+    "definition": "有价值的；值得的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "would",
+    "phonetic": "/wud/",
+    "definition": "v.将；愿；总是",
+    "partOfSpeech": "aux.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "wound",
+    "phonetic": "/wuːnd/",
+    "definition": "创伤，伤 vt.使受伤",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "wrap",
+    "phonetic": "/ræp/",
+    "definition": "裹，包，捆 n.披肩",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "wreath",
+    "phonetic": "/riːθ/",
+    "definition": "花环，花圈，花冠",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "wreck",
+    "phonetic": "/rek/",
+    "definition": "失事；残骸 vt.破坏",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "wrist",
+    "phonetic": "/rist/",
+    "definition": "腕，腕关节",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "write",
+    "phonetic": "/rait/",
+    "definition": "书写；写 vi.写",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "writer",
+    "phonetic": "/ˈraitə/",
+    "definition": "作者，作家，文学家",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "writing",
+    "phonetic": "/ˈraitiŋ/",
+    "definition": "书写，写；著作",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "wrong",
+    "phonetic": "/rɔŋ/",
+    "definition": "错误的 ad.错，不对",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "x-ray",
+    "phonetic": "/ˈeksˈrei/",
+    "definition": "X 射线，X 光",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "yard",
+    "phonetic": "",
+    "definition": "院子，庭院；场地",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "yawn",
+    "phonetic": "/jɔːn/",
+    "definition": "打呵欠 n.呵欠",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "year",
+    "phonetic": "/jəː/",
+    "definition": "年；年年",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "yearly",
+    "phonetic": "/ˈjəːli/",
+    "definition": "每年的 ad.一年一度",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "yell",
+    "phonetic": "/jel/",
+    "definition": "叫喊",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "yellow",
+    "phonetic": "/ˈjeləu/",
+    "definition": "黄(色)的 n.黄(色)",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "yes",
+    "phonetic": "/jes/",
+    "definition": "是，是的",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "yesterday",
+    "phonetic": "/ˈjestədi/",
+    "definition": "&ad.昨天，昨日",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "yet",
+    "phonetic": "/jet/",
+    "definition": "还；已经 conj.而",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "yield",
+    "phonetic": "/jiːld/",
+    "definition": "&vi.出产 n.产量",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "you",
+    "phonetic": "/juː/",
+    "definition": "你，你们",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "young",
+    "phonetic": "/jʌŋ/",
+    "definition": "年轻的 n.青年们",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "your",
+    "phonetic": "/jɔː/",
+    "definition": "你的，你们的",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "yours",
+    "phonetic": "/jɔːz/",
+    "definition": "你们的(东西)",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "yourself",
+    "phonetic": "/jɔːˈself/",
+    "definition": "你自己；你亲自",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "youth",
+    "phonetic": "/juːθ/",
+    "definition": "青春；青年们；青年",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "youthful",
+    "phonetic": "/ˈjuːθful/",
+    "definition": "年轻的，青年的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "zeal",
+    "phonetic": "/ziːl/",
+    "definition": "热心，热情，热忱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "zealous",
+    "phonetic": "/ˈzeləs/",
+    "definition": "热心的，热情的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "zebra",
+    "phonetic": "/ˈziːbrə/",
+    "definition": "斑马",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "zero",
+    "phonetic": "/ˈziərəu/",
+    "definition": "零；零点，零度",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "zone",
+    "phonetic": "/zəun/",
+    "definition": "地区，区域，范围",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "zoo",
+    "phonetic": "/zuː/",
+    "definition": "动物园",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  }
+]

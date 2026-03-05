@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "merge",
+    "phonetic": "/məːdʒ/",
+    "definition": "(使)结合,(使)合并,(使)合为一体",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "merit",
+    "phonetic": "/ˈmerit/",
+    "definition": "优点,价值,功绩 v.值得,应得",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "merry",
+    "phonetic": "/ˈmeri/",
+    "definition": "欢乐的,愉快的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mess",
+    "phonetic": "/mes/",
+    "definition": "混乱,混杂,脏乱 v.弄脏,弄乱,搞糟",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "message",
+    "phonetic": "/ˈmesidʒ/",
+    "definition": "消息,信息,通讯,启示,教训,广告词,预言",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "messenger",
+    "phonetic": "/ˈmesindʒə/",
+    "definition": "送信者,使者,传令兵",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "metal",
+    "phonetic": "/ˈmetəl/",
+    "definition": "金属,金属制品",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "metaphor",
+    "phonetic": "/ˈmetəfə/",
+    "definition": "隐喻,暗喻",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "method",
+    "phonetic": "/ˈmeθəd/",
+    "definition": "方法,办法",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "metre",
+    "phonetic": "/ˈmiːtə/",
+    "definition": "(meter)米,公尺;仪表,计量器",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "metric",
+    "phonetic": "/ˈmetrik/",
+    "definition": "米制的,公制的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "metropolitan",
+    "phonetic": "/ˌmetrəˈpɔlitən/",
+    "definition": "首都的,主要都市的,大城市",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "microphone",
+    "phonetic": "/ˈmaikrəfəun/",
+    "definition": "话筒,扩音器",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "microscope",
+    "phonetic": "/ˈmaikrəskəup/",
+    "definition": "显微镜",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "middle",
+    "phonetic": "/ˈmidl/",
+    "definition": "/a.中间(的),当中(的)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "midst",
+    "phonetic": "/midst/",
+    "definition": "中间,当中",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "might",
+    "phonetic": "/mait/",
+    "definition": "v.可能,也许 n.力量,威力,权力",
+    "partOfSpeech": "aux.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "migrate",
+    "phonetic": "/maiˈɡreit, ˈmaiɡ-/",
+    "definition": "迁移,移居(国外)",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "mild",
+    "phonetic": "/maild/",
+    "definition": "温和的,轻微的,味淡的,不含有害物质的的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "mile",
+    "phonetic": "/mail/",
+    "definition": "英里,哩,海里",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "militant",
+    "phonetic": "/ˈmilitənt/",
+    "definition": "好战的,富于战斗性的 n.斗士",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "military",
+    "phonetic": "/ˈmilitəri/",
+    "definition": "军事的,军用的,军队的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "milk",
+    "phonetic": "/milk/",
+    "definition": "牛奶;(植物流出的)白色乳液 v.挤奶",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "mill",
+    "phonetic": "/mil/",
+    "definition": "磨粉机,磨坊;作坊,工厂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "millimeter",
+    "phonetic": "/ˈmili,miːtə/",
+    "definition": "(millimetre)毫米",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "million",
+    "phonetic": "/ˈmiljən/",
+    "definition": "/n.百万,百万个",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "millionaire",
+    "phonetic": "/ˌmiljəˈnεə/",
+    "definition": "百万富翁",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "mind",
+    "phonetic": "/maind/",
+    "definition": "精神,理智,意见,记忆力v.注意,介意,反对",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "mine",
+    "phonetic": "/main/",
+    "definition": "(I的物主代词)我的(东西)n.矿 v.采矿",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "mineral",
+    "phonetic": "/ˈminərəl/",
+    "definition": "矿物,矿石 a.矿物的,矿质的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "mingle",
+    "phonetic": "/ˈmiŋɡl/",
+    "definition": "(使)混合",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "miniature",
+    "phonetic": "/ˈminiətʃə/",
+    "definition": "缩小的模型,缩图 a.微型的,缩小的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "minimize",
+    "phonetic": "/ˈminimaiz/",
+    "definition": "(minimize)使减少到最少,使降到最低",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "minimum",
+    "phonetic": "/ˈminiməm/",
+    "definition": "最小值,最低限度 a.最小的,最低的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "minister",
+    "phonetic": "/ˈministə/",
+    "definition": "部长,大臣",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ministry",
+    "phonetic": "/ˈministri/",
+    "definition": "(政府的)部;牧师",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "minor",
+    "phonetic": "/ˈmainə/",
+    "definition": "较小的,较小的 n.兼修学科 v.(in)兼修",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "minority",
+    "phonetic": "/maiˈnɔrəti, mi-/",
+    "definition": "少数,少数派,少数民族",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "minus",
+    "phonetic": "/ˈmainəs/",
+    "definition": "负的,减的 prep.减去 n.负号,减号",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "minute",
+    "phonetic": "/ˈminit/",
+    "definition": "分钟,片刻;(pl.)会议记录 a.微小的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "miracle",
+    "phonetic": "/ˈmirəkl/",
+    "definition": "奇迹,令人惊奇的人(或事)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "mirror",
+    "phonetic": "/ˈmirə/",
+    "definition": "镜子;反映,反射 v.反映,反射",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mischief",
+    "phonetic": "/ˈmistʃif/",
+    "definition": "损害,伤害,危害;恶作剧,胡闹;灾祸",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "miserable",
+    "phonetic": "/ˈmizərəbl/",
+    "definition": "痛苦的,悲惨的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "misery",
+    "phonetic": "/ˈmizəri/",
+    "definition": "痛苦,悲惨,不幸",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "misfortune",
+    "phonetic": "/misˈfɔːtʃən/",
+    "definition": "不幸,灾祸,灾难",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "mislead",
+    "phonetic": "/ˌmisˈliːd/",
+    "definition": "把…带错路,使误入岐途",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "miss",
+    "phonetic": "/mis/",
+    "definition": "小姐 v. 思念,未击中,错过,漏掉,逃脱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "missile",
+    "phonetic": "/ˈmisail, -səl/",
+    "definition": "导弹,发射物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "missing",
+    "phonetic": "/ˈmisiŋ/",
+    "definition": "漏掉的,失去的,失踪的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "mission",
+    "phonetic": "/ˈmiʃən/",
+    "definition": "使命,任务;使团,代表团",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "missionary",
+    "phonetic": "/ˈmiʃənəri/",
+    "definition": "教会的,传教(士)的 n.传教士",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "mist",
+    "phonetic": "/mist/",
+    "definition": "薄雾,霭",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "mistake",
+    "phonetic": "/miˈsteik/",
+    "definition": "错误,过失,误解 v.弄错;(for)把…误认为",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "mistress",
+    "phonetic": "/ˈmistris/",
+    "definition": "女主人;主妇;情妇,情人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "misunderstand",
+    "phonetic": "/ˌmisʌndəˈstænd/",
+    "definition": "误解,误会",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "mix",
+    "phonetic": "/miks/",
+    "definition": "使混合;混淆",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "mixture",
+    "phonetic": "/ˈmikstʃə/",
+    "definition": "混合;混合物,混合剂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "moan",
+    "phonetic": "/məun/",
+    "definition": "呻吟声,悲叹声 v.呻吟,抱怨,悲叹",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "mob",
+    "phonetic": "/mɔb/",
+    "definition": "乌合之众(尤指暴力者) vi.围攻,聚众闹事",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "mobile",
+    "phonetic": "/ˈməubail/",
+    "definition": "可动的,活动的,运动的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mobilize",
+    "phonetic": "/ˈməubilaiz/",
+    "definition": "(mobilise)动员,赋予可动性",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "mock",
+    "phonetic": "/mɔk/",
+    "definition": "嘲笑 a.假的,模拟的 n.(常pl.)模拟考试",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "mode",
+    "phonetic": "/məud/",
+    "definition": "方式,式样",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "model",
+    "phonetic": "/ˈmɔdəl/",
+    "definition": "样式,型;模范;模型,原型;模特 v.模仿",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "moderate",
+    "phonetic": "/ˈmɔdərət, ˈmɔdəreit/",
+    "definition": "有节制的,中等的,适度的,温和的,稳健的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "modern",
+    "phonetic": "/ˈmɔdən/",
+    "definition": "现代的,近代的,新式的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "modernization",
+    "phonetic": "/ˌmɔdənaiˈzeiʃən/",
+    "definition": "(modernisation)现代化",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "modest",
+    "phonetic": "/ˈmɔdist/",
+    "definition": "谦虚的,有节制的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "modify",
+    "phonetic": "/ˈmɔdifai/",
+    "definition": "更改,修改,修饰",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "module",
+    "phonetic": "/ˈmɔdjuːl, -dʒuːl/",
+    "definition": "组件,模块,模件;(航天器的)舱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "moist",
+    "phonetic": "/mɔist/",
+    "definition": "潮湿的,湿润的,多雨的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "moisture",
+    "phonetic": "/ˈmɔistʃə/",
+    "definition": "潮湿,湿气,湿度",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "molecule",
+    "phonetic": "/ˈmɔlikjul/",
+    "definition": "分子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "moment",
+    "phonetic": "/ˈməumənt/",
+    "definition": "片刻,瞬间,时刻",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "momentum",
+    "phonetic": "/məuˈmentəm/",
+    "definition": "动力,要素",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "monarch",
+    "phonetic": "/ˈmɔnək, -ɑːk/",
+    "definition": "帝王,君主,最高统治者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "monday",
+    "phonetic": "",
+    "definition": "星期一",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "monetary",
+    "phonetic": "/ˈmʌnitəri/",
+    "definition": "金融的,货币的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "money",
+    "phonetic": "/ˈmʌni/",
+    "definition": "货币,钱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "monitor",
+    "phonetic": "/ˈmɔnitə/",
+    "definition": "班长;监听器,监视器 v.监控,监测",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "monkey",
+    "phonetic": "/ˈmʌŋki/",
+    "definition": "猴子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "monopoly",
+    "phonetic": "/məˈnɔpəli/",
+    "definition": "垄断,专卖,专利权,专利事业",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "monotonous",
+    "phonetic": "/məˈnɔtənəs/",
+    "definition": "单调的,无变化的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "monster",
+    "phonetic": "/ˈmɔnstə/",
+    "definition": "怪物,妖怪,畸形的动植物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "month",
+    "phonetic": "/mʌnθ/",
+    "definition": "月,月份",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "monthly",
+    "phonetic": "/ˈmʌnθli/",
+    "definition": "每月的 ad.每月一次,按月 n.月刊",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "monument",
+    "phonetic": "/ˈmɔnjumənt/",
+    "definition": "纪念碑,纪念馆,遗迹,不朽的业绩",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "mood",
+    "phonetic": "/muːd/",
+    "definition": "心情,情绪;语气",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "moon",
+    "phonetic": "/muːn/",
+    "definition": "(加the)月球,月亮;卫星",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "moral",
+    "phonetic": "/ˈmɔrəl, ˈmɔː-/",
+    "definition": "道德(上)的,精神上的 n.寓意,教育意义",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "morality",
+    "phonetic": "/məˈræləti, mɔː-/",
+    "definition": "道德,美德",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "more",
+    "phonetic": "/mɔː/",
+    "definition": "更多的 n.更多的人(或东西) ad.更,更多",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "moreover",
+    "phonetic": "/mɔːˈrəuvə/",
+    "definition": "/ad.再者,加之,而且",
+    "partOfSpeech": "conj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "morning",
+    "phonetic": "/ˈmɔːniŋ/",
+    "definition": "早晨,上午",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "mortal",
+    "phonetic": "/ˈmɔːtəl/",
+    "definition": "致命的;终有一死的;人世间的 n.凡人",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mortgage",
+    "phonetic": "/ˈmɔːɡidʒ/",
+    "definition": "/v.抵押(借款)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "mosaic",
+    "phonetic": "/məuˈzeiik/",
+    "definition": "马赛克;镶嵌体",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mosquito",
+    "phonetic": "/məˈskiːtəu/",
+    "definition": "蚊子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "moss",
+    "phonetic": "/mɔs/",
+    "definition": "苔,藓,地衣",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "most",
+    "phonetic": "/məust/",
+    "definition": "最多的;大多数的 ad.最;极其 n.大多数",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "mostly",
+    "phonetic": "/ˈməustli/",
+    "definition": "几乎全部地;主要地,大部分,基本上",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "motel",
+    "phonetic": "/məuˈtel/",
+    "definition": "(附有停车场的)汽车旅馆",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mother",
+    "phonetic": "/ˈmʌðə/",
+    "definition": "母亲",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "motion",
+    "phonetic": "/ˈməuʃən/",
+    "definition": "运动,动;提议,动议 v.提议,动议",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "motivate",
+    "phonetic": "/ˈməutiveit/",
+    "definition": "促动;激励,鼓励,作为…的动机",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "motive",
+    "phonetic": "/ˈməutiv/",
+    "definition": "动机,目的 a.发动的,运动的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "motor",
+    "phonetic": "/ˈməutə/",
+    "definition": "发动机,电动机",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mould",
+    "phonetic": "/məuld/",
+    "definition": "(mold)模子,铸型 v.浇铸,造型,塑造",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mount",
+    "phonetic": "/maunt/",
+    "definition": "登上;安装n.支架,底板;(用于山名前)山峰",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mountain",
+    "phonetic": "/ˈmauntin/",
+    "definition": "山",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "mourn",
+    "phonetic": "/mɔːn, məun/",
+    "definition": "哀悼,忧伤",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mouse",
+    "phonetic": "/maus, mauz/",
+    "definition": "(pl.mice)鼠,耗子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mouth",
+    "phonetic": "/mauθ/",
+    "definition": "口,嘴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "move",
+    "phonetic": "/muːv/",
+    "definition": "移动,迁移;活动;感动 n.移动,活动,行动",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "movement",
+    "phonetic": "/ˈmuːvmənt/",
+    "definition": "运动,活动;移动,迁移",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "movie",
+    "phonetic": "/ˈmuːvi/",
+    "definition": "电影,电影院",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "much",
+    "phonetic": "/mʌtʃ/",
+    "definition": "多的,大量的 ad.十分,非常;到极大程度",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "mud",
+    "phonetic": "/mʌd/",
+    "definition": "泥,泥浆 v.弄脏,使沾污泥",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "mug",
+    "phonetic": "/mʌɡ/",
+    "definition": "(有柄的)大茶杯",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "multiple",
+    "phonetic": "/ˈmʌltipl/",
+    "definition": "多样的,多重的 n.倍数 v.成倍增加",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "multiply",
+    "phonetic": "/ˈmʌltiplai/",
+    "definition": "(by)乘,使相乘;倍增,增加,繁殖",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "multitude",
+    "phonetic": "/ˈmʌlti,tjuːd, -,tuːd/",
+    "definition": "众多,大量",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "municipal",
+    "phonetic": "/mjuːˈnisipəl/",
+    "definition": "市(立,政)的;地方性的,地方自治的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "murder",
+    "phonetic": "/ˈməːdə/",
+    "definition": "/n.谋杀,凶杀",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "murmur",
+    "phonetic": "/ˈməːmə/",
+    "definition": "/n.小声说(话);小声抱怨,咕哝",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "muscle",
+    "phonetic": "/ˈmʌsl/",
+    "definition": "肌肉,体力",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "muscular",
+    "phonetic": "/ˈmʌskjulə/",
+    "definition": "肌肉的;肌肉发达的;强健的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "museum",
+    "phonetic": "/mjuːˈziəm/",
+    "definition": "博物馆,展览馆",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mushroom",
+    "phonetic": "/ˈmʌʃruːm, -rum/",
+    "definition": "蘑菇 vt.迅速生长,迅速增加,采蘑菇",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "music",
+    "phonetic": "/ˈmjuːzik/",
+    "definition": "音乐,乐曲,乐谱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "musical",
+    "phonetic": "/ˈmjuːzikəl/",
+    "definition": "音乐的;有音乐才能的 n.音乐片",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "musician",
+    "phonetic": "/mjuːˈziʃən/",
+    "definition": "音乐家,乐师",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "must",
+    "phonetic": "/mʌst/",
+    "definition": "&v.必须;很可能;一定要 n.必须做的事",
+    "partOfSpeech": "aux.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "mute",
+    "phonetic": "/mjuːt/",
+    "definition": "哑的,缄默的n.哑巴;弱音器v.减弱…的声音",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "mutter",
+    "phonetic": "/ˈmʌtə/",
+    "definition": "喃喃而语,小声低语;抱怨 v.低声说,抱怨",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mutton",
+    "phonetic": "/ˈmʌtən/",
+    "definition": "羊肉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mutual",
+    "phonetic": "/ˈmjuːtʃuəl, -tjuəl/",
+    "definition": "相互的,彼此的;共同的,共有的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "my",
+    "phonetic": "",
+    "definition": "(I的所有格)我的",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "myself",
+    "phonetic": "/maiˈself/",
+    "definition": "[反身代词]我自己;我亲自",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "mysterious",
+    "phonetic": "/miˈstiəriəs/",
+    "definition": "神秘的,可疑的,难理解的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "mystery",
+    "phonetic": "/ˈmistəri/",
+    "definition": "神秘,神秘的事物;神秘小说,侦探小说",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "myth",
+    "phonetic": "/miθ/",
+    "definition": "神话;虚构的理论",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "nail",
+    "phonetic": "/neil/",
+    "definition": "指甲,爪;钉 v.将…钉牢,钉住",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "naive",
+    "phonetic": "/nɑːˈiːv, nai-/",
+    "definition": "天真的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "naked",
+    "phonetic": "/ˈneikid/",
+    "definition": "裸体的,无遮敝的,无掩饰的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "name",
+    "phonetic": "/neim/",
+    "definition": "名字(称/声/义) vt.给…取名;列举;提名",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "namely",
+    "phonetic": "/ˈneimli/",
+    "definition": "即,也就是",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "nap",
+    "phonetic": "/næp/",
+    "definition": "小睡,打盹",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "napkin",
+    "phonetic": "/ˈnæpkin/",
+    "definition": "餐巾,餐巾纸,<英>尿布",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "narrative",
+    "phonetic": "/ˈnærətiv/",
+    "definition": "叙述性的 n.叙述",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "narrow",
+    "phonetic": "/ˈnærəu/",
+    "definition": "狭窄的,狭的,狭隘的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "nasty",
+    "phonetic": "/ˈnɑːsti, ˈnæs-/",
+    "definition": "肮脏的,卑劣的,下流的;令人厌恶的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "nation",
+    "phonetic": "/ˈneiʃən/",
+    "definition": "民族,国家",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "national",
+    "phonetic": "/ˈnæʃənəl/",
+    "definition": "民族的,国家的,国立的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "nationality",
+    "phonetic": "/ˌnæʃənˈæliti/",
+    "definition": "国籍,民族",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "native",
+    "phonetic": "/ˈneitiv/",
+    "definition": "本地的,本国的;天生的 n.本地人,本国人",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "natural",
+    "phonetic": "/ˈnætʃərəl/",
+    "definition": "正常的;自然界的,天然的,天赋的,固有的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "nature",
+    "phonetic": "/ˈneitʃə/",
+    "definition": "自然界,大自然;性质,本性,天性",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "naughty",
+    "phonetic": "/ˈnɔːti/",
+    "definition": "顽皮的,淘气的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "naval",
+    "phonetic": "/ˈneivəl/",
+    "definition": "海军的,军舰的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "navigation",
+    "phonetic": "/ˌnæviˈɡeiʃən/",
+    "definition": "航海,航空;导航,领航",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "navy",
+    "phonetic": "/ˈneivi/",
+    "definition": "海军",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "near",
+    "phonetic": "/niə/",
+    "definition": "近的,接近的;亲近的 prep.靠近 ad.接近",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "nearby",
+    "phonetic": "/ˈniəˈbai/",
+    "definition": "附近的 ad.在附近 prep.在…附近",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "nearly",
+    "phonetic": "/ˈniəli/",
+    "definition": "差不多,几乎",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "neat",
+    "phonetic": "/niːt/",
+    "definition": "整洁的,干净的,优美的,精致的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "necessary",
+    "phonetic": "/ˈnesisəri/",
+    "definition": "必需的,必要的;必然的 n.必需品",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "necessitate",
+    "phonetic": "/niˈsesi,teit, nə-/",
+    "definition": "使成为必要,需要",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "necessity",
+    "phonetic": "/niˈsesəti, nə-/",
+    "definition": "必要性,需要;必然性;(pl.)必需品",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "neck",
+    "phonetic": "/nek/",
+    "definition": "颈脖",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "necklace",
+    "phonetic": "/ˈneklis/",
+    "definition": "项链,项圈",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "need",
+    "phonetic": "/niːd/",
+    "definition": "v./v.需要;必须 n.需要;贫困,困窘",
+    "partOfSpeech": "aux.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "needle",
+    "phonetic": "/ˈniːdl/",
+    "definition": "针,指针,针状物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "negative",
+    "phonetic": "/ˈneɡətiv/",
+    "definition": "否定的,消极的,阴性的n.负数;(摄影)底片",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "neglect",
+    "phonetic": "/niˈɡlekt/",
+    "definition": "/n.忽视;疏忽,漏做,忽略",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "negligible",
+    "phonetic": "/ˈneɡlidʒəbl/",
+    "definition": "可忽略不计的,微不足道的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "negotiate",
+    "phonetic": "/niˈɡəuʃieit, -si-/",
+    "definition": "商订;谈判,洽谈,交涉",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "negro",
+    "phonetic": "",
+    "definition": "黑人 a.黑人的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "neighbor",
+    "phonetic": "/ˈneibə/",
+    "definition": "(neighbour)邻居",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "neighborhood",
+    "phonetic": "/ˈneibəhud/",
+    "definition": "(neighbourhood)邻居;四邻,街道",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "neither",
+    "phonetic": "/ˈnaiðə, ˈniː-/",
+    "definition": "两者都不 pron.两者都不 ad.也不",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "nephew",
+    "phonetic": "/ˈnefjuː, ˈnev-/",
+    "definition": "侄子,外甥",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "nerve",
+    "phonetic": "/nəːv/",
+    "definition": "神经;勇敢,胆量",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "nervous",
+    "phonetic": "/ˈnəːvəs/",
+    "definition": "神经的;神经过敏的,紧张不安的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "nest",
+    "phonetic": "/nest/",
+    "definition": "窝,巢 v.筑巢",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "net",
+    "phonetic": "/net/",
+    "definition": "网,网状物 v.用网捕,使落网 a.纯净的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "network",
+    "phonetic": "/ˈnetwəːk/",
+    "definition": "网状物;广播网,电视网;网络",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "neutral",
+    "phonetic": "/ˈnjuːtrəl/",
+    "definition": "中立的;中性的,中和的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "never",
+    "phonetic": "/ˈnevə/",
+    "definition": "永不,从不,决不;从来没有;不,没有",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "nevertheless",
+    "phonetic": "/ˌnevəðəˈles/",
+    "definition": "(nonetheless)然而,不过ad.仍然,不过",
+    "partOfSpeech": "conj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "new",
+    "phonetic": "/njuː, nuː/",
+    "definition": "新(近)的;新来的;不熟悉的;没经验的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "news",
+    "phonetic": "/njuːz, nuːz/",
+    "definition": "新闻,消息;新闻报道,新闻广播",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "newspaper",
+    "phonetic": "/ˈnjuːs,peipə, ˈnjuːz-/",
+    "definition": "报纸",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "next",
+    "phonetic": "/nekst/",
+    "definition": "紧接的,其次的;贴近的 ad.其次;居后",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "nice",
+    "phonetic": "/nais/",
+    "definition": "美好的,令人愉快的;友好的,亲切的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "nickel",
+    "phonetic": "/ˈnikəl/",
+    "definition": "镍;镍币;五美分",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "nickname",
+    "phonetic": "/ˈnikneim/",
+    "definition": "绰号,浑名vt.给…起绰号",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "niece",
+    "phonetic": "/niːs/",
+    "definition": "侄女,甥女",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "night",
+    "phonetic": "/nait/",
+    "definition": "夜间;夜;晚(上)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  }
+]

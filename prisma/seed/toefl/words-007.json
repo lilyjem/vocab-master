@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "extravagant",
+    "phonetic": "/iks'trævigənt/",
+    "definition": "奢侈的,挥霍无度的,浪费的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "extricate",
+    "phonetic": "/'ekstrikeit/",
+    "definition": "使解脱,救出",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "exude",
+    "phonetic": "/ik'sjud/",
+    "definition": "vi. (使)流出,(使)渗出",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "exultant",
+    "phonetic": "/ig'zʌltnt/",
+    "definition": "非常高兴的,欢跃的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "eyewitness",
+    "phonetic": "/'ai'witnis/",
+    "definition": "目击者,见证人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fable",
+    "phonetic": "/'feibl/",
+    "definition": "寓言,神话,谎言vi. 虚构,作寓言",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fabricate",
+    "phonetic": "/'fæbrikeit/",
+    "definition": "制造,建造,装配,伪造",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "facet",
+    "phonetic": "/'fæsit/",
+    "definition": "小平面,方面,刻面",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "facetious",
+    "phonetic": "/fə'si:ʃəs/",
+    "definition": "滑稽的,爱开玩笑的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "facile",
+    "phonetic": "/'fæsail/",
+    "definition": "温和的,容易的,灵巧的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "facility",
+    "phonetic": "/fə'siliti/",
+    "definition": "设备,容易,灵巧",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "factious",
+    "phonetic": "/'fækʃəs/",
+    "definition": "好搞派系的,好捣乱的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "faint",
+    "phonetic": "/feint/",
+    "definition": "昏厥,昏倒a. 微弱的,无力的,模糊的vi. 昏倒,变得微弱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "faithful",
+    "phonetic": "/'feiθful/",
+    "definition": "忠实的,详确的,可靠的n. 信徒",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fallible",
+    "phonetic": "/'fæləbl/",
+    "definition": "易错的,可能犯错的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "familiarize",
+    "phonetic": "/fəmiljəraiz/",
+    "definition": "使熟悉,使熟知,使通俗化",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "famish",
+    "phonetic": "/'fæmiʃ/",
+    "definition": "使挨饿vi. 饥饿,挨饿",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fanatic",
+    "phonetic": "/fə'nætik/",
+    "definition": "狂热,狂热者,盲信a. 狂热的,盲信的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fanaticism",
+    "phonetic": "/fə'nætisizm/",
+    "definition": "狂热,盲信",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fantasy",
+    "phonetic": "/'fæntəsi/",
+    "definition": "幻想,白日梦",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "farce",
+    "phonetic": "/fa:s/",
+    "definition": "闹剧,滑稽剧,胡闹",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fascinate",
+    "phonetic": "/'fæsineit/",
+    "definition": "令人入神,使着迷vi. 入迷",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fashionable",
+    "phonetic": "/'fæʃənəbl/",
+    "definition": "时髦的,上流社会的,流行的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fatalism",
+    "phonetic": "/'fetl'izəm/",
+    "definition": "宿命论",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fateful",
+    "phonetic": "/'feitful/",
+    "definition": "宿命的,重大的,决定性的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fatuous",
+    "phonetic": "/'fætjuəs/",
+    "definition": "发呆的,愚笨的,自满的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "feasible",
+    "phonetic": "/'fi:zəbl/",
+    "definition": "能实行的,可行的,适宜的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "feat",
+    "phonetic": "/fi:t/",
+    "definition": "壮举,功绩,技艺表演a. 漂亮的,合适的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "feeble",
+    "phonetic": "/'fi:bl/",
+    "definition": "微弱的,衰弱的,无效的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "feign",
+    "phonetic": "/fein/",
+    "definition": "假装,装作vi. 作假",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fermentation",
+    "phonetic": "/'fə:men'teiʃn/",
+    "definition": "(U) 1 发酵 (作用) 2 骚动,人心的动摇,激动",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "ferocious",
+    "phonetic": "/fə'rəuʃəs/",
+    "definition": "残忍的,凶猛的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ferret",
+    "phonetic": "/'ferit/",
+    "definition": "白鼬,雪貂,侦探,细带vt. 用雪貂打猎,搜出,驱出vi. 搜索",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fertile",
+    "phonetic": "/'fə:tail/",
+    "definition": "肥沃的,生产多的,能生产的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fertilizer",
+    "phonetic": "/'fə:tilaizə/",
+    "definition": "肥料,受精媒介物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fervent",
+    "phonetic": "/'fə:vənt/",
+    "definition": "热的,炎热的,热心的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fester",
+    "phonetic": "/'festə/",
+    "definition": "溃烂,生脓,生脓vt. 使溃烂n. 脓疮,溃烂",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fetter",
+    "phonetic": "/'fetə/",
+    "definition": "脚镣,羁绊,束缚vt. 束缚,加脚镣",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "feud",
+    "phonetic": "/fju:d/",
+    "definition": "不和,封地,争执vi. 长期不和,长期争斗",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "feverish",
+    "phonetic": "/'fi:vəriʃ/",
+    "definition": "兴奋的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fickle",
+    "phonetic": "/'fikl/",
+    "definition": "变幻无常的,浮燥的,薄情的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fiction",
+    "phonetic": "/'fikʃən/",
+    "definition": "小说,虚构的故事,法律的拟制",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fictitious",
+    "phonetic": "/fik'tiʃəs/",
+    "definition": "假想的,编造的,虚伪的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fidelity",
+    "phonetic": "/fi'deliti/",
+    "definition": "忠实,诚实,忠诚,保真度",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "figment",
+    "phonetic": "/'figmənt/",
+    "definition": "虚构的事",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "figurehead",
+    "phonetic": "/figəhed/",
+    "definition": "装饰船头的人像,破浪神,傀儡领袖",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "filthy",
+    "phonetic": "/'filθi/",
+    "definition": "污秽的,丑恶的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "final",
+    "phonetic": "/'fainl/",
+    "definition": "结局,决赛,期末考试a. 最后的,终极的,决定性的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "finance",
+    "phonetic": "/fai'næns,fi-/",
+    "definition": "财政,财务vt. 供给. . . 经费,负担经费vi. 筹措资金",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "finch",
+    "phonetic": "/fintʃ/",
+    "definition": "雀类",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fine",
+    "phonetic": "/fain/",
+    "definition": "罚款,罚金,晴天a. 好的,晴朗的,精细的,细小的,健康的vt. 罚款,精",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "firm",
+    "phonetic": "/fə:m/",
+    "definition": "公司,商号a. 坚定的,坚强的,牢固的,结实的,坚硬的,确定的,严格的,",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fishy",
+    "phonetic": "/'fiʃi/",
+    "definition": "鱼似的,多鱼的,腥臭的,呆滞的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fit",
+    "phonetic": "/fit/",
+    "definition": "适宜,合身,发作,痉挛a. 适宜的,对的,准备好的vt. 适合,安装,使合",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fitful",
+    "phonetic": "/'fitful/",
+    "definition": "断断续续的,一阵阵的,间歇的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fitting",
+    "phonetic": "/'fitiŋ/",
+    "definition": "适宜的n. 试穿,试衣,装配,装置",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fixed",
+    "phonetic": "/fikst/",
+    "definition": "固定的,不变的,准备好的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fixture",
+    "phonetic": "/'fikstʃə/",
+    "definition": "固定物,设备",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "flare",
+    "phonetic": "/flεə/",
+    "definition": "闪光,闪耀vi. 闪光,闪耀vt. 使闪耀,使张开",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "flatter",
+    "phonetic": "/'flætə/",
+    "definition": "过分夸赞,奉承,阿谀,使高兴",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "flavor",
+    "phonetic": "/'fleivə/",
+    "definition": "滋味,香料vt. 加味于",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "flaw",
+    "phonetic": "/flɔ:/",
+    "definition": "缺点,裂纹,瑕疵,一阵狂风",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "flay",
+    "phonetic": "/fle/",
+    "definition": "剥皮,去皮,抢夺",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "flee",
+    "phonetic": "/fli:/",
+    "definition": "逃避,逃跑,逃走vi. 逃,消失",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "flexible",
+    "phonetic": "/'fleksəbl/",
+    "definition": "易曲的,灵活的,可通融的,能变形的,柔软的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "flicker",
+    "phonetic": "/'flikə/",
+    "definition": "闪烁,闪光,颤动vi. 闪动,闪烁,摇动,扑动翅膀vt. 使摇曳,使闪烁",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "flighty",
+    "phonetic": "/'flaiti/",
+    "definition": "轻浮的,轻狂的,心情浮动的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "flimsy",
+    "phonetic": "/'flimzi/",
+    "definition": "易坏的,脆弱的,浅薄的n. 薄纸,描图用薄纸,薄纸稿纸",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "flip",
+    "phonetic": "/flip/",
+    "definition": "掷,弹,轻击,空翻vi. 用指轻弹,抽打,蹦跳n. 抛,弹,筋斗",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "flora",
+    "phonetic": "/'flɔ:rə/",
+    "definition": "植物群",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "flounder",
+    "phonetic": "/'flaundə/",
+    "definition": "挣扎,折腾,挣扎着前进n. 挣扎,焦躁,辗转,比目鱼",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "flout",
+    "phonetic": "/flaut/",
+    "definition": "嘲笑,愚弄vi. 表示轻蔑n. 嘲笑,愚弄,轻视",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fluctuate",
+    "phonetic": "/'flʌktjueit/",
+    "definition": "变动,上下,动摇vt. 使动摇",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fluent",
+    "phonetic": "/'fluæ:ɔənt/",
+    "definition": "流利的,流畅的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fluffy",
+    "phonetic": "/'flʌfi/",
+    "definition": "毛绒绒的,蓬松的,愚蠢的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "flush",
+    "phonetic": "/flʌʃ/",
+    "definition": "流溢,面红,旺盛,一手同花的五张牌,惊飞的鸟,发烧a. 丰足的,齐平的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fluster",
+    "phonetic": "/'flʌstə/",
+    "definition": "慌乱,狼狈,混乱,激动vt. 使酩醉,使慌张,使激动vi. 混乱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "foam",
+    "phonetic": "/fəum/",
+    "definition": "泡沫,水沫,泡沫材料vi. 起泡沫,吐白沫vt. 使起泡沫",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "foe",
+    "phonetic": "/fəu/",
+    "definition": "仇敌,反对者,敌人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fog",
+    "phonetic": "/fɔg/",
+    "definition": "雾,迷惑,苔藓vi. 被雾笼罩,变模糊vt. 使困惑,以雾笼罩",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "foil",
+    "phonetic": "/fɔil/",
+    "definition": "箔,烘托,衬托vt. 衬托,阻止,贴箔于,挫败,挡开",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "foment",
+    "phonetic": "/fəu'ment/",
+    "definition": "热罨,煽动",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "foremost",
+    "phonetic": "/'fɔ:məust/",
+    "definition": "最初的,最重要的ad. 在最前",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "forerunner",
+    "phonetic": "/'fəur'rʌnə/",
+    "definition": "先驱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "foresee",
+    "phonetic": "/fɔ:'si:/",
+    "definition": "预见,预知",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "foresight",
+    "phonetic": "/'fɔ:sait/",
+    "definition": "远见,深谋远虑",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "forestall",
+    "phonetic": "/fɔ:'stɔ:l/",
+    "definition": "先. . . 一步行动,占先一步,垄断,阻碍",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "forge",
+    "phonetic": "/fɔ:dʒ/",
+    "definition": "熔炉,铁工厂vt. 打制,锻炼,伪造vi. 锻造,伪造",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "forlorn",
+    "phonetic": "/fə'lɔ:n/",
+    "definition": "孤独的,悲惨的,凄凉的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "formal",
+    "phonetic": "/'fɔ:məl/",
+    "definition": "正式的,形式的,礼仪的n. 正式的社交活动",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "former",
+    "phonetic": "/'fɔ:mə/",
+    "definition": "从前的,前者的n. 形成者,模型,样板",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "formidable",
+    "phonetic": "/'fɔ:midəbl/",
+    "definition": "强大的,可怕的,艰难的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "forsake",
+    "phonetic": "/fə'seik/",
+    "definition": "放弃,断念,抛弃",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fort",
+    "phonetic": "/fɔ:t/",
+    "definition": "堡垒,易货站,要塞vt. 设要塞保卫vi. 设要塞",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "forte",
+    "phonetic": "/'fɔ:tei,fɔ:t/",
+    "definition": "1 [one's ~]长处,擅长,优点,拿手好戏2 (C)[剑术]剑腰(剑柄至中央部)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "forth",
+    "phonetic": "/fɔ:θ/",
+    "definition": "往前,向外",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "forthright",
+    "phonetic": "/fɔ:θ'rait/",
+    "definition": "直接地,马上,立即a. 直接的,直率的,坦白的,豪爽的n. 直路",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fortify",
+    "phonetic": "/'fɔ:tifai/",
+    "definition": "设要塞于,加强,使坚强,增加vi. 筑防御工事",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fortitude",
+    "phonetic": "/'fɔ:titju:d/",
+    "definition": "刚毅,坚毅,不屈不挠",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fortress",
+    "phonetic": "/'fɔ:tris/",
+    "definition": "城堡,要塞vt. 筑要塞,以要塞防守",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fortuitous",
+    "phonetic": "/fɔ:'tju:itəs/",
+    "definition": "偶然的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fortunate",
+    "phonetic": "/'fɔ:tʃənit/",
+    "definition": "幸运的,幸福的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fortune",
+    "phonetic": "/'fɔ:tʃən/",
+    "definition": "财富,运气,兴隆,命运,好运,大量财产",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "foul",
+    "phonetic": "/faul/",
+    "definition": "污秽的,邪恶的,恶臭的,淤塞的,恶劣的vt. 弄脏,妨害,淤塞,犯规,污",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fowl",
+    "phonetic": "/faul/",
+    "definition": "鸟,飞禽,家禽vi. 打鸟",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fraction",
+    "phonetic": "/'frækʃən/",
+    "definition": "分数,小部分,破片",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fracture",
+    "phonetic": "/'fræktʃə/",
+    "definition": "破碎,骨折vt. vi. (使)破碎,(使)破裂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fragile",
+    "phonetic": "/'frædʒail/",
+    "definition": "易碎的,脆的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fragment",
+    "phonetic": "/'frægmənt/",
+    "definition": "碎片,破片,断片",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fragmentary",
+    "phonetic": "/'frægməntəri/",
+    "definition": "1 破片的,碎片的2 由断片构成的; 片断的; 残缺不全的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fragrant",
+    "phonetic": "/'freigrənt/",
+    "definition": "芬香的,馥郁的,愉快的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "frail",
+    "phonetic": "/freil/",
+    "definition": "脆弱的,虚弱的,意志薄弱的n. 灯心草篓",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "frank",
+    "phonetic": "/fræŋk/",
+    "definition": "坦白的,率直的,老实的vt. 免费邮寄n. 法兰克,免费邮寄特权",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fraternal",
+    "phonetic": "/frə'tə:nl/",
+    "definition": "兄弟的,兄弟似的,友爱的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fraud",
+    "phonetic": "/frɔ:d/",
+    "definition": "骗子,欺骗,欺诈,诡计",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fraudulent",
+    "phonetic": "/'frɔdʒələnt/",
+    "definition": "欺诈的,不正的,不诚实的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fraught",
+    "phonetic": "/frɔ:t/",
+    "definition": "含有. . . 的,伴着. . . 的,充满. . . 的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "frenzy",
+    "phonetic": "/'frenzi/",
+    "definition": "狂暴,狂怒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fret",
+    "phonetic": "/fret/",
+    "definition": "烦躁,磨损,焦急,网状饰物vi. 烦恼,不满,磨损vt. 使烦恼,腐蚀,使",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "friction",
+    "phonetic": "/'frikʃən/",
+    "definition": "摩擦,医疗摩擦,不和",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fright",
+    "phonetic": "/frait/",
+    "definition": "惊骇,吃惊",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "frigid",
+    "phonetic": "/'fridʒid/",
+    "definition": "寒冷的,严寒的,冷淡的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "frown",
+    "phonetic": "/fraun/",
+    "definition": "皱眉vi. 皱眉头vt. 皱眉表示",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "frowzy",
+    "phonetic": "/'frauzi/",
+    "definition": "不整洁的,有臭味的,很闷的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "frugal",
+    "phonetic": "/'fru:gəl/",
+    "definition": "节俭的,朴素的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "frustrate",
+    "phonetic": "/frʌs'treit/",
+    "definition": "挫败,击败,破坏a. 无益的,挫败的,挫折的",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fulminate",
+    "phonetic": "/'fʌlmə'net/",
+    "definition": "使爆发,以严词谴责vi. 爆炸,怒喝,电闪n. 雷酸盐,雷汞",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "functional",
+    "phonetic": "/'fʌŋkʃənl/",
+    "definition": "功能的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fund",
+    "phonetic": "/fʌnd/",
+    "definition": "基金,资金,贮藏,财源,存款vt. 提供资金,积累",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fundamental",
+    "phonetic": "/'fʌndə'mentl/",
+    "definition": "基本原理,原则,基谐波a. 基本的,重要的,原音的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "furious",
+    "phonetic": "/'fjuəriəs/",
+    "definition": "狂怒的,激烈的,吵闹的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "furniture",
+    "phonetic": "/'fə:nitʃə/",
+    "definition": "家具,附属品",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "further",
+    "phonetic": "/'fə:ðə/",
+    "definition": "更远的,此外的,更多的vt. 促进,增进,助长ad. 更进一步地,更远地,",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fury",
+    "phonetic": "/'fjuəri/",
+    "definition": "愤怒,狂暴,狂怒的人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fusion",
+    "phonetic": "/'fjuʒən/",
+    "definition": "熔合物,结合,熔合",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fussy",
+    "phonetic": "/'fʌsi/",
+    "definition": "爱挑剔的,难取悦的,易烦恼的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "futile",
+    "phonetic": "/'fju:tail/",
+    "definition": "无用的,琐细的,无效果的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fuzzy",
+    "phonetic": "/'fʌzi/",
+    "definition": "有微毛的,失真的,模糊的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gabble",
+    "phonetic": "/'gæbl/",
+    "definition": "七嘴八嘴地说,喋喋不休地说vt. 急促地说n. 急促讲出而叫人听不",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gainful",
+    "phonetic": "/'geinful/",
+    "definition": "有利益的,唯利是图的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gainsay",
+    "phonetic": "/gein'sei/",
+    "definition": "否定,反驳",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "galaxy",
+    "phonetic": "/'gæləksi/",
+    "definition": "银河,星系,一群显赫的人物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gale",
+    "phonetic": "/geil/",
+    "definition": "狂风,大风,定期租金",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gallant",
+    "phonetic": "/'gælənt/",
+    "definition": "英勇的,壮丽的,华丽的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gallery",
+    "phonetic": "/'gæləri/",
+    "definition": "走廊,最高楼座,画廊n. 图库",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gangster",
+    "phonetic": "/'gæŋstə/",
+    "definition": "歹徒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gap",
+    "phonetic": "/gæp/",
+    "definition": "缝隙,缺口,间断vt. 打开缺口,造成缝隙vi. 豁开n. 间距n. 通用",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "garb",
+    "phonetic": "/ga:b/",
+    "definition": "打扮,装束vt. 打扮,穿衣",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "garner",
+    "phonetic": "/'garnə/",
+    "definition": "谷仓,积蓄vt. 储存,贮藏",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "garnish",
+    "phonetic": "/'ga:niʃ/",
+    "definition": "装饰,装饰品vt. 装饰",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gash",
+    "phonetic": "/gæʃ/",
+    "definition": "砍得很深的伤口,很深的裂缝vt. vi. (使)负深伤,划开,砍入很深",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gasoline",
+    "phonetic": "/'gæsəli:n/",
+    "definition": "汽油",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gasp",
+    "phonetic": "/ga:sp/",
+    "definition": "喘气vi. 喘气,喘息,渴望vt. 气喘吁吁地说",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gauche",
+    "phonetic": "/gəuʃ/",
+    "definition": "笨拙的,粗鲁的,无礼的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gauge",
+    "phonetic": "/geidʒ/",
+    "definition": "标准度量,计量器vt. 精确计量,估计",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gaze",
+    "phonetic": "/geiz/",
+    "definition": "注视,凝视vi. 注视,凝视",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gear",
+    "phonetic": "/giə/",
+    "definition": "齿轮,工具vt. 以齿轮连起,开动,配搭活动,安排vi. 连接上,适合",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gem",
+    "phonetic": "/dʒem/",
+    "definition": "珠宝,宝石,珍贵之物vt. 饰以宝石",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "general",
+    "phonetic": "/'dʒenərəl/",
+    "definition": "一般,将军,大体a. 一般的,普遍的,总的,大体的n. 常规",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "generalize",
+    "phonetic": "/'dʒenərəlaiz/",
+    "definition": "一般化,概括,推广vi. 形成概念,笼统讲",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "generally",
+    "phonetic": "/'dʒenərəli/",
+    "definition": "通常,逐渐地,普遍地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "generate",
+    "phonetic": "/'dʒenəreit/",
+    "definition": "产生,发生,导致",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "generous",
+    "phonetic": "/'dʒenərəs/",
+    "definition": "有雅量的,量大的,慷慨的,丰富的,大量的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "generously",
+    "phonetic": "/'dʒenərəsli/",
+    "definition": "1 慷慨地,大方地,不吝啬地2 [修饰整句] (真) 宽大ɔ 丰富地",
+    "partOfSpeech": "adv.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "genial",
+    "phonetic": "/'dʒi:njəl/",
+    "definition": "和蔼的,亲切的,友善的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "genre",
+    "phonetic": "/ʒɑ:ŋr/",
+    "definition": "类型,流派",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "genteel",
+    "phonetic": "/dʒen'ti:l/",
+    "definition": "有教养的,上流的,优雅的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gentility",
+    "phonetic": "/dʒen'tiləti/",
+    "definition": "(U) 假充上流,假装文雅; 假派头",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "gentry",
+    "phonetic": "/'dʒentri/",
+    "definition": "贵族们",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "genuine",
+    "phonetic": "/'dʒenjuin/",
+    "definition": "真正的,真实的,诚恳的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "geometry",
+    "phonetic": "/dʒi'ɔmitri/",
+    "definition": "几何学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "germinate",
+    "phonetic": "/'dʒə:mineit/",
+    "definition": "发芽,萌芽,开始发育vt. 使发芽,使发达",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "gibe",
+    "phonetic": "/dʒaib/",
+    "definition": "vi. 嘲笑n. 嘲笑",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gild",
+    "phonetic": "/gild/",
+    "definition": "镀金,虚饰,装饰,使有钱",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "girdle",
+    "phonetic": "/'gə:dl/",
+    "definition": "腰带,围绕物vt. 以腰带束缚,围绕",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gist",
+    "phonetic": "/dʒist/",
+    "definition": "要点,要旨,依据",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "glacier",
+    "phonetic": "/'glæsjə/",
+    "definition": "冰河",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "glamour",
+    "phonetic": "/'glæmə/",
+    "definition": "迷人的美,魔法vt. 迷惑",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "glamorous",
+    "phonetic": "/'glæmərəs/",
+    "definition": "富有魅力的,迷人的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "glaring",
+    "phonetic": "/'glεəriŋ/",
+    "definition": "闪耀的,炫目的,瞪视的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "glaze",
+    "phonetic": "/gleiz/",
+    "definition": "釉,上光,光滑面vt. 装以玻璃,上釉于vi. 变成为光滑,变呆滞",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gleam",
+    "phonetic": "/gli:m/",
+    "definition": "微弱的闪光,瞬息的一现vi. 闪烁,隐约地闪现vt. 使发微光,使闪烁",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "glean",
+    "phonetic": "/gli:n/",
+    "definition": "vi. 拾落穗,收集",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gleeful",
+    "phonetic": "/'gli:fl/",
+    "definition": "愉快的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "glide",
+    "phonetic": "/glaid/",
+    "definition": "滑动,滑过,流水vi. 滑动,滑翔,溜走vt. 使滑动",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gloom",
+    "phonetic": "/glu:m/",
+    "definition": "忧沉,幽暗vi. 变忧沉,变黑暗vt. 使黑暗,使忧郁",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gloomy",
+    "phonetic": "/'glu:mi/",
+    "definition": "抑沉的,忧闷的,黑暗的,悲观的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "glorious",
+    "phonetic": "/'glɔ:riəs/",
+    "definition": "光荣的,显赫的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "glossary",
+    "phonetic": "/'glɔsəri/",
+    "definition": "字典,辞典,词汇表n. 图文集,词汇,术语",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "glossy",
+    "phonetic": "/'glɔsi/",
+    "definition": "平滑的,有光泽的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gnaw",
+    "phonetic": "/nɔ:/",
+    "definition": "vi. 咬,啃,侵蚀,折磨",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gorge",
+    "phonetic": "/gɔ:dʒ/",
+    "definition": "峡谷,饱食,咽喉vi. 狼吞虎咽vt. 塞饱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "gorgeous",
+    "phonetic": "/'gɔ:dʒəs/",
+    "definition": "华丽的,灿烂的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "gossip",
+    "phonetic": "/'gɔsip/",
+    "definition": "闲聊,随笔,流言,爱讲闲话的人vi. 说闲话,闲聊",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "govern",
+    "phonetic": "/'gʌvən/",
+    "definition": "vi. 统治,支配,管理",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "grab",
+    "phonetic": "/græb/",
+    "definition": "抓握,掠夺,强占,挖掘机vi. 抓取,抢去vt. 攫取,霸占",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "gracious",
+    "phonetic": "/'greiʃəs/",
+    "definition": "亲切的,高尚的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "grand",
+    "phonetic": "/grænd/",
+    "definition": "壮观的,显赫的,神气活现的,重大的,主要的,最高的,雄伟的,傲?豪华的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "grasp",
+    "phonetic": "/gra:sp/",
+    "definition": "把握,抓紧,抓,理解,控制,柄vt. 抓住,紧握,领会vi. 抓",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "grateful",
+    "phonetic": "/'greitful/",
+    "definition": "感谢的,感激的,受欢迎的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  }
+]

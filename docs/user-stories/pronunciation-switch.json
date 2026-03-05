@@ -1,0 +1,69 @@
+[
+  {
+    "category": "functional",
+    "description": "个人中心发音类型默认为美式，可切换为英式",
+    "steps": [
+      "打开 /profile 页面",
+      "验证发音类型区域显示美式和英式两个按钮",
+      "验证当前选中为美式（默认）",
+      "点击英式按钮",
+      "验证英式按钮变为选中状态"
+    ],
+    "passes": true
+  },
+  {
+    "category": "functional",
+    "description": "美式发音使用有道词典 TTS API（type=0）",
+    "steps": [
+      "在个人中心设置为美式发音",
+      "进入 /learn/new 页面",
+      "点击发音按钮",
+      "验证请求 dict.youdao.com/dictvoice?type=0&audio=word",
+      "验证播放真正的美式发音音频"
+    ],
+    "passes": true
+  },
+  {
+    "category": "functional",
+    "description": "英式发音使用有道词典 TTS API（type=1）",
+    "steps": [
+      "在个人中心切换为英式发音",
+      "进入 /learn/new 页面",
+      "点击发音按钮",
+      "验证请求 dict.youdao.com/dictvoice?type=1&audio=word",
+      "验证播放真正的英式发音音频，与美式有明显区别"
+    ],
+    "passes": true
+  },
+  {
+    "category": "functional",
+    "description": "拼写测试和选择题页面发音遵循设置",
+    "steps": [
+      "在个人中心设置为英式发音",
+      "进入 /learn/spell 页面，点击听发音提示按钮",
+      "验证发音正常播放无报错",
+      "进入 /learn/quiz 页面，验证正常加载"
+    ],
+    "passes": true
+  },
+  {
+    "category": "functional",
+    "description": "有道 TTS 不可用时回退到 Web Speech API",
+    "steps": [
+      "在离线或有道 TTS 不可用时点击发音按钮",
+      "验证自动回退到 Web Speech API 发音",
+      "验证不会出现错误或崩溃"
+    ],
+    "passes": true
+  },
+  {
+    "category": "functional",
+    "description": "发音类型设置持久化（刷新后保持）",
+    "steps": [
+      "在个人中心切换为英式发音",
+      "刷新页面",
+      "验证发音类型仍为英式（Zustand persist 到 localStorage）"
+    ],
+    "passes": true
+  }
+]

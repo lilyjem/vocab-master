@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "slobber",
+    "phonetic": "/ˈslɔbə/",
+    "definition": "口水；v. 流口水；粗俗地表示",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "slosh",
+    "phonetic": "/slɔʃ/",
+    "definition": "溅，泼；n. 雪泥",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "slouch",
+    "phonetic": "/slautʃ/",
+    "definition": "没精打采的样子；v. 没精打采地坐（站、走）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "slough",
+    "phonetic": "/slʌf/",
+    "definition": "（蛇等）蜕皮；n. （蛇等的）蜕皮",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sloven",
+    "phonetic": "/ˈslʌvən/",
+    "definition": "不修边幅的人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "slue",
+    "phonetic": "/sluː/",
+    "definition": "（使）旋转",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "sluggard",
+    "phonetic": "/ˈslʌɡəd/",
+    "definition": "懒鬼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sluice",
+    "phonetic": "/sluːs/",
+    "definition": "水门，水闸；v. 冲洗",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "slur",
+    "phonetic": "/sləː/",
+    "definition": "含糊不清地讲",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "slurp",
+    "phonetic": "/sləːp/",
+    "definition": "大声地啜喝",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "smarmy",
+    "phonetic": "/ˈsmɑːmi/",
+    "definition": "虚情假意的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "smattering",
+    "phonetic": "/ˈsmætəriŋ/",
+    "definition": "略知，一知半解；少数，少量",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "smirch",
+    "phonetic": "/sməːtʃ/",
+    "definition": "玷污；n. 污点",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "smirk",
+    "phonetic": "/sməːk/",
+    "definition": "假笑，得意地笑",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "smite",
+    "phonetic": "/smait/",
+    "definition": "重打，猛击，折磨",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "smudge",
+    "phonetic": "/smʌdʒ/",
+    "definition": "污迹，渍痕（常因摩擦造成）；v. 弄脏",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "smug",
+    "phonetic": "/smʌɡ/",
+    "definition": "自满的，自命不凡的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "smut",
+    "phonetic": "/smʌt/",
+    "definition": "污迹；v. 弄脏，污",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "snappish",
+    "phonetic": "/ˈsnæpiʃ/",
+    "definition": "脾气暴躁的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "snappy",
+    "phonetic": "/ˈsnæpi/",
+    "definition": "精力充沛的；潇洒的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "snare",
+    "phonetic": "/sneə/",
+    "definition": "罗网，陷阱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "snarl",
+    "phonetic": "/snɑːl/",
+    "definition": "/v. 纠缠，混乱；v. 咆哮，怒骂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sneaking",
+    "phonetic": "/ˈsniːkiŋ/",
+    "definition": "秘密的，私下的，不公开的（尤指不应有的情感）",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "snicker",
+    "phonetic": "/ˈsnikə/",
+    "definition": "/n. 窃笑，暗笑",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "snide",
+    "phonetic": "/snaid/",
+    "definition": "讽刺的，含沙射影的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "snip",
+    "phonetic": "/snip/",
+    "definition": "剪断",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "snipe",
+    "phonetic": "/snaip/",
+    "definition": "狙击",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "snitch",
+    "phonetic": "/snitʃ/",
+    "definition": "告密，告发朋友；迅速地偷",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "snivel",
+    "phonetic": "/ˈsnivl/",
+    "definition": "流鼻涕；n. 啜泣",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "snooze",
+    "phonetic": "/snuːz/",
+    "definition": "打盹儿，打瞌睡",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "snowdrift",
+    "phonetic": "/ˈsnəudrift/",
+    "definition": "（风刮成的）雪堆",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "snub",
+    "phonetic": "/snʌb/",
+    "definition": "冷落，不理睬",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "snug",
+    "phonetic": "/snʌɡ/",
+    "definition": "温暖的，舒适的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "snuggle",
+    "phonetic": "/ˈsnʌɡl/",
+    "definition": "挨近，依偎",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sobriety",
+    "phonetic": "/sə（u）ˈbraiəti/",
+    "definition": "庄重，认真，审慎",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sod",
+    "phonetic": "/sɔd/",
+    "definition": "草地，草坪",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "sodden",
+    "phonetic": "/ˈsɔdn/",
+    "definition": "浸透了的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "soggy",
+    "phonetic": "/ˈsɔɡi/",
+    "definition": "湿透的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "soigne",
+    "phonetic": "/swɑːˈnjei/",
+    "definition": "时髦的，优雅的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "solace",
+    "phonetic": "/ˈsɔləs/",
+    "definition": "安慰，慰藉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "solicitude",
+    "phonetic": "/səˈlisitjuːd/",
+    "definition": "关怀，牵挂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "somatic",
+    "phonetic": "/səuˈmætik/",
+    "definition": "肉体的，身体的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "somber",
+    "phonetic": "/ˈsɔmbə/",
+    "definition": "忧郁的；阴暗的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "somnolent",
+    "phonetic": "/ˈsɔmnələnt/",
+    "definition": "思睡的；催眠的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sonata",
+    "phonetic": "/səˈnɑːtə/",
+    "definition": "奏鸣曲",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sonnet",
+    "phonetic": "/ˈsɔnit/",
+    "definition": "十四行诗",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sonorous",
+    "phonetic": "/səˈnɔːrəs/",
+    "definition": "（声音）洪亮的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "soot",
+    "phonetic": "/sut/",
+    "definition": "黑烟灰，油烟",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "sop",
+    "phonetic": "/sɔp/",
+    "definition": "泡过的食品；安慰品（用以使人平静的东西）；v. 浸泡",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "sophism",
+    "phonetic": "/ˈsɔfizəm/",
+    "definition": "诡辩；诡辩法（术）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sophistry",
+    "phonetic": "/ˈsɔfistri/",
+    "definition": "诡辩；诡辩术",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "soporific",
+    "phonetic": "/ˌsəupəˈrifik/",
+    "definition": "催眠的；n. 安眠药",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sopping",
+    "phonetic": "/ˈsɔpiŋ/",
+    "definition": "浑身湿透的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sorcery",
+    "phonetic": "/ˈsɔːsəri/",
+    "definition": "巫术，魔法，妖术",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sordid",
+    "phonetic": "/ˈsɔːdid/",
+    "definition": "（人）卑鄙的；（状况，地方）肮脏的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "soulful",
+    "phonetic": "/ˈsəulfəl/",
+    "definition": "充满热情的，深情的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "souse",
+    "phonetic": "/saus/",
+    "definition": "浸在水中，使湿透",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "spackle",
+    "phonetic": "/ˈspækl/",
+    "definition": "填泥料（用以填塞裂缝和洞穴）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "spangle",
+    "phonetic": "/ˈspæŋɡl/",
+    "definition": "（缝在衣服上的）金属片；v. 闪光",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "spank",
+    "phonetic": "/spæŋk/",
+    "definition": "打，拍打（在屁股上）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sparing",
+    "phonetic": "/ˈspeəriŋ/",
+    "definition": "节俭的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sparring",
+    "phonetic": "/ˈspɑːriŋ/",
+    "definition": "拳击，争斗",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "spartan",
+    "phonetic": "/ˈspɑːtən/",
+    "definition": "简朴的；刻苦的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "spasmodic",
+    "phonetic": "/spæzˈmɔdik/",
+    "definition": "痉挛的；间歇性的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "spat",
+    "phonetic": "/spæt/",
+    "definition": "口角，小争论",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "spate",
+    "phonetic": "/speit/",
+    "definition": "大批，大量；（水）泛滥",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "spatter",
+    "phonetic": "/ˈspætə/",
+    "definition": "喷洒",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "spatula",
+    "phonetic": "/ˈspætjulə/",
+    "definition": "（调拌等用的）抹刀，铲子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "specifics",
+    "phonetic": "/spiˈsifiks/",
+    "definition": "细小问题，细节",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "specious",
+    "phonetic": "/ˈspiːʃəs/",
+    "definition": "似是而非的；华而不实的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "speck",
+    "phonetic": "/spek/",
+    "definition": "小斑点，小污点；少量",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "specter",
+    "phonetic": "/ˈspektə/",
+    "definition": "鬼魂，幽灵；（缠绕心头的）恐惧",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "spectral",
+    "phonetic": "/ˈspektrəl/",
+    "definition": "幽灵的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "speleology",
+    "phonetic": "/ˌspiliˈɔlədʒi/",
+    "definition": "洞穴学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "spendthrift",
+    "phonetic": "/ˈspendˌθrift/",
+    "definition": "/n. 挥金如土的（人）",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "spike",
+    "phonetic": "/spaik/",
+    "definition": "长钉，大钉；v. 钉牢；扣球",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "spindly",
+    "phonetic": "/ˈspindli/",
+    "definition": "细长的，纤弱的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "spire",
+    "phonetic": "/ˈspaiə/",
+    "definition": "（教堂）尖顶",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "splashy",
+    "phonetic": "/ˈsplæʃi/",
+    "definition": "溅水的；炫耀显眼的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "splice",
+    "phonetic": "/splais/",
+    "definition": "接合，衔接（绳子，胶卷等）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "splint",
+    "phonetic": "/splint/",
+    "definition": "（固定断骨的）夹板，托板",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "splurge",
+    "phonetic": "/spləːdʒ/",
+    "definition": "炫耀，摆阔；挥霍",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "spoilsport",
+    "phonetic": "/ˈspɔilspɔːt/",
+    "definition": "破坏他人兴致的人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "spoke",
+    "phonetic": "/spəuk/",
+    "definition": "（车轮上）辐条",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "spoof",
+    "phonetic": "/spuːf/",
+    "definition": "&v. 揶揄，嘲讽，进行滑稽模仿以戏弄",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "spool",
+    "phonetic": "/spuːl/",
+    "definition": "（缠录音带等的）卷盘（轴）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "spoor",
+    "phonetic": "/spuə/",
+    "definition": "（野兽的）足迹，臭迹",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sportive",
+    "phonetic": "/ˈspɔːtiv/",
+    "definition": "嬉戏的，欢闹的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sprain",
+    "phonetic": "/sprein/",
+    "definition": "扭伤",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sprawling",
+    "phonetic": "/ˈsprɔːliŋ/",
+    "definition": "植物不规则地生长的，（城市建筑物）无计划地扩展的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sprig",
+    "phonetic": "/spriɡ/",
+    "definition": "嫩枝，小枝",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sprightly",
+    "phonetic": "/ˈspraitli/",
+    "definition": "愉快的，活泼的，精力充沛的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sprint",
+    "phonetic": "/sprint/",
+    "definition": "短距离全速奔跑",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "spruce",
+    "phonetic": "/spruːs/",
+    "definition": "云杉（一种叶子茂密的树）；a. 整洁的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "spunk",
+    "phonetic": "/spʌŋk/",
+    "definition": "勇气，胆量",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "spurious",
+    "phonetic": "/ˈspjuəriəs/",
+    "definition": "假的；伪造的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "spurn",
+    "phonetic": "/spəːn/",
+    "definition": "拒绝，摈弃",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "squab",
+    "phonetic": "/skwɔb/",
+    "definition": "刚孵出的，羽毛未丰的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "squalid",
+    "phonetic": "/ˈskwɔlid/",
+    "definition": "污秽的，肮脏的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "squall",
+    "phonetic": "/skwɔːl/",
+    "definition": "短暂、突然且猛烈的风暴；短暂的骚动",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "squalor",
+    "phonetic": "/ˈskwɔlə/",
+    "definition": "不洁，污秽",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "squat",
+    "phonetic": "/skwɔt/",
+    "definition": "蹲下；a. （贬）矮胖的",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "squeamish",
+    "phonetic": "/ˈskwiːmiʃ/",
+    "definition": "易受惊的；易恶心的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "squelch",
+    "phonetic": "/skweltʃ/",
+    "definition": "压制，镇压",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "squint",
+    "phonetic": "/skwint/",
+    "definition": "斜视；眯眼看",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "staccato",
+    "phonetic": "/stəˈkɑːtəu/",
+    "definition": "（音乐）断音的，不连贯的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "stagy",
+    "phonetic": "/ˈsteidʒi/",
+    "definition": "不自然的，演戏一般的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "staid",
+    "phonetic": "/steid/",
+    "definition": "稳重的，沉着的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "stalemate",
+    "phonetic": "/ˈsteilˈmeit/",
+    "definition": "和棋局面，僵局",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "stalwart",
+    "phonetic": "/ˈstɔːlwət/",
+    "definition": "健壮的；坚定的，忠诚的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "stampede",
+    "phonetic": "/stæmˈpiːd/",
+    "definition": "惊跑，逃窜",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "stanch",
+    "phonetic": "/stɑːntʃ/",
+    "definition": "制止（血液），止住",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "standstill",
+    "phonetic": "/ˈstændstil/",
+    "definition": "处于停顿状态，中止",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "stanza",
+    "phonetic": "/ˈstænzə/",
+    "definition": "（诗）节，段（尤指压韵的）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "star-crossed",
+    "phonetic": "/ˈstɑːˈkrɔst/",
+    "definition": "时运不济的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "starchy",
+    "phonetic": "/ˈstɑːtʃi/",
+    "definition": "含淀粉的；刻板的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "stasis",
+    "phonetic": "/ˈsteisis/",
+    "definition": "停滞",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "stately",
+    "phonetic": "/ˈsteitli/",
+    "definition": "庄严的；宏伟的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "statuary",
+    "phonetic": "/ˈstætjuəri/",
+    "definition": "雕像；雕塑艺术",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "staunch",
+    "phonetic": "/stɔːntʃ/",
+    "definition": "坚定的，忠诚的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "stealth",
+    "phonetic": "/stelθ/",
+    "definition": "秘密的行动",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "steeple",
+    "phonetic": "/ˈstiːpl/",
+    "definition": "尖塔，尖阁",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "stench",
+    "phonetic": "/stentʃ/",
+    "definition": "臭气，恶臭（stink）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "stencil",
+    "phonetic": "/ˈstensl/",
+    "definition": "（用以刻写图案、文字的）模板；v. 用模板刻写",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "stentorian",
+    "phonetic": "/stenˈtɔːriən/",
+    "definition": "（指声音）极响亮的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sterilize",
+    "phonetic": "/ˈsterilaiz/",
+    "definition": "使不育；杀菌",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "stethoscope",
+    "phonetic": "/ˈsteθəskəup/",
+    "definition": "听诊器",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "stickler",
+    "phonetic": "/ˈstiklə/",
+    "definition": "坚持细节之人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "stigmatize",
+    "phonetic": "/ˈstiɡmətaiz/",
+    "definition": "污蔑，玷污",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "stilted",
+    "phonetic": "/ˈstiltid/",
+    "definition": "（文章，谈话）不自然的；夸张的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "stinginess",
+    "phonetic": "/ˈstiŋinis/",
+    "definition": "小气",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "stint",
+    "phonetic": "/stint/",
+    "definition": "节省，节制",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "stipple",
+    "phonetic": "/ˈstipl/",
+    "definition": "点画，点描",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "stockade",
+    "phonetic": "/stɔˈkeid/",
+    "definition": "（防御用的）栅栏，围栏",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "stoic",
+    "phonetic": "/ˈstəuik/",
+    "definition": "坚忍克己之人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "stoke",
+    "phonetic": "/stəuk/",
+    "definition": "给...添加燃料",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "stolid",
+    "phonetic": "/ˈstɔlid/",
+    "definition": "（贬）（人）无动于衷的，冷漠的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "stonewall",
+    "phonetic": "/ˌstəunˈwɔːl/",
+    "definition": "拖延议事，设置障碍",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "stouthearted",
+    "phonetic": "/ˌstautˈhɑːtid/",
+    "definition": "刚毅的，大胆的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "stowaway",
+    "phonetic": "/ˈstəuə,wei/",
+    "definition": "（藏于轮船、飞机中的）偷乘者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "straggle",
+    "phonetic": "/ˈstræɡl/",
+    "definition": "迷路；落伍；蔓延",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "straiten",
+    "phonetic": "/ˈstreitn/",
+    "definition": "使陷入困难；使变窄",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "stranded",
+    "phonetic": "/ˈstrændid/",
+    "definition": "搁浅的，进退两难的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "strangulation",
+    "phonetic": "/ˌstræɡjuˈleiʃ（ə）n/",
+    "definition": "扼杀，勒死",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "stratagem",
+    "phonetic": "/ˈstrætidʒəm/",
+    "definition": "精心设计（用以蒙蔽他人）的谋略，策略",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "stratify",
+    "phonetic": "/ˈstrætifai/",
+    "definition": "（使）分层，（使）分等级",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "strew",
+    "phonetic": "/struː/",
+    "definition": "撒，散播",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "striate",
+    "phonetic": "/ˈstraieit/",
+    "definition": "在...加上条纹",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "striated",
+    "phonetic": "/ˈstraieitid/",
+    "definition": "有条纹的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "stricken",
+    "phonetic": "/ˈstrikən/",
+    "definition": "被（疾病等）折磨的；被击中的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "stricture",
+    "phonetic": "/ˈstriktʃə/",
+    "definition": "严厉谴责；束缚",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "strident",
+    "phonetic": "/ˈstraidnt/",
+    "definition": "尖声的，刺耳的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "strife",
+    "phonetic": "/straif/",
+    "definition": "纷争，冲突",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "strut",
+    "phonetic": "/strʌt/",
+    "definition": "趾高气扬地走；n. 支柱，支杆",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "studied",
+    "phonetic": "/ˈstʌdid/",
+    "definition": "慎重的；认真习得的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "stultify",
+    "phonetic": "/ˈstʌltifai/",
+    "definition": "使变得荒谬可笑；使无用",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "stupefy",
+    "phonetic": "/ˈstjuːpifai/",
+    "definition": "（使）茫然，吓呆",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "stupendous",
+    "phonetic": "/stju(ː)ˈpendəs/",
+    "definition": "巨大的,大得惊人的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "stupor",
+    "phonetic": "/ˈstjuːpə/",
+    "definition": "昏迷，不醒人事",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "stutter",
+    "phonetic": "/ˈstʌtə/",
+    "definition": "/v. 口吃，结巴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "stygian",
+    "phonetic": "/ˈstidʒiən/",
+    "definition": "阴暗的，阴森森的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "stylus",
+    "phonetic": "/ˈstailəs/",
+    "definition": "（刻写用的）尖笔；（留声机的）唱针",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "stymie",
+    "phonetic": "/ˈstaimi/",
+    "definition": "妨碍，阻挠",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "subdued",
+    "phonetic": "/sʌbˈdjud/",
+    "definition": "（光和声）柔和的，缓和的；（人）温和的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "subjugate",
+    "phonetic": "/ˈsʌbdʒuɡeit/",
+    "definition": "征服（国家）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sublime",
+    "phonetic": "/səˈblaim/",
+    "definition": "崇高的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "subliminal",
+    "phonetic": "/sʌbˈliminl/",
+    "definition": "潜意识的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "suborn",
+    "phonetic": "/sʌˈbɔːn/",
+    "definition": "收买，贿赂（他人以做违法之事，尤指作伪证）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "subpoena",
+    "phonetic": "/səbˈpiːnə/",
+    "definition": "（法律）传票；v. （用传票）传讯",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "subside",
+    "phonetic": "/səbˈsaid/",
+    "definition": "（建筑物等）下陷；（天气等）平息",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "subsidiary",
+    "phonetic": "/səbˈsidjəri/",
+    "definition": "辅助的；次要的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "substratum",
+    "phonetic": "/ˈsʌbˈstrɑːtəm/",
+    "definition": "基础；地基",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "subsume",
+    "phonetic": "/sʌbˈsjuːm/",
+    "definition": "包含，把...归入",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "subterfuge",
+    "phonetic": "/ˈsʌbtəfjuːdʒ/",
+    "definition": "诡计，托辞（尤指为逃避困难、责任、失败）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "subterranean",
+    "phonetic": "/sʌbtəˈreiniən/",
+    "definition": "地下的，地表下的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "subvention",
+    "phonetic": "/səbˈvenʃən/",
+    "definition": "补助金，津贴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "subversive",
+    "phonetic": "/sʌbˈvəːsiv/",
+    "definition": "颠覆性的，破坏性的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "succor",
+    "phonetic": "/ˈsʌkə/",
+    "definition": "/n. 救助，援助",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "suffocate",
+    "phonetic": "/ˈsʌfəkeit/",
+    "definition": "（使）窒息而死",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "suffrage",
+    "phonetic": "/ˈsʌfridʒ/",
+    "definition": "选举权，投票权",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "sulky",
+    "phonetic": "/ˈsʌlki/",
+    "definition": "生闷气的，不搭理人的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sully",
+    "phonetic": "/ˈsʌli/",
+    "definition": "玷污，污染",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sultry",
+    "phonetic": "/ˈsʌltri/",
+    "definition": "（天气，空气）闷热的；（女人）风骚的，能激起性欲的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "summarily",
+    "phonetic": "/ˈsʌmərəli/",
+    "definition": "概括地；仓促地",
+    "partOfSpeech": "adv.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "summation",
+    "phonetic": "/sʌˈmeiʃən/",
+    "definition": "总结，概要；总数，合计",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sumptuous",
+    "phonetic": "/ˈsʌmptjuəs/",
+    "definition": "豪华的，奢侈的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "sunder",
+    "phonetic": "/ˈsʌndə/",
+    "definition": "分开，分离",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "sundry",
+    "phonetic": "/ˈsʌndri/",
+    "definition": "各式各样，各种的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "superannuated",
+    "phonetic": "/sjuːpəˈrænjueitid/",
+    "definition": "老迈的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "supercilious",
+    "phonetic": "/ˌsjuːpəˈsiliəs/",
+    "definition": "目中无人的，高傲的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "superficiality",
+    "phonetic": "/sjuːpə,fiʃiˈæliti/",
+    "definition": "浅薄",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "superfluity",
+    "phonetic": "/ˌsjuːpəˈfluiti/",
+    "definition": "多余的量",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "superfluous",
+    "phonetic": "/sjuːˈpəːfluəs/",
+    "definition": "多余的，累赘的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "superimpose",
+    "phonetic": "/ˈsjuːpərimˈpəuz/",
+    "definition": "加在上面",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "superintend",
+    "phonetic": "/ˌsjuːpərinˈtend/",
+    "definition": "监督",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "superlative",
+    "phonetic": "/sjuːˈpəːlətiv/",
+    "definition": "最佳的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "supernova",
+    "phonetic": "/ˌsjuːpəˈnəuvə/",
+    "definition": "超新星",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "supine",
+    "phonetic": "/sjuːˈpain/",
+    "definition": "仰卧的；懒散的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "suppliant",
+    "phonetic": "/ˈsʌpliənt/",
+    "definition": "恳求的，哀求的；n. 恳求者",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "supplicant",
+    "phonetic": "/ˈsʌplikənt/",
+    "definition": "乞求者，恳求者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  }
+]

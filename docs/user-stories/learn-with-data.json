@@ -1,0 +1,136 @@
+[
+  {
+    "category": "functional",
+    "description": "词库列表页在有数据库时正常显示6个词库",
+    "steps": [
+      "启动 PostgreSQL 数据库并导入种子数据",
+      "打开 /wordbooks 页面",
+      "验证显示6个词库：CET-4、CET-6、考研英语、IELTS、TOEFL、GRE",
+      "验证每个词库显示正确的单词数量和难度等级标签"
+    ],
+    "passes": true
+  },
+  {
+    "category": "functional",
+    "description": "词库详情页显示完整单词列表和学习进度",
+    "steps": [
+      "点击 CET-4 词库卡片进入详情",
+      "验证显示词库名 CET-4 和描述",
+      "验证显示 50 个单词",
+      "验证显示设为当前词库按钮",
+      "验证单词列表含音标、词性、释义、发音按钮",
+      "点击设为当前词库，验证按钮变为开始学习"
+    ],
+    "passes": true
+  },
+  {
+    "category": "functional",
+    "description": "新词学习翻转卡片流程完整",
+    "steps": [
+      "设置当前词库为 CET-4",
+      "进入 /learn/new 页面",
+      "验证显示进度 1/25（或当前新词数）",
+      "验证卡片正面显示单词、音标、词性",
+      "点击卡片翻转，验证显示释义和例句",
+      "验证出现四个评分按钮：不认识、模糊、记住了、很熟悉",
+      "点击记住了，验证进入下一个单词"
+    ],
+    "passes": true
+  },
+  {
+    "category": "functional",
+    "description": "选择题四选一测试流程完整",
+    "steps": [
+      "设置当前词库为 CET-4",
+      "进入 /learn/quiz 页面",
+      "验证显示进度 1/15",
+      "验证显示单词和四个选项（A/B/C/D）",
+      "点击正确答案，验证进入下一题"
+    ],
+    "passes": true
+  },
+  {
+    "category": "functional",
+    "description": "拼写测试输入验证流程完整",
+    "steps": [
+      "先学习至少1个单词",
+      "进入 /learn/spell 页面",
+      "验证显示中文释义和词性",
+      "验证显示听发音提示按钮",
+      "在输入框输入正确拼写，点击确认",
+      "验证显示拼写正确提示和例句",
+      "验证出现下一个按钮"
+    ],
+    "passes": true
+  },
+  {
+    "category": "functional",
+    "description": "复习模式在无到期单词时显示空状态",
+    "steps": [
+      "进入 /learn/review 页面",
+      "验证显示没有需要复习的单词提示",
+      "验证显示学习新词按钮"
+    ],
+    "passes": true
+  },
+  {
+    "category": "functional",
+    "description": "统计页面显示真实学习数据",
+    "steps": [
+      "学习至少2个单词后进入 /stats 页面",
+      "验证累计学习数 > 0",
+      "验证总正确率显示百分比",
+      "验证连续打卡天数 >= 1",
+      "验证词汇掌握进度条显示学习中数量",
+      "验证学习日历和趋势图表正常渲染"
+    ],
+    "passes": true
+  },
+  {
+    "category": "functional",
+    "description": "首页仪表盘显示今日学习概况",
+    "steps": [
+      "学习至少1个单词后进入首页",
+      "验证连续打卡天数 >= 1",
+      "验证今日新学数 > 0",
+      "验证新词学习进度条显示已学数和目标数",
+      "验证快捷入口卡片正常显示"
+    ],
+    "passes": true
+  },
+  {
+    "category": "functional",
+    "description": "个人中心设置修改和数据管理",
+    "steps": [
+      "进入 /profile 页面",
+      "验证显示本地用户信息（已学词数、连续打卡）",
+      "点击新词数量的+按钮，验证数值增加5",
+      "验证自动播放发音和显示音标开关可切换",
+      "验证导出学习数据按钮可点击",
+      "验证清除所有学习数据按钮存在"
+    ],
+    "passes": true
+  },
+  {
+    "category": "bug-fix",
+    "description": "Zustand persist hydration 不再导致页面错误重定向",
+    "steps": [
+      "设置当前词库为 CET-4",
+      "直接导航到 /learn/quiz（不通过链接）",
+      "验证页面不会被重定向到 /learn",
+      "验证选择题正常显示",
+      "同样验证 /learn/spell 和 /learn/review 不会被错误重定向"
+    ],
+    "passes": true
+  },
+  {
+    "category": "bug-fix",
+    "description": "统计和首页无 hydration mismatch 错误",
+    "steps": [
+      "有学习数据后刷新 /stats 页面",
+      "验证页面正常渲染，无控制台 hydration 错误",
+      "刷新首页，验证同样无 hydration 错误"
+    ],
+    "passes": true
+  }
+]

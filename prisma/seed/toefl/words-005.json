@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "delete",
+    "phonetic": "/di'li:t/",
+    "definition": "删除v. 删除",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "deleterious",
+    "phonetic": "/'delə'tiriəs/",
+    "definition": "有害于,有毒的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "deliberately",
+    "phonetic": "/di'libəritli/",
+    "definition": "故意地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "delicate",
+    "phonetic": "/'delikit/",
+    "definition": "细致优雅的,微妙的,美味的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "delicious",
+    "phonetic": "/di'liʃəs/",
+    "definition": "美味的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "delineate",
+    "phonetic": "/di'linieit/",
+    "definition": "描绘. . . 的轮廓,描绘,描写",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "delude",
+    "phonetic": "/di'lu:d/",
+    "definition": "迷惑,蛊惑",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "demise",
+    "phonetic": "/di'maiz/",
+    "definition": "崩,薨,死亡vt. 让渡,遗赠,转让",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "democracy",
+    "phonetic": "/di'mɔkrəsi/",
+    "definition": "民主政治,民主主义",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "demolish",
+    "phonetic": "/di'mɔliʃ/",
+    "definition": "毁坏,破坏,粉碎",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "demonstrate",
+    "phonetic": "/'demənstreit/",
+    "definition": "示范,证明vi. 示威",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "demur",
+    "phonetic": "/di'mə:/",
+    "definition": "提出异议,反对,抗辩n. 异议,反对",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "denote",
+    "phonetic": "/di'nəut/",
+    "definition": "指示,表示",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "denounce",
+    "phonetic": "/di'nauns/",
+    "definition": "告发,公然抨击,谴责",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dense",
+    "phonetic": "/dens/",
+    "definition": "密集的,浓厚的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "density",
+    "phonetic": "/'densiti/",
+    "definition": "密度",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "deny",
+    "phonetic": "/di'nai/",
+    "definition": "vi. 否认,拒绝",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "depart",
+    "phonetic": "/di'pa:t/",
+    "definition": "离开,出发,去世,违反,放弃",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dependent",
+    "phonetic": "/di'pendənt/",
+    "definition": "依赖他人者a. 依赖的,从属的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "depict",
+    "phonetic": "/di'pikt/",
+    "definition": "描述,描写",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "deplore",
+    "phonetic": "/di'plɔ:/",
+    "definition": "悲悼,哀叹,悔恨",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "deport",
+    "phonetic": "/di'pɔ:t/",
+    "definition": "持,举止,驱逐",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "deposit",
+    "phonetic": "/di'pɔzit/",
+    "definition": "存款,定金,堆积物vt. 存放,堆积vi. 沉淀",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "depot",
+    "phonetic": "/'depəu/",
+    "definition": "停车场,车站,贮藏所,仓库",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "deprecate",
+    "phonetic": "/'deprikeit/",
+    "definition": "声明不赞成,抨击,反对",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "depreciate",
+    "phonetic": "/di'pri:ʃieit/",
+    "definition": "贬值vt. 降价,贬低",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "depress",
+    "phonetic": "/di'pres/",
+    "definition": "使沮丧,压低,降低,使萧条",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "depression",
+    "phonetic": "/di'preʃən/",
+    "definition": "不景气,消沉,沮丧,洼地",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "deputy",
+    "phonetic": "/'depjuti/",
+    "definition": "代理人,代表",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "derange",
+    "phonetic": "/di'reindʒ/",
+    "definition": "扰乱,使发狂",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "deride",
+    "phonetic": "/di'raid/",
+    "definition": "嘲弄,嘲笑",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "desert",
+    "phonetic": "/'dezət,di'zə:t/",
+    "definition": "沙漠a. 沙漠的,不毛的vt. 放弃,遗弃,逃跑vi. 逃掉n. 应得的赏",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "deserve",
+    "phonetic": "/di'zə:v/",
+    "definition": "该得到,值得vi. 应得报答",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "design",
+    "phonetic": "/di'zain/",
+    "definition": "设计,图样,企图vt. vi. 设计,计划",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "designate",
+    "phonetic": "/'dezigneit/",
+    "definition": "指定,指明,称呼a. 选出而未上任的",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "designing",
+    "phonetic": "/di'zainiŋ/",
+    "definition": "(U) 1 设计; 构思,图案2 阴谋 adj. 有计划的; 有阴谋的",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "desirable",
+    "phonetic": "/di'zaiərəbl/",
+    "definition": "令人想要的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "desire",
+    "phonetic": "/di'zaiə/",
+    "definition": "欲望,要求vt. 想要,请求vi. 愿望",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "desirous",
+    "phonetic": "/di'zaiərəs/",
+    "definition": "1 渴望[…]的,想得到[…]的[of]2 希望<做…>的,想要<做…>的ɔ 希望",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "desolate",
+    "phonetic": "/'desəlit/",
+    "definition": "荒凉的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dispatch",
+    "phonetic": "/dis'pætʃ/",
+    "definition": "派遣n. 派遣,急件",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "desperate",
+    "phonetic": "/'despərit/",
+    "definition": "不顾死活的,危急的,令人绝望的,极渴望的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "despicable",
+    "phonetic": "/'despikəbl/",
+    "definition": "可鄙的,卑劣的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "despise",
+    "phonetic": "/dis'paiz/",
+    "definition": "轻视",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "despoil",
+    "phonetic": "/di'spɔil/",
+    "definition": "夺取,掠夺",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dessert",
+    "phonetic": "/di'zə:t/",
+    "definition": "餐后甜点",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "destination",
+    "phonetic": "/'desti'neiʃən/",
+    "definition": "目的地n. 目的文件,目的单元",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "destine",
+    "phonetic": "/'destin/",
+    "definition": "注定,预定",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "destiny",
+    "phonetic": "/'destini/",
+    "definition": "命运,定数",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "destructive",
+    "phonetic": "/dis'trʌktiv/",
+    "definition": "毁灭性的,破坏的,有害的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "detach",
+    "phonetic": "/di'tætʃ/",
+    "definition": "分离,分遣",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "detached",
+    "phonetic": "/di'tætʃt/",
+    "definition": "超然的,分离的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "detain",
+    "phonetic": "/di'tein/",
+    "definition": "扣留,扣押,阻止",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "detect",
+    "phonetic": "/di'tekt/",
+    "definition": "发现,察觉,探测",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "determination",
+    "phonetic": "/di'tə:mi'neiʃən/",
+    "definition": "决心,果断",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "determine",
+    "phonetic": "/di'tə:min/",
+    "definition": "vi. 决定,决心",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "deterrent",
+    "phonetic": "/di'terənt/",
+    "definition": "制止,防止,挽留n. 挽留的事物,妨碍物",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "detest",
+    "phonetic": "/di'test/",
+    "definition": "厌恶,憎恨",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "detract",
+    "phonetic": "/di'trækt/",
+    "definition": "vi. 减去,贬低",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "detriment",
+    "phonetic": "/'detrimənt/",
+    "definition": "购买,购物,好买的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "detrimental",
+    "phonetic": "/'detrə'mentl/",
+    "definition": "有害的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "devastate",
+    "phonetic": "/'devəsteit/",
+    "definition": "毁坏",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "develop",
+    "phonetic": "/di'veləp/",
+    "definition": "发展,发达,显影,洗印,进步vi. 发展,生长",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "deviate",
+    "phonetic": "/'di:vieit/",
+    "definition": "脱离,出轨vt. 使偏离a. 脱离常规的n. 脱离常规的人",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "device",
+    "phonetic": "/di'vais/",
+    "definition": "装置,设计,策略,发明物n. 设备",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "devious",
+    "phonetic": "/'diviəs/",
+    "definition": "偏僻的,迂回的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "devise",
+    "phonetic": "/di'vaiz/",
+    "definition": "设计,发明,图谋,遗赠给n. 遗赠",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "devoid",
+    "phonetic": "/di'vɔid/",
+    "definition": "全无的,缺乏的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "devoted",
+    "phonetic": "/di'vəutid/",
+    "definition": "投入的,深爱的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "devotion",
+    "phonetic": "/di'vəuʃən/",
+    "definition": "热爱,投入",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "devour",
+    "phonetic": "/di'vauə/",
+    "definition": "吞食,挥霍,吞没",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "devout",
+    "phonetic": "/di'vaut/",
+    "definition": "虔诚的,虔敬的,衷心的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dexterous",
+    "phonetic": "/'dekstərəs/",
+    "definition": "灵巧的,用右手的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "diagnose",
+    "phonetic": "/'daiəgnəuz/",
+    "definition": "vi. 诊断",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "diagnosis",
+    "phonetic": "/'daiəg'nəusis/",
+    "definition": "诊断",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "diagram",
+    "phonetic": "/'daiəgræm/",
+    "definition": "图表",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dialect",
+    "phonetic": "/'daiəlekt/",
+    "definition": "方言,语调",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dialogue",
+    "phonetic": "/'daiəlɔg/",
+    "definition": "对话vi. 对话vt. 用对话表达",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "diameter",
+    "phonetic": "/dai'æmitə/",
+    "definition": "直径",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dictatorial",
+    "phonetic": "/diktə'tɔ:riəl/",
+    "definition": "独裁者的,独裁的,独断的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "diet",
+    "phonetic": "/'daiət/",
+    "definition": "日常饮食,议会vt. 照规定饮食vi. 忌食",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "diffuse",
+    "phonetic": "/di'fju:z/",
+    "definition": "vi. 散播,传播a. 散开的,弥漫的",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dignified",
+    "phonetic": "/'dignifaid/",
+    "definition": "有威严的,有品格的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "dignify",
+    "phonetic": "/'dignə'fai/",
+    "definition": "增威严,使高贵,故做显贵",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dignity",
+    "phonetic": "/'digniti/",
+    "definition": "尊严,高贵",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "digress",
+    "phonetic": "/də'gres/",
+    "definition": "走向岔道,离题,扯到枝节上",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dilate",
+    "phonetic": "/dai'leit/",
+    "definition": "扩大,详述,膨胀vt. 使膨胀",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dilemma",
+    "phonetic": "/di'lemə/",
+    "definition": "困境,进退两难的局面",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "diligent",
+    "phonetic": "/'dilidʒənt/",
+    "definition": "勤勉的,用功的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dilute",
+    "phonetic": "/dai'lut/",
+    "definition": "冲淡,稀释a. 淡的,稀释的",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dim",
+    "phonetic": "/dim/",
+    "definition": "暗淡的,模糊的vt. 使暗淡",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "dimension",
+    "phonetic": "/di'menʃən/",
+    "definition": "尺寸,次元,容积,维数vt. 表出尺寸",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "diminish",
+    "phonetic": "/di'miniʃ/",
+    "definition": "vi. (使)减少,(使)变小",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "diminutive",
+    "phonetic": "/di'minjutiv/",
+    "definition": "小的,小型的,指小的n. 小的人,指小辞,指小词,爱称",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "dingy",
+    "phonetic": "/'diŋgi,'diŋdʒi/",
+    "definition": "暗黑的,邋遢的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "diplomacy",
+    "phonetic": "/di'plouməsi/",
+    "definition": "(U) 1 外交; 外交手腕2 交际手段,策略 (tact)",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "diplomatic",
+    "phonetic": "/'diplə'mætik/",
+    "definition": "外交的,老练的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "direct",
+    "phonetic": "/di'rekt/",
+    "definition": "直接的,坦白的vt. 指示,指挥,命令,导演vi. 指导,指挥ad. 直接地",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "disarm",
+    "phonetic": "/dis'a:m/",
+    "definition": "解除武装,回复平常的编制,缓和vi. 放下武器",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "disarming",
+    "phonetic": "/dis'ɑ:miŋ/",
+    "definition": "似消除的,似解除警戒心的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "disarrange",
+    "phonetic": "/'disə'rendʒ/",
+    "definition": "扰乱,搅乱,弄乱",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "disarray",
+    "phonetic": "/'disə're/",
+    "definition": "弄乱,使混乱,使脱去衣服n. 无秩序,杂乱,不整齐的衣服",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "disaster",
+    "phonetic": "/di'za:stə/",
+    "definition": "灾祸,不幸",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "disastrous",
+    "phonetic": "/di'za:strəs/",
+    "definition": "损失惨重的,悲伤的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "disband",
+    "phonetic": "/dis'bænd/",
+    "definition": "解散,使退伍vi. 解散",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "disburse",
+    "phonetic": "/dis'bə:s/",
+    "definition": "支付,支出,分配",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "discard",
+    "phonetic": "/dis'ka:d/",
+    "definition": "丢弃,抛弃,解雇vi. 垫牌n. 垫牌,抛弃",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "discern",
+    "phonetic": "/di'sə:n/",
+    "definition": "vi. 辨别,看清楚",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "discernible",
+    "phonetic": "/di'sə:nəbl/",
+    "definition": "可分别的",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "discharge",
+    "phonetic": "/dis'tʃa:dʒ/",
+    "definition": "卸下,放出,解雇,放电,履行,拔染vi. 卸货,流注n. 卸货,流出,放电",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "disciple",
+    "phonetic": "/di'saipl/",
+    "definition": "弟子,门徒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "disclaim",
+    "phonetic": "/dis'klem/",
+    "definition": "vi. 放弃,弃权,拒绝",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "discord",
+    "phonetic": "/'diskɔ:d/",
+    "definition": "不调和,不和vi. 不一致,倾轧",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "discount",
+    "phonetic": "/'diskaunt/",
+    "definition": "折扣,贴现率vt. 打折扣vi. 贴现",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "discourse",
+    "phonetic": "/dis'kɔ:s/",
+    "definition": "谈话,演讲vi. 谈论,演说",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "discreet",
+    "phonetic": "/dis'kri:t/",
+    "definition": "小心的,慎重的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "discrete",
+    "phonetic": "/di'skrit/",
+    "definition": "不连续的a. 离散的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "discretion",
+    "phonetic": "/dis'kreʃən/",
+    "definition": "慎重,辨别力,考虑,处理权",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "discrimination",
+    "phonetic": "/dis'krimi'neiʃən/",
+    "definition": "差别,岐视,辨别力",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "disdain",
+    "phonetic": "/dis'dein/",
+    "definition": "轻蔑vt. 蔑视,鄙弃",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "disfigure",
+    "phonetic": "/dis'figə/",
+    "definition": "毁损…的外观,使…变丑; 破坏…的价值 [优点] n. ~ment",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "disgrace",
+    "phonetic": "/dis'greis/",
+    "definition": "耻辱,不名誉vt. 使耻辱,使失体面",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "disgust",
+    "phonetic": "/dis'gʌst/",
+    "definition": "厌恶,嫌恶vi. 令人厌恶vt. 使作呕",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "disinterested",
+    "phonetic": "/dis'intərəstid/",
+    "definition": "无私欲的,廉洁的,公平的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "dismal",
+    "phonetic": "/'dizməl/",
+    "definition": "阴沉的,凄凉的,暗的n. 低落的情绪,沼泽",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dismay",
+    "phonetic": "/dis'mei/",
+    "definition": "沮丧vt. 使惊愕,使气馁",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "disparage",
+    "phonetic": "/dis'pæridʒ/",
+    "definition": "蔑视,贬损",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "dispensable",
+    "phonetic": "/di'spensəbl/",
+    "definition": "不是必要的,可有可无的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "displace",
+    "phonetic": "/dis'pleis/",
+    "definition": "移置,替换,转移",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dispose",
+    "phonetic": "/dis'pəuz/",
+    "definition": "处理,排列,布置vi. 处置",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "disposition",
+    "phonetic": "/'dispə'ziʃən/",
+    "definition": "性情,处置,处理,布置",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "disprove",
+    "phonetic": "/dis'pru:v/",
+    "definition": "证明. . . 是不对的,提出. . . 的反证,反驳",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "disreputable",
+    "phonetic": "/dis'repjutəbl/",
+    "definition": "名誉不好的,评价不高的,声名狼藉的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "disrespectful",
+    "phonetic": "/disris'pektful/",
+    "definition": "失礼的,无礼的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "disrupt",
+    "phonetic": "/dis'rʌpt/",
+    "definition": "分裂的,分散的vt. 使分裂,使瓦解",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dissect",
+    "phonetic": "/di'sekt/",
+    "definition": "vi. 解剖,切细",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dissemble",
+    "phonetic": "/di'sembl/",
+    "definition": "vi. 掩饰,假装不知道",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "disseminate",
+    "phonetic": "/di'semineit/",
+    "definition": "散播,传播,宣传vi. 广为传播",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "dissimilar",
+    "phonetic": "/di'similə/",
+    "definition": "不同的,相异的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "dissimulate",
+    "phonetic": "/di'simjuleit/",
+    "definition": "vi. 掩饰,假装,装糊涂",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "dissipate",
+    "phonetic": "/'disipeit/",
+    "definition": "散失,驱散,浪费vi. 消散,放荡",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "distant",
+    "phonetic": "/'distənt/",
+    "definition": "远的,疏远的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "distillation",
+    "phonetic": "/'distl'eʃən/",
+    "definition": "蒸馏",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "distort",
+    "phonetic": "/dis'tɔ:t/",
+    "definition": "扭曲,歪曲",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "distract",
+    "phonetic": "/dis'trækt/",
+    "definition": "转移,分心,使发狂",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "distressed",
+    "phonetic": "/di'strest/",
+    "definition": "哀伤的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "distribute",
+    "phonetic": "/dis'tribju:t/",
+    "definition": "分配,散布,分发",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "disunite",
+    "phonetic": "/'disju'nait/",
+    "definition": "使分离,不和",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "diverge",
+    "phonetic": "/dai'və:dʒ/",
+    "definition": "分歧,岔开vt. 使岔开",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "divergent",
+    "phonetic": "/dai'və:dʒənt/",
+    "definition": "分歧的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "diverse",
+    "phonetic": "/dai'və:s/",
+    "definition": "不同的,变化多的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "diversify",
+    "phonetic": "/də'və:sə'fai/",
+    "definition": "使成形形色色,使多样化,使变化",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "divide",
+    "phonetic": "/di'vaid/",
+    "definition": "分开,分类,分裂vt. 分,分开,分裂,除n. 分配,分水岭v. 除",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "divulge",
+    "phonetic": "/dai'vʌldʒ/",
+    "definition": "泄露,暴露",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "doctrine",
+    "phonetic": "/'dɔktrin/",
+    "definition": "教条,学说",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dodge",
+    "phonetic": "/dɔdʒ/",
+    "definition": "vt. 避开,躲避n. 诡计,躲藏",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dogma",
+    "phonetic": "/'dɔgmə/",
+    "definition": "教条",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dogmatic",
+    "phonetic": "/dɔg'mætik/",
+    "definition": "教条的,独断的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "doleful",
+    "phonetic": "/'dəulful/",
+    "definition": "悲哀的,寂寞的,阴沉的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dolphin",
+    "phonetic": "/'dɔlfin/",
+    "definition": "海豚",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "domestic",
+    "phonetic": "/də'mestik/",
+    "definition": "家庭的,国内的,驯服的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dominant",
+    "phonetic": "/'dɔminənt/",
+    "definition": "占优势的,支配的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dominate",
+    "phonetic": "/'dɔmineit/",
+    "definition": "vi. 支配,占优势",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "domineering",
+    "phonetic": "/-'niəriŋ/",
+    "definition": "盛气凌人的,跋扈的,作威作福的 adv. ~ly",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "dominion",
+    "phonetic": "/də'minjən/",
+    "definition": "领土,主权,统治",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "donate",
+    "phonetic": "/dəu'neit/",
+    "definition": "vi. 捐赠",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "donor",
+    "phonetic": "/'dəunə/",
+    "definition": "捐赠人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "doomed",
+    "phonetic": "/du:md/",
+    "definition": "1 命运注定的; 被定罪的; 天数已尽的2 注定要失败、死亡、或毁",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dormant",
+    "phonetic": "/'dəu:mənt/",
+    "definition": "睡眠状态的,静止的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dormitory",
+    "phonetic": "/'dɔ:mitri/",
+    "definition": "宿舍",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "doubt",
+    "phonetic": "/daut/",
+    "definition": "怀疑,疑惑vt. vi. 怀疑,不信",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "doubtful",
+    "phonetic": "/'dautful/",
+    "definition": "可疑的,疑心的,不确的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "downcast",
+    "phonetic": "/'daun'ka:st/",
+    "definition": "气馁的,悲哀的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "downhearted",
+    "phonetic": "/'daun'hɑ:tid/",
+    "definition": "垂头丧气的,无精打采的,闷闷不乐的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "doze",
+    "phonetic": "/dəuz/",
+    "definition": "打瞌睡,假寐vt. 打瞌睡度过n. 瞌睡",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "drag",
+    "phonetic": "/dræg/",
+    "definition": "拖,拖累vt. vi. 拖累,拖拉,慢条斯理地走v. 拖动",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "drastic",
+    "phonetic": "/'dræstik/",
+    "definition": "激烈的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "drawback",
+    "phonetic": "/'drɔ:bæk/",
+    "definition": "不利点,退税",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dread",
+    "phonetic": "/dred/",
+    "definition": "恐惧,可怕的人,可怕的事a. 可怕的,可怖的vt. vi. 恐惧,害怕",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "drizzle",
+    "phonetic": "/'drizl/",
+    "definition": "细雨vi. vt. 下毛毛雨",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "drought",
+    "phonetic": "/draut/",
+    "definition": "干旱,缺乏",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "drowsy",
+    "phonetic": "/'drauzi/",
+    "definition": "昏昏欲睡的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dual",
+    "phonetic": "/'dju:əl/",
+    "definition": "双重的,双的n. 双数",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "dubious",
+    "phonetic": "/'dju:bjəs/",
+    "definition": "可疑的,不确定的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ductile",
+    "phonetic": "/'dʌktl/",
+    "definition": "易延展的,柔软的,易教导的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "due",
+    "phonetic": "/dju:/",
+    "definition": "应得的东西,应付款a. 到期的,应得的,应付的,约定的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "dumb",
+    "phonetic": "/dʌm/",
+    "definition": "哑的,不说话的,无声音的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "dungeon",
+    "phonetic": "/'dʌndʒən/",
+    "definition": "地牢",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "durable",
+    "phonetic": "/'djuərəbl/",
+    "definition": "持久的,耐用的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dusky",
+    "phonetic": "/'dʌski/",
+    "definition": "1 微暗的,暗淡的; 阴暗的2 (委婉语) (皮肤) 微黑的,带黑色的 ad",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dwell",
+    "phonetic": "/dwel/",
+    "definition": "居住,踌躇",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dwelling",
+    "phonetic": "/'dweliŋ/",
+    "definition": "住处",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dwindle",
+    "phonetic": "/'dwindl/",
+    "definition": "减少,缩小,衰落vt. 使缩小",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dye",
+    "phonetic": "/dai/",
+    "definition": "颜料,染料vt. 染,染色vi. 着色",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "eager",
+    "phonetic": "/'i:gə/",
+    "definition": "热心的,渴望的,热望的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ebb",
+    "phonetic": "/eb/",
+    "definition": "退潮,衰退vi. 潮退,衰退",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "eccentric",
+    "phonetic": "/ik'sentrik/",
+    "definition": "怪人,偏心圆a. 古怪的,反常的,不同圆心的,",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "economical",
+    "phonetic": "/'i:kə'nɔmikəl/",
+    "definition": "节俭的,经济的,合算的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "economics",
+    "phonetic": "/'i:kə'nɔmiks/",
+    "definition": "经济学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "economize",
+    "phonetic": "/i'kɔməmaiz/",
+    "definition": "vi. 节约,节省,有效地利用",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "book": {
+    "name": "考研英语",
+    "description": "考研英语核心词汇，涵盖研究生入学考试高频词汇",
+    "level": "intermediate",
+    "category": "exam",
+    "coverColor": "#ec4899",
+    "sortOrder": 3
+  },
+  "words": [
+    { "word": "perseverance", "phonetic": "/ˌpɜːrsɪˈvɪrəns/", "definition": "毅力；坚持不懈", "partOfSpeech": "n.", "example": "Perseverance is the key to success.", "exampleTranslation": "毅力是成功的关键。", "difficulty": 3 },
+    { "word": "commitment", "phonetic": "/kəˈmɪtmənt/", "definition": "承诺；投身", "partOfSpeech": "n.", "example": "She has a strong commitment to her studies.", "exampleTranslation": "她对学业有强烈的投入。", "difficulty": 2 },
+    { "word": "methodology", "phonetic": "/ˌmeθəˈdɑːlədʒi/", "definition": "方法论；研究方法", "partOfSpeech": "n.", "example": "The research methodology needs to be improved.", "exampleTranslation": "研究方法论需要改进。", "difficulty": 4 },
+    { "word": "hypothesis", "phonetic": "/haɪˈpɑːθəsɪs/", "definition": "假设；假说", "partOfSpeech": "n.", "example": "Scientists test their hypothesis through experiments.", "exampleTranslation": "科学家通过实验检验他们的假设。", "difficulty": 3 },
+    { "word": "phenomenon", "phonetic": "/fɪˈnɑːmɪnɑːn/", "definition": "现象；非凡的人或事", "partOfSpeech": "n.", "example": "Global warming is a worldwide phenomenon.", "exampleTranslation": "全球变暖是一种全球现象。", "difficulty": 3 },
+    { "word": "simulate", "phonetic": "/ˈsɪmjuleɪt/", "definition": "模拟；模仿", "partOfSpeech": "v.", "example": "The software can simulate real-world conditions.", "exampleTranslation": "该软件可以模拟真实世界条件。", "difficulty": 3 },
+    { "word": "predominant", "phonetic": "/prɪˈdɑːmɪnənt/", "definition": "主要的；占主导地位的", "partOfSpeech": "adj.", "example": "English is the predominant language in business.", "exampleTranslation": "英语是商业领域的主要语言。", "difficulty": 3 },
+    { "word": "paradigm", "phonetic": "/ˈpærədaɪm/", "definition": "范例；典范；思维模式", "partOfSpeech": "n.", "example": "This discovery represents a paradigm shift in physics.", "exampleTranslation": "这一发现代表了物理学中的范式转变。", "difficulty": 4 },
+    { "word": "substantial", "phonetic": "/səbˈstænʃl/", "definition": "大量的；实质的", "partOfSpeech": "adj.", "example": "The project requires substantial investment.", "exampleTranslation": "该项目需要大量投资。", "difficulty": 3 },
+    { "word": "criteria", "phonetic": "/kraɪˈtɪriə/", "definition": "标准；准则", "partOfSpeech": "n.", "example": "Candidates must meet all selection criteria.", "exampleTranslation": "候选人必须满足所有选拔标准。", "difficulty": 3 },
+    { "word": "incorporate", "phonetic": "/ɪnˈkɔːrpəreɪt/", "definition": "纳入；包含；合并", "partOfSpeech": "v.", "example": "We should incorporate feedback into the design.", "exampleTranslation": "我们应该将反馈纳入设计。", "difficulty": 3 },
+    { "word": "infrastructure", "phonetic": "/ˈɪnfrəstrʌktʃər/", "definition": "基础设施", "partOfSpeech": "n.", "example": "The country needs better transport infrastructure.", "exampleTranslation": "该国需要更好的交通基础设施。", "difficulty": 3 },
+    { "word": "mechanism", "phonetic": "/ˈmekənɪzəm/", "definition": "机制；方法", "partOfSpeech": "n.", "example": "The body has natural defense mechanisms.", "exampleTranslation": "人体有自然的防御机制。", "difficulty": 3 },
+    { "word": "priority", "phonetic": "/praɪˈɔːrəti/", "definition": "优先；重点", "partOfSpeech": "n.", "example": "Education should be a top priority.", "exampleTranslation": "教育应该是首要任务。", "difficulty": 2 },
+    { "word": "innovation", "phonetic": "/ˌɪnəˈveɪʃn/", "definition": "创新；革新", "partOfSpeech": "n.", "example": "Technological innovation drives economic growth.", "exampleTranslation": "技术创新推动经济增长。", "difficulty": 3 },
+    { "word": "incentive", "phonetic": "/ɪnˈsentɪv/", "definition": "动机；激励", "partOfSpeech": "n.", "example": "Tax breaks provide an incentive for investment.", "exampleTranslation": "税收减免为投资提供激励。", "difficulty": 3 },
+    { "word": "initiative", "phonetic": "/ɪˈnɪʃətɪv/", "definition": "主动性；倡议", "partOfSpeech": "n.", "example": "She took the initiative to organize the event.", "exampleTranslation": "她主动组织这次活动。", "difficulty": 3 },
+    { "word": "sustainability", "phonetic": "/səˌsteɪnəˈbɪləti/", "definition": "可持续性", "partOfSpeech": "n.", "example": "Environmental sustainability is crucial for our future.", "exampleTranslation": "环境可持续性对我们的未来至关重要。", "difficulty": 4 },
+    { "word": "demographic", "phonetic": "/ˌdeməˈɡræfɪk/", "definition": "人口统计的；人口学的", "partOfSpeech": "adj.", "example": "Demographic changes affect the labor market.", "exampleTranslation": "人口结构变化影响劳动力市场。", "difficulty": 4 },
+    { "word": "perception", "phonetic": "/pərˈsepʃn/", "definition": "知觉；看法", "partOfSpeech": "n.", "example": "Public perception of the policy has changed.", "exampleTranslation": "公众对该政策的看法已经改变。", "difficulty": 3 },
+    { "word": "legislation", "phonetic": "/ˌledʒɪsˈleɪʃn/", "definition": "立法；法律", "partOfSpeech": "n.", "example": "New legislation was passed last month.", "exampleTranslation": "上个月通过了新法规。", "difficulty": 3 },
+    { "word": "scenario", "phonetic": "/səˈnerioʊ/", "definition": "情境；设想", "partOfSpeech": "n.", "example": "We need to plan for the worst-case scenario.", "exampleTranslation": "我们需要为最坏情况做打算。", "difficulty": 3 },
+    { "word": "variable", "phonetic": "/ˈveriəbl/", "definition": "变量；可变的", "partOfSpeech": "n./adj.", "example": "Temperature is a key variable in the experiment.", "exampleTranslation": "温度是实验中的关键变量。", "difficulty": 3 },
+    { "word": "parameter", "phonetic": "/pəˈræmɪtər/", "definition": "参数；界限", "partOfSpeech": "n.", "example": "We need to define the parameters of the study.", "exampleTranslation": "我们需要界定研究的参数。", "difficulty": 3 },
+    { "word": "validity", "phonetic": "/vəˈlɪdəti/", "definition": "有效性；正确性", "partOfSpeech": "n.", "example": "The validity of the test results was questioned.", "exampleTranslation": "测试结果的有效性受到质疑。", "difficulty": 4 },
+    { "word": "reliability", "phonetic": "/rɪˌlaɪəˈbɪləti/", "definition": "可靠性", "partOfSpeech": "n.", "example": "The reliability of the data is high.", "exampleTranslation": "数据的可靠性很高。", "difficulty": 3 },
+    { "word": "empirical", "phonetic": "/ɪmˈpɪrɪkl/", "definition": "经验主义的；基于实验的", "partOfSpeech": "adj.", "example": "The study is based on empirical evidence.", "exampleTranslation": "这项研究基于经验证据。", "difficulty": 4 },
+    { "word": "theoretical", "phonetic": "/ˌθiːəˈretɪkl/", "definition": "理论的", "partOfSpeech": "adj.", "example": "There is a gap between theoretical and practical knowledge.", "exampleTranslation": "理论与实践知识之间存在差距。", "difficulty": 3 },
+    { "word": "eliminate", "phonetic": "/ɪˈlɪmɪneɪt/", "definition": "消除；淘汰", "partOfSpeech": "v.", "example": "We must eliminate all sources of pollution.", "exampleTranslation": "我们必须消除所有污染源。", "difficulty": 3 },
+    { "word": "stimulate", "phonetic": "/ˈstɪmjuleɪt/", "definition": "刺激；促进", "partOfSpeech": "v.", "example": "The policy aims to stimulate economic growth.", "exampleTranslation": "该政策旨在刺激经济增长。", "difficulty": 3 },
+    { "word": "interpret", "phonetic": "/ɪnˈtɜːrprɪt/", "definition": "解释；口译", "partOfSpeech": "v.", "example": "How do you interpret these results?", "exampleTranslation": "你如何解读这些结果？", "difficulty": 2 }
+  ]
+}

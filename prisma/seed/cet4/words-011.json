@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "instant",
+    "phonetic": "/ˈinstənt/",
+    "definition": "瞬间 a.立即的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "instantly",
+    "phonetic": "/ˈinstəntli/",
+    "definition": "立即，即刻",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "instead",
+    "phonetic": "/inˈsted/",
+    "definition": "代替，顶替；反而",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "instinct",
+    "phonetic": "/ˈinstiŋkt/",
+    "definition": "本能；直觉；生性",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "institute",
+    "phonetic": "/ˈinstitjuːt/",
+    "definition": "研究所；学院",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "institution",
+    "phonetic": "/ˌinstiˈtjuː∫ən/",
+    "definition": "协会;制度，习俗",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "instruct",
+    "phonetic": "/inˈstrʌkt/",
+    "definition": "教；指示；通知",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "instruction",
+    "phonetic": "/inˈstrʌk∫ən/",
+    "definition": "命令;教学；教训",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "instrument",
+    "phonetic": "/ˈinstrumənt/",
+    "definition": "仪器;工具；乐器",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "insufficient",
+    "phonetic": "/ˌinsəˈfi∫ənt/",
+    "definition": "不足的;不适当的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "insult",
+    "phonetic": "/ˈinsʌlt/",
+    "definition": "&n.侮辱，凌辱",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "insurance",
+    "phonetic": "/inˈ∫uərəns/",
+    "definition": "保险；保险费",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "insure",
+    "phonetic": "/inˈ∫uə/",
+    "definition": "给…保险；确保",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "intellectual",
+    "phonetic": "/ˌintiˈlektjuəl/",
+    "definition": "知识分子 a.智力的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "intelligence",
+    "phonetic": "/inˈtelidʒəns/",
+    "definition": "智力；理解力；情报",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "intelligent",
+    "phonetic": "/inˈtelidʒənt/",
+    "definition": "聪明的；理智的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intend",
+    "phonetic": "/inˈtend/",
+    "definition": "想要，打算；意指",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "intense",
+    "phonetic": "/inˈtens/",
+    "definition": "强烈的；紧张的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "intensity",
+    "phonetic": "/inˈtensiti/",
+    "definition": "强烈，剧烈；强度",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intensive",
+    "phonetic": "/inˈtensiv/",
+    "definition": "加强的；精耕细作的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intention",
+    "phonetic": "/inˈten∫ən/",
+    "definition": "意图，意向，目的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intentional",
+    "phonetic": "/inˈten∫ənəl/",
+    "definition": "故意的，有意识的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "interaction",
+    "phonetic": "/ˌintərˈæk∫ən/",
+    "definition": "相互作用；干扰",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "interest",
+    "phonetic": "/ˈintrist/",
+    "definition": "兴趣；利益；利息",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "interesting",
+    "phonetic": "/ˈintristiŋ/",
+    "definition": "有趣的，引人入胜的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "interfere",
+    "phonetic": "/ˌintəˈfiə/",
+    "definition": "干涉，干预；妨碍",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "interference",
+    "phonetic": "/ˌintəˈfiərəns/",
+    "definition": "干涉,干预;阻碍",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "interior",
+    "phonetic": "/inˈtiəriə/",
+    "definition": "内的；内地的 n.内部",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "intermediate",
+    "phonetic": "/ˌintəˈmiːdjət/",
+    "definition": "中间/级的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "internal",
+    "phonetic": "/inˈtəːnl/",
+    "definition": "内的；国内的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "international",
+    "phonetic": "/ˌintə(ː)ˈnæ∫ənəl/",
+    "definition": "国际的，世界(性)的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "interpret",
+    "phonetic": "/inˈtəːprit/",
+    "definition": "解释，说明；口译",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "interpretation",
+    "phonetic": "/inˌtəːpriˈtei∫ən/",
+    "definition": "解释；口译",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "interpreter",
+    "phonetic": "/inˈtəːpritə/",
+    "definition": "译员，口译者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "interrupt",
+    "phonetic": "/ˌintəˈrʌpt/",
+    "definition": "打断，打扰；中止",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "interruption",
+    "phonetic": "/ˌintəˈrʌp∫ən/",
+    "definition": "中断，打断；障碍物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "interval",
+    "phonetic": "/ˈintəvəl/",
+    "definition": "间隔；休息；间距",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "interview",
+    "phonetic": "/ˈintəvjuː/",
+    "definition": "接见；会见；面谈",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intimate",
+    "phonetic": "/ˈintimit/",
+    "definition": "亲密的；个人的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "into",
+    "phonetic": "/ˈintu/",
+    "definition": "进，入；进入到",
+    "partOfSpeech": "prep.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "introduce",
+    "phonetic": "/ˌintrəˈdjuːs/",
+    "definition": "介绍；引进，传入",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "introduction",
+    "phonetic": "/ˌintrəˈdʌk∫ən/",
+    "definition": "介绍；引进；引言",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "invade",
+    "phonetic": "/inˈveid/",
+    "definition": "入侵，侵略；侵袭",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "invasion",
+    "phonetic": "/inˈveiʒən/",
+    "definition": "入侵，侵略；侵犯",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "invent",
+    "phonetic": "/inˈvent/",
+    "definition": "发明，创造；捏造",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "invention",
+    "phonetic": "/inˈven∫ən/",
+    "definition": "发明，创造；捏造",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inventor",
+    "phonetic": "/inˈventə(r)/",
+    "definition": "发明者；发明家",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "invest",
+    "phonetic": "/inˈvest/",
+    "definition": "投资；投入",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "investigate",
+    "phonetic": "/inˈvestigeit/",
+    "definition": "&vi.调查",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "investigation",
+    "phonetic": "/inˌvestiˈgei∫ən/",
+    "definition": "调查，调查研究",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "investment",
+    "phonetic": "/inˈvestmənt/",
+    "definition": "投资(额)，投入",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "invisible",
+    "phonetic": "/inˈvizəbl/",
+    "definition": "看不见的，无形的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "invitation",
+    "phonetic": "/ˌinviˈtei∫ən/",
+    "definition": "邀请，招待；请柬",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "invite",
+    "phonetic": "/inˈvait/",
+    "definition": "邀请，聘请；招待",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "involve",
+    "phonetic": "/inˈvɔlv/",
+    "definition": "使卷入；牵涉",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "inward",
+    "phonetic": "/ˈinwəd/",
+    "definition": "里面的 ad.向内",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "iron",
+    "phonetic": "/ˈaiən/",
+    "definition": "铁；烙铁 vt.烫(衣)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "irregular",
+    "phonetic": "/iˈregjulə/",
+    "definition": "不规则的；不整齐的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "island",
+    "phonetic": "/ˈailənd/",
+    "definition": "岛，岛屿",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "isolate",
+    "phonetic": "/ˈaisəleit/",
+    "definition": "使隔离，使孤立",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "issue",
+    "phonetic": "/ˈisjuː/",
+    "definition": "问题；发行 vt.发行",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "it",
+    "phonetic": "/it/",
+    "definition": "这，那，它",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "italian",
+    "phonetic": "/iˈtæljən/",
+    "definition": "意大利的 n.意大利人",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "item",
+    "phonetic": "/ˈaitəm/",
+    "definition": "条，条款；一条",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "its",
+    "phonetic": "/its/",
+    "definition": "它的",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "itself",
+    "phonetic": "/itˈself/",
+    "definition": "它自己；自身",
+    "partOfSpeech": "pron.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "jacket",
+    "phonetic": "/ˈdʒækit/",
+    "definition": "短上衣，茄克衫",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "jail",
+    "phonetic": "/dʒeil/",
+    "definition": "监狱 vi.监禁",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "jam",
+    "phonetic": "/dʒæm/",
+    "definition": "果酱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "january",
+    "phonetic": "/ˈdʒænjuəri/",
+    "definition": "一月",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "japan",
+    "phonetic": "/dʒəˈpæn/",
+    "definition": "日本，日本国",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "japanese",
+    "phonetic": "/dʒæpəˈniːz/",
+    "definition": "日本的 n.日本人",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "jar",
+    "phonetic": "/dʒɑː/",
+    "definition": "罐子，坛子，广口瓶",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "jaw",
+    "phonetic": "/dʒɔː/",
+    "definition": "颌，颚",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "jazz",
+    "phonetic": "/dʒæz/",
+    "definition": "爵士音乐，爵士舞曲",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "jealous",
+    "phonetic": "/ˈdʒeləs/",
+    "definition": "妒忌的；猜疑的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "jet",
+    "phonetic": "/dʒet/",
+    "definition": "喷气式飞机；喷嘴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "jewel",
+    "phonetic": "/ˈdʒuːəl/",
+    "definition": "宝石；宝石饰物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "jewish",
+    "phonetic": "/ˈdʒu(ː)i∫/",
+    "definition": "犹太人的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "job",
+    "phonetic": "/dʒɔb/",
+    "definition": "职业；工作；零活",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "join",
+    "phonetic": "/dʒɔin/",
+    "definition": "参加；连接",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "joint",
+    "phonetic": "/dʒɔint/",
+    "definition": "接头，接缝；关节",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "joke",
+    "phonetic": "/dʒəuk/",
+    "definition": "笑话 vi.说笑话",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "jolly",
+    "phonetic": "/ˈdʒɔli/",
+    "definition": "快活的；令人高兴的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "journal",
+    "phonetic": "/ˈdʒəːnl/",
+    "definition": "日报，杂志；日志",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "journalist",
+    "phonetic": "/ˈdʒəːnəlist/",
+    "definition": "记者，新闻工作者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "journey",
+    "phonetic": "/ˈdʒəːni/",
+    "definition": "旅行，旅程 n.旅行",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "joy",
+    "phonetic": "/dʒɔi/",
+    "definition": "欢乐，喜悦；乐事",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "joyful",
+    "phonetic": "/ˈdʒɔiful/",
+    "definition": "十分喜悦的，快乐的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "judge",
+    "phonetic": "/dʒʌdʒ/",
+    "definition": "法官；裁判员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "judgement",
+    "phonetic": "/ˈdʒʌdʒmənt/",
+    "definition": "意见；审判；判断",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "juice",
+    "phonetic": "/dʒuːs/",
+    "definition": "(水果等)汁，液",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "july",
+    "phonetic": "/dʒu(ː)ˈlai/",
+    "definition": "七月",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "jump",
+    "phonetic": "/dʒʌmp/",
+    "definition": "跳；暴涨 vt.跳过",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "june",
+    "phonetic": "/dʒuːn/",
+    "definition": "六月",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "jungle",
+    "phonetic": "/ˈdʒʌŋgl/",
+    "definition": "丛林，密林，莽丛",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "junior",
+    "phonetic": "/ˈdʒuːnjə/",
+    "definition": "年少的 n.晚辈",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "jury",
+    "phonetic": "/ˈdʒuəri/",
+    "definition": "陪审团；评奖团",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "just",
+    "phonetic": "/dʒʌst/",
+    "definition": "刚才；只是；正好",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "justice",
+    "phonetic": "/ˈdʒʌstis/",
+    "definition": "正义，公正；司法",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "justify",
+    "phonetic": "/ˈdʒʌstifai/",
+    "definition": "证明…是正当的",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "keen",
+    "phonetic": "/kiːn/",
+    "definition": "热心的；激烈的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "keep",
+    "phonetic": "/kiːp/",
+    "definition": "保持；坚持",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "keeper",
+    "phonetic": "/ˈkiːpə/",
+    "definition": "看护人；饲养员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "kettle",
+    "phonetic": "/ˈketl/",
+    "definition": "水壶，水锅",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "key",
+    "phonetic": "/kiː/",
+    "definition": "钥匙；键；答案",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "keyboard",
+    "phonetic": "/ˈkiːbɔːd/",
+    "definition": "键盘",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "kick",
+    "phonetic": "/kik/",
+    "definition": "&vt.&n.踢",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "kid",
+    "phonetic": "/kid/",
+    "definition": "小孩，儿童，少年",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "kill",
+    "phonetic": "/kil/",
+    "definition": "杀死；扼杀；消磨",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "kilogram",
+    "phonetic": "/ˈkiləgræm/",
+    "definition": "千克，公斤",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "kilometer",
+    "phonetic": "/ˈkiləmiːtə/",
+    "definition": "千米，公里",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "kind",
+    "phonetic": "/kaind/",
+    "definition": "种类",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "kindness",
+    "phonetic": "/ˈkaindnis/",
+    "definition": "仁慈，好意",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "king",
+    "phonetic": "/kiŋ/",
+    "definition": "国王，君主",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "kingdom",
+    "phonetic": "/ˈkiŋdəm/",
+    "definition": "王国；领域，界",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "kiss",
+    "phonetic": "/kis/",
+    "definition": "吻 vi.接吻 n.吻",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "kitchen",
+    "phonetic": "/ˈkit∫in/",
+    "definition": "厨房，灶间",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "kite",
+    "phonetic": "/kait/",
+    "definition": "风筝",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "knee",
+    "phonetic": "/niː/",
+    "definition": "膝，膝盖，膝关节",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "kneel",
+    "phonetic": "/niːl/",
+    "definition": "跪，跪下，跪着",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "knife",
+    "phonetic": "/naif/",
+    "definition": "小刀，刀，餐刀",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "knit",
+    "phonetic": "/nit/",
+    "definition": "把…编结 vi.编织",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "knob",
+    "phonetic": "/nɔb/",
+    "definition": "门把，拉手；旋纽",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "knock",
+    "phonetic": "/nɔk/",
+    "definition": "&vt.&n.敲，击，打",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "knot",
+    "phonetic": "/nɔt/",
+    "definition": "(绳的)结，(树的)节",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "know",
+    "phonetic": "/nəu/",
+    "definition": "知道；认识；通晓",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "knowledge",
+    "phonetic": "/ˈnɔlidʒ/",
+    "definition": "知识，学识；知道",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "lab",
+    "phonetic": "/læb/",
+    "definition": "实验室，研究室",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "label",
+    "phonetic": "/ˈleibl/",
+    "definition": "标签；标记，符号",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "laboratory",
+    "phonetic": "/ˈlæbərətəri/",
+    "definition": "实验室，研究室",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "labour",
+    "phonetic": "/ˈleibə(r)/",
+    "definition": "劳动；工作；劳工",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "lace",
+    "phonetic": "/leis/",
+    "definition": "鞋带，系带；花边",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "lack",
+    "phonetic": "/læk/",
+    "definition": "&vi.&n.缺乏，不足",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "ladder",
+    "phonetic": "/ˈlædə/",
+    "definition": "梯子，梯状物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "lady",
+    "phonetic": "/ˈleidi/",
+    "definition": "女士，夫人；贵妇人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "lag",
+    "phonetic": "/læg/",
+    "definition": "走得慢 n.落后",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "lake",
+    "phonetic": "/leik/",
+    "definition": "湖",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "lamb",
+    "phonetic": "/læm/",
+    "definition": "羔羊，小羊；羔羊肉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "lame",
+    "phonetic": "/leim/",
+    "definition": "跛的；瘸的，残废的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "lamp",
+    "phonetic": "/læmp/",
+    "definition": "灯",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "land",
+    "phonetic": "/lænd/",
+    "definition": "陆地；土地 vi.上岸",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "landing",
+    "phonetic": "/ˈlændiŋ/",
+    "definition": "上岸，登陆，着陆",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "landlady",
+    "phonetic": "/ˈlændleidi/",
+    "definition": "女房东；女地主",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "landlord",
+    "phonetic": "/ˈlændlɔːd/",
+    "definition": "地主；房东，店主",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "lane",
+    "phonetic": "/lein/",
+    "definition": "(乡间)小路；跑道",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "language",
+    "phonetic": "/ˈlæŋgwidʒ/",
+    "definition": "语言，语言课程",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "lantern",
+    "phonetic": "/ˈlæntən/",
+    "definition": "提灯，灯笼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "lap",
+    "phonetic": "/læp/",
+    "definition": "膝部；一圈",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "large",
+    "phonetic": "/lɑːdʒ/",
+    "definition": "大的；巨大的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "largely",
+    "phonetic": "/ˈlɑːdʒli/",
+    "definition": "大部分；大量地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "laser",
+    "phonetic": "/ˈleizə/",
+    "definition": "激光",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "last",
+    "phonetic": "/lɑːst/",
+    "definition": "最后的 ad.最后",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "late",
+    "phonetic": "/leit/",
+    "definition": "迟的 ad.迟，晚",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "lately",
+    "phonetic": "/ˈleitli/",
+    "definition": "最近，不久前",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "later",
+    "phonetic": "/ˈleitə/",
+    "definition": "后来；过一会儿",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "latin",
+    "phonetic": "/ˈlætin/",
+    "definition": "拉丁的 n.拉丁语",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "latter",
+    "phonetic": "/ˈlætə/",
+    "definition": "(两者中)后者的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "laugh",
+    "phonetic": "/lɑːf/",
+    "definition": "笑，发笑 n.笑",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "laughter",
+    "phonetic": "/ˈlɑːftə/",
+    "definition": "笑，笑声",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "launch",
+    "phonetic": "/lɔːnt∫/",
+    "definition": "发射，投射；发动",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "laundry",
+    "phonetic": "/ˈlɔːndri/",
+    "definition": "洗衣房，洗衣店",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "lavatory",
+    "phonetic": "/ˈlævəˌtəri/",
+    "definition": "盥洗室，厕所",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "law",
+    "phonetic": "/lɔː/",
+    "definition": "法律，法令；法则",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "lawn",
+    "phonetic": "/lɔːn/",
+    "definition": "草地，草坪，草场",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "lawyer",
+    "phonetic": "/ˈlɔːjə/",
+    "definition": "律师；法学家",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "lay",
+    "phonetic": "/lei/",
+    "definition": "置放；铺设；设置",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "layer",
+    "phonetic": "/ˈleiə/",
+    "definition": "层，层次；铺设者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "layout",
+    "phonetic": "/ˈleiˌaut/",
+    "definition": "布局，安排，设计",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "lazy",
+    "phonetic": "/ˈleizi/",
+    "definition": "懒惰的，懒散的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "lead",
+    "phonetic": "/liːd/",
+    "definition": "为…带路；领导",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "leader",
+    "phonetic": "/ˈliːdə/",
+    "definition": "领袖，领导人；首领",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "leadership",
+    "phonetic": "/ˈliːdə∫ip/",
+    "definition": "领导",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "leading",
+    "phonetic": "/ˈliːdiŋ/",
+    "definition": "指导的；最主要的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "leaf",
+    "phonetic": "/liːf/",
+    "definition": "叶，叶子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "league",
+    "phonetic": "/liːg/",
+    "definition": "同盟，联盟；联合会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "leak",
+    "phonetic": "/liːk/",
+    "definition": "漏；泄露 n.漏洞",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "lean",
+    "phonetic": "/liːn/",
+    "definition": "倾斜，屈身；靠",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "leap",
+    "phonetic": "/liːp/",
+    "definition": "跳，跃 n.跳跃",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "learn",
+    "phonetic": "/ləːn/",
+    "definition": "&vt.学，学习",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "learned",
+    "phonetic": "/ˈləːnid/",
+    "definition": "有学问的；学术上的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "learning",
+    "phonetic": "/ˈləːniŋ/",
+    "definition": "学习；学问，知识",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "least",
+    "phonetic": "/liːst/",
+    "definition": "最少的 ad.最少",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "leather",
+    "phonetic": "/ˈleðə/",
+    "definition": "皮革；皮革制品",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "leave",
+    "phonetic": "/liːv/",
+    "definition": "离去 vt.离开",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "lecture",
+    "phonetic": "/ˈlekt∫ə/",
+    "definition": "&vi.演讲，讲课",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "left",
+    "phonetic": "/left/",
+    "definition": "左边的 ad.在左边",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "leg",
+    "phonetic": "/leg/",
+    "definition": "腿，腿部",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "legal",
+    "phonetic": "/ˈliːgəl/",
+    "definition": "法律的；合法的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "legend",
+    "phonetic": "/ˈledʒənd/",
+    "definition": "传说，传奇",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "leisure",
+    "phonetic": "/ˈliːʒə/",
+    "definition": "空闲时间；悠闲",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "lemon",
+    "phonetic": "/ˈlemən/",
+    "definition": "柠檬，柠檬树",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "lend",
+    "phonetic": "/lend/",
+    "definition": "把…借给，贷(款)",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "length",
+    "phonetic": "/leŋθ/",
+    "definition": "长，长度；一段",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "lens",
+    "phonetic": "/lenz/",
+    "definition": "透镜，镜片；镜头",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "less",
+    "phonetic": "/les/",
+    "definition": "更少的 ad.更少地",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "lessen",
+    "phonetic": "/ˈlesn/",
+    "definition": "减少，减轻；缩小",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "lesson",
+    "phonetic": "/ˈlesn/",
+    "definition": "功课，课；课程",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "lest",
+    "phonetic": "/lest/",
+    "definition": "惟恐，以免",
+    "partOfSpeech": "conj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "let",
+    "phonetic": "/let/",
+    "definition": "允许，让；使",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  }
+]

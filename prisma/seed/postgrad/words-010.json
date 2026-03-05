@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "extreme",
+    "phonetic": "/ikˈstriːm/",
+    "definition": "末端的,尽头的;极度的 n.极端;最大程度",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "eye",
+    "phonetic": "/ai/",
+    "definition": "眼(睛);视力;眼力;监督vt.看,审视",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "eyebrow",
+    "phonetic": "/ˈaibrau/",
+    "definition": "眉毛",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "eyesight",
+    "phonetic": "/ˈaisait/",
+    "definition": "视力",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fable",
+    "phonetic": "/ˈfeibl/",
+    "definition": "寓言",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fabric",
+    "phonetic": "/ˈfæbrik/",
+    "definition": "织物;织品;结构;构造;建筑物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fabricate",
+    "phonetic": "/ˈfæbrikeit/",
+    "definition": "捏造,编造(谎言,借口等);建造,制造",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fabulous",
+    "phonetic": "/ˈfæbjuləs/",
+    "definition": "极好的;极为巨大的;寓言中的,传说中的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "face",
+    "phonetic": "/feis/",
+    "definition": "脸,面貌;表情;正面 v.面对着;朝,面向",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "facilitate",
+    "phonetic": "/fəˈsiliteit/",
+    "definition": "使变得(更)容易;使便利;推动;帮助;处进",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "facility",
+    "phonetic": "/fəˈsiliti/",
+    "definition": "灵巧,熟练;(pl.)设备,设施,便利条件",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fact",
+    "phonetic": "/fækt/",
+    "definition": "事实,实际",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "factor",
+    "phonetic": "/ˈfæktə/",
+    "definition": "因素,要素",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "factory",
+    "phonetic": "/ˈfæktəri/",
+    "definition": "工厂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "faculty",
+    "phonetic": "/ˈfækəlti/",
+    "definition": "才能;学院,系;(学院或系的)全体教学人员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fade",
+    "phonetic": "/feid, fad/",
+    "definition": "褪色;衰减,消失n.淡入(出)n.乏味(平淡)的",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fail",
+    "phonetic": "/feil/",
+    "definition": "失败,不及格;衰退,减弱",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "failure",
+    "phonetic": "/ˈfeiljə/",
+    "definition": "失败,不及格;失败者;故障,失灵;未能",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "faint",
+    "phonetic": "/ˈfeint/",
+    "definition": "微弱的;不明显的;暗淡的 n./v.昏倒;昏晕",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fair",
+    "phonetic": "/fεə/",
+    "definition": "公平的,合理的;相当的 n.集市,交易会",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fairly",
+    "phonetic": "/ˈfεəli/",
+    "definition": "公正地,正当地;相当,还算",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fairy",
+    "phonetic": "/ˈfεəri/",
+    "definition": "幻想中的;虚构的;优雅的 n.仙女;精灵",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "faith",
+    "phonetic": "/feiθ/",
+    "definition": "信任,信用;信仰,信条",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "faithful",
+    "phonetic": "/ˈfeiθful/",
+    "definition": "守信的,忠实的,如实的,可靠的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fake",
+    "phonetic": "/feik/",
+    "definition": "假货,赝品 a.假的,冒充的 v.伪造;伪装",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fall",
+    "phonetic": "/fɔːl/",
+    "definition": "跌倒;下降;减弱;坠落;变成,陷于 n.秋季",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "false",
+    "phonetic": "/fɔːls/",
+    "definition": "谬误的,虚伪的,伪造的,假的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fame",
+    "phonetic": "/feim/",
+    "definition": "名声;名望;传说 vt使出名;传扬…的名",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "familiar",
+    "phonetic": "/fəˈmiljə/",
+    "definition": "熟悉的;通晓的;亲近的 n.熟客;密友",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "family",
+    "phonetic": "/ˈfæmili/",
+    "definition": "家,家庭成员;氏族,家庭;族,科",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "famine",
+    "phonetic": "/ˈfæmin/",
+    "definition": "饥荒,饥馑",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "famous",
+    "phonetic": "/ˈfeiməs/",
+    "definition": "著名的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fan",
+    "phonetic": "/fæn/",
+    "definition": "扇子,风扇;(影,球等)迷 v.扇,扇动,激起",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fancy",
+    "phonetic": "/ˈfænsi/",
+    "definition": "爱好,迷恋 v.想象,幻想 a.花式的,奇特的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fantastic",
+    "phonetic": "/fænˈtæstik/",
+    "definition": "(fantastical)奇异的,幻想的,异想天开的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fantasy",
+    "phonetic": "/ˈfæntəsi/",
+    "definition": "幻想,空想;空想的产物,幻想作品",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "far",
+    "phonetic": "/fɑː/",
+    "definition": "/ad.远,久远,遥远 ad.到…程度,…得多",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fare",
+    "phonetic": "/fεə/",
+    "definition": "车费,船费;伙食;乘客 v.过活;进展;经营",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "farewell",
+    "phonetic": "/ˈfεəˈwel/",
+    "definition": "再会,别了 n.告别",
+    "partOfSpeech": "int.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "farm",
+    "phonetic": "/fɑːm/",
+    "definition": "农场,饲养场 v.种田,经营农牧业",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "farmer",
+    "phonetic": "/ˈfɑːmə/",
+    "definition": "农民,农场主",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "farther",
+    "phonetic": "/ˈfɑːðə/",
+    "definition": "更远地,再往前地 a.更远的",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fascinate",
+    "phonetic": "/ˈfæsineit/",
+    "definition": "迷住,强烈吸引",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fashion",
+    "phonetic": "/ˈfæʃən/",
+    "definition": "流行式样(或货品),风尚,风气;样子,方式",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fashionable",
+    "phonetic": "/ˈfæʃənəbl/",
+    "definition": "流行的,时髦的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fast",
+    "phonetic": "/fɑːst, fæst/",
+    "definition": "快的,迅速的;坚固的 ad.紧紧地;迅速地",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fasten",
+    "phonetic": "/ˈfɑːsən, ˈfæ-/",
+    "definition": "扎牢,使固定",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fat",
+    "phonetic": "/fæt/",
+    "definition": "多脂肪的,肥胖的;丰厚的n.脂肪,肥肉",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fatal",
+    "phonetic": "/ˈfeitl/",
+    "definition": "致命的,毁灭性的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fate",
+    "phonetic": "/ˈfeit/",
+    "definition": "命运",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "father",
+    "phonetic": "/ˈfɑːðə/",
+    "definition": "父亲;创始人,发明者;(Father)神父",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fatigue",
+    "phonetic": "/fəˈtiːɡ/",
+    "definition": "/v.(使)疲劳",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fault",
+    "phonetic": "/fɔːlt/",
+    "definition": "过失,过错;缺点,毛病",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "faulty",
+    "phonetic": "/ˈfɔːlti/",
+    "definition": "有错误的,有缺点的,不完善的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "favor",
+    "phonetic": "/ˈfeivə/",
+    "definition": "(favour)好感;喜爱;关切v.赞成,支持,偏爱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "favorable",
+    "phonetic": "/ˈfeivərəbl/",
+    "definition": "(favourable)赞许的,有利的,讨人喜欢的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "favorite",
+    "phonetic": "/ˈfeivərit/",
+    "definition": "(favourite)最喜欢的人或物 a.喜爱的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fax",
+    "phonetic": "/fæks/",
+    "definition": "/v.传真(机)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fear",
+    "phonetic": "/fiə/",
+    "definition": "害怕,恐惧;危险vt.畏惧,害怕,担心",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fearful",
+    "phonetic": "/ˈfiəful/",
+    "definition": "可怕的,吓人的;害怕,担心,惊恐",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "feasible",
+    "phonetic": "/ˈfiːzəbl/",
+    "definition": "可行的;切实可行的;行得通的;可用的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "feast",
+    "phonetic": "/fiːst/",
+    "definition": "节日;宴会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "feat",
+    "phonetic": "/fiːt/",
+    "definition": "功绩,伟业,技艺",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "feather",
+    "phonetic": "/ˈfeðə/",
+    "definition": "羽毛",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "feature",
+    "phonetic": "/ˈfiːtʃə/",
+    "definition": "特征;容貌;特色;特写 v.以...为特色",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "february",
+    "phonetic": "",
+    "definition": "二月",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "federal",
+    "phonetic": "/ˈfedərəl/",
+    "definition": "联邦的;联邦制的;联合的;同盟的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "federation",
+    "phonetic": "/ˈfedəreiʃən/",
+    "definition": "同盟;联邦;联合;联盟;联合会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fee",
+    "phonetic": "/fiː/",
+    "definition": "费(会费,学费等);酬金",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "feeble",
+    "phonetic": "/ˈfiːbl/",
+    "definition": "虚弱的,无力的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "feed",
+    "phonetic": "/fiːd/",
+    "definition": "(on,with)喂养,饲养;(with)向…供给",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "feedback",
+    "phonetic": "/ˈfiːdbæk/",
+    "definition": "反馈;反应;回授",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "feel",
+    "phonetic": "/ˈfiːl/",
+    "definition": "触;认为 vi.摸上去有…感觉;摸索;觉得",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "feeling",
+    "phonetic": "/ˈfiːliŋ/",
+    "definition": "感情;心情;知觉;同情",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fell",
+    "phonetic": "",
+    "definition": "击倒;打倒(疾病等);砍伐a.凶猛的;可怕的",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fellow",
+    "phonetic": "/ˈfeləu/",
+    "definition": "人,家伙;伙伴,同事 a.同样的,同事的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fellowship",
+    "phonetic": "/ˈfeləuʃip/",
+    "definition": "伙伴关系;联谊会,团体",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "female",
+    "phonetic": "/ˈfiːmeil/",
+    "definition": "女性;女人;雌兽 a.女性的;雌的;柔弱的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "feminine",
+    "phonetic": "/ˈfeminin/",
+    "definition": "女性的;娇柔的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fence",
+    "phonetic": "/ˈfens/",
+    "definition": "篱笆;围栏;剑术 v.用篱笆瓦围住;击剑",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ferry",
+    "phonetic": "/ˈferi/",
+    "definition": "摆渡;渡船;渡口v.摆渡;渡运(人,车或物等)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fertile",
+    "phonetic": "/ˈfəːtail/",
+    "definition": "肥沃的,富饶的;能繁殖的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fertilizer",
+    "phonetic": "/ˈfəːtilaizə/",
+    "definition": "(fertiliser)肥料",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "festival",
+    "phonetic": "/ˈfestəvəl/",
+    "definition": "节日;音乐节;戏剧节 a.节日的;快乐的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fetch",
+    "phonetic": "/fetʃ/",
+    "definition": "取来;接来;引出;售得;吸引 n.取得;拿",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "feudal",
+    "phonetic": "/ˈfjuːdl/",
+    "definition": "封建的;封地的;领地的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fever",
+    "phonetic": "/ˈfiːvə/",
+    "definition": "发热,狂热",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "few",
+    "phonetic": "/fjuː/",
+    "definition": "[表肯定]有些,几个;[表否定]几乎没有的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fiber",
+    "phonetic": "/ˈfaibə/",
+    "definition": "(fibre)纤维;构造;纤维制品",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fiction",
+    "phonetic": "/ˈfikʃən/",
+    "definition": "虚构,编造;小说",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "field",
+    "phonetic": "/ˈfiːld/",
+    "definition": "田野;运动场;(电或磁)场;领域,范围",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fierce",
+    "phonetic": "/fiəs/",
+    "definition": "凶猛的,残忍的;狂热的,强烈的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fifteen",
+    "phonetic": "/ˈfiftiːn/",
+    "definition": "十五 pron./a.十五(个,只...)",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fifty",
+    "phonetic": "/ˈfifti/",
+    "definition": "五十,五十个",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fight",
+    "phonetic": "/fait/",
+    "definition": "/n.打(仗),搏斗,斗争,战斗",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "figure",
+    "phonetic": "/ˈfiɡə/",
+    "definition": "体形;轮廓;数字;图形v.描绘;计算;推测",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "file",
+    "phonetic": "/ˈfail/",
+    "definition": "锉刀;文件,档案 v.锉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fill",
+    "phonetic": "/fil/",
+    "definition": "(with)填满,充满",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "film",
+    "phonetic": "/film/",
+    "definition": "电影;胶片;薄膜,薄层 vt.把..拍成电影",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "filter",
+    "phonetic": "/filtə/",
+    "definition": "滤器,滤纸",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "final",
+    "phonetic": "/ˈfainl/",
+    "definition": "最终的,决定性的 n.结局;决赛;期末考试",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "finally",
+    "phonetic": "/ˈfainəli/",
+    "definition": "最后,最终;决定性地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "finance",
+    "phonetic": "/faiˈnæns/",
+    "definition": "财政,金融 v.为…提供资金",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "financial",
+    "phonetic": "/faiˈnænʃəl/",
+    "definition": "财政的,金融的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "find",
+    "phonetic": "/faind/",
+    "definition": "(found,found)找到;发现;发觉;感到",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "finding",
+    "phonetic": "/ˈfaindiŋ/",
+    "definition": "发现,发现物;(常pl.)调查/研究结果",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fine",
+    "phonetic": "/fain/",
+    "definition": "晴朗的,美好的,细致的 v./n.罚金,罚款",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "finger",
+    "phonetic": "/ˈfiŋɡə/",
+    "definition": "手指;指状物;指针",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "finish",
+    "phonetic": "/ˈfiniʃ/",
+    "definition": "完成;结束;磨光 v.完成;结束;用完;毁掉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "finite",
+    "phonetic": "/ˈfainait/",
+    "definition": "有限的;[数]有穷的,限定的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fire",
+    "phonetic": "/ˈfaiə/",
+    "definition": "火;火灾,失火;炉火 vi.开火 vt.放(枪)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fireman",
+    "phonetic": "/ˈfaiəmən/",
+    "definition": "消防队员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fireplace",
+    "phonetic": "/ˈfaiəpleis/",
+    "definition": "壁炉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "firm",
+    "phonetic": "/ˈfəːm/",
+    "definition": "坚固的;坚决的,坚定的 n.公司,商号",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "first",
+    "phonetic": "/fəːst/",
+    "definition": "/ad.第一;最初;首次 n.开始pron.第一名",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fish",
+    "phonetic": "/fiʃ/",
+    "definition": "(pl.fish(es))鱼;鱼肉 v.捕鱼;钓鱼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fisherman",
+    "phonetic": "/ˈfiʃəmən/",
+    "definition": "渔夫,捕鱼人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fist",
+    "phonetic": "/fist/",
+    "definition": "拳头 vt.用拳头打;紧握",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fit",
+    "phonetic": "/ˈfit/",
+    "definition": "(病的)发作,痉挛 v./a.n.合适,试穿,安装",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fitting",
+    "phonetic": "/ˈfitiŋ/",
+    "definition": "适当的,恰当的 n.(常pl.)配件,附件;装配",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "five",
+    "phonetic": "/faiv/",
+    "definition": "五 pron./a.五(个,只...)",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fix",
+    "phonetic": "/fiks/",
+    "definition": "(使)固定;修理;安装;决定;注视 n.困境",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fixture",
+    "phonetic": "/ˈfikstʃə/",
+    "definition": "固定设备;预定日期;比赛时间;定期存款",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "flag",
+    "phonetic": "/flæɡ/",
+    "definition": "旗",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "flame",
+    "phonetic": "/fleim/",
+    "definition": "火焰,火苗;热情;光辉 v.发火焰,燃烧",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "flap",
+    "phonetic": "/flæp/",
+    "definition": "垂下物,帽沿,袋盖 n./v.拍打,拍动",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "flare",
+    "phonetic": "/flεə/",
+    "definition": "/n.闪耀,闪烁",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "flash",
+    "phonetic": "/flæʃ/",
+    "definition": "/a.闪光(的) v.发闪光,闪亮;闪现",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "flat",
+    "phonetic": "/flæt/",
+    "definition": "平坦的,扁平的,平淡的 n.一套房间;平面",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "flatter",
+    "phonetic": "/ˈfleivə/",
+    "definition": "奉承;使高兴;使满意;胜过",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "flavor",
+    "phonetic": "/ˈfleivə/",
+    "definition": "(flavour)情味;风味;滋味 v.给…调味",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "flaw",
+    "phonetic": "/flɔː/",
+    "definition": "裂缝;缺陷 v.使破裂;使有缺陷",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "flee",
+    "phonetic": "/fliː/",
+    "definition": "逃走;逃避",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fleet",
+    "phonetic": "/fliːt/",
+    "definition": "舰队,船队",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "flesh",
+    "phonetic": "/fleʃ/",
+    "definition": "肉,肌肉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "flexible",
+    "phonetic": "/ˈfleksibl/",
+    "definition": "柔韧的,易弯曲的,灵活的,能变形的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "flight",
+    "phonetic": "/flait/",
+    "definition": "飞翔,飞行;航班;航程;逃跑;楼梯的一段",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fling",
+    "phonetic": "/fliŋ/",
+    "definition": "(用力地)扔,抛,丢",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "float",
+    "phonetic": "/fləut/",
+    "definition": "飘浮;漂流物 v.浮动;漂浮;传播;动摇",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "flock",
+    "phonetic": "/flɔk/",
+    "definition": "(一)群,(禽,畜等的)群;大量 v.群集,成群",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "flood",
+    "phonetic": "/flʌd/",
+    "definition": "洪水,水灾 v.淹没,发大水,泛滥",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "floor",
+    "phonetic": "/flɔː/",
+    "definition": "地板,(楼房)的层",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "flour",
+    "phonetic": "/ˈflauə/",
+    "definition": "面粉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "flourish",
+    "phonetic": "/ˈflauriʃ/",
+    "definition": "/v.繁荣,茂盛,兴旺",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "flow",
+    "phonetic": "/fləu/",
+    "definition": "流,流动 n.流量,流速",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "flower",
+    "phonetic": "/ˈflauə/",
+    "definition": "花;精华,精粹,精英;盛时 vi.开花",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "flu",
+    "phonetic": "/fluː/",
+    "definition": "(influenza)流行性感冒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fluctuate",
+    "phonetic": "/ˈflʌktjueit/",
+    "definition": "(使)波动;(使)起伏",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fluent",
+    "phonetic": "/ˈflu(ː)ənt/",
+    "definition": "流利的,流畅的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fluid",
+    "phonetic": "/ˈflu(ː)id/",
+    "definition": "流动的,液体的 n.流体,液体",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "flush",
+    "phonetic": "/flʌʃ/",
+    "definition": "脸红v.发红;奔流a.洋溢的;富裕的;齐平的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fly",
+    "phonetic": "/flai/",
+    "definition": "飞行;苍蝇 v飞行;飘杨 a.机敏的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "foam",
+    "phonetic": "/fəum/",
+    "definition": "/n.泡沫,起泡沫",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "focus",
+    "phonetic": "/ˈfəukəs/",
+    "definition": "焦点,(活动,兴趣等的)中心 v.(on)使聚集",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fog",
+    "phonetic": "/fɔɡ/",
+    "definition": "雾气,雾 v.以雾笼罩,被雾笼罩",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fold",
+    "phonetic": "/fəuld/",
+    "definition": "折叠;合拢;抱住 n.褶,褶痕;羊栏;信徒",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "folk",
+    "phonetic": "/fəuk/",
+    "definition": "人们;民族;亲属 a.民间的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "follow",
+    "phonetic": "/ˈfɔləu/",
+    "definition": "跟随,接着;领会;沿着…前进,遵循;结果是",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "following",
+    "phonetic": "/ˈfɔləuiŋ/",
+    "definition": "下列的,下述的,其次的,接着的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fond",
+    "phonetic": "/fɔnd/",
+    "definition": "(of)喜爱的,爱好的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "food",
+    "phonetic": "/fuːd/",
+    "definition": "食物,粮食,养料",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "fool",
+    "phonetic": "/fuːl/",
+    "definition": "傻子,笨蛋vt.欺骗,愚弄vi.干蠢事",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "foolish",
+    "phonetic": "/ˈfuːliʃ/",
+    "definition": "愚笨的,愚蠢的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "foot",
+    "phonetic": "/fut/",
+    "definition": "(pl.feet)脚,足;英尺;底部",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "football",
+    "phonetic": "/ˈfutˌbɔːl/",
+    "definition": "足球",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "footstep",
+    "phonetic": "/ˈfutˈstep/",
+    "definition": "脚步(声),足迹",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "for",
+    "phonetic": "/强 fɔː, 弱fə/",
+    "definition": "为了;给;代替;向;支持 conj.因为?",
+    "partOfSpeech": "prep.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "forbid",
+    "phonetic": "/fəˈbid/",
+    "definition": "禁止,不许",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "force",
+    "phonetic": "/fɔːs/",
+    "definition": "力量,力;势力;(pl.)(总称)军队 v.强迫",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "fore",
+    "phonetic": "/fɔː/",
+    "definition": "在前面 a.先前的;在前部的 n.前部",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "forecast",
+    "phonetic": "/ˈfɔːkɑːst/",
+    "definition": "/n.预测,预报",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "forehead",
+    "phonetic": "/ˈfɔrid/",
+    "definition": "前额;(任何事物的)前部",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "foreign",
+    "phonetic": "/ˈfɔrin/",
+    "definition": "外国的,(to)无关的;外来的;异质的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "foreigner",
+    "phonetic": "/ˈfɔrinə/",
+    "definition": "外国人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "foremost",
+    "phonetic": "/ˈfɔːməust/",
+    "definition": "最先的;最初的; 主要的 ad.首要地",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "foresee",
+    "phonetic": "/fɔːˈsiː/",
+    "definition": "预见,预知",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "forest",
+    "phonetic": "/ˈfɔrist/",
+    "definition": "森林",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "forever",
+    "phonetic": "/fəˈrevə/",
+    "definition": "(for ever)永远;总是",
+    "partOfSpeech": "adv.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "forge",
+    "phonetic": "/fɔːdʒ/",
+    "definition": "锻造,伪造 n.锻工车间;锻炉",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "forget",
+    "phonetic": "/fəˈɡet/",
+    "definition": "忘记,遗忘",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "forgive",
+    "phonetic": "/fəˈɡiv/",
+    "definition": "原谅,饶恕",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fork",
+    "phonetic": "/fɔːk/",
+    "definition": "叉,耙;叉形物;餐叉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "form",
+    "phonetic": "/fɔːm/",
+    "definition": "形状,形式;表格 v.组成,构成;形成",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "formal",
+    "phonetic": "/ˈfɔːməl/",
+    "definition": "正式的;形式的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "format",
+    "phonetic": "/ˈfɔːmæt/",
+    "definition": "(出版物的)开本,版式,格式 vt.设计;安排",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "formation",
+    "phonetic": "/ˈfɔːmə/",
+    "definition": "形成;构成;组织;构造;编制;塑造",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "former",
+    "phonetic": "/ˈfɔːmə/",
+    "definition": "以前的,在前的 pron.前者",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "formidable",
+    "phonetic": "/ˈfɔːmidəbl/",
+    "definition": "强大的;令人敬畏的;可怕的;艰难的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "formula",
+    "phonetic": "/ˈfɔːmjulə/",
+    "definition": "(pl.formulae)公式;规则;分子式;药方",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "formulate",
+    "phonetic": "/ˈfɔːmjuleit/",
+    "definition": "用公式表示;规划;设计;系统地阐述",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "forth",
+    "phonetic": "/fɔːθ/",
+    "definition": "向前;向外,往外",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "forthcoming",
+    "phonetic": "/ˈfɔːθˈkʌmiŋ/",
+    "definition": "即将到来的;准备好的;乐意帮助的;n.来临",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fortnight",
+    "phonetic": "/ˈfɔːtnait/",
+    "definition": "两星期",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fortunate",
+    "phonetic": "/ˈfɔːtʃənit/",
+    "definition": "幸运的,侥幸的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "fortune",
+    "phonetic": "/ˈfɔːtʃən, -tʃuːn/",
+    "definition": "运气;命运;财产;财富",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "forty",
+    "phonetic": "/ˈfɔːti/",
+    "definition": "/a.四十 pron.四十(个,只...)",
+    "partOfSpeech": "num.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "forum",
+    "phonetic": "/ˈfɔːrəm/",
+    "definition": "论坛,讨论会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "forward",
+    "phonetic": "/ˈfɔːwəd/",
+    "definition": "(also forwards)向前 a.向前的 v.转交",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "fossil",
+    "phonetic": "/ˈfɔsəl/",
+    "definition": "化石",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "foster",
+    "phonetic": "/ˈfɔstə/",
+    "definition": "养育;收养;怀抱;鼓励 a.收养的 n.养育者",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  }
+]

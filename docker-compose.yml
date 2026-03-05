@@ -1,0 +1,44 @@
+# VocabMaster Docker Compose 配置
+# 包含 PostgreSQL 数据库和 Next.js 应用
+
+version: "3.8"
+
+services:
+  # PostgreSQL 数据库
+  db:
+    image: postgres:16-alpine
+    container_name: vocab-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: vocab
+      POSTGRES_PASSWORD: vocab123
+      POSTGRES_DB: vocabmaster
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U vocab -d vocabmaster"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  # Next.js 应用
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: vocab-app
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      DATABASE_URL: "postgresql://vocab:vocab123@db:5432/vocabmaster?schema=public"
+      NEXTAUTH_URL: "http://localhost:3000"
+      NEXTAUTH_SECRET: "change-this-secret-in-production"
+    depends_on:
+      db:
+        condition: service_healthy
+
+volumes:
+  postgres_data:

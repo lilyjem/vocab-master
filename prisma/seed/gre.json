@@ -1,0 +1,42 @@
+{
+  "book": {
+    "name": "GRE",
+    "description": "GRE 考试高频词汇，适合申请研究生院的考生",
+    "level": "advanced",
+    "category": "exam",
+    "coverColor": "#ef4444",
+    "sortOrder": 6
+  },
+  "words": [
+    { "word": "aberration", "phonetic": "/ˌæbəˈreɪʃn/", "definition": "偏离；异常", "partOfSpeech": "n.", "example": "His behavior was an aberration from the norm.", "exampleTranslation": "他的行为偏离了常规。", "difficulty": 5 },
+    { "word": "abeyance", "phonetic": "/əˈbeɪəns/", "definition": "搁置；中止", "partOfSpeech": "n.", "example": "The project was held in abeyance.", "exampleTranslation": "该项目被搁置了。", "difficulty": 5 },
+    { "word": "abject", "phonetic": "/ˈæbdʒekt/", "definition": "悲惨的；卑贱的", "partOfSpeech": "adj.", "example": "They lived in abject poverty.", "exampleTranslation": "他们生活在极度贫困中。", "difficulty": 5 },
+    { "word": "abscond", "phonetic": "/əbˈskɑːnd/", "definition": "潜逃；逃亡", "partOfSpeech": "v.", "example": "The thief absconded with the money.", "exampleTranslation": "小偷携款潜逃。", "difficulty": 5 },
+    { "word": "abstemious", "phonetic": "/əbˈstiːmiəs/", "definition": "有节制的；节俭的", "partOfSpeech": "adj.", "example": "He led an abstemious lifestyle.", "exampleTranslation": "他过着节俭的生活。", "difficulty": 5 },
+    { "word": "accolade", "phonetic": "/ˈækəleɪd/", "definition": "赞美；荣誉", "partOfSpeech": "n.", "example": "She received numerous accolades for her work.", "exampleTranslation": "她因工作获得了无数赞誉。", "difficulty": 5 },
+    { "word": "acrimony", "phonetic": "/ˈækrɪmoʊni/", "definition": "尖酸；激烈", "partOfSpeech": "n.", "example": "The debate was filled with acrimony.", "exampleTranslation": "辩论充满了激烈的争吵。", "difficulty": 5 },
+    { "word": "adulation", "phonetic": "/ˌædʒəˈleɪʃn/", "definition": "奉承；谄媚", "partOfSpeech": "n.", "example": "The celebrity was tired of public adulation.", "exampleTranslation": "这位名人厌倦了公众的奉承。", "difficulty": 5 },
+    { "word": "amalgamate", "phonetic": "/əˈmælɡəmeɪt/", "definition": "合并；混合", "partOfSpeech": "v.", "example": "The two companies amalgamated last year.", "exampleTranslation": "两家公司去年合并了。", "difficulty": 5 },
+    { "word": "ameliorate", "phonetic": "/əˈmiːliəreɪt/", "definition": "改善", "partOfSpeech": "v.", "example": "The new policy ameliorated working conditions.", "exampleTranslation": "新政策改善了工作条件。", "difficulty": 5 },
+    { "word": "anathema", "phonetic": "/əˈnæθəmə/", "definition": "令人厌恶的事物；诅咒", "partOfSpeech": "n.", "example": "Violence is anathema to peaceful society.", "exampleTranslation": "暴力是和平社会的禁忌。", "difficulty": 5 },
+    { "word": "anomalous", "phonetic": "/əˈnɑːmələs/", "definition": "异常的；不规则的", "partOfSpeech": "adj.", "example": "The anomalous results puzzled researchers.", "exampleTranslation": "异常结果令研究人员困惑。", "difficulty": 5 },
+    { "word": "assuage", "phonetic": "/əˈsweɪdʒ/", "definition": "缓和；减轻", "partOfSpeech": "v.", "example": "Nothing could assuage her grief.", "exampleTranslation": "没有什么能减轻她的悲伤。", "difficulty": 5 },
+    { "word": "attenuate", "phonetic": "/əˈtenjueɪt/", "definition": "减弱；稀释", "partOfSpeech": "v.", "example": "The signal attenuates over distance.", "exampleTranslation": "信号随距离减弱。", "difficulty": 5 },
+    { "word": "audacious", "phonetic": "/ɔːˈdeɪʃəs/", "definition": "大胆的；鲁莽的", "partOfSpeech": "adj.", "example": "He made an audacious plan to climb the mountain.", "exampleTranslation": "他制定了一个大胆的登山计划。", "difficulty": 4 },
+    { "word": "austere", "phonetic": "/ɔːˈstɪr/", "definition": "严峻的；朴素的", "partOfSpeech": "adj.", "example": "The monk lived an austere life.", "exampleTranslation": "僧侣过着简朴的生活。", "difficulty": 5 },
+    { "word": "aver", "phonetic": "/əˈvɜːr/", "definition": "断言；宣称", "partOfSpeech": "v.", "example": "The witness averred that he saw the suspect.", "exampleTranslation": "证人坚称他看到了嫌疑人。", "difficulty": 5 },
+    { "word": "banal", "phonetic": "/bəˈnɑːl/", "definition": "平庸的；陈腐的", "partOfSpeech": "adj.", "example": "His speech was full of banal remarks.", "exampleTranslation": "他的演讲充满了陈词滥调。", "difficulty": 5 },
+    { "word": "beleaguer", "phonetic": "/bɪˈliːɡər/", "definition": "围攻；困扰", "partOfSpeech": "v.", "example": "The company was beleaguered by lawsuits.", "exampleTranslation": "该公司被诉讼缠身。", "difficulty": 5 },
+    { "word": "bifurcate", "phonetic": "/ˈbaɪfərkeɪt/", "definition": "分叉；分裂", "partOfSpeech": "v.", "example": "The road bifurcates at the bridge.", "exampleTranslation": "道路在桥处分叉。", "difficulty": 5 },
+    { "word": "bombastic", "phonetic": "/bɑːmˈbæstɪk/", "definition": "夸大其辞的；浮夸的", "partOfSpeech": "adj.", "example": "The politician gave a bombastic speech.", "exampleTranslation": "这位政治家发表了一段浮夸的演讲。", "difficulty": 5 },
+    { "word": "cacophony", "phonetic": "/kəˈkɑːfəni/", "definition": "刺耳的声音；杂音", "partOfSpeech": "n.", "example": "A cacophony of horns filled the street.", "exampleTranslation": "刺耳的喇叭声充斥着街道。", "difficulty": 5 },
+    { "word": "capricious", "phonetic": "/kəˈprɪʃəs/", "definition": "变幻莫测的；任性的", "partOfSpeech": "adj.", "example": "The weather here is capricious.", "exampleTranslation": "这里的天气变幻莫测。", "difficulty": 5 },
+    { "word": "castigate", "phonetic": "/ˈkæstɪɡeɪt/", "definition": "严厉批评；责罚", "partOfSpeech": "v.", "example": "The press castigated the government for its inaction.", "exampleTranslation": "媒体严厉批评政府的不作为。", "difficulty": 5 },
+    { "word": "caustic", "phonetic": "/ˈkɔːstɪk/", "definition": "讽刺的；腐蚀性的", "partOfSpeech": "adj.", "example": "Her caustic remarks offended many.", "exampleTranslation": "她的尖刻言论冒犯了很多人。", "difficulty": 5 },
+    { "word": "censure", "phonetic": "/ˈsenʃər/", "definition": "谴责；指责", "partOfSpeech": "v./n.", "example": "The senator faced censure for his conduct.", "exampleTranslation": "参议员因其行为面临谴责。", "difficulty": 5 },
+    { "word": "chagrin", "phonetic": "/ʃəˈɡrɪn/", "definition": "懊恼；失望", "partOfSpeech": "n.", "example": "Much to his chagrin, he lost the game.", "exampleTranslation": "令他非常懊恼的是，他输掉了比赛。", "difficulty": 5 },
+    { "word": "commensurate", "phonetic": "/kəˈmenʃərət/", "definition": "相称的；相当的", "partOfSpeech": "adj.", "example": "Salary should be commensurate with experience.", "exampleTranslation": "薪水应与经验相称。", "difficulty": 5 },
+    { "word": "compendium", "phonetic": "/kəmˈpendiəm/", "definition": "概要；总集", "partOfSpeech": "n.", "example": "The book is a compendium of knowledge.", "exampleTranslation": "这本书是知识的概要。", "difficulty": 5 },
+    { "word": "conciliatory", "phonetic": "/kənˈsɪliətɔːri/", "definition": "安抚的；调和的", "partOfSpeech": "adj.", "example": "He made conciliatory gestures to ease tensions.", "exampleTranslation": "他做出安抚姿态以缓解紧张。", "difficulty": 5 }
+  ]
+}

@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "inhale",
+    "phonetic": "/inˈheil/",
+    "definition": "吸气",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "inhibitor",
+    "phonetic": "/inˈhibitə(r)/",
+    "definition": "抑制剂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inhumane",
+    "phonetic": "/ˌinhju(ː)ˈmein/",
+    "definition": "不近人情的，残忍的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "inimical",
+    "phonetic": "/iˈnimikl/",
+    "definition": "敌意的，不友善的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "inimitable",
+    "phonetic": "/iˈnimitəbl/",
+    "definition": "无法仿效的，不可比拟的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "iniquitous",
+    "phonetic": "/iˈnikwitəs/",
+    "definition": "邪恶的，不公正的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "iniquity",
+    "phonetic": "/iˈnikwiti/",
+    "definition": "邪恶，不公正",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "injunction",
+    "phonetic": "/inˈdʒʌŋkʃən/",
+    "definition": "命令，强制令",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inkling",
+    "phonetic": "/ˈiŋkliŋ/",
+    "definition": "暗示，迹象；略知，模糊概念",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "innocuous",
+    "phonetic": "/iˈnɔkjuəs/",
+    "definition": "（行为，言论等）无害的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "innuendo",
+    "phonetic": "/ˌinjuˈendəu/",
+    "definition": "含沙射影，暗讽",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "inoculate",
+    "phonetic": "/iˈnɔkjuleit/",
+    "definition": "预防注射，打预防针",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inroad",
+    "phonetic": "/ˈinrəud/",
+    "definition": "突袭；消耗",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "insatiable",
+    "phonetic": "/inˈseiʃəbl/",
+    "definition": "不能满足的，贪心的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inscription",
+    "phonetic": "/inˈskripʃən/",
+    "definition": "铭刻；题字",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inscrutable",
+    "phonetic": "/inˈskruːtəbl/",
+    "definition": "高深莫测的，不可理解的，神秘的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "insecticide",
+    "phonetic": "/inˈsektisaid/",
+    "definition": "杀虫剂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "insensate",
+    "phonetic": "/inˈsenseit/",
+    "definition": "无感觉的；蠢笨的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "insentient",
+    "phonetic": "/inˈsenʃənt/",
+    "definition": "无知觉的，无生命的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "insidious",
+    "phonetic": "/inˈsidiəs/",
+    "definition": "隐藏诡计的，暗中为害的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "insignia",
+    "phonetic": "/inˈsiɡniə/",
+    "definition": "徽章，袖章",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "insincerity",
+    "phonetic": "/ˌinsinˈseriti/",
+    "definition": "伪善，不真诚",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "insipid",
+    "phonetic": "/inˈsipid/",
+    "definition": "乏味的，枯燥的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "insolate",
+    "phonetic": "/ˈinsəuleit/",
+    "definition": "使曝晒",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "insolence",
+    "phonetic": "/ˈinsələns/",
+    "definition": "傲慢，无礼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "insoluble",
+    "phonetic": "/inˈsɔljubl/",
+    "definition": "不溶解的；不能解决的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "insolvency",
+    "phonetic": "/inˈsɔlvənsi/",
+    "definition": "无力偿还；破产",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "insomnia",
+    "phonetic": "/inˈsɔmniə/",
+    "definition": "失眠症",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "insouciance",
+    "phonetic": "/inˈsuːsjəns/",
+    "definition": "漠不关心，漫不经心",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "insouciant",
+    "phonetic": "/inˈsuːsiənt/",
+    "definition": "漫不经心的，漠不关心的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inspired",
+    "phonetic": "/inˈspaiəd/",
+    "definition": "有创见的，有灵感的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "instate",
+    "phonetic": "/inˈsteit/",
+    "definition": "任命，安置",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "institutionalized",
+    "phonetic": "/ˌinstiˈtjuːʃənəlaizd/",
+    "definition": "制度化的，有组织的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "instrumentalist",
+    "phonetic": "/instrəˈmentəlist/",
+    "definition": "乐器演奏者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "insubordinate",
+    "phonetic": "/ˌinsəˈbɔːdnit/",
+    "definition": "不服从的，反抗的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "insubstantial",
+    "phonetic": "/ˌinsəbˈstænʃəl/",
+    "definition": "非实体的；薄弱的，不坚实的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "insularity",
+    "phonetic": "/ˌinsjuˈlærəti/",
+    "definition": "岛国状态，岛屿生活状况，与外界隔绝的生活状况；（思想, 观点等的）偏狭",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "insuperable",
+    "phonetic": "/inˈsjuːpərəbl/",
+    "definition": "难以克服的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "insurgent",
+    "phonetic": "/inˈsəːdʒənt/",
+    "definition": "叛乱的，起事的；n. 叛乱分子",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "insurrection",
+    "phonetic": "/ˌinsəˈrekʃən/",
+    "definition": "造反，叛乱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "intangibility",
+    "phonetic": "/in,tændʒəˈbiləti/",
+    "definition": "无形，不可接触",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "inter",
+    "phonetic": "/inˈtəː/",
+    "definition": "埋葬",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "intercessor",
+    "phonetic": "/ˌintəˈsesə/",
+    "definition": "仲裁者，调解人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "interchangeable",
+    "phonetic": "/intəˈtʃeindʒəb（ə）l/",
+    "definition": "可互换的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "interdict",
+    "phonetic": "/intəˈdikt/",
+    "definition": "禁止；切断（补给线）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "interdisciplinary",
+    "phonetic": "/ˌintə(ː)ˈdisiplinəri/",
+    "definition": "跨学科的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "interjection",
+    "phonetic": "/ˌintəˈdʒekʃən/",
+    "definition": "插入语；感叹词",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "interlace",
+    "phonetic": "/ˌintə(ː)ˈleis/",
+    "definition": "编织；交错",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "interlard",
+    "phonetic": "/ˌintə(ː)ˈlɑːd/",
+    "definition": "使混杂，混入",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "interlock",
+    "phonetic": "/ˌintəˈlɔk/",
+    "definition": "连锁，连串",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "interlocking",
+    "phonetic": "/ˌintə(ː)ˈlɔkiŋ/",
+    "definition": "连锁的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "interlocutor",
+    "phonetic": "/ˌintə(ː)ˈlɔkjutə/",
+    "definition": "对话者，谈话者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "interlope",
+    "phonetic": "/ˌintə(ː)ˈləup/",
+    "definition": "（为图私利）干涉他人之事；闯入",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "interloper",
+    "phonetic": "/ˈintələupə(r)/",
+    "definition": "闯入者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "interminable",
+    "phonetic": "/inˈtəːminəbl/",
+    "definition": "（贬）无尽头的，持续过久的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "intermingle",
+    "phonetic": "/ˌintə(ː)ˈmiŋɡl/",
+    "definition": "混合，掺杂",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intermission",
+    "phonetic": "/ˌintə(ː)ˈmiʃən/",
+    "definition": "暂停，间歇",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "intern",
+    "phonetic": "/inˈtəːn/",
+    "definition": "拘禁，软禁；n. 实习生",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "internecine",
+    "phonetic": "/ˌintə(ː)ˈniːsain/",
+    "definition": "两败俱伤的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "interpolate",
+    "phonetic": "/inˈtəːpəuleit/",
+    "definition": "插入（言语，文字）；篡改",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "interpose",
+    "phonetic": "/ˌintə(ː)ˈpəuz/",
+    "definition": "置于...之间；使介入，插手干涉",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "interregnum",
+    "phonetic": "/ˌintə(ː)ˈreɡnəm/",
+    "definition": "无王时期",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "interrogative",
+    "phonetic": "/ˌintəˈrɔɡətiv/",
+    "definition": "疑问的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "intersperse",
+    "phonetic": "/ˌintə(ː)ˈspəːs/",
+    "definition": "散布；点缀",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "interstice",
+    "phonetic": "/inˈtəːstis/",
+    "definition": "细裂缝，空隙",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intertwine",
+    "phonetic": "/ˌintə(ː)ˈtwain/",
+    "definition": "纠缠，缠，绕",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "interweave",
+    "phonetic": "/ˌintə(ː)ˈwiːv/",
+    "definition": "交织，编结",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intestate",
+    "phonetic": "/inˈtesteit/",
+    "definition": "未留遗嘱的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intestine",
+    "phonetic": "/inˈtestin/",
+    "definition": "肠；a. 内部的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intractable",
+    "phonetic": "/inˈtræktəbl/",
+    "definition": "倔强的；难管的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "intransigent",
+    "phonetic": "/inˈtrænsidʒənt/",
+    "definition": "不妥协的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "introspective",
+    "phonetic": "/ˌintrəuˈspektiv/",
+    "definition": "自省的，好反省的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "intumescence",
+    "phonetic": "/ˌintuːˈmesəns/",
+    "definition": "肿大，肿胀",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "inundate",
+    "phonetic": "/ˈinəndeit/",
+    "definition": "淹没；泛滥",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "inured",
+    "phonetic": "/iˈnjuəd/",
+    "definition": "习惯的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "invective",
+    "phonetic": "/inˈvektiv/",
+    "definition": "猛烈抨击，痛骂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inveigh",
+    "phonetic": "/inˈvei/",
+    "definition": "痛骂，抨击",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "inveigle",
+    "phonetic": "/inˈviːɡl/",
+    "definition": "诱骗，诱使",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "investiture",
+    "phonetic": "/inˈvestitʃə/",
+    "definition": "（宗教）任职仪式，授权仪式",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "inveterate",
+    "phonetic": "/inˈvetərit/",
+    "definition": "积习已深的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "invidious",
+    "phonetic": "/inˈvidiəs/",
+    "definition": "惹人反感的，导致伤害和仇恨的，招人嫉妒的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "invigilate",
+    "phonetic": "/inˈvidʒileit/",
+    "definition": "监考",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "invigorate",
+    "phonetic": "/inˈviɡəreit/",
+    "definition": "鼓舞，激励，使精力充沛，使充满活力",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "invigorating",
+    "phonetic": "/inˈviɡəreitiŋ/",
+    "definition": "使人有精神的，使人健壮的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "inviolable",
+    "phonetic": "/inˈvaiələbl/",
+    "definition": "不可侵犯的；不可亵渎的，神圣的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "invoice",
+    "phonetic": "/ˈinvɔis/",
+    "definition": "发票，发货清单；v. 给开发票",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "involuntary",
+    "phonetic": "/inˈvɔləntəri/",
+    "definition": "无意的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "invulnerable",
+    "phonetic": "/inˈvʌlnərəbl/",
+    "definition": "无法伤害的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "iodine",
+    "phonetic": "/ˈaiədiːn/",
+    "definition": "碘；碘酒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "iota",
+    "phonetic": "/aiˈəutə/",
+    "definition": "极小量，极少",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "irascible",
+    "phonetic": "/iˈræsibl/",
+    "definition": "易发怒的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "irate",
+    "phonetic": "/aiˈreit/",
+    "definition": "发怒的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ire",
+    "phonetic": "/ˈaiə/",
+    "definition": "愤怒；v. 激怒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "iridescence",
+    "phonetic": "/ˌiriˈdesəns/",
+    "definition": "彩虹色",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "iridescent",
+    "phonetic": "/ˌiriˈdesnt/",
+    "definition": "因位置变动而变光的,闪彩光的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "irk",
+    "phonetic": "/əːk/",
+    "definition": "使苦恼的，厌烦",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "irksome",
+    "phonetic": "/ˈəːksəm/",
+    "definition": "令人苦恼的，讨厌的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ironclad",
+    "phonetic": "/aiənˈklæd/",
+    "definition": "装铁甲的；坚固的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "irradiate",
+    "phonetic": "/iˈreidieit/",
+    "definition": "使明亮，生辉",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "irradicable",
+    "phonetic": "/iˈrædikəbl/",
+    "definition": "不能根除的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "irredeemable",
+    "phonetic": "/ˌiriˈdiːməbl/",
+    "definition": "无法挽回的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "irreducible",
+    "phonetic": "/ˌiriˈdjuːsəbl/",
+    "definition": "[数]不能约的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "irremediable",
+    "phonetic": "/ˌiriˈmiːdiəbl/",
+    "definition": "无法治愈的，无法纠正的，无法挽回的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "isotope",
+    "phonetic": "/ˈaisəutəup/",
+    "definition": "同位素",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "isthmus",
+    "phonetic": "/ˈisməs/",
+    "definition": "地峡",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "iterate",
+    "phonetic": "/ˈitəreit/",
+    "definition": "重做，反复重申",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "itinerary",
+    "phonetic": "/aiˈtinərəri/",
+    "definition": "行程表；旅行路线",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "jab",
+    "phonetic": "/dʒæb/",
+    "definition": "猛刺",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "jabber",
+    "phonetic": "/ˈdʒæbə/",
+    "definition": "快而不清楚地说",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "jade",
+    "phonetic": "/dʒeid/",
+    "definition": "疲惫的老马；玉，翡翠",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "jaded",
+    "phonetic": "/ˈdʒeidid/",
+    "definition": "（因厌倦而）疲惫的；（胶卷）暴光过分的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "jagged",
+    "phonetic": "/ˈdʒæɡid/",
+    "definition": "锯齿状的，不整齐的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "jamb",
+    "phonetic": "/dʒæm/",
+    "definition": "门窗的侧柱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "jamboree",
+    "phonetic": "/ˈdʒæmbəˈriː/",
+    "definition": "快乐、喧闹的集会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "jape",
+    "phonetic": "",
+    "definition": "（at） [dʒeip] v. 开玩笑或讽刺",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "jarring",
+    "phonetic": "/ˈdʒɑːriŋ/",
+    "definition": "声音刺耳的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "jaundice",
+    "phonetic": "/ˈdɔːndis/",
+    "definition": "（因嫉妒、猜忌等导致的）偏见；（病）黄疸",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "jaundiced",
+    "phonetic": "/ˈdʒɔːndist/",
+    "definition": "有偏见的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "jaunt",
+    "phonetic": "/dʒɔːnt/",
+    "definition": "/v. 短程旅游",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "jaunty",
+    "phonetic": "/ˈdʒɔːnti/",
+    "definition": "愉快的，满足的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "jejune",
+    "phonetic": "/dʒiˈdʒuːn/",
+    "definition": "（文）空洞的；不成熟的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "jest",
+    "phonetic": "/dʒest/",
+    "definition": "/n. 说笑，玩笑",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "jesting",
+    "phonetic": "/ˈdʒestiŋ/",
+    "definition": "滑稽的；爱开玩笑的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "jettison",
+    "phonetic": "/ˈdʒetisən/",
+    "definition": "抛弃",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "jibe",
+    "phonetic": "/dʒaib/",
+    "definition": "与...一致，符合；嘲笑",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "jigsaw puzzle",
+    "phonetic": "/ˈdʒiɡsɔː ˈpʌzl/",
+    "definition": "拼图游戏",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "jingoism",
+    "phonetic": "/ˈdʒiŋɡəuiz（ə）m/",
+    "definition": "沙文主义；侵略主义",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "jitters",
+    "phonetic": "/ˈdʒitəs/",
+    "definition": "紧张不安",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "jocular",
+    "phonetic": "/ˈdʒɔkjulə/",
+    "definition": "滑稽的，诙谐的；嬉戏的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "jocund",
+    "phonetic": "/ˈdʒɔkənd/",
+    "definition": "快乐的，高兴的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "josh",
+    "phonetic": "/dʒɔʃ/",
+    "definition": "戏弄，戏耍（无恶意地）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "jostle",
+    "phonetic": "/ˈdʒɔsl/",
+    "definition": "推挤；挤开通路",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "jot",
+    "phonetic": "/dʒɔt/",
+    "definition": "匆匆记下，摘要记录",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "jounce",
+    "phonetic": "/dʒauns/",
+    "definition": "颠簸地移动",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "jovial",
+    "phonetic": "/ˈdʒəuviəl/",
+    "definition": "愉快的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "jubilant",
+    "phonetic": "/ˈdʒuːbilənt/",
+    "definition": "喜悦的，欢呼的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "jubilation",
+    "phonetic": "/dʒuːbiˈleiʃ（ə）n/",
+    "definition": "欢快，欢庆",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "judicious",
+    "phonetic": "/dʒu(ː)ˈdiʃəs/",
+    "definition": "有判断力的；明智的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "judiciousness",
+    "phonetic": "/dʒu(ː)ˈdiʃəsnis/",
+    "definition": "明智",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "juggernaut",
+    "phonetic": "/ˈdʒʌɡənɔːt/",
+    "definition": "（贬）摧毁一切的强大力量",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "jumpy",
+    "phonetic": "/ˈdʒʌmpi/",
+    "definition": "紧张不安的，心惊肉跳的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "jurisprudence",
+    "phonetic": "/ˌdʒuərisˈpruːdəns/",
+    "definition": "法律学，法学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "justifiable",
+    "phonetic": "/ˈdʒʌstiˌfaiəbl/",
+    "definition": "有理由的，无可非议的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "juxtapose",
+    "phonetic": "/ˈdʒʌkstəpəuz/",
+    "definition": "并排，并置",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "kaleidoscope",
+    "phonetic": "/kəˈlaidəskəup/",
+    "definition": "万花筒；产生有趣的对称效果",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "kaleidoscopic",
+    "phonetic": "/kəˌlaidəˈskɔpik/",
+    "definition": "千变万化的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "kangaroo",
+    "phonetic": "/ˌkæŋɡəˈruː/",
+    "definition": "袋鼠",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "killjoy",
+    "phonetic": "/ˈkildʒɔi/",
+    "definition": "令人扫兴的人",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "kindred",
+    "phonetic": "/ˈkindrid/",
+    "definition": "同类的，同源的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "kiosk",
+    "phonetic": "/ˈkiːɔsk/",
+    "definition": "售货亭；电话亭",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "knack",
+    "phonetic": "/næk/",
+    "definition": "特殊能力；窍门",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "knave",
+    "phonetic": "/neiv/",
+    "definition": "流氓，恶棍",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "knead",
+    "phonetic": "/niːd/",
+    "definition": "揉制，捏制（面团、湿黏土等）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "knoll",
+    "phonetic": "/nəul/",
+    "definition": "小山；小圆丘",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "know-how",
+    "phonetic": "/ˈnəu hau/",
+    "definition": "专业技能，知识",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "kudos",
+    "phonetic": "/ˈkjuːdɔs/",
+    "definition": "荣誉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "labile",
+    "phonetic": "/ˈleibail/",
+    "definition": "（化）不稳定的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "labored",
+    "phonetic": "/ˈleibəd/",
+    "definition": "吃力的；（文体等）不自然的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "lacerate",
+    "phonetic": "/ˈlæsəreit/",
+    "definition": "撕裂；深深伤害（感情）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "laceration",
+    "phonetic": "/ˌlæsəˈreiʃən/",
+    "definition": "撕裂；裂口",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "lachrymose",
+    "phonetic": "/ˈlækriməus/",
+    "definition": "好流泪的；引人落泪的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "lackadaisical",
+    "phonetic": "/ˌlækəˈdeizikəl/",
+    "definition": "无精打采的；无兴趣的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "lackey",
+    "phonetic": "/ˈlæki/",
+    "definition": "卑躬屈膝者，走卒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "lackluster",
+    "phonetic": "/ˈlæk,lʌstə/",
+    "definition": "无光泽的；呆滞的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "laconic",
+    "phonetic": "/ləˈkɔnik/",
+    "definition": "简洁的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "lactic",
+    "phonetic": "/ˈlæktik/",
+    "definition": "乳汁的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ladle",
+    "phonetic": "/ˈleidl/",
+    "definition": "杓子，长柄杓",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "laggard",
+    "phonetic": "/ˈlæɡəd/",
+    "definition": "缓慢的；落后的；n. 落后者",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "lair",
+    "phonetic": "/leə/",
+    "definition": "野兽的巢穴；躲藏处",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "laity",
+    "phonetic": "/ˈleiiti/",
+    "definition": "（有别于教士的）俗信徒，俗人阶级；外行",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "lambaste",
+    "phonetic": "/læmˈbeist/",
+    "definition": "痛打；痛骂",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "lamentable",
+    "phonetic": "/ˈlæməntəbl/",
+    "definition": "令人惋惜的，悔恨的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "laminate",
+    "phonetic": "/ˈlæmineit/",
+    "definition": "切成薄板（片）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "lampoon",
+    "phonetic": "/læmˈpuːn/",
+    "definition": "讽刺文章；v. 讽刺",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "lance",
+    "phonetic": "/lɑːns;læns/",
+    "definition": "切开 n. 长矛；鱼叉",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "lancet",
+    "phonetic": "/ˈlɑːnsit/",
+    "definition": "手术刀",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "landfill",
+    "phonetic": "/ˈlændfil/",
+    "definition": "垃圾堆",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "landlocked",
+    "phonetic": "/ˈlændlɔkt/",
+    "definition": "被陆地包围的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "landslide",
+    "phonetic": "/ˈlændslaid/",
+    "definition": "山崩；压倒性胜利",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "languor",
+    "phonetic": "/ˈlæŋɡə/",
+    "definition": "身心疲惫",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "lank",
+    "phonetic": "/læŋk/",
+    "definition": "（人）瘦长的；（毛发）平直而软的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "lapidary",
+    "phonetic": "/ˈlæpidəri/",
+    "definition": "宝石工，宝石专家",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "lapse",
+    "phonetic": "/læps/",
+    "definition": "失误，小错；（时间等）流逝",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "lard",
+    "phonetic": "/lɑːd/",
+    "definition": "使丰富，使充满",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "larder",
+    "phonetic": "/ˈlɑːdə/",
+    "definition": "食品室",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "largess",
+    "phonetic": "/ˈlɑːdʒes/",
+    "definition": "赠送，赏赐；赠品；贺礼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "largesse",
+    "phonetic": "/lɑːˈdʒes/",
+    "definition": "慷慨援助；施舍",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "lark",
+    "phonetic": "/lɑːk/",
+    "definition": "/v. 玩乐，嬉耍",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "lassitude",
+    "phonetic": "/ˈlæsitjuːd/",
+    "definition": "疲倦；没精打采",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "lasso",
+    "phonetic": "/ˈlæsəu/",
+    "definition": "套索（捕捉牛、马用）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "latch",
+    "phonetic": "/lætʃ/",
+    "definition": "门闩；v. 用门闩闩牢",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "latency",
+    "phonetic": "/ˈleitənsi/",
+    "definition": "潜伏期",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "lateral",
+    "phonetic": "/ˈlætərəl/",
+    "definition": "侧面的；从侧面的；向侧面的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "lathe",
+    "phonetic": "/leið/",
+    "definition": "车床",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "lattice",
+    "phonetic": "/ˈlætis/",
+    "definition": "（做篱笆或爬藤架等的）格子架",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "lave",
+    "phonetic": "/leiv/",
+    "definition": "洗浴；（水）冲刷，沿...流淌",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "laxative",
+    "phonetic": "/ˈlæksətiv/",
+    "definition": "（药）通便的；放松的；n. 轻泻药",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "layover",
+    "phonetic": "/ˈleiəuvə/",
+    "definition": "旅途中的短暂停留",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "leach",
+    "phonetic": "/liːtʃ/",
+    "definition": "过滤",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "leakage",
+    "phonetic": "/ˈliːkidʒ/",
+    "definition": "渗漏，漏出",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  }
+]

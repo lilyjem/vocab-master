@@ -1,0 +1,44 @@
+[
+  {
+    "category": "functional",
+    "description": "登录页面表单元素完整",
+    "steps": [
+      "打开 /auth/login 页面",
+      "验证显示 VocabMaster Logo",
+      "验证显示 登录 VocabMaster 标题",
+      "验证存在邮箱输入框",
+      "验证存在密码输入框",
+      "验证存在 登录 提交按钮",
+      "验证存在 立即注册 链接",
+      "验证存在 暂不登录 链接"
+    ],
+    "passes": true
+  },
+  {
+    "category": "functional",
+    "description": "注册页面表单元素完整",
+    "steps": [
+      "打开 /auth/register 页面",
+      "验证显示 注册 相关标题",
+      "验证存在昵称输入框",
+      "验证存在邮箱输入框",
+      "验证存在密码输入框",
+      "验证存在确认密码输入框",
+      "验证存在 注册 提交按钮",
+      "验证存在 立即登录 链接指向登录页"
+    ],
+    "passes": true
+  },
+  {
+    "category": "functional",
+    "description": "登录页和注册页之间可以互相跳转",
+    "steps": [
+      "打开 /auth/login 页面",
+      "点击 立即注册 链接",
+      "验证跳转到 /auth/register",
+      "点击 立即登录 链接",
+      "验证跳转到 /auth/login"
+    ],
+    "passes": true
+  }
+]

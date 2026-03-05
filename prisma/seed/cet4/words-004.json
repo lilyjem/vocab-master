@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "certificate",
+    "phonetic": "/səˈtifikit/",
+    "definition": "证书，证件，执照",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "chain",
+    "phonetic": "/t∫ein/",
+    "definition": "链，链条，项圈",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chair",
+    "phonetic": "/t∫eə/",
+    "definition": "椅子；主席",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chairman",
+    "phonetic": "/ˈt∫eəmən/",
+    "definition": "主席；议长，会长",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chalk",
+    "phonetic": "/t∫ɔːk/",
+    "definition": "白垩；粉笔",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "challenge",
+    "phonetic": "/ˈt∫ælindʒ/",
+    "definition": "挑战；要求，需要",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "chamber",
+    "phonetic": "/ˈt∫eimbə/",
+    "definition": "会议室；房间；腔",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "champion",
+    "phonetic": "/ˈt∫æmpjən/",
+    "definition": "冠军，得胜者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chance",
+    "phonetic": "/t∫ɑːns/",
+    "definition": "机会，机遇；可能性",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "change",
+    "phonetic": "/t∫eindʒ/",
+    "definition": "改变，变化；零钱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "channel",
+    "phonetic": "/ˈt∫ænl/",
+    "definition": "海峡；渠道；频道",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chapter",
+    "phonetic": "/ˈt∫æptə/",
+    "definition": "章，回，篇",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "character",
+    "phonetic": "/ˈkæriktə/",
+    "definition": "性格；特性；角色",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "characteristic",
+    "phonetic": "/ˌkæriktəˈristik/",
+    "definition": "特有的 n.特性",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "charge",
+    "phonetic": "/t∫ɑːdʒ/",
+    "definition": "索价；控告 n.费用",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "charity",
+    "phonetic": "/ˈt∫æriti/",
+    "definition": "施舍；慈善事业",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "charming",
+    "phonetic": "/ˈt∫ɑːmiŋ/",
+    "definition": "迷人的，可爱的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chart",
+    "phonetic": "/t∫ɑːt/",
+    "definition": "图，图表；海图",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chase",
+    "phonetic": "/t∫eis/",
+    "definition": "追逐，追赶，追求",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cheap",
+    "phonetic": "/t∫iːp/",
+    "definition": "廉价的；劣质的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cheat",
+    "phonetic": "/t∫iːt/",
+    "definition": "骗取；哄 vi.行骗",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "check",
+    "phonetic": "/t∫ek/",
+    "definition": "检查；制止 n.检查",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cheek",
+    "phonetic": "/t∫iːk/",
+    "definition": "面颊，脸蛋",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cheer",
+    "phonetic": "/t∫iə/",
+    "definition": "使振作；欢呼",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cheerful",
+    "phonetic": "/ˈt∫iəful/",
+    "definition": "快乐的，愉快的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cheese",
+    "phonetic": "/t∫iːz/",
+    "definition": "乳酪，干酪",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chemical",
+    "phonetic": "/ˈkemikəl/",
+    "definition": "化学的 n.化学制品",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chemist",
+    "phonetic": "/ˈkemist/",
+    "definition": "化学家；药剂师",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chemistry",
+    "phonetic": "/ˈkemistri/",
+    "definition": "化学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "cheque",
+    "phonetic": "/t∫ek/",
+    "definition": "支票",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cherry",
+    "phonetic": "/ˈt∫eri/",
+    "definition": "樱桃；樱桃树",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chess",
+    "phonetic": "/t∫es/",
+    "definition": "棋；国际象棋",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chest",
+    "phonetic": "/t∫est/",
+    "definition": "胸腔，胸膛；箱子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chew",
+    "phonetic": "/t∫uː/",
+    "definition": "咀嚼，嚼碎",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "chicken",
+    "phonetic": "/ˈt∫ikin/",
+    "definition": "小鸡，小鸟；鸡肉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chief",
+    "phonetic": "/t∫iːf/",
+    "definition": "主要的；首席的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "child",
+    "phonetic": "/t∫aild/",
+    "definition": "小孩，儿童；儿子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "childhood",
+    "phonetic": "/ˈt∫aildhud/",
+    "definition": "童年，幼年；早期",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "childish",
+    "phonetic": "/ˈt∫aildi∫/",
+    "definition": "孩子的；幼稚的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chill",
+    "phonetic": "/t∫il/",
+    "definition": "使变冷 n.寒冷",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chimney",
+    "phonetic": "/ˈt∫imni/",
+    "definition": "烟囱，烟筒；玻璃罩",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chin",
+    "phonetic": "/t∫in/",
+    "definition": "颏，下巴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "china",
+    "phonetic": "/ˈt∫ainə/",
+    "definition": "中国",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chinese",
+    "phonetic": "/ˈt∫aiˈniːz/",
+    "definition": "中国的 n.中国人",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "chocolate",
+    "phonetic": "/ˈt∫ɔkəlit/",
+    "definition": "巧克力；巧克力糖",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "choice",
+    "phonetic": "/t∫ɔis/",
+    "definition": "选择，抉择",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "choke",
+    "phonetic": "/t∫əuk/",
+    "definition": "使窒息；塞满",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "choose",
+    "phonetic": "/t∫uːz/",
+    "definition": "选择，挑选；情愿",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "chop",
+    "phonetic": "/t∫ɔp/",
+    "definition": "砍，劈；切细 vi.砍",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "christian",
+    "phonetic": "/ˈkristjən/",
+    "definition": "基督教徒；信徒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "christmas",
+    "phonetic": "/ˈkrisməs/",
+    "definition": "圣诞节",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "church",
+    "phonetic": "/t∫əːt∫/",
+    "definition": "教堂，礼拜堂；教会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cigarette",
+    "phonetic": "/sigəˈret/",
+    "definition": "香烟，纸烟，卷烟",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "cinema",
+    "phonetic": "/ˈsinimə/",
+    "definition": "电影院；电影，影片",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "circle",
+    "phonetic": "/ˈsəːkl/",
+    "definition": "圆，圆周；圈子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "circuit",
+    "phonetic": "/ˈsəːkit/",
+    "definition": "电路；环行；巡行",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "circular",
+    "phonetic": "/ˈsəːkjulə/",
+    "definition": "圆的；循环的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "circulate",
+    "phonetic": "/ˈsəːkjuleit/",
+    "definition": "使循环 vi.循环",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "circumference",
+    "phonetic": "/səˈkʌmfərəns/",
+    "definition": "圆周，周长，圆周线",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "circumstance",
+    "phonetic": "/ˈsəːkəmstəns/",
+    "definition": "情况，条件；境遇",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "citizen",
+    "phonetic": "/ˈsitizn/",
+    "definition": "公民；市民，居民",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "city",
+    "phonetic": "/ˈsiti/",
+    "definition": "城市，都市",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "civil",
+    "phonetic": "/ˈsivl/",
+    "definition": "公民的；文职的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "civilization",
+    "phonetic": "/sivəliˈzei∫ən/",
+    "definition": "文明，文化；开化",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "civilize",
+    "phonetic": "/ˈsivilaiz/",
+    "definition": "使文明；教育",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "claim",
+    "phonetic": "/kleim/",
+    "definition": "声称，主张；索取",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "clap",
+    "phonetic": "/klæp/",
+    "definition": "拍手 vt.拍，轻拍",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "clarify",
+    "phonetic": "/ˈklærifai/",
+    "definition": "澄清，阐明",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "clasp",
+    "phonetic": "/klɑːsp/",
+    "definition": "扣子，钩子；别针",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "class",
+    "phonetic": "/klɑːs/",
+    "definition": "班，班级；阶级",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "classical",
+    "phonetic": "/ˈklæsikəl/",
+    "definition": "古典的；经典的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "classification",
+    "phonetic": "/ˌklæsifiˈkei∫ən/",
+    "definition": "分类/级;分类法",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "classify",
+    "phonetic": "/ˈklæsifai/",
+    "definition": "把…分类",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "classmate",
+    "phonetic": "/ˈklɑːsmeit/",
+    "definition": "同班同学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "classroom",
+    "phonetic": "/ˈklɑːsrum/",
+    "definition": "教室，课堂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "claw",
+    "phonetic": "/klɔː/",
+    "definition": "爪，脚爪，螯",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "clay",
+    "phonetic": "/klei/",
+    "definition": "粘土，泥土；肉体",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "clean",
+    "phonetic": "/kliːn/",
+    "definition": "清洁的；纯洁的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "clear",
+    "phonetic": "/kliə/",
+    "definition": "清晰的 vt.清除",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "clearly",
+    "phonetic": "/ˈkliəli/",
+    "definition": "明白地，清晰地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "clerk",
+    "phonetic": "/klərk/",
+    "definition": "店员；办事员，职员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "clever",
+    "phonetic": "/ˈklevə/",
+    "definition": "聪明的；机敏的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cliff",
+    "phonetic": "/klif/",
+    "definition": "悬崖，峭壁",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "climate",
+    "phonetic": "/ˈklaimit/",
+    "definition": "气候；风土，地带",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "climb",
+    "phonetic": "/klaim/",
+    "definition": "攀登，爬 vt.爬",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cloak",
+    "phonetic": "/kləuk/",
+    "definition": "斗篷；覆盖(物)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "clock",
+    "phonetic": "/klɔk/",
+    "definition": "钟，仪表",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "close",
+    "phonetic": "/kləuz/",
+    "definition": "关，闭；结束",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "closely",
+    "phonetic": "/ˈkləuzli/",
+    "definition": "紧密地，接近地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cloth",
+    "phonetic": "/klɔ(ː)θ/",
+    "definition": "布；衣料；桌布",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "clothe",
+    "phonetic": "/kləuð/",
+    "definition": "给…穿衣服",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "clothes",
+    "phonetic": "/kləuðz/",
+    "definition": "衣服，服装；被褥",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "clothing",
+    "phonetic": "/ˈkləuðiŋ/",
+    "definition": "衣服，被褥",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cloud",
+    "phonetic": "/klaud/",
+    "definition": "云；云状物；阴影",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cloudy",
+    "phonetic": "/ˈklaudi/",
+    "definition": "多云的；云一般的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "club",
+    "phonetic": "/klʌb/",
+    "definition": "俱乐部，夜总会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "clue",
+    "phonetic": "/kluː/",
+    "definition": "线索，暗示，提示",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "clumsy",
+    "phonetic": "/ˈklʌmzi/",
+    "definition": "笨拙的；愚笨的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "coach",
+    "phonetic": "/kəut∫/",
+    "definition": "长途公共汽车",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "coal",
+    "phonetic": "/kəul/",
+    "definition": "煤，煤块",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "coarse",
+    "phonetic": "/kɔːs/",
+    "definition": "粗的，粗糙的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "coast",
+    "phonetic": "/kəust/",
+    "definition": "海岸，海滨(地区)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "coat",
+    "phonetic": "/kəut/",
+    "definition": "外套，上衣；表皮",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cock",
+    "phonetic": "/kɔk/",
+    "definition": "公鸡；雄禽；旋塞",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "code",
+    "phonetic": "/kəud/",
+    "definition": "准则；法典；代码",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "coffee",
+    "phonetic": "/ˈkɔfi/",
+    "definition": "咖啡，咖啡茶",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "coil",
+    "phonetic": "/kɔil/",
+    "definition": "(一)卷；线圈 vt.卷",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "coin",
+    "phonetic": "/kɔin/",
+    "definition": "硬币；铸造(硬币)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cold",
+    "phonetic": "/kəuld/",
+    "definition": "冷的；冷淡的 n.冷",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "collapse",
+    "phonetic": "/kəˈlæps/",
+    "definition": "倒坍；崩溃，瓦解",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "collar",
+    "phonetic": "/ˈkɔlə/",
+    "definition": "衣领，项圈",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "colleague",
+    "phonetic": "/ˈkɔliːg/",
+    "definition": "同事，同僚",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "collect",
+    "phonetic": "/kəˈlekt/",
+    "definition": "收集 vi.收款",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "collection",
+    "phonetic": "/kəˈlek∫ən/",
+    "definition": "搜集，收集；收藏品",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "collective",
+    "phonetic": "/kəˈlektiv/",
+    "definition": "集体的；集合性的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "college",
+    "phonetic": "/ˈkɔlidʒ/",
+    "definition": "学院；大学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "collision",
+    "phonetic": "/kəˈliʒən/",
+    "definition": "碰撞；冲突",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "colonel",
+    "phonetic": "/ˈkəːnl/",
+    "definition": "陆军上校；中校",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "colony",
+    "phonetic": "/ˈkɔləni/",
+    "definition": "殖民地；侨居地",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "color",
+    "phonetic": "/ˈkʌlə/",
+    "definition": "颜色，彩色；颜料",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "column",
+    "phonetic": "/ˈkɔləm/",
+    "definition": "柱，支柱，圆柱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "comb",
+    "phonetic": "/kəum/",
+    "definition": "梳子 vt.梳理",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "combination",
+    "phonetic": "/ˌkɔmbiˈnei∫ən/",
+    "definition": "结合,联合;化合",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "combine",
+    "phonetic": "/kəmˈbain/",
+    "definition": "使结合；兼有",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "come",
+    "phonetic": "/kʌm/",
+    "definition": "来，来到；出现",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "comfort",
+    "phonetic": "/ˈkʌmfət/",
+    "definition": "舒适；安慰 vt.安慰",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "comfortable",
+    "phonetic": "/ˈkʌmfətəbl/",
+    "definition": "舒适的，安慰的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "command",
+    "phonetic": "/kəˈmɑːnd/",
+    "definition": "命令，指挥；控制",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "commander",
+    "phonetic": "/kəˈmɑːndə/",
+    "definition": "司令官，指挥员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "comment",
+    "phonetic": "/ˈkɔment/",
+    "definition": "评论，意见；注释",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "commerce",
+    "phonetic": "/ˈkɔmə(ː)s/",
+    "definition": "商业，贸易；社交",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "commercial",
+    "phonetic": "/kəˈməː∫əl/",
+    "definition": "商业的；商品化的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "commission",
+    "phonetic": "/kəˈmi∫ən/",
+    "definition": "委任状；委员会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "commit",
+    "phonetic": "/kəˈmit/",
+    "definition": "犯(错误);干(坏事)",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "committee",
+    "phonetic": "/kəˈmiti/",
+    "definition": "委员会；全体委员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "common",
+    "phonetic": "/ˈkɔmən/",
+    "definition": "普通的；共同的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "commonly",
+    "phonetic": "/ˈkɔmənli/",
+    "definition": "普通地，一般地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "communicate",
+    "phonetic": "/kəˈmjuːnikeit/",
+    "definition": "通讯;传达;传播",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "communication",
+    "phonetic": "/kəˌmjuːniˈkei∫n/",
+    "definition": "通讯;传达；交通",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "communism",
+    "phonetic": "/ˈkɔmjunizəm/",
+    "definition": "共产主义",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "communist",
+    "phonetic": "/ˈkɔmjunist/",
+    "definition": "共产党员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "community",
+    "phonetic": "/kəˈmjuːniti/",
+    "definition": "社区；社会；公社",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "companion",
+    "phonetic": "/kəmˈpænjən/",
+    "definition": "同伴;共事者;伴侣",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "company",
+    "phonetic": "/ˈkʌmpəni/",
+    "definition": "公司，商号；同伴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "comparative",
+    "phonetic": "/kəmˈpærətiv/",
+    "definition": "比较的，相对的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "compare",
+    "phonetic": "/kəmˈpeə/",
+    "definition": "比较，对照；比作",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "comparison",
+    "phonetic": "/kəmˈpærisn/",
+    "definition": "比较，对照；比似",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "compass",
+    "phonetic": "/ˈkʌmpəs/",
+    "definition": "罗盘，指南针；圆规",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "compel",
+    "phonetic": "/kəmˈpel/",
+    "definition": "强迫，迫使屈服",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "compete",
+    "phonetic": "/kəmˈpiːt/",
+    "definition": "比赛；竞争；对抗",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "competent",
+    "phonetic": "/ˈkɔmpitənt/",
+    "definition": "有能力的；应该做的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "competition",
+    "phonetic": "/kɔmpiˈti∫ən/",
+    "definition": "竞争，比赛",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "compile",
+    "phonetic": "/kəmˈpail/",
+    "definition": "编辑，编制，搜集",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "complain",
+    "phonetic": "/kəmˈplein/",
+    "definition": "抱怨，拆苦；控告",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "complaint",
+    "phonetic": "/kəmˈpleint/",
+    "definition": "抱怨；怨言；控告",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "complete",
+    "phonetic": "/kəmˈpliːt/",
+    "definition": "完整的；完成的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "completely",
+    "phonetic": "/kəmˈpliːtli/",
+    "definition": "十分，完全地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "complex",
+    "phonetic": "/ˈkɔmpleks/",
+    "definition": "结合的；复杂的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "complicate",
+    "phonetic": "/ˈkɔmplikeit/",
+    "definition": "使复杂；使陷入",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "complicated",
+    "phonetic": "/ˈkɔmplikeitid/",
+    "definition": "复杂的，难懂的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "component",
+    "phonetic": "/kəmˈpəunənt/",
+    "definition": "组成部分；分；组件",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "compose",
+    "phonetic": "/kəmˈpəuz/",
+    "definition": "组成，构成；创作",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "composition",
+    "phonetic": "/kɔmpəˈzi∫ən/",
+    "definition": "构成；作品；写作",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "compound",
+    "phonetic": "/ˈkɔmpaund/",
+    "definition": "化合物；复合词",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "comprehension",
+    "phonetic": "/ˌkɔmpriˈhen∫ən/",
+    "definition": "理解，理解力；领悟",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "comprehensive",
+    "phonetic": "/ˌkɔmpriˈhensiv/",
+    "definition": "广泛的；理解的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "compress",
+    "phonetic": "/kəmˈpres/",
+    "definition": "压紧，压缩",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "comprise",
+    "phonetic": "/kəmˈpraiz/",
+    "definition": "包含，包括；构成",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "compromise",
+    "phonetic": "/ˈkɔmprəmaiz/",
+    "definition": "妥协，和解",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "compute",
+    "phonetic": "/kəmˈpjuːt/",
+    "definition": "计算，估计，估算",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "computer",
+    "phonetic": "/kəmˈpjuːtə/",
+    "definition": "计算机，电脑",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "comrade",
+    "phonetic": "/ˈkɔmrid/",
+    "definition": "同志，亲密的同伴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "conceal",
+    "phonetic": "/kənˈsiːl/",
+    "definition": "把…隐藏起来",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "concentrate",
+    "phonetic": "/ˈkɔnsentreit/",
+    "definition": "集中；聚集；浓缩",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "concentration",
+    "phonetic": "/ˌkɔnsenˈtrei∫ən/",
+    "definition": "集中;专注;浓缩",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "concept",
+    "phonetic": "/ˈkɔnsept/",
+    "definition": "概念，观念，设想",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "concern",
+    "phonetic": "/kənˈsəːn/",
+    "definition": "关心，挂念；关系",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "concerning",
+    "phonetic": "/kənˈsəːniŋ/",
+    "definition": "关于",
+    "partOfSpeech": "prep.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "concert",
+    "phonetic": "/ˈkɔnsət/",
+    "definition": "音乐会，演奏会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "conclude",
+    "phonetic": "/kənˈkluːd/",
+    "definition": "推断出；结束",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "conclusion",
+    "phonetic": "/kənˈkluːʒən/",
+    "definition": "结论，推论；结尾",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "concrete",
+    "phonetic": "/ˈkɔnkriːt/",
+    "definition": "混凝土；具体物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "condemn",
+    "phonetic": "/kənˈdem/",
+    "definition": "谴责，指责；判刑",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "condense",
+    "phonetic": "/kənˈdens/",
+    "definition": "压缩，使缩短",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "condition",
+    "phonetic": "/kənˈdi∫ən/",
+    "definition": "状况，状态；环境",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "conduct",
+    "phonetic": "/ˈkɔndʌkt,-dəkt/",
+    "definition": "举止，行为；指导",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "conductor",
+    "phonetic": "/kənˈdʌktə/",
+    "definition": "售票员；(乐队)指挥",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "conference",
+    "phonetic": "/ˈkɔnfərəns/",
+    "definition": "会议，讨论会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "confess",
+    "phonetic": "/kənˈfes/",
+    "definition": "供认，承认；坦白",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "confidence",
+    "phonetic": "/ˈkɔnfidəns/",
+    "definition": "信任；信赖；信心",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "confident",
+    "phonetic": "/ˈkɔnfidənt/",
+    "definition": "确信的，自信的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "confine",
+    "phonetic": "/ˈkɔnfain/",
+    "definition": "限制；禁闭",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "confirm",
+    "phonetic": "/kənˈfəːm/",
+    "definition": "证实，肯定；批准",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "conflict",
+    "phonetic": "/ˈkɔnflikt/",
+    "definition": "争论；冲突；斗争",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "confuse",
+    "phonetic": "/kənˈfjuːz/",
+    "definition": "使混乱，混淆",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "confusion",
+    "phonetic": "/kənˈfjuːʒən/",
+    "definition": "混乱；骚乱；混淆",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "congratulate",
+    "phonetic": "/kənˈgrætjuleit/",
+    "definition": "祝贺,向…道喜",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "congratulation",
+    "phonetic": "/kənˌgrætjuˈlei∫ən/",
+    "definition": "祝贺(词)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "congress",
+    "phonetic": "/ˈkɔŋgres/",
+    "definition": "大会；国会，议会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "conjunction",
+    "phonetic": "/kənˈdʒʌŋk∫ən/",
+    "definition": "接合,连接(词)",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  }
+]

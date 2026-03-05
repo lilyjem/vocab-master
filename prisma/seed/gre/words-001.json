@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "abase",
+    "phonetic": "/əˈbeis/",
+    "definition": "降低自己，贬抑，使卑下",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "abash",
+    "phonetic": "/əˈbæʃ/",
+    "definition": "使害羞，使尴尬",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "aberrant",
+    "phonetic": "/æˈberənt/",
+    "definition": "越轨的；异常的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "aberration",
+    "phonetic": "/ˌæbəˈreiʃən/",
+    "definition": "离开正路，脱离常轨；变形",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "abet",
+    "phonetic": "/əˈbet/",
+    "definition": "教唆，鼓励，帮助",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "abeyance",
+    "phonetic": "/əˈbeiəns/",
+    "definition": "中止，搁置",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "abject",
+    "phonetic": "/ˈæbdʒekt/",
+    "definition": "极可怜的;卑下的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "abjure",
+    "phonetic": "/əbˈdʒuə/",
+    "definition": "发誓放弃",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ablution",
+    "phonetic": "/əˈbluːʃən/",
+    "definition": "（宗教的）净礼，沐浴",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "abnegate",
+    "phonetic": "/ˈæbniɡeit/",
+    "definition": "否认，放弃",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "abnegation",
+    "phonetic": "/ˌæbniˈɡeiʃən/",
+    "definition": "放弃; 自我牺牲",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "abominate",
+    "phonetic": "/əˈbɔmineit/",
+    "definition": "痛恨；厌恶",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "aboveboard",
+    "phonetic": "/əˈbʌv,bɔːd/",
+    "definition": "/adv. 光明正大的（地）",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "abrade",
+    "phonetic": "/əˈbreid/",
+    "definition": "磨损，磨小",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "abrasive",
+    "phonetic": "/əˈbreisiv/",
+    "definition": "磨损的；生硬粗暴的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "abrogate",
+    "phonetic": "/ˈæbrəuɡeit/",
+    "definition": "废止，废除",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "abscission",
+    "phonetic": "/æbˈsiʒən/",
+    "definition": "[医]切除，截去；[植]脱离",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "abscond",
+    "phonetic": "/əbˈskɔnd/",
+    "definition": "潜逃，逃亡",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "absenteeism",
+    "phonetic": "/æbsənˈtiːiz（ə）m/",
+    "definition": "旷课，旷工",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "abstemious",
+    "phonetic": "/æbˈstiːmjəs/",
+    "definition": "有节制的，节俭的（eating & drinking）",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "abstention",
+    "phonetic": "/æbˈstenʃən/",
+    "definition": "节制",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "abstentious",
+    "phonetic": "/əbˈstenʃəs/",
+    "definition": "节制的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "abstinent",
+    "phonetic": "/ˈæbstinənt/",
+    "definition": "饮食有度的，有节制的，禁欲的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "abut",
+    "phonetic": "/əˈbʌt/",
+    "definition": "接界，毗连",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "abysmal",
+    "phonetic": "/əˈbizməl/",
+    "definition": "极深的；糟透的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "acarpous",
+    "phonetic": "/eiˈkɑːpəs/",
+    "definition": "不结果实的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "accede",
+    "phonetic": "/ækˈsiːd/",
+    "definition": "同意",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "acclimate",
+    "phonetic": "/əˈklaimit/",
+    "definition": "使服水土; 使适应",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "accolade",
+    "phonetic": "/ˈækəleid/",
+    "definition": "推崇；赞扬",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "accommodating",
+    "phonetic": "/əˈkɔmədeitiŋ/",
+    "definition": "乐于助人的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "accrete",
+    "phonetic": "/æˈkriːt/",
+    "definition": "逐渐增长；添加生长；连生",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "accretion",
+    "phonetic": "/æˈkriːʃən/",
+    "definition": "自然的增加；增加物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "accrue",
+    "phonetic": "/əˈkruː/",
+    "definition": "（利息等）增大；增多",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "acerbic",
+    "phonetic": "/əˈsəːbik/",
+    "definition": "苦涩的；刻薄的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "acerbity",
+    "phonetic": "/əˈsəːbiti/",
+    "definition": "涩，酸，刻薄",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "achromatic",
+    "phonetic": "/ˌækrəuˈmætik/",
+    "definition": "非彩色的，无色的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "acme",
+    "phonetic": "/ˈækmi/",
+    "definition": "顶点，极点",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "acolyte",
+    "phonetic": "/ˈækəlait/",
+    "definition": "（教士的）助手，侍僧",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "acorn",
+    "phonetic": "/ˈeikɔːn/",
+    "definition": "橡子，橡果",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "acquainted",
+    "phonetic": "/əˈkweintid/",
+    "definition": "对某事物熟悉的；对某人认识的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "acquiesce",
+    "phonetic": "/ˌækwiˈes/",
+    "definition": "勉强同意，默许",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "acquired",
+    "phonetic": "/əˈkwaiəd/",
+    "definition": "后天习得的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "acquittal",
+    "phonetic": "/əˈkwit（ə）l/",
+    "definition": "宣告无罪，开释",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "acrobat",
+    "phonetic": "/ˈækrəbæt/",
+    "definition": "特技演员，杂技演员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "acronym",
+    "phonetic": "/ˈækrənim/",
+    "definition": "首字母缩略词",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "acrophobia",
+    "phonetic": "/ˌækrəuˈfəubjə/",
+    "definition": "恐高症",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "actuarial",
+    "phonetic": "/ˌæktjuˈeəriəl/",
+    "definition": "（保险）精算的，保险计算的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "actuate",
+    "phonetic": "/ˈæktjueit/",
+    "definition": "驱使，激励",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "acuity",
+    "phonetic": "/əˈkjuiti/",
+    "definition": "（尤指思想或感官）敏锐",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "adamant",
+    "phonetic": "/ˈædəmənt/",
+    "definition": "强硬的；固执的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "addendum",
+    "phonetic": "/əˈdendəm/",
+    "definition": "补充，附录",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "addle",
+    "phonetic": "/ˈædl/",
+    "definition": "使腐坏; 使昏乱",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "adduce",
+    "phonetic": "/əˈdjuːs/",
+    "definition": "给予（理由）; 举出（例证）",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "adjudicate",
+    "phonetic": "/əˈdʒuːdikeit/",
+    "definition": "充当裁判; 判决",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "adlib",
+    "phonetic": "/ædˈlib/",
+    "definition": "临时讲话，即兴表演",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "adulate",
+    "phonetic": "/ˈædjuleit/",
+    "definition": "谄媚，奉承",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "adulterate",
+    "phonetic": "/əˈdʌltəreit/",
+    "definition": "掺假",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "adumbrate",
+    "phonetic": "/ˈædʌm,breit/",
+    "definition": "（对将来事件）预示",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "adventitious",
+    "phonetic": "/ˌædvenˈtiʃəs/",
+    "definition": "偶然的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "advert",
+    "phonetic": "/ədˈvəːt/",
+    "definition": "注意，留意",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "aegis",
+    "phonetic": "/ˈidʒis/",
+    "definition": "盾；保护，庇护",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "aerate",
+    "phonetic": "/ˈeiəreit/",
+    "definition": "充气，让空气进入",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "aeronautics",
+    "phonetic": "/ˌeərəˈnɔːtiks/",
+    "definition": "航空学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "aesthete",
+    "phonetic": "/ˈiːsθiːt/",
+    "definition": "审美家",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "affectation",
+    "phonetic": "/ˌæfekˈteiʃən/",
+    "definition": "做作，虚假",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "affected",
+    "phonetic": "/əˈfektid/",
+    "definition": "不自然的；假装的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "affidavit",
+    "phonetic": "/ˌæfiˈdeivit/",
+    "definition": "宣誓书",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "affliction",
+    "phonetic": "/əˈflikʃən/",
+    "definition": "悲痛，受难的起因",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "affront",
+    "phonetic": "/əˈfrʌnt/",
+    "definition": "侮辱，冒犯",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "agape",
+    "phonetic": "/əˈɡeip/",
+    "definition": "/adv. （嘴）大张着的/地",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "agglomerate",
+    "phonetic": "/əˈɡlɔməreit/",
+    "definition": "凝聚，结块",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "aggrandize",
+    "phonetic": "/əˈɡrændaiz/",
+    "definition": "增大，扩张；吹棒",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "aggressor",
+    "phonetic": "/əˈɡresə(r)/",
+    "definition": "侵略者，攻击者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "aggrieve",
+    "phonetic": "/əˈɡriːv/",
+    "definition": "使受委屈；使痛苦",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "agitated",
+    "phonetic": "/ˈædʒiteitid/",
+    "definition": "被鼓动的；不安的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "agnostic",
+    "phonetic": "/æɡˈnɔstik/",
+    "definition": "不可知论的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "agog",
+    "phonetic": "/əˈɡɔɡ/",
+    "definition": "兴奋的，有强烈兴趣的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "agronomy",
+    "phonetic": "/əɡˈrɔnəmi/",
+    "definition": "农学，农艺学",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "airtight",
+    "phonetic": "/ˈeətait/",
+    "definition": "密闭的，不透气的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "alabaster",
+    "phonetic": "/ˈæləbɑːstə/",
+    "definition": "雪白的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "alacrity",
+    "phonetic": "/əˈlækriti/",
+    "definition": "乐意，欣然；敏捷，活泼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "albeit",
+    "phonetic": "/ɔːlˈbiːit/",
+    "definition": "虽然，尽管",
+    "partOfSpeech": "conj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "albino",
+    "phonetic": "/ælˈbiːnəu/",
+    "definition": "白化病者，白化变种",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "alchemy",
+    "phonetic": "/ˈælkimi/",
+    "definition": "炼金术",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "alcove",
+    "phonetic": "/ˈælkəuv/",
+    "definition": "凹室",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "alias",
+    "phonetic": "/ˈeiliəs/",
+    "definition": "化名，别名",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "alibi",
+    "phonetic": "/ˈælibai/",
+    "definition": "某人当时不在犯罪现场的申辩或证明",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "alimentary",
+    "phonetic": "/ˌæliˈmentəri/",
+    "definition": "饮食的，营养的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "alliterate",
+    "phonetic": "/əˈlitəreit/",
+    "definition": "押头韵",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "alluring",
+    "phonetic": "/əˈljuəriŋ/",
+    "definition": "吸引人的，迷人的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "almond",
+    "phonetic": "/ˈɑːmənd/",
+    "definition": "杏树，杏仁",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "alms",
+    "phonetic": "/ɑːmz/",
+    "definition": "施舍物，救济品",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "aloof",
+    "phonetic": "/əˈluːf/",
+    "definition": "冷淡的，疏远的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "altruistic",
+    "phonetic": "/ˌæltruˈistik/",
+    "definition": "无私的，为他人着想的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "amalgam",
+    "phonetic": "/əˈmælɡəm/",
+    "definition": "混合物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "amateurish",
+    "phonetic": "/ˌæməˈtəːriʃ/",
+    "definition": "业余爱好的，不熟练的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ambidextrous",
+    "phonetic": "/ˈæmbiˈdekstrəs/",
+    "definition": "十分灵巧的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "ambience",
+    "phonetic": "/ˈæmbiəns/",
+    "definition": "环境，气氛",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "ambivalence",
+    "phonetic": "/æmˈbivələns/",
+    "definition": "矛盾心理",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ambivalent",
+    "phonetic": "/æmˈbivələnt/",
+    "definition": "（对人或物）有矛盾看法的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "amble",
+    "phonetic": "/ˈæmbl/",
+    "definition": "/v. 漫步，缓行",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ambrosial",
+    "phonetic": "/æmˈbrəuzjəl/",
+    "definition": "芬香的，特别美味的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ambulatory",
+    "phonetic": "/ˈæmbjulətəri/",
+    "definition": "（适宜于）步行的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ambush",
+    "phonetic": "/ˈæmbuʃ/",
+    "definition": "埋伏；伏击",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "ameliorate",
+    "phonetic": "/əˈmiːljəreit/",
+    "definition": "改善，改良",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "amenity",
+    "phonetic": "/əˈmiːniti/",
+    "definition": "礼仪；使人感到舒适的事物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "amethyst",
+    "phonetic": "/ˈæməθist/",
+    "definition": "紫水晶",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "amiss",
+    "phonetic": "/əˈmis/",
+    "definition": "有毛病地，出差错地",
+    "partOfSpeech": "adv.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "amity",
+    "phonetic": "/ˈæməti/",
+    "definition": "（人或国之间的）友好关系",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "amnesia",
+    "phonetic": "/æmˈniːzjə/",
+    "definition": "健忘症",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "amnesty",
+    "phonetic": "/ˈæmnesti/",
+    "definition": "大赦，特赦",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "amoral",
+    "phonetic": "/eiˈmɔrəl/",
+    "definition": "与道德无关的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "amorphous",
+    "phonetic": "/əˈmɔːfəs/",
+    "definition": "无定形的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "amortize",
+    "phonetic": "/əˈmɔːtaiz/",
+    "definition": "分期偿还",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "amphibian",
+    "phonetic": "/æmˈfibiən/",
+    "definition": "两栖动物；水陆两用飞行器",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "amplitude",
+    "phonetic": "/ˈæmplitjuːd/",
+    "definition": "广大，广阔",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "amputate",
+    "phonetic": "/ˈæmpju,teit/",
+    "definition": "截肢",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "amulet",
+    "phonetic": "/ˈæmjulit/",
+    "definition": "护身符",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "anachronistic",
+    "phonetic": "/ə,nækrəˈnistik/",
+    "definition": "年代出错的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "anaerobic",
+    "phonetic": "/ˌæneiəˈrəubik/",
+    "definition": "厌氧的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "anagram",
+    "phonetic": "/ˈænəɡræm/",
+    "definition": "变形词",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "analgesia",
+    "phonetic": "/ˌænælˈdʒiːzjə/",
+    "definition": "无痛觉，痛觉丧失",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "analgesic",
+    "phonetic": "/ænælˈdʒiːsik/",
+    "definition": "镇痛剂；a. 止痛的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "anarchist",
+    "phonetic": "/ˈænəkist/",
+    "definition": "无政府主义者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "anarchy",
+    "phonetic": "/ˈænəki/",
+    "definition": "无政府;政治上的混乱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "anathema",
+    "phonetic": "/əˈnæθimə/",
+    "definition": "被诅咒的人；宗教意义的诅咒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "anatomical",
+    "phonetic": "/ˌænəˈtɔmikəl/",
+    "definition": "解剖学的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "ancillary",
+    "phonetic": "/ænˈsiləri/",
+    "definition": "辅助的；n. 助手",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "anemia",
+    "phonetic": "/əˈniːmiə/",
+    "definition": "贫血，贫血症",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "anemic",
+    "phonetic": "/əˈniːmik/",
+    "definition": "贫血的，患贫血症的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "anesthetic",
+    "phonetic": "/ˌænisˈθetik/",
+    "definition": "麻醉剂；a. 麻醉的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "angular",
+    "phonetic": "/ˈæŋɡjulə/",
+    "definition": "有角的；（指人）瘦削的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "anhydrous",
+    "phonetic": "/ænˈhaidrəs/",
+    "definition": "无水的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "animadvert",
+    "phonetic": "/ˌænimædˈvəːt/",
+    "definition": "苛责，非难",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "animosity",
+    "phonetic": "/ˌæniˈmɔsiti/",
+    "definition": "憎恶，仇恨",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "animus",
+    "phonetic": "/ˈæniməs/",
+    "definition": "敌意，憎恨",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "annals",
+    "phonetic": "/ˈænəlz/",
+    "definition": "编年史",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "anodyne",
+    "phonetic": "/ˈænəudain/",
+    "definition": "止痛药",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "anorexia",
+    "phonetic": "/ˌænə（u）ˈreksiə/",
+    "definition": "厌食症",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "antagonize",
+    "phonetic": "/ænˈtæɡənaiz/",
+    "definition": "使对抗；与...对抗",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "antarctic",
+    "phonetic": "/ænˈtɑːktik/",
+    "definition": "南极的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "antecedence",
+    "phonetic": "/æntiˈsiːdəns/",
+    "definition": "居先，优先",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "antecedent",
+    "phonetic": "/ˌæntiˈsiːdənt/",
+    "definition": "前事；前辈；a. 先行的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "antedate",
+    "phonetic": "/ˈænti,deit/",
+    "definition": "（在信、文件上）写上较早日期；早于",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "antediluvian",
+    "phonetic": "/ˌæntidiˈluːviən/",
+    "definition": "史前的；陈旧的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "anterior",
+    "phonetic": "/ænˈtiəriə/",
+    "definition": "较早的，以前的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "anthem",
+    "phonetic": "/ˈænθəm/",
+    "definition": "圣歌；赞美歌，国歌",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "anthology",
+    "phonetic": "/ænˈθɔlədʒi/",
+    "definition": "诗集，文选",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "anthropoid",
+    "phonetic": "/ˈænθrəpɔid/",
+    "definition": "像人类的；n. 类人猿",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "anthropologist",
+    "phonetic": "/ˌænθrəˈpɔlədʒist/",
+    "definition": "人类学家",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "antibody",
+    "phonetic": "/ˈænti,bɔdi/",
+    "definition": "抗体（身体中的抗病物质）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "antic",
+    "phonetic": "/ˈæntik/",
+    "definition": "古怪的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "anticipatory",
+    "phonetic": "/ænˈtisipeitəri/",
+    "definition": "预想的，预期的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "anticlimax",
+    "phonetic": "/ˌæntiˈklaimæks/",
+    "definition": "令人扫兴的结局;（演讲）突降法",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "antidote",
+    "phonetic": "/ˈæntidəut/",
+    "definition": "解毒药",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "antihistamine",
+    "phonetic": "/ˌæntiˈhistəmi(ː)n/",
+    "definition": "（治疗过敏的）抗组胺剂",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "antipathy",
+    "phonetic": "/ænˈtipəθi/",
+    "definition": "反感，厌恶",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "antiquated",
+    "phonetic": "/ˈæntikweitid/",
+    "definition": "陈旧的，过时的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "antithesis",
+    "phonetic": "/ænˈtiθisis/",
+    "definition": "对立；相对",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "anvil",
+    "phonetic": "/ˈænvil/",
+    "definition": "铁砧",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "aorta",
+    "phonetic": "/eiˈɔːtə/",
+    "definition": "主动脉",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "aphorism",
+    "phonetic": "/ˈæfərizm/",
+    "definition": "格言",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "apiary",
+    "phonetic": "/ˈeipjəri/",
+    "definition": "养蜂场，蜂房",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "aplomb",
+    "phonetic": "/ˈæplɔːŋ/",
+    "definition": "沉着，镇静",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "apocalyptic",
+    "phonetic": "/əpɔkəˈliptik/",
+    "definition": "预示世界末日的；启示的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "apocrypha",
+    "phonetic": "/əˈpɔkrifə/",
+    "definition": "伪经，伪书",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "apocryphal",
+    "phonetic": "/əˈpɔkrif（ə）l/",
+    "definition": "假冒的，虚假的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "apogee",
+    "phonetic": "/ˈæpəudʒiː/",
+    "definition": "远地点",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "apoplectic",
+    "phonetic": "/ˌæpəuˈplektik/",
+    "definition": "中风的；愤怒的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "apostasy",
+    "phonetic": "/əˈpɔstəsi/",
+    "definition": "背教，脱党",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "apostate",
+    "phonetic": "/əˈpɔstit/",
+    "definition": "背教者；变节者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "apostrophe",
+    "phonetic": "/əˈpɔstrəfi/",
+    "definition": "书写中撇号（’）（表示省略或所有格）",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "apothecary",
+    "phonetic": "/əˈpɔθikəri/",
+    "definition": "药剂师",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "apothegm",
+    "phonetic": "/ˈæpəuθem/",
+    "definition": "格言，警句",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "apotheosis",
+    "phonetic": "/ə,pɔθiˈəusis/",
+    "definition": "神化; 典范",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "apparition",
+    "phonetic": "/ˌæpəˈriʃən/",
+    "definition": "幽灵，神奇的现象",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "appellation",
+    "phonetic": "/ˌæpeˈleiʃən/",
+    "definition": "名称，称呼",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "appendage",
+    "phonetic": "/əˈpendidʒ/",
+    "definition": "附加物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "appetizer",
+    "phonetic": "/ˈæpitaizə(r)/",
+    "definition": "开胃品",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "appetizing",
+    "phonetic": "/ˈæpitaiziŋ/",
+    "definition": "美味可口的，促进食欲的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "apposite",
+    "phonetic": "/ˈæpəzit/",
+    "definition": "适当的，恰当的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "appreciable",
+    "phonetic": "/əˈpriːʃiəbl/",
+    "definition": "明显的，可观的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "apprehensive",
+    "phonetic": "/ˌæpriˈhensiv/",
+    "definition": "有眼力的；害怕的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "apprise",
+    "phonetic": "/əˈpraiz/",
+    "definition": "通知，告诉",
+    "partOfSpeech": "v.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "approbation",
+    "phonetic": "/ˌæprəˈbeiʃən/",
+    "definition": "称赞，认可",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "apropos",
+    "phonetic": "/ˈæprəpəu/",
+    "definition": "/adv. 适宜的（地）；有关",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "aqueduct",
+    "phonetic": "/ˈækwi,dʌkt/",
+    "definition": "引水渠；高架渠",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "aquifer",
+    "phonetic": "/ˈækwifə/",
+    "definition": "含水土层",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "aquiline",
+    "phonetic": "/ˈækwilain/",
+    "definition": "鹰的，似鹰的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "arabesque",
+    "phonetic": "/ˌærəˈbesk/",
+    "definition": "蔓藤图饰",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "arachnid",
+    "phonetic": "/əˈræknid/",
+    "definition": "蜘蛛类节肢动物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "arbiter",
+    "phonetic": "/ˈɑːbitə/",
+    "definition": "权威人士，泰斗",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "arboreal",
+    "phonetic": "/ɑːˈbɔːriəl/",
+    "definition": "树木的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "arboretum",
+    "phonetic": "/ˌɑːbəˈriːtəm/",
+    "definition": "植物园",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "arcane",
+    "phonetic": "/ɑːˈkein/",
+    "definition": "神秘的，秘密的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "archer",
+    "phonetic": "/ˈɑːtʃə/",
+    "definition": "弓箭手，射手",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "archetype",
+    "phonetic": "/ˈɑːkitaip/",
+    "definition": "原型；典型例子",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "archipelago",
+    "phonetic": "/ˌɑːkiˈpeliɡəu/",
+    "definition": "群岛",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "arctic",
+    "phonetic": "/ˈɑːktik/",
+    "definition": "北极的；极寒的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "argot",
+    "phonetic": "/ˈɑːɡəu/",
+    "definition": "隐语，黑话",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  }
+]

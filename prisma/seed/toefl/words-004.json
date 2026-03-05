@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "confidential",
+    "phonetic": "/'kɔnfi'denʃəl/",
+    "definition": "机密的,获他人信赖的,易于信任他人的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "confine",
+    "phonetic": "/kən'fain/",
+    "definition": "限制,闭居,禁闭n. 边缘,范围,区域",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "confirm",
+    "phonetic": "/kən'fə:m/",
+    "definition": "确定,批准,使巩固,使有效v. 确认",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "confiscate",
+    "phonetic": "/'kɔnfiskeit/",
+    "definition": "没收,充公,查抄a. 被没收的",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "confound",
+    "phonetic": "/kən'faund/",
+    "definition": "使混淆,使狼狈,挫败",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "congenial",
+    "phonetic": "/kən'dʒi:njəl/",
+    "definition": "同性质的,适意的,趣味相同的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "congested",
+    "phonetic": "/kən'dʒestid/",
+    "definition": "拥挤的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "congregate",
+    "phonetic": "/'kɔŋgrigeit/",
+    "definition": "vi. (使)集合,(使)聚集a. 集合在一起的,集体的",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "congressman",
+    "phonetic": "/'kɔŋgresmən/",
+    "definition": "国会议员,众议院议员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "congruity",
+    "phonetic": "/kən'gruəti/",
+    "definition": "适合,一致,调和",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "conjure",
+    "phonetic": "/'kʌndʒə,kən'dʒuə/",
+    "definition": "以咒文召唤,变戏法,想象vi. 变戏法,施魔法vt. 祈求,恳求",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "connivance",
+    "phonetic": "/kə'naivəns/",
+    "definition": "默许,纵容,假装不见",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "connive",
+    "phonetic": "/kə'naiv/",
+    "definition": "假装不见,默许,共谋,纵容",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "connoisseur",
+    "phonetic": "/kɔ:ni'sə:/",
+    "definition": "鉴识家,鉴定家,内行",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "conscience",
+    "phonetic": "/'kɔnʃəns/",
+    "definition": "良心",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "conscientious",
+    "phonetic": "/'kɔnʃi'enʃəs/",
+    "definition": "有责任心的,负责的,本着良心的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "conscious",
+    "phonetic": "/'kɔnʃəs/",
+    "definition": "有意识的,知觉的,觉察的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "consecrate",
+    "phonetic": "/'kɔnsikreit/",
+    "definition": "供神用,奉献,使神圣a. 被献给神的,神圣的",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "consecutive",
+    "phonetic": "/kən'sekjutiv/",
+    "definition": "连续的,联贯的,始终一贯的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "consensus",
+    "phonetic": "/kən'sensəs/",
+    "definition": "一致,交感",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "conservative",
+    "phonetic": "/kən'sə:vətiv/",
+    "definition": "保守的,守旧的,有保存力的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "conservatory",
+    "phonetic": "/kən'sə:vətouri/",
+    "definition": "保存性的,有保存力的n. 温室,音乐学校",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "conserve",
+    "phonetic": "/kən'sə:v/",
+    "definition": "蜜饯,果酱vt. 保存,保全",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "consider",
+    "phonetic": "/kən'sidə/",
+    "definition": "vi. 考虑,思考,认为",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "considerable",
+    "phonetic": "/kən'sidərəbl/",
+    "definition": "相当的,可观的,重要的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "considerate",
+    "phonetic": "/kən'sidərit/",
+    "definition": "体贴的,体谅的,顾虑周到的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "console",
+    "phonetic": "/kən'səul/",
+    "definition": "安慰,藉慰n. 控制台v. 控制台",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "consolidate",
+    "phonetic": "/kən'sɔlideit/",
+    "definition": "巩固,使联合,统一vi. 巩固",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "consort",
+    "phonetic": "/'kɔnsɔ:t,kən'sɔ:t/",
+    "definition": "配偶,夫妻vi. 陪伴,结交,符合vt. 使配对",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "conspicuous",
+    "phonetic": "/kən'spikjuəs/",
+    "definition": "显著的,显眼的,出众的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "conspiracy",
+    "phonetic": "/kən'spirəsi/",
+    "definition": "同谋,阴谋,反叛",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "conspire",
+    "phonetic": "/kən'spaiə/",
+    "definition": "阴谋,协力,共谋vt. 图谋",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "constant",
+    "phonetic": "/'kɔnstənt/",
+    "definition": "常数,恒量a. 不变的,一定的,时常的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "constellation",
+    "phonetic": "/'kɔnstə'leiʃən/",
+    "definition": "星座,灿烂的一群",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "constitute",
+    "phonetic": "/'kɔnstitju:t/",
+    "definition": "构成,组成,任命",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "constrain",
+    "phonetic": "/kən'strein/",
+    "definition": "强迫,勉强,驱使",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "constrict",
+    "phonetic": "/kən'strikt/",
+    "definition": "压缩,束紧,使收缩vi. 压缩",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "construct",
+    "phonetic": "/kən'strʌkt/",
+    "definition": "构造,建造,想出,作图n. 构成物",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "construe",
+    "phonetic": "/kən'stru:/",
+    "definition": "解释,分析,逐字翻译vi. 作句法分析n. 逐字翻译",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "consult",
+    "phonetic": "/kən'sʌlt/",
+    "definition": "商讨,商量,协商,会诊vt. 向. . . 请教,查阅,考虑",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "consume",
+    "phonetic": "/kən'sju:m/",
+    "definition": "消耗,消费,消灭vi. 消灭,毁灭",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "consumer",
+    "phonetic": "/kən'sju:mə/",
+    "definition": "消费者",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "contagious",
+    "phonetic": "/kən'teidʒəs/",
+    "definition": "传染性的,会蔓延的,会传播的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "container",
+    "phonetic": "/kən'teinə/",
+    "definition": "容器,集装箱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "contaminate",
+    "phonetic": "/kən'tæmineit/",
+    "definition": "弄污,弄脏,毒害,传染,染污",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "contemn",
+    "phonetic": "/kən'tem/",
+    "definition": "侮辱,蔑视",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "contemplate",
+    "phonetic": "/'kɔntempleit/",
+    "definition": "注视,沉思,打算vi. 冥思苦想",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "contemptible",
+    "phonetic": "/kən'temptəbl/",
+    "definition": "卑鄙的,可轻蔑的,不足齿的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "contemptuous",
+    "phonetic": "/kən'temptjuəs/",
+    "definition": "轻蔑的,侮辱的,瞧不起人的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "contend",
+    "phonetic": "/kən'tend/",
+    "definition": "奋斗,斗争,竞争vt. 为. . . 斗争",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "content",
+    "phonetic": "/'kɔntent,kən'tent/",
+    "definition": "内容,满足,意义,要旨a. 满足的,满意的,意义的vt. 使. . . 满足,",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "continent",
+    "phonetic": "/'kɔntinənt/",
+    "definition": "大陆,洲a. 自制的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "contingent",
+    "phonetic": "/kən'tindʒənt/",
+    "definition": "或许发生的,附随的,暂时的n. 偶然的事情,分遣队",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "continually",
+    "phonetic": "/kən'tinjuəli/",
+    "definition": "不断地,频繁地",
+    "partOfSpeech": "ad.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "contour",
+    "phonetic": "/'kɔntuə/",
+    "definition": "轮廓vt. 画轮廓a. 与轮廓相符的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "contract",
+    "phonetic": "/'kɔntrækt,kən'trækt] n./",
+    "definition": "合约,婚约,契约vt. 使缩短,感染,缔结,承包,订约vi. 订约,承包",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "contradict",
+    "phonetic": "/'kɔntrə'dikt/",
+    "definition": "反驳,与. . . 抵触,与. . . 矛盾vi. 反驳",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "contrast",
+    "phonetic": "/'kɔntræst,kən'træst] n./",
+    "definition": "差别,对比,对照物vt. 使对比vi. 成对照",
+    "partOfSpeech": "",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "contravene",
+    "phonetic": "/'kɔntrə'vi:n/",
+    "definition": "1 违反,违背,冒犯 <习惯、法律等>2 a. 反驳,反对 <议论、陈述等>",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "contrite",
+    "phonetic": "/'kɔntrait/",
+    "definition": "悔悟了的,后悔的,痛悔的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "contrive",
+    "phonetic": "/kən'traiv/",
+    "definition": "vi. 发明,设计,图谋",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "controversial",
+    "phonetic": "/'kɔntrə'və:ʃəl/",
+    "definition": "争论的,论争的,被议论的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "controversy",
+    "phonetic": "/'kɔntrəvə:si/",
+    "definition": "论争,辩论,论战,争论",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "controvert",
+    "phonetic": "/'kɔntrə'və:t/",
+    "definition": "议论,辩驳,驳击vi. 参加辩论",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "convene",
+    "phonetic": "/kən'vi:n/",
+    "definition": "集合,召集,召唤vi. 聚集,集合",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "convenient",
+    "phonetic": "/kən'vi:njənt/",
+    "definition": "方便的,合宜的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "convention",
+    "phonetic": "/kən'venʃən/",
+    "definition": "大会,协定,惯例n. 约定",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "convert",
+    "phonetic": "/kən'və:t,'kɔnvə:t/",
+    "definition": "皈依者,改宗者vt. 使改变信仰,兑换,倒置vi. 皈依n. 转换",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "convey",
+    "phonetic": "/kən'vei/",
+    "definition": "传达,运输,转移",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "convict",
+    "phonetic": "/kən'vikt,'kɔnvikt/",
+    "definition": "囚犯,罪犯vt. 宣告有罪,使知罪",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "convoy",
+    "phonetic": "/'kɔnvɔi/",
+    "definition": "护送,护卫,警护vt. 护航,护送",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cooperation",
+    "phonetic": "/kəu'ɔpə'reiʃən/",
+    "definition": "合作,协力,合作社",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "coordinate",
+    "phonetic": "/kəu'ɔdinit/",
+    "definition": "同等的人物,同位格,坐标a. 同等的,等位的vt. vi. (使)协调",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "copper",
+    "phonetic": "/'kɔpə/",
+    "definition": "铜,警察",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "copy",
+    "phonetic": "/'kɔpi/",
+    "definition": "副本,摹仿,一册vt. vi. 复印,抄袭n. 副本v. 复制",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cordial",
+    "phonetic": "/'kɔ:djəl/",
+    "definition": "兴奋剂,补品a. 热忱的,诚恳的,兴奋的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "corps",
+    "phonetic": "/kɔ:/",
+    "definition": "军团,队,团,兵种",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "corpse",
+    "phonetic": "/kɔ:ps/",
+    "definition": "尸体",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "corpulent",
+    "phonetic": "/'kə:pjulənt/",
+    "definition": "肥大的,肥胖的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "correct",
+    "phonetic": "/kə'rekt/",
+    "definition": "正确的,品行端正的vt. 改正,订正",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "correlate",
+    "phonetic": "/'kɔrileit/",
+    "definition": "有相互关系的东西,相关物vt. 使有相互关系vi. 互相有关系",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "correspondence",
+    "phonetic": "/'kɔris'pɔndəns/",
+    "definition": "相符,通信,信件",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "corroborate",
+    "phonetic": "/kə'rɔbəreit/",
+    "definition": "使坚固,确证",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "corrode",
+    "phonetic": "/kə'rəud/",
+    "definition": "使腐蚀,侵蚀,破坏vi. 腐蚀,被侵蚀",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cosmopolitan",
+    "phonetic": "/'kɔzmə'pɔlitən/",
+    "definition": "1 (无地方或国家偏见的) 世界主义的,四海为家的2 世界性的,国际",
+    "partOfSpeech": "adj.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 5
+  },
+  {
+    "word": "costume",
+    "phonetic": "/'kɔstju:m/",
+    "definition": "装束,服装",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "counsel",
+    "phonetic": "/'kaunsəl/",
+    "definition": "商议,忠告,法律顾问vi. vt. 商议,劝告",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "counterfeit",
+    "phonetic": "/'kauntəfit/",
+    "definition": "赝品,伪造品a. 假冒的,假装的vt. vi. 仿造,伪装,假装",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "counterpart",
+    "phonetic": "/'kauntəpa:t/",
+    "definition": "副本,复本,配对物,相应物",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "countless",
+    "phonetic": "/'kauntlis/",
+    "definition": "数不尽的,无数的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "court",
+    "phonetic": "/kɔ:t/",
+    "definition": "法院,庭院,奉承vt. 献殷勤,追求,招致危险vi. 求爱",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "courteous",
+    "phonetic": "/'kə:tjəs/",
+    "definition": "彬彬有礼,谦恭的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "cover",
+    "phonetic": "/'kʌvə/",
+    "definition": "盖子,封面,藉口vt. 覆盖,掩饰,包括,掩护,保护vi. 覆盖",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "covetous",
+    "phonetic": "/'kʌvətəs/",
+    "definition": "妄羡的,乱要的,贪婪的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cower",
+    "phonetic": "/'kauə/",
+    "definition": "畏缩,退缩,抖缩",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cozy",
+    "phonetic": "/'kəuzi/",
+    "definition": "舒适的,安逸的,惬意的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "craft",
+    "phonetic": "/kra:ft/",
+    "definition": "技艺,手艺,诡计vt. 巧手制作",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "crafty",
+    "phonetic": "/'kra:fti/",
+    "definition": "狡诈的,诡计多端的,巧妙的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cram",
+    "phonetic": "/kræm/",
+    "definition": "塞满,填满,猛吃vi. 贪吃n. 塞满",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "crash",
+    "phonetic": "/kræʃ/",
+    "definition": "轰隆声,猛撞,崩溃,粗布vi. vt. 撞碎,破碎,迫降a. 速成的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "crave",
+    "phonetic": "/kreiv/",
+    "definition": "vi. 渴望,热望,恳求",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "crazy",
+    "phonetic": "/'kreizi/",
+    "definition": "发狂的,狂热的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "credential",
+    "phonetic": "/kri'denʃəl/",
+    "definition": "国书,凭据,印信",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "credit",
+    "phonetic": "/'kredit/",
+    "definition": "信用,信任,学分,贷款,荣誉vt. 归功于,赞颂,信任,相信",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "credulous",
+    "phonetic": "/'kredjuləs/",
+    "definition": "轻信的,易被瞒的,易受骗的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "creed",
+    "phonetic": "/kri:d/",
+    "definition": "教条,主义,纲领",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "creek",
+    "phonetic": "/kri:k/",
+    "definition": "小溪,小湾",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "crevice",
+    "phonetic": "/'krevis/",
+    "definition": "裂缝",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "crew",
+    "phonetic": "/kru:/",
+    "definition": "全体人员,群众,全体机员",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "crisp",
+    "phonetic": "/krisp/",
+    "definition": "脆的,新鲜的,活泼的vt. vi. (使)烘脆,(使)卷曲,(使)起皱n. 松脆",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "critical",
+    "phonetic": "/'kritikəl/",
+    "definition": "批评的,决定性的,危险的,临界的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "crooked",
+    "phonetic": "/'krukid/",
+    "definition": "弯曲的,歪的,邪恶的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "crucial",
+    "phonetic": "/'kru:ʃiəl/",
+    "definition": "决定性的,重要的,严厉的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "crude",
+    "phonetic": "/kru:d/",
+    "definition": "天然的,未成熟的,粗糙的,粗鲁的n. 天然的物质",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "crumble",
+    "phonetic": "/'krʌmbl/",
+    "definition": "崩溃,破碎,灭亡vt. 弄碎n. 面包屑",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "crumple",
+    "phonetic": "/'krʌmpl/",
+    "definition": "弄皱,压皱vi. 崩溃,变皱",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "crush",
+    "phonetic": "/krʌʃ/",
+    "definition": "压碎,粉碎,群众,迷恋vt. 压破,征服,挤入,弄皱,冲入vi. 被压碎,起",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "crust",
+    "phonetic": "/krʌst/",
+    "definition": "外壳,坚硬的外壳,面包皮vt. 盖以硬皮vi. 结硬皮",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cryptic",
+    "phonetic": "/'kriptik/",
+    "definition": "秘密的,神秘的,含义模糊的,隐藏的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "crystal",
+    "phonetic": "/'kristl/",
+    "definition": "水晶,水晶装饰品,结晶a. 水晶的,水晶一样的,透明的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cubic",
+    "phonetic": "/'kju:bik/",
+    "definition": "立方体的,立方的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cuisine",
+    "phonetic": "/kwi'zi:n/",
+    "definition": "烹调风格,烹调法,烹饪,厨房",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "culmination",
+    "phonetic": "/'kʌlmə'neʃən/",
+    "definition": "顶点,极点,最高点",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "culpable",
+    "phonetic": "/'kʌlpəbl/",
+    "definition": "该责备的,有罪的,不周到的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cult",
+    "phonetic": "/kʌlt/",
+    "definition": "礼拜,礼拜式,祭仪,一群信徒",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "cultivate",
+    "phonetic": "/'kʌltiveit/",
+    "definition": "培养,耕作",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "cultivation",
+    "phonetic": "/'kʌlti'veiʃən/",
+    "definition": "教化,培养,耕作",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "cunning",
+    "phonetic": "/'kʌniŋ/",
+    "definition": "狡猾的,巧妙的,可爱的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "curb",
+    "phonetic": "/kə:b/",
+    "definition": "抑制,勒马绳,边石vt. 抑制,束缚,勒住",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "curiosity",
+    "phonetic": "/'kjuəri'ɔsiti/",
+    "definition": "好奇心,新奇的事物,珍品",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "curious",
+    "phonetic": "/'kjuəriəs/",
+    "definition": "好奇的,求知的,古怪的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "currency",
+    "phonetic": "/'kʌrənsi/",
+    "definition": "通货,流通,通用n. 货币,货币型",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "current",
+    "phonetic": "/'kʌrənt/",
+    "definition": "涌流,趋势,流a. 流通的,现在的,最近的a. 当前的",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cursory",
+    "phonetic": "/'kə:səri/",
+    "definition": "匆匆忙忙的,草率的,粗略的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "curt",
+    "phonetic": "/kə:t/",
+    "definition": "简略的,简短的,生硬的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "curtail",
+    "phonetic": "/kə:'teil/",
+    "definition": "缩减,剥夺,简略",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "cushion",
+    "phonetic": "/'kuʃən/",
+    "definition": "垫子,橡皮软垫vt. 加垫褥,缓冲,掩盖",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "custom",
+    "phonetic": "/'kʌstəm/",
+    "definition": "习惯,风俗,海关v. 定制n. 自定义",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "cynical",
+    "phonetic": "/'sinikəl/",
+    "definition": "愤世嫉俗的,讽刺的,冷嘲的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dab",
+    "phonetic": "/dæb/",
+    "definition": "少量,轻拍,比目鱼,熟手vt. vi. 轻拍,轻擦",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "dagger",
+    "phonetic": "/'dægə/",
+    "definition": "匕首vt. 用剑刺",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "damp",
+    "phonetic": "/dæmp/",
+    "definition": "湿气a. 潮湿的vt. 使潮湿,阻尼,抑止vi. 变潮湿,衰减",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "dampen",
+    "phonetic": "/'dæmpən/",
+    "definition": "弄湿,使衰减vi. 变湿,丧气",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dangerous",
+    "phonetic": "/'deindʒrəs/",
+    "definition": "危险的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "dangle",
+    "phonetic": "/'dæŋgl/",
+    "definition": "摇晃地悬挂着, 追求 vt. 使摇晃地悬挂 n. 悬垂",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dank",
+    "phonetic": "/dæŋk/",
+    "definition": "透水的,潮湿的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "daring",
+    "phonetic": "/'dεəriŋ/",
+    "definition": "大胆的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dart",
+    "phonetic": "/da:t/",
+    "definition": "飞镖,投射vt. 投射vi. 疾走,突进",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "dated",
+    "phonetic": "/'deitid/",
+    "definition": "有日期的,陈旧的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dauntless",
+    "phonetic": "/'dɔ:ntlis/",
+    "definition": "不屈不挠的,大胆的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "daze",
+    "phonetic": "/deiz/",
+    "definition": "使茫然,发昏,使眼花缭乱n. 迷乱,眼花缭乱",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "dazzle",
+    "phonetic": "/'dæzl/",
+    "definition": "vi. (使)眼花,眩耀n. 耀眼",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dazzling",
+    "phonetic": "/'dæzliŋ/",
+    "definition": "眼花缭乱的,耀眼的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "dead",
+    "phonetic": "/ded/",
+    "definition": "死的,不活泼的,麻木的,熄灭的n. 死者ad. 完全地,突然地",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "deadly",
+    "phonetic": "/'dedli/",
+    "definition": "致命的,致死的ad. 非常地,如死一般地",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "deal",
+    "phonetic": "/di:l/",
+    "definition": "交易,协定,松木,买卖,份量vi. 处理,应付,做生意vt. 分配,发牌,给",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "debatable",
+    "phonetic": "/di'beitəbl/",
+    "definition": "可争论的,成问题的,未决定的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "debt",
+    "phonetic": "/det/",
+    "definition": "债务,罪过",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "debtor",
+    "phonetic": "/'detə/",
+    "definition": "债务人,借主,借方",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "decadence",
+    "phonetic": "/di'kedns/",
+    "definition": "颓废",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "decay",
+    "phonetic": "/di'kei/",
+    "definition": "衰退,腐败vi. (使)衰退,(使)腐败",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "deceit",
+    "phonetic": "/di'si:t/",
+    "definition": "欺骗,谎言",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "deceitful",
+    "phonetic": "/di'si:tful/",
+    "definition": "欺诈的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "deceive",
+    "phonetic": "/di'si:v/",
+    "definition": "vi. 欺骗,行骗",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "decent",
+    "phonetic": "/'di:snt/",
+    "definition": "有分寸的,得体的,大方的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "deceptive",
+    "phonetic": "/di'septiv/",
+    "definition": "迷惑的,虚伪的,欺诈的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "decide",
+    "phonetic": "/di'said/",
+    "definition": "vi. 决定,判决",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "decimal",
+    "phonetic": "/'desiməl/",
+    "definition": "十进位的,小数的n. 十进制,小数点",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "declaim",
+    "phonetic": "/di'kleim/",
+    "definition": "vt. 巧辩,演讲,朗读",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "decline",
+    "phonetic": "/di'klain/",
+    "definition": "衰微,跌落,下降vt. 使降低,婉谢vi. 下降,衰落,偏斜",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "declivity",
+    "phonetic": "/di'klivəti/",
+    "definition": "倾斜,下坡",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "decorum",
+    "phonetic": "/di'kɔ:rəm/",
+    "definition": "端正,礼貌合宜,礼仪",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "decree",
+    "phonetic": "/di'kri:/",
+    "definition": "法令,判决,圣旨vt. 颁布,判决vi. 发布命令",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "decry",
+    "phonetic": "/di'krai/",
+    "definition": "责难,诽谤,诋毁",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dedicate",
+    "phonetic": "/'dedikeit/",
+    "definition": "献出,贡献",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "deem",
+    "phonetic": "/di:m/",
+    "definition": "vi. 认为,相信",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "defame",
+    "phonetic": "/di'fem/",
+    "definition": "诽谤,中伤,破坏名誉",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "default",
+    "phonetic": "/di'fɔ:lt/",
+    "definition": "假设值,不履行责任,缺席vt. vi. 疏怠职责,缺席,拖欠v. 默认",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "defect",
+    "phonetic": "/di'fekt/",
+    "definition": "缺点",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "defection",
+    "phonetic": "/di'fekʃən/",
+    "definition": "背叛,脱党,离会",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "defective",
+    "phonetic": "/di'fektiv/",
+    "definition": "有缺陷的,欠缺的n. 有缺陷的人,不完全变化动词",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "defend",
+    "phonetic": "/di'fend/",
+    "definition": "防护,辩护,防卫",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "defer",
+    "phonetic": "/di'fə:/",
+    "definition": "推迟,延期,听从vt. 使推迟,使延期",
+    "partOfSpeech": "vi.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "deference",
+    "phonetic": "/'defərəs/",
+    "definition": "顺从,尊重",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "deferential",
+    "phonetic": "/defə'renʃəl/",
+    "definition": "恭敬的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "defiant",
+    "phonetic": "/di'faiənt/",
+    "definition": "挑衅的,目中无人的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "deficit",
+    "phonetic": "/'difisit/",
+    "definition": "赤字,不足额",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "defile",
+    "phonetic": "/di'fail/",
+    "definition": "弄脏,污损,败坏vi. 以纵队前进n. 隘路,狭谷",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "definite",
+    "phonetic": "/'definit/",
+    "definition": "明确的,一定的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "deflect",
+    "phonetic": "/di'flekt/",
+    "definition": "打歪,使偏斜vi. 偏斜",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "defraud",
+    "phonetic": "/di'frɔ:d/",
+    "definition": "欺骗",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "deft",
+    "phonetic": "/deft/",
+    "definition": "敏捷熟练的,灵巧的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "defunct",
+    "phonetic": "/di'fʌŋkt/",
+    "definition": "死的,非现存的n. 死者",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "defy",
+    "phonetic": "/di'fai/",
+    "definition": "藐视,挑衅,使落空n. 挑战",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 1
+  },
+  {
+    "word": "degenerate",
+    "phonetic": "/di'dʒenəreit/",
+    "definition": "堕落的vi. 退化,堕落vt. 使变质,使退化",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 4
+  },
+  {
+    "word": "degrade",
+    "phonetic": "/di'greid/",
+    "definition": "vi. (使)降级,(使)堕落,(使)退化",
+    "partOfSpeech": "vt.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "deity",
+    "phonetic": "/'di:iti/",
+    "definition": "神,神性",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "dejected",
+    "phonetic": "/di'dʒektid/",
+    "definition": "沮丧的,灰心的",
+    "partOfSpeech": "a.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  },
+  {
+    "word": "delay",
+    "phonetic": "/di'lei/",
+    "definition": "耽搁,迟滞vt. vi. 耽搁,延迟v. 延迟",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 2
+  },
+  {
+    "word": "delegate",
+    "phonetic": "/'deligeit/",
+    "definition": "代表vt. 委派. . . 为代表",
+    "partOfSpeech": "n.",
+    "example": "",
+    "exampleTranslation": "",
+    "difficulty": 3
+  }
+]
