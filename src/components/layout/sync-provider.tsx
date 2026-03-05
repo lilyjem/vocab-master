@@ -1,6 +1,7 @@
 /**
  * 学习进度云端同步 Provider
  * 监听 NextAuth session 变化，当用户登录时自动执行 fullSync
+ * 同时同步 wordProgress 和 dailyStats
  * 必须放在 SessionProvider 内部使用
  */
 "use client";
@@ -8,7 +9,7 @@
 import { useEffect, useRef } from "react";
 import { useSession } from "next-auth/react";
 import { useLearningStore } from "@/lib/store";
-import { fullSync } from "@/lib/sync";
+import { fullSync, fullSyncDailyStats } from "@/lib/sync";
 
 export function SyncProvider({ children }: { children: React.ReactNode }) {
   const { data: session, status } = useSession();
@@ -32,11 +33,19 @@ export function SyncProvider({ children }: { children: React.ReactNode }) {
 
     const doSync = async () => {
       try {
-        const localProgress = useLearningStore.getState().wordProgress;
-        const merged = await fullSync(localProgress);
+        const store = useLearningStore.getState();
 
-        if (merged) {
-          useLearningStore.getState().mergeCloudProgress(merged);
+        // 并行同步 wordProgress 和 dailyStats
+        const [mergedProgress, mergedStats] = await Promise.all([
+          fullSync(store.wordProgress),
+          fullSyncDailyStats(store.dailyStats),
+        ]);
+
+        if (mergedProgress) {
+          useLearningStore.getState().mergeCloudProgress(mergedProgress);
+        }
+        if (mergedStats) {
+          useLearningStore.getState().mergeCloudDailyStats(mergedStats);
         }
       } catch (e) {
         console.error("云端同步失败:", e);
