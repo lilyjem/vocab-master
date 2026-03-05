@@ -31,6 +31,9 @@ WORKDIR /app
 
 ENV NODE_ENV production
 
+# Prisma 需要 openssl 来连接 PostgreSQL
+RUN apk add --no-cache openssl libc6-compat
+
 RUN addgroup --system --gid 1001 nodejs
 RUN adduser --system --uid 1001 nextjs
 
