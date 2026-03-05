@@ -19,6 +19,7 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { useLearningStore, useStoreHydrated } from "@/lib/store";
 import type { Word } from "@/types";
+import { apiUrl } from "@/lib/utils";
 
 export default function LearnPage() {
   const router = useRouter();
@@ -38,7 +39,7 @@ export default function LearnPage() {
       setLoading(false);
       return;
     }
-    fetch(`/api/words/${currentBookId}?all=true`)
+    fetch(apiUrl(`/api/words/${currentBookId}?all=true`))
       .then((res) => res.json())
       .then((data) => {
         setWords(Array.isArray(data?.words) ? data.words : []);

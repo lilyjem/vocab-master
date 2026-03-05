@@ -1,0 +1,48 @@
+# VocabMaster 生产环境 Docker Compose 配置
+# 用于服务器子路径部署：https://bairihuizhan.online/vocab/
+# 使用方式：docker compose -f docker-compose.prod.yml up -d
+
+version: "3.8"
+
+services:
+  # PostgreSQL 数据库（使用 5433 端口避免与服务器已有 PostgreSQL 冲突）
+  vocab-db:
+    image: postgres:16-alpine
+    container_name: vocab-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: vocab
+      POSTGRES_PASSWORD: vocab123
+      POSTGRES_DB: vocabmaster
+    ports:
+      - "5433:5432"
+    volumes:
+      - vocab_postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U vocab -d vocabmaster"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  # Next.js 应用（使用 3003 端口，子路径 /vocab）
+  vocab-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        - NEXT_PUBLIC_BASE_PATH=/vocab
+    container_name: vocab-app
+    restart: unless-stopped
+    ports:
+      - "3003:3000"
+    environment:
+      DATABASE_URL: "postgresql://vocab:vocab123@vocab-db:5432/vocabmaster?schema=public"
+      NEXTAUTH_URL: "https://bairihuizhan.online/vocab"
+      NEXTAUTH_SECRET: "vocab-master-prod-secret-change-me"
+      NEXT_PUBLIC_BASE_PATH: "/vocab"
+    depends_on:
+      vocab-db:
+        condition: service_healthy
+
+volumes:
+  vocab_postgres_data:

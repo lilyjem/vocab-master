@@ -14,6 +14,7 @@ import { FlashCard } from "@/components/word/flash-card";
 import { QualityButtons } from "@/components/word/quality-buttons";
 import { useLearningStore, useStoreHydrated } from "@/lib/store";
 import type { Word } from "@/types";
+import { apiUrl } from "@/lib/utils";
 
 export default function NewWordsPage() {
   const router = useRouter();
@@ -41,7 +42,7 @@ export default function NewWordsPage() {
       return;
     }
 
-    fetch(`/api/words/${currentBookId}?all=true`)
+    fetch(apiUrl(`/api/words/${currentBookId}?all=true`))
       .then((res) => res.json())
       .then((data) => {
         const words: Word[] = Array.isArray(data?.words) ? data.words : [];

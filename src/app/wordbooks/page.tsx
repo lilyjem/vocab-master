@@ -10,6 +10,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { useLearningStore } from "@/lib/store";
 import type { WordBook } from "@/types";
+import { apiUrl } from "@/lib/utils";
 
 /** 难度等级标签映射 */
 const LEVEL_MAP: Record<string, { label: string; variant: "default" | "secondary" | "destructive" }> = {
@@ -24,7 +25,7 @@ export default function WordBooksPage() {
   const currentBookId = useLearningStore((s) => s.currentBookId);
 
   useEffect(() => {
-    fetch("/api/words")
+    fetch(apiUrl("/api/words"))
       .then((res) => res.json())
       .then((data) => {
         // 确保 API 返回的数据是数组，防止错误对象导致 .map 崩溃

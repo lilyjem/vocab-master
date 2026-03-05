@@ -24,7 +24,7 @@ import { Progress } from "@/components/ui/progress";
 import { useLearningStore } from "@/lib/store";
 import { playWordAudio } from "@/lib/audio";
 import type { Word, WordBook } from "@/types";
-import { percentage } from "@/lib/utils";
+import { percentage, apiUrl } from "@/lib/utils";
 
 /** 单词状态对应颜色 */
 const STATUS_COLORS: Record<string, string> = {
@@ -80,7 +80,7 @@ export default function BookDetailPage() {
       });
       if (search) params.set("search", search);
 
-      const res = await fetch(`/api/words/${bookId}?${params}`);
+      const res = await fetch(apiUrl(`/api/words/${bookId}?${params}`));
       const data = await res.json();
 
       if (data.error) {

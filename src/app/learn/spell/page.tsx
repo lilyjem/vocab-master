@@ -12,7 +12,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Progress } from "@/components/ui/progress";
 import { SpellCard } from "@/components/word/spell-card";
 import { useLearningStore, useStoreHydrated } from "@/lib/store";
-import { shuffle } from "@/lib/utils";
+import { shuffle, apiUrl } from "@/lib/utils";
 import type { Word } from "@/types";
 
 /** 拼写测试每轮的单词数量 */
@@ -38,7 +38,7 @@ export default function SpellTestPage() {
       return;
     }
 
-    fetch(`/api/words/${currentBookId}?all=true`)
+    fetch(apiUrl(`/api/words/${currentBookId}?all=true`))
       .then((res) => res.json())
       .then((data) => {
         const words: Word[] = Array.isArray(data?.words) ? data.words : [];

@@ -21,7 +21,7 @@ import { LearningAreaChart, LearningBarChart } from "@/components/stats/learning
 import { StreakCalendar } from "@/components/stats/streak-calendar";
 import { useLearningStore, useStoreHydrated } from "@/lib/store";
 import { playWordAudio } from "@/lib/audio";
-import { percentage, formatDate, getToday } from "@/lib/utils";
+import { percentage, formatDate, getToday, apiUrl } from "@/lib/utils";
 import type { Word, WordStatus } from "@/types";
 
 export default function StatsPage() {
@@ -42,7 +42,7 @@ export default function StatsPage() {
   useEffect(() => {
     if (!hydrated) return;
     if (!currentBookId) return;
-    fetch(`/api/words/${currentBookId}?all=true`)
+    fetch(apiUrl(`/api/words/${currentBookId}?all=true`))
       .then((res) => res.json())
       .then((data) => {
         setWords(Array.isArray(data?.words) ? data.words : []);

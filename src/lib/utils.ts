@@ -55,3 +55,9 @@ export function shuffle<T>(array: T[]): T[] {
 export function sampleArray<T>(array: T[], n: number): T[] {
   return shuffle(array).slice(0, n);
 }
+
+/** 获取 API 请求的完整路径（自动添加 basePath 前缀） */
+export function apiUrl(path: string): string {
+  const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
+  return `${basePath}${path}`;
+}

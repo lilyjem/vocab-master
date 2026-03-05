@@ -12,7 +12,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Progress } from "@/components/ui/progress";
 import { QuizCard } from "@/components/word/quiz-card";
 import { useLearningStore, useStoreHydrated } from "@/lib/store";
-import { shuffle, sampleArray } from "@/lib/utils";
+import { shuffle, sampleArray, apiUrl } from "@/lib/utils";
 import type { Word } from "@/types";
 
 /** 选择题每轮的题目数量 */
@@ -40,7 +40,7 @@ export default function QuizPage() {
       return;
     }
 
-    fetch(`/api/words/${currentBookId}?all=true`)
+    fetch(apiUrl(`/api/words/${currentBookId}?all=true`))
       .then((res) => res.json())
       .then((data) => {
         const words: Word[] = Array.isArray(data?.words) ? data.words : [];
