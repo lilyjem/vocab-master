@@ -5,6 +5,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import { useSession, signOut } from "next-auth/react";
 import {
   User,
   Settings,
@@ -27,6 +28,7 @@ import { useLearningStore, useStoreHydrated } from "@/lib/store";
 import type { UserSettings } from "@/types";
 
 export default function ProfilePage() {
+  const { data: session } = useSession();
   const hydrated = useStoreHydrated();
   const settings = useLearningStore((s) => s.settings);
   const updateSettings = useLearningStore((s) => s.updateSettings);
@@ -91,9 +93,11 @@ export default function ProfilePage() {
               <User className="h-8 w-8 text-primary" />
             </div>
             <div className="flex-1">
-              <h2 className="text-xl font-semibold">本地用户</h2>
+              <h2 className="text-xl font-semibold">
+                {session?.user?.name || "本地用户"}
+              </h2>
               <p className="text-sm text-muted-foreground">
-                数据存储在本地浏览器中
+                {session?.user?.email || "数据存储在本地浏览器中"}
               </p>
               <div className="mt-2 flex gap-2">
                 <Badge variant="secondary">已学 {totalLearned} 词</Badge>
@@ -101,12 +105,23 @@ export default function ProfilePage() {
                 <Badge variant="secondary">连续 {streak} 天</Badge>
               </div>
             </div>
-            <Link href="/auth/login">
-              <Button variant="outline" size="sm">
-                <LogIn className="mr-2 h-4 w-4" />
-                登录同步
+            {session ? (
+              <Button
+                variant="outline"
+                size="sm"
+                onClick={() => signOut({ callbackUrl: "/" })}
+              >
+                <LogOut className="mr-2 h-4 w-4" />
+                退出登录
               </Button>
-            </Link>
+            ) : (
+              <Link href="/auth/login">
+                <Button variant="outline" size="sm">
+                  <LogIn className="mr-2 h-4 w-4" />
+                  登录同步
+                </Button>
+              </Link>
+            )}
           </div>
         </CardContent>
       </Card>

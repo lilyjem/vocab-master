@@ -1,14 +1,15 @@
 /**
  * 学习进度同步 API
- * GET  /api/progress - 获取用户的学习进度
- * POST /api/progress - 同步本地学习进度到云端
+ * GET  /api/progress - 获取用户的学习进度（返回 Record<wordId, progress> 格式）
+ * POST /api/progress - 同步本地学习进度到云端（支持 updatedAt 冲突检测）
  */
 import { NextRequest, NextResponse } from "next/server";
 import { getServerSession } from "next-auth";
 import { authOptions } from "@/lib/auth";
 import { prisma } from "@/lib/db";
 
-export async function GET(request: NextRequest) {
+/** GET: 拉取云端全部进度，返回 { [wordId]: LocalWordProgress } */
+export async function GET() {
   const session = await getServerSession(authOptions);
 
   if (!session?.user) {
@@ -18,12 +19,38 @@ export async function GET(request: NextRequest) {
   const userId = (session.user as { id: string }).id;
 
   try {
-    const progress = await prisma.userWordProgress.findMany({
+    const rows = await prisma.userWordProgress.findMany({
       where: { userId },
-      include: { word: true },
     });
 
-    return NextResponse.json(progress);
+    // 转换为前端 LocalWordProgress 字典格式
+    const result: Record<string, {
+      wordId: string;
+      repetitions: number;
+      easinessFactor: number;
+      interval: number;
+      nextReviewDate: string;
+      totalReviews: number;
+      correctCount: number;
+      status: string;
+      updatedAt: string;
+    }> = {};
+
+    for (const row of rows) {
+      result[row.wordId] = {
+        wordId: row.wordId,
+        repetitions: row.repetitions,
+        easinessFactor: row.easinessFactor,
+        interval: row.interval,
+        nextReviewDate: row.nextReviewDate.toISOString(),
+        totalReviews: row.totalReviews,
+        correctCount: row.correctCount,
+        status: row.status,
+        updatedAt: row.updatedAt.toISOString(),
+      };
+    }
+
+    return NextResponse.json(result);
   } catch (error) {
     console.error("获取进度失败:", error);
     return NextResponse.json(
@@ -33,6 +60,7 @@ export async function GET(request: NextRequest) {
   }
 }
 
+/** POST: 接收 { wordProgress: { [wordId]: progress } }，带 updatedAt 冲突检测 */
 export async function POST(request: NextRequest) {
   const session = await getServerSession(authOptions);
 
@@ -52,7 +80,6 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    // 批量同步进度数据
     const entries = Object.entries(wordProgress) as [string, {
       wordId: string;
       repetitions: number;
@@ -62,11 +89,27 @@ export async function POST(request: NextRequest) {
       totalReviews: number;
       correctCount: number;
       status: string;
+      updatedAt?: string;
     }][];
 
     let synced = 0;
+    let skipped = 0;
 
     for (const [wordId, data] of entries) {
+      const clientUpdatedAt = data.updatedAt ? new Date(data.updatedAt) : new Date();
+
+      // 查询现有记录，用于冲突检测
+      const existing = await prisma.userWordProgress.findUnique({
+        where: { userId_wordId: { userId, wordId } },
+        select: { updatedAt: true },
+      });
+
+      // 冲突检测：只有客户端 updatedAt >= 服务端 updatedAt 时才更新
+      if (existing && existing.updatedAt > clientUpdatedAt) {
+        skipped++;
+        continue;
+      }
+
       await prisma.userWordProgress.upsert({
         where: {
           userId_wordId: { userId, wordId },
@@ -79,6 +122,7 @@ export async function POST(request: NextRequest) {
           totalReviews: data.totalReviews,
           correctCount: data.correctCount,
           status: data.status,
+          // updatedAt 由 Prisma @updatedAt 自动维护
         },
         create: {
           userId,
@@ -96,8 +140,9 @@ export async function POST(request: NextRequest) {
     }
 
     return NextResponse.json({
-      message: `成功同步 ${synced} 条学习记录`,
+      message: `成功同步 ${synced} 条学习记录${skipped > 0 ? `，跳过 ${skipped} 条（云端更新）` : ""}`,
       synced,
+      skipped,
     });
   } catch (error) {
     console.error("同步进度失败:", error);

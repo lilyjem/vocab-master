@@ -31,7 +31,7 @@ if [ $RETRY_COUNT -eq $MAX_RETRIES ]; then
 fi
 
 echo "📋 同步数据库 schema..."
-npx prisma db push --skip-generate 2>&1 || true
+node node_modules/prisma/build/index.js db push --skip-generate 2>&1 || true
 
 # 检查是否需要导入种子数据（WordBook 表为空时导入）
 NEED_SEED=$(node -e "
@@ -42,7 +42,7 @@ NEED_SEED=$(node -e "
 
 if [ "$NEED_SEED" = "yes" ]; then
   echo "🌱 首次启动，导入词库数据..."
-  npx tsx prisma/seed/index.ts 2>&1
+  node prisma/seed/index.js 2>&1
 else
   echo "📚 词库数据已存在，跳过导入"
 fi

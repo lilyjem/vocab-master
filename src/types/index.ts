@@ -109,6 +109,7 @@ export interface LocalWordProgress {
   totalReviews: number;
   correctCount: number;
   status: WordStatus;
+  updatedAt: string; // ISO 时间戳，用于跨设备同步时冲突判断
 }
 
 /** 本地学习会话 */

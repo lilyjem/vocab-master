@@ -23,7 +23,7 @@ RUN npx prisma generate
 RUN npm run build
 
 # 预编译 seed 脚本为 JS（生产环境无需 tsx）
-RUN npx tsx --compile prisma/seed/index.ts > /dev/null 2>&1 || true
+RUN npx esbuild prisma/seed/index.ts --bundle --platform=node --outfile=prisma/seed/index.js --external:@prisma/client
 
 # ===== 阶段3: 生产运行 =====
 FROM node:20-alpine AS runner
@@ -41,19 +41,19 @@ COPY --from=builder /app/public ./public
 COPY --from=builder --chown=nextjs:nodejs /app/.next/standalone ./
 COPY --from=builder --chown=nextjs:nodejs /app/.next/static ./.next/static
 
-# 复制 Prisma 相关文件（schema + seed 数据 + client）
+# 复制 Prisma 相关文件（schema + seed 数据 + 编译后的 seed.js + client）
 COPY --from=builder /app/prisma ./prisma
 COPY --from=builder /app/node_modules/.prisma ./node_modules/.prisma
 COPY --from=builder /app/node_modules/@prisma ./node_modules/@prisma
 COPY --from=builder /app/node_modules/prisma ./node_modules/prisma
-COPY --from=builder /app/node_modules/tsx ./node_modules/tsx
-COPY --from=builder /app/node_modules/esbuild ./node_modules/esbuild
 
 # 复制启动脚本
 COPY --from=builder /app/docker-entrypoint.sh ./docker-entrypoint.sh
 
 USER root
 RUN chmod +x ./docker-entrypoint.sh
+# 赋予 nextjs 用户对 prisma 引擎目录的写权限（db push 需要）
+RUN chown -R nextjs:nodejs node_modules/.prisma node_modules/@prisma node_modules/prisma
 USER nextjs
 
 EXPOSE 3000

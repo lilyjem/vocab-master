@@ -17,6 +17,7 @@ import type {
 import { DEFAULT_SETTINGS } from "@/types";
 import { calculateSM2, getWordStatus, SM2_DEFAULTS } from "@/lib/sm2";
 import { formatDate, getToday } from "@/lib/utils";
+import { pushSingleWord } from "@/lib/sync";
 
 /** 本地学习数据 Store 接口 */
 interface LearningStore {
@@ -48,6 +49,9 @@ interface LearningStore {
 
   // ===== 设置 =====
   updateSettings: (settings: Partial<UserSettings>) => void;
+
+  // ===== 云端同步 =====
+  mergeCloudProgress: (cloudData: Record<string, LocalWordProgress>) => void;
 
   // ===== 数据管理 =====
   clearAllData: () => void;
@@ -95,6 +99,7 @@ export const useLearningStore = create<LearningStore>()(
           totalReviews: (prev?.totalReviews || 0) + 1,
           correctCount: (prev?.correctCount || 0) + (isCorrect ? 1 : 0),
           status: getWordStatus(result) as WordStatus,
+          updatedAt: new Date().toISOString(),
         };
 
         // 更新每日统计
@@ -116,6 +121,9 @@ export const useLearningStore = create<LearningStore>()(
             },
           },
         });
+
+        // 异步推送到云端（未登录时服务端返回 401 会被静默忽略）
+        pushSingleWord(wordId, newProgress);
       },
 
       /** 获取需要学习的新词 ID 列表 */
@@ -194,6 +202,12 @@ export const useLearningStore = create<LearningStore>()(
         });
 
         return counts;
+      },
+
+      // ===== 云端同步 =====
+      /** 将云端合并后的进度写入本地 store（fullSync 调用） */
+      mergeCloudProgress: (mergedData) => {
+        set({ wordProgress: mergedData });
       },
 
       // ===== 会话 =====
