@@ -6,6 +6,7 @@ FROM node:20-alpine AS deps
 RUN apk add --no-cache libc6-compat
 WORKDIR /app
 COPY package.json package-lock.json ./
+COPY prisma/schema.prisma ./prisma/schema.prisma
 RUN npm ci
 
 # ===== 阶段2: 构建应用 =====
