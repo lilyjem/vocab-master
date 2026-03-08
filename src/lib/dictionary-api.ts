@@ -1,7 +1,10 @@
 /**
  * 外部词典 API 客户端
  * 从 Free Dictionary API (dictionaryapi.dev) 获取例句和词源
+ * 使用百度翻译 API 将英文例句翻译为中文
  */
+
+import { createHash } from "crypto";
 
 interface ExampleSentence {
   sentence: string;
@@ -15,7 +18,60 @@ interface EtymologyData {
 }
 
 /**
- * 从 Free Dictionary API 获取单词例句
+ * 百度翻译 API：将英文文本翻译为中文
+ * 需要环境变量 BAIDU_TRANSLATE_APPID 和 BAIDU_TRANSLATE_SECRET
+ * 支持批量翻译（多行文本用 \n 分隔）
+ */
+async function baiduTranslate(texts: string[]): Promise<string[]> {
+  const appid = process.env.BAIDU_TRANSLATE_APPID;
+  const secret = process.env.BAIDU_TRANSLATE_SECRET;
+
+  if (!appid || !secret) {
+    return texts.map(() => "");
+  }
+
+  try {
+    // 百度翻译支持 \n 分隔的批量翻译
+    const query = texts.join("\n");
+    const salt = Date.now().toString();
+    const sign = createHash("md5")
+      .update(appid + query + salt + secret)
+      .digest("hex");
+
+    const params = new URLSearchParams({
+      q: query,
+      from: "en",
+      to: "zh",
+      appid,
+      salt,
+      sign,
+    });
+
+    const res = await fetch(
+      `https://fanyi-api.baidu.com/api/trans/vip/translate?${params}`
+    );
+    if (!res.ok) return texts.map(() => "");
+
+    const data = await res.json();
+    if (data.error_code) {
+      console.error("百度翻译错误:", data.error_code, data.error_msg);
+      return texts.map(() => "");
+    }
+
+    // trans_result 数组与输入行一一对应
+    const results: string[] = [];
+    for (let i = 0; i < texts.length; i++) {
+      results.push(data.trans_result?.[i]?.dst || "");
+    }
+    return results;
+  } catch (error) {
+    console.error("百度翻译请求失败:", error);
+    return texts.map(() => "");
+  }
+}
+
+/**
+ * 从 Free Dictionary API 获取单词例句，并通过百度翻译获取中文翻译
  */
 export async function fetchExamples(word: string): Promise<ExampleSentence[]> {
   try {
@@ -25,20 +81,29 @@ export async function fetchExamples(word: string): Promise<ExampleSentence[]> {
     if (!res.ok) return [];
 
     const data = await res.json();
-    const examples: ExampleSentence[] = [];
+    const sentences: string[] = [];
 
     // 从 meanings[].definitions[].example 提取例句
     for (const entry of data) {
       for (const meaning of entry.meanings || []) {
         for (const def of meaning.definitions || []) {
           if (def.example) {
-            examples.push({ sentence: def.example });
+            sentences.push(def.example);
           }
         }
       }
     }
 
-    return examples.slice(0, 5); // 最多返回 5 个例句
+    const trimmed = sentences.slice(0, 5);
+    if (trimmed.length === 0) return [];
+
+    // 批量翻译所有例句
+    const translations = await baiduTranslate(trimmed);
+
+    return trimmed.map((sentence, i) => ({
+      sentence,
+      translation: translations[i] || undefined,
+    }));
   } catch {
     return [];
   }

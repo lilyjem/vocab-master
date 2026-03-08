@@ -21,13 +21,22 @@ export async function GET(request: NextRequest) {
       take: 5,
     });
 
-    if (cached.length > 0) {
+    // 缓存命中且至少有一条带翻译的记录，直接返回
+    const hasTranslation = cached.some((c) => c.translation);
+    if (cached.length > 0 && hasTranslation) {
       return NextResponse.json({
         word,
         examples: cached.map((c) => ({
           sentence: c.sentence,
           translation: c.translation,
         })),
+      });
+    }
+
+    // 缓存存在但无翻译（旧数据），删除后重新获取
+    if (cached.length > 0 && !hasTranslation) {
+      await prisma.wordExample.deleteMany({
+        where: { wordText: word.toLowerCase() },
       });
     }
 

@@ -40,6 +40,9 @@ services:
       NEXTAUTH_URL: "https://bairihuizhan.online/vocab"
       NEXTAUTH_SECRET: "vocab-master-prod-secret-change-me"
       NEXT_PUBLIC_BASE_PATH: "/vocab"
+      # 百度翻译 API（用于例句中文翻译）
+      BAIDU_TRANSLATE_APPID: "${BAIDU_TRANSLATE_APPID}"
+      BAIDU_TRANSLATE_SECRET: "${BAIDU_TRANSLATE_SECRET}"
     depends_on:
       vocab-db:
         condition: service_healthy
