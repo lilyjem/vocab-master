@@ -1,0 +1,91 @@
+[
+  {
+    "category": "functional",
+    "description": "Store 的 addStudyMinutes 方法能正确累加今日学习分钟数",
+    "steps": [
+      "打开应用首页，确认学习时长显示为 0 分钟（或已有累计值）",
+      "进入任意学习模式页面",
+      "验证 Zustand store 中存在 addStudyMinutes 方法",
+      "调用 addStudyMinutes 后，dailyStats[today].studyMinutes 应增加对应分钟数"
+    ],
+    "passes": true
+  },
+  {
+    "category": "functional",
+    "description": "新词学习页面自动追踪学习时长并在完成页显示用时",
+    "steps": [
+      "选择一个词库",
+      "进入新词学习页面 /learn/new",
+      "翻转卡片并对每个单词评分，完成所有单词",
+      "验证完成页面显示用时（分钟）卡片",
+      "验证首页学习时长卡片数值已更新"
+    ],
+    "passes": false
+  },
+  {
+    "category": "functional",
+    "description": "复习页面自动追踪学习时长并在完成页显示用时",
+    "steps": [
+      "进入复习页面 /learn/review",
+      "翻转卡片并对每个单词评分，完成所有单词",
+      "验证完成页面显示用时（分钟）卡片",
+      "验证首页学习时长卡片数值已更新"
+    ],
+    "passes": false
+  },
+  {
+    "category": "functional",
+    "description": "拼写测试页面自动追踪学习时长并在完成页显示用时",
+    "steps": [
+      "进入拼写测试页面 /learn/spell",
+      "完成所有拼写测试题目",
+      "验证完成页面显示 4 个统计卡片（测试单词、拼写正确、正确率、用时）",
+      "验证首页学习时长卡片数值已更新"
+    ],
+    "passes": false
+  },
+  {
+    "category": "functional",
+    "description": "选择题测验页面自动追踪学习时长并在完成页显示用时",
+    "steps": [
+      "进入选择题测验页面 /learn/quiz",
+      "完成所有选择题",
+      "验证完成页面显示 4 个统计卡片（总题数、答对、正确率、用时）",
+      "验证首页学习时长卡片数值已更新"
+    ],
+    "passes": true
+  },
+  {
+    "category": "functional",
+    "description": "首页仪表盘正确显示今日累计学习时长",
+    "steps": [
+      "打开首页 /",
+      "验证存在学习时长卡片，显示紫色时钟图标",
+      "验证卡片显示格式为 '{数字} 分钟'",
+      "验证数值为今日所有学习模式的累计时长"
+    ],
+    "passes": true
+  },
+  {
+    "category": "edge-case",
+    "description": "切换浏览器标签页时计时器自动暂停",
+    "steps": [
+      "进入任意学习模式页面",
+      "切换到其他浏览器标签页（触发 visibilitychange 事件）",
+      "等待一段时间后切回",
+      "验证暂停期间的时间未被计入学习时长"
+    ],
+    "passes": false
+  },
+  {
+    "category": "edge-case",
+    "description": "中途离开学习页面时已累计时长被正确保存",
+    "steps": [
+      "进入新词学习页面",
+      "学习几个单词后点击返回按钮离开",
+      "验证已学习的时长被保存到 dailyStats.studyMinutes",
+      "返回首页验证学习时长已更新"
+    ],
+    "passes": false
+  }
+]

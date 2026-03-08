@@ -30,6 +30,7 @@ model User {
   wordProgress   UserWordProgress[]
   learningSessions LearningSession[]
   dailyCheckIns  DailyCheckIn[]
+  achievements   UserAchievement[]
 
   @@map("users")
 }
@@ -104,6 +105,7 @@ model Word {
   example            String? // 英文例句
   exampleTranslation String? // 例句翻译
   difficulty         Int    @default(1) // 难度 1-5
+  frequency          Int    @default(0) // 词频排名（数值越大越常用，基于 COCA 词频表）
 
   book         WordBook           @relation(fields: [bookId], references: [id], onDelete: Cascade)
   userProgress UserWordProgress[]
@@ -172,4 +174,64 @@ model DailyCheckIn {
   @@unique([userId, checkInDate])
   @@index([userId, checkInDate])
   @@map("daily_check_ins")
+}
+
+// ========== 成就定义 ==========
+model Achievement {
+  id               String @id @default(cuid())
+  code             String @unique // 成就代码（如 vocab_learner, streak_master）
+  name             String // 成就名称
+  description      String // 成就描述
+  category         String // 分类: learning, streak, review, accuracy, spelling, book, time, habit
+  icon             String // 图标名称（lucide-react 图标名）
+  bronzeThreshold  Int    // 铜牌阈值
+  silverThreshold  Int    // 银牌阈值
+  goldThreshold    Int    // 金牌阈值
+
+  userAchievements UserAchievement[]
+
+  @@map("achievements")
+}
+
+// ========== 用户成就进度 ==========
+model UserAchievement {
+  id            String    @id @default(cuid())
+  userId        String
+  achievementId String
+  tier          String    @default("none") // none, bronze, silver, gold
+  progress      Int       @default(0) // 当前进度值
+  unlockedAt    DateTime? // 最近一次升级时间
+  notified      Boolean   @default(false) // 是否已通知用户
+
+  user        User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  achievement Achievement @relation(fields: [achievementId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, achievementId])
+  @@index([userId])
+  @@map("user_achievements")
+}
+
+// ========== 例句缓存 ==========
+model WordExample {
+  id          String   @id @default(cuid())
+  wordText    String   // 查询的单词
+  sentence    String   // 英文例句
+  translation String?  // 中文翻译（如有）
+  source      String   @default("free-dictionary") // 数据来源
+  fetchedAt   DateTime @default(now())
+
+  @@index([wordText])
+  @@map("word_examples")
+}
+
+// ========== 词源缓存 ==========
+model WordEtymology {
+  id           String   @id @default(cuid())
+  wordText     String   @unique // 查询的单词
+  roots        Json?    // 词根词缀列表
+  origin       String?  // 词源描述
+  relatedWords Json?    // 同根词列表
+  fetchedAt    DateTime @default(now())
+
+  @@map("word_etymologies")
 }

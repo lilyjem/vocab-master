@@ -9,6 +9,8 @@ import { Volume2 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { useLearningStore } from "@/lib/store";
 import { playWordAudio } from "@/lib/audio";
+import { ExampleSentences } from "@/components/word/example-sentences";
+import { EtymologyPanel } from "@/components/word/etymology-panel";
 import type { Word } from "@/types";
 
 interface FlashCardProps {
@@ -89,11 +91,11 @@ export function FlashCard({
         </div>
 
         {/* ===== 背面 - 中文释义和例句 ===== */}
-        <div className="absolute inset-0 rounded-2xl border border-border bg-card shadow-lg p-8 flex flex-col items-center justify-center [backface-visibility:hidden] [transform:rotateY(180deg)]">
+        <div className="absolute inset-0 rounded-2xl border border-border bg-card shadow-lg p-8 flex flex-col items-center overflow-y-auto [backface-visibility:hidden] [transform:rotateY(180deg)]">
           <button
             onClick={playAudio}
             aria-label={`播放 ${word.word} 的发音`}
-            className="absolute top-4 right-4 rounded-full p-2 hover:bg-muted transition-colors"
+            className="absolute top-4 right-4 rounded-full p-2 hover:bg-muted transition-colors z-10"
           >
             <Volume2 className="h-5 w-5 text-muted-foreground" />
           </button>
@@ -106,7 +108,7 @@ export function FlashCard({
             </span>
           )}
 
-          <div className="mt-4 text-center">
+          <div className="mt-4 text-center w-full">
             <p className="text-xl font-semibold">{word.definition}</p>
           </div>
 
@@ -120,6 +122,14 @@ export function FlashCard({
               )}
             </div>
           )}
+
+          <div
+            className="w-full max-w-md"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <ExampleSentences word={word.word} onInteraction={(e) => e.stopPropagation()} />
+            <EtymologyPanel word={word.word} onInteraction={(e) => e.stopPropagation()} />
+          </div>
         </div>
       </div>
     </div>

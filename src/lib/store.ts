@@ -13,11 +13,17 @@ import type {
   LocalDailyStats,
   UserSettings,
   WordStatus,
+  LocalAchievementProgress,
 } from "@/types";
 import { DEFAULT_SETTINGS } from "@/types";
 import { calculateSM2, getWordStatus, SM2_DEFAULTS } from "@/lib/sm2";
 import { formatDate, getToday } from "@/lib/utils";
 import { pushSingleWord, pushDailyStats } from "@/lib/sync";
+import {
+  checkAchievements,
+  type AchievementStats,
+  type AchievementResult,
+} from "@/lib/achievements";
 
 /** 本地学习数据 Store 接口 */
 interface LearningStore {
@@ -60,6 +66,10 @@ interface LearningStore {
   // ===== 数据管理 =====
   clearAllData: () => void;
   exportData: () => string;
+
+  // ===== 本地成就（未登录用户） =====
+  localAchievements: Record<string, LocalAchievementProgress>;
+  checkLocalAchievements: () => AchievementResult[];
 }
 
 export const useLearningStore = create<LearningStore>()(
@@ -280,6 +290,7 @@ export const useLearningStore = create<LearningStore>()(
           sessions: [],
           dailyStats: {},
           settings: DEFAULT_SETTINGS,
+          localAchievements: {},
         });
       },
 
@@ -293,6 +304,80 @@ export const useLearningStore = create<LearningStore>()(
           settings,
           exportedAt: new Date().toISOString(),
         });
+      },
+
+      // ===== 本地成就（未登录用户） =====
+      localAchievements: {},
+
+      /** 从本地数据计算成就，更新 localAchievements，返回所有成就进度 */
+      checkLocalAchievements: () => {
+        const { wordProgress, dailyStats, sessions, getStreak } = get();
+
+        // 1. 从 wordProgress 和 dailyStats 计算统计数据
+        const totalWordsLearned = Object.keys(wordProgress).length;
+        const totalReviews = Object.values(wordProgress).reduce(
+          (sum, p) => sum + p.totalReviews,
+          0
+        );
+        const currentStreak = getStreak();
+        const totalStudyMinutes = Object.values(dailyStats).reduce(
+          (sum, s) => sum + s.studyMinutes,
+          0
+        );
+
+        // 最佳单次测验正确率（从 sessions）
+        let bestAccuracy = 0;
+        let totalSpellCorrect = 0;
+        let earlyBirdCount = 0;
+        for (const s of sessions) {
+          if (s.totalCount > 0) {
+            const acc = Math.round((s.correctCount / s.totalCount) * 100);
+            if (acc > bestAccuracy) bestAccuracy = acc;
+          }
+          if (s.mode === "spell") totalSpellCorrect += s.correctCount;
+          const hour = new Date(s.startTime).getHours();
+          if (hour >= 6 && hour < 8) earlyBirdCount++;
+        }
+
+        const stats: AchievementStats = {
+          totalWordsLearned,
+          currentStreak,
+          totalReviews,
+          bestAccuracy,
+          totalSpellCorrect,
+          booksCompleted: 0, // 本地无词书列表，无法计算
+          totalStudyMinutes,
+          earlyBirdCount,
+        };
+
+        // 2. 调用成就引擎
+        const results = checkAchievements(stats);
+
+        // 3. 更新 localAchievements（新解锁时记录 unlockedAt）
+        const now = new Date().toISOString();
+        const prevAchievements = get().localAchievements;
+        const tierOrder = { none: 0, bronze: 1, silver: 2, gold: 3 };
+        const localAchievements: Record<string, LocalAchievementProgress> = {};
+        for (const r of results) {
+          const prev = prevAchievements[r.code];
+          const isNewUnlock =
+            !prev || tierOrder[r.tier] > tierOrder[prev.tier as keyof typeof tierOrder];
+          localAchievements[r.code] = {
+            code: r.code,
+            tier: r.tier,
+            progress: r.progress,
+            unlockedAt:
+              r.tier !== "none"
+                ? isNewUnlock
+                  ? now
+                  : prev?.unlockedAt
+                : undefined,
+          };
+        }
+
+        set({ localAchievements });
+
+        return results;
       },
     }),
     {

@@ -17,14 +17,33 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Progress } from "@/components/ui/progress";
 import { useLearningStore, useStoreHydrated } from "@/lib/store";
+import { ACHIEVEMENT_META } from "@/lib/achievements";
+import { AchievementCard } from "@/components/achievements/achievement-card";
 
 export default function HomePage() {
   const hydrated = useStoreHydrated();
   const getTodayStats = useLearningStore((s) => s.getTodayStats);
   const getStreak = useLearningStore((s) => s.getStreak);
   const settings = useLearningStore((s) => s.settings);
+  const checkLocalAchievements = useLearningStore(
+    (s) => s.checkLocalAchievements
+  );
+  const localAchievements = useLearningStore((s) => s.localAchievements);
 
   const todayStats = getTodayStats();
+  const achievementResults = checkLocalAchievements();
+  const recentUnlocked = achievementResults
+    .filter((r) => r.tier !== "none")
+    .map((r) => ({
+      ...r,
+      unlockedAt: localAchievements[r.code]?.unlockedAt,
+    }))
+    .sort((a, b) => {
+      const aTime = a.unlockedAt ? new Date(a.unlockedAt).getTime() : 0;
+      const bTime = b.unlockedAt ? new Date(b.unlockedAt).getTime() : 0;
+      return bTime - aTime;
+    })
+    .slice(0, 2);
   const streak = getStreak();
 
   /** 学习进度百分比 */
@@ -159,6 +178,35 @@ export default function HomePage() {
           </CardContent>
         </Card>
       </section>
+
+      {/* 最近解锁成就 */}
+      {recentUnlocked.length > 0 && (
+        <section>
+          <h2 className="mb-3 text-lg font-semibold">最近成就</h2>
+          <div className="grid gap-3 sm:grid-cols-2">
+            {recentUnlocked.map((r) => {
+              const meta = ACHIEVEMENT_META[r.code];
+              return (
+                <AchievementCard
+                  key={r.code}
+                  name={r.name}
+                  description={meta?.description ?? ""}
+                  icon={meta?.icon ?? "BookOpen"}
+                  tier={r.tier}
+                  progress={r.progress}
+                  maxForCurrentTier={r.maxForCurrentTier}
+                />
+              );
+            })}
+          </div>
+          <Link
+            href="/profile#achievements"
+            className="mt-2 block text-sm text-primary hover:underline"
+          >
+            查看全部成就 →
+          </Link>
+        </section>
+      )}
 
       {/* 快捷操作 */}
       <section className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">

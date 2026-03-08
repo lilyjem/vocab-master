@@ -10,6 +10,7 @@
  */
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/db";
+import { apiCache, TTL_WORDS_MS } from "@/lib/cache";
 
 export async function GET(
   request: NextRequest,
@@ -21,6 +22,15 @@ export async function GET(
     const page = Math.max(1, parseInt(searchParams.get("page") || "1"));
     const pageSize = Math.min(200, Math.max(1, parseInt(searchParams.get("pageSize") || "50")));
     const search = searchParams.get("search") || "";
+
+    // 缓存 key 包含 bookId、all、page、pageSize、search，区分不同查询
+    const cacheKey = `words:${params.bookId}:all:${returnAll}:page:${page}:pageSize:${pageSize}:search:${search}`;
+
+    // 尝试从缓存读取（10 分钟 TTL）
+    const cached = apiCache.get<Record<string, unknown>>(cacheKey);
+    if (cached !== undefined) {
+      return NextResponse.json(cached);
+    }
 
     const book = await prisma.wordBook.findUnique({
       where: { id: params.bookId },
@@ -42,38 +52,42 @@ export async function GET(
       ];
     }
 
+    let result: Record<string, unknown>;
+
     if (returnAll) {
-      // 学习模式：返回全部单词（不分页）
+      // 学习模式：按词频降序返回全部单词（高频词优先学习）
       const words = await prisma.word.findMany({
         where,
-        orderBy: { word: "asc" },
+        orderBy: { frequency: "desc" },
       });
-      return NextResponse.json({ ...book, words });
+      result = { ...book, words };
+    } else {
+      // 分页模式
+      const [words, totalCount] = await Promise.all([
+        prisma.word.findMany({
+          where,
+          orderBy: { word: "asc" },
+          skip: (page - 1) * pageSize,
+          take: pageSize,
+        }),
+        prisma.word.count({ where }),
+      ]);
+
+      const totalPages = Math.ceil(totalCount / pageSize);
+      result = {
+        ...book,
+        words,
+        pagination: {
+          page,
+          pageSize,
+          totalCount,
+          totalPages,
+        },
+      };
     }
 
-    // 分页模式
-    const [words, totalCount] = await Promise.all([
-      prisma.word.findMany({
-        where,
-        orderBy: { word: "asc" },
-        skip: (page - 1) * pageSize,
-        take: pageSize,
-      }),
-      prisma.word.count({ where }),
-    ]);
-
-    const totalPages = Math.ceil(totalCount / pageSize);
-
-    return NextResponse.json({
-      ...book,
-      words,
-      pagination: {
-        page,
-        pageSize,
-        totalCount,
-        totalPages,
-      },
-    });
+    apiCache.set(cacheKey, result, TTL_WORDS_MS);
+    return NextResponse.json(result);
   } catch (error) {
     console.error("获取词库详情失败:", error);
     return NextResponse.json(

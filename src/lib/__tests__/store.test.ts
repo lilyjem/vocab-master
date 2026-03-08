@@ -28,6 +28,7 @@ beforeEach(() => {
     sessions: [],
     dailyStats: {},
     settings: DEFAULT_SETTINGS,
+    localAchievements: {},
   });
 });
 

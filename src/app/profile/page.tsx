@@ -12,19 +12,20 @@ import {
   LogIn,
   LogOut,
   Cloud,
-  CloudOff,
   Trash2,
   Download,
   Sun,
   Moon,
   Monitor,
-  Loader2,
+  Award,
 } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { cn } from "@/lib/utils";
 import { useLearningStore, useStoreHydrated } from "@/lib/store";
+import { ACHIEVEMENT_META } from "@/lib/achievements";
+import { AchievementCard } from "@/components/achievements/achievement-card";
 import type { UserSettings } from "@/types";
 
 export default function ProfilePage() {
@@ -34,6 +35,9 @@ export default function ProfilePage() {
   const updateSettings = useLearningStore((s) => s.updateSettings);
   const clearAllData = useLearningStore((s) => s.clearAllData);
   const exportData = useLearningStore((s) => s.exportData);
+  const checkLocalAchievements = useLearningStore(
+    (s) => s.checkLocalAchievements
+  );
   const wordProgress = useLearningStore((s) => s.wordProgress);
   const getStreak = useLearningStore((s) => s.getStreak);
 
@@ -41,6 +45,7 @@ export default function ProfilePage() {
   const [showClearConfirm, setShowClearConfirm] = useState(false);
 
   const streak = getStreak();
+  const achievementResults = checkLocalAchievements();
   const totalLearned = Object.values(wordProgress).filter(
     (p) => p.status !== "new"
   ).length;
@@ -122,6 +127,34 @@ export default function ProfilePage() {
                 </Button>
               </Link>
             )}
+          </div>
+        </CardContent>
+      </Card>
+
+      {/* 成就 */}
+      <Card id="achievements">
+        <CardHeader>
+          <CardTitle className="flex items-center gap-2">
+            <Award className="h-5 w-5" />
+            成就
+          </CardTitle>
+        </CardHeader>
+        <CardContent>
+          <div className="grid gap-3 sm:grid-cols-2">
+            {achievementResults.map((r) => {
+              const meta = ACHIEVEMENT_META[r.code];
+              return (
+                <AchievementCard
+                  key={r.code}
+                  name={r.name}
+                  description={meta?.description ?? ""}
+                  icon={meta?.icon ?? "BookOpen"}
+                  tier={r.tier}
+                  progress={r.progress}
+                  maxForCurrentTier={r.maxForCurrentTier}
+                />
+              );
+            })}
           </div>
         </CardContent>
       </Card>

@@ -1,12 +1,12 @@
 /**
  * 统计分析页面 - 学习数据可视化
+ * 图表组件使用 next/dynamic 懒加载，减小首屏包体积（Recharts ~200KB）
  */
 "use client";
 
+import dynamic from "next/dynamic";
 import { useEffect, useState, useMemo } from "react";
 import {
-  BarChart3,
-  TrendingUp,
   Target,
   Flame,
   BookOpen,
@@ -15,10 +15,61 @@ import {
   Volume2,
 } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
 import { Progress } from "@/components/ui/progress";
-import { LearningAreaChart, LearningBarChart } from "@/components/stats/learning-chart";
-import { StreakCalendar } from "@/components/stats/streak-calendar";
+import { Skeleton } from "@/components/ui/skeleton";
+
+// 懒加载图表组件（Recharts 较重，ssr: false 避免服务端渲染问题）
+const LearningAreaChart = dynamic(
+  () =>
+    import("@/components/stats/learning-chart").then((mod) => mod.LearningAreaChart),
+  { ssr: false, loading: () => <ChartSkeleton /> }
+);
+const LearningBarChart = dynamic(
+  () =>
+    import("@/components/stats/learning-chart").then((mod) => mod.LearningBarChart),
+  { ssr: false, loading: () => <ChartSkeleton /> }
+);
+const StreakCalendar = dynamic(
+  () => import("@/components/stats/streak-calendar").then((mod) => mod.StreakCalendar),
+  { ssr: false, loading: () => <CalendarSkeleton /> }
+);
+
+/** 图表加载占位骨架 */
+function ChartSkeleton() {
+  return (
+    <Card>
+      <CardHeader>
+        <Skeleton className="h-4 w-24" />
+      </CardHeader>
+      <CardContent>
+        <Skeleton className="h-[280px] w-full" />
+      </CardContent>
+    </Card>
+  );
+}
+
+/** 日历加载占位骨架 */
+function CalendarSkeleton() {
+  return (
+    <Card>
+      <CardHeader>
+        <Skeleton className="h-4 w-32" />
+      </CardHeader>
+      <CardContent>
+        <div className="flex flex-wrap gap-1">
+          {Array.from({ length: 90 }).map((_, i) => (
+            <Skeleton key={i} className="h-3 w-3 rounded-sm" />
+          ))}
+        </div>
+        <div className="mt-3 flex items-center gap-2">
+          <Skeleton className="h-3 w-3 rounded-sm" />
+          <Skeleton className="h-3 w-3 rounded-sm" />
+          <Skeleton className="h-3 w-3 rounded-sm" />
+        </div>
+      </CardContent>
+    </Card>
+  );
+}
 import { useLearningStore, useStoreHydrated } from "@/lib/store";
 import { playWordAudio } from "@/lib/audio";
 import { percentage, formatDate, getToday, apiUrl } from "@/lib/utils";

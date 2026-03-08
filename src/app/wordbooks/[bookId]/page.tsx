@@ -3,7 +3,8 @@
  */
 "use client";
 
-import { useEffect, useState, useCallback } from "react";
+import { useEffect, useState, useCallback, useRef } from "react";
+import { useVirtualizer } from "@tanstack/react-virtual";
 import { useParams, useRouter } from "next/navigation";
 import Link from "next/link";
 import {
@@ -69,6 +70,16 @@ export default function BookDetailPage() {
   const getWordStatusCounts = useLearningStore((s) => s.getWordStatusCounts);
   const wordProgressMap = useLearningStore((s) => s.wordProgress);
   const pronunciation = useLearningStore((s) => s.settings.pronunciation);
+
+  // 虚拟列表：滚动容器 ref，用于 useVirtualizer 计算可视区域
+  const parentRef = useRef<HTMLDivElement>(null);
+
+  // 虚拟列表：行虚拟化器，只渲染可视区域内的单词行，每行预估高度 64px
+  const rowVirtualizer = useVirtualizer({
+    count: words.length,
+    getScrollElement: () => parentRef.current,
+    estimateSize: () => 64,
+  });
 
   /** 加载单词数据（分页） */
   const fetchWords = useCallback(async (page: number, search: string) => {
@@ -244,52 +255,72 @@ export default function BookDetailPage() {
             </div>
           ) : (
             <>
-              <div className="divide-y divide-border">
-                {words.map((word) => {
-                  const progress = wordProgressMap[word.id];
-                  const status = progress?.status || "new";
-
-                  return (
-                    <div
-                      key={word.id}
-                      className="flex items-center gap-4 py-3 hover:bg-muted/50 px-2 rounded-md transition-colors"
-                    >
-                      <button
-                        onClick={() => playAudio(word.word)}
-                        aria-label={`播放 ${word.word} 的发音`}
-                        className="flex-shrink-0 rounded-full p-1.5 hover:bg-muted transition-colors"
-                      >
-                        <Volume2 className="h-4 w-4 text-muted-foreground" />
-                      </button>
-
-                      <div className="flex-1 min-w-0">
-                        <div className="flex items-center gap-2">
-                          <span className="font-medium">{word.word}</span>
-                          {word.phonetic && (
-                            <span className="text-sm text-muted-foreground">{word.phonetic}</span>
-                          )}
-                          {word.partOfSpeech && (
-                            <span className="text-xs text-muted-foreground">{word.partOfSpeech}</span>
-                          )}
-                        </div>
-                        <p className="text-sm text-muted-foreground truncate">
-                          {word.definition}
-                        </p>
-                      </div>
-
-                      <span
-                        className={`flex-shrink-0 rounded-full px-2.5 py-0.5 text-xs font-medium ${STATUS_COLORS[status]}`}
-                      >
-                        {STATUS_LABELS[status]}
-                      </span>
-                    </div>
-                  );
-                })}
-              </div>
-
-              {words.length === 0 && (
+              {/* 无单词时显示空状态 */}
+              {words.length === 0 ? (
                 <div className="py-10 text-center text-muted-foreground">
                   {searchTerm ? "没有找到匹配的单词" : "词库中暂无单词"}
+                </div>
+              ) : (
+                /* 虚拟列表：固定高度滚动容器，overflow-y 启用垂直滚动 */
+                <div
+                  ref={parentRef}
+                  className="max-h-[600px] overflow-y-auto overflow-x-hidden rounded-md border border-border"
+                >
+                  {/* 虚拟列表：占位容器，高度为所有行的总高度，用于正确计算滚动条 */}
+                  <div
+                    className="relative w-full"
+                    style={{ height: `${rowVirtualizer.getTotalSize()}px` }}
+                  >
+                    {/* 虚拟列表：仅渲染可视区域内的行，每行绝对定位 + translateY 实现虚拟滚动 */}
+                    {rowVirtualizer.getVirtualItems().map((virtualRow) => {
+                      const word = words[virtualRow.index];
+                      const progress = wordProgressMap[word.id];
+                      const status = progress?.status || "new";
+
+                      return (
+                        <div
+                          key={word.id}
+                          className="flex items-center gap-4 py-3 hover:bg-muted/50 px-2 rounded-md transition-colors border-b border-border"
+                          style={{
+                            position: "absolute",
+                            top: 0,
+                            left: 0,
+                            width: "100%",
+                            transform: `translateY(${virtualRow.start}px)`,
+                          }}
+                        >
+                          <button
+                            onClick={() => playAudio(word.word)}
+                            aria-label={`播放 ${word.word} 的发音`}
+                            className="flex-shrink-0 rounded-full p-1.5 hover:bg-muted transition-colors"
+                          >
+                            <Volume2 className="h-4 w-4 text-muted-foreground" />
+                          </button>
+
+                          <div className="flex-1 min-w-0">
+                            <div className="flex items-center gap-2">
+                              <span className="font-medium">{word.word}</span>
+                              {word.phonetic && (
+                                <span className="text-sm text-muted-foreground">{word.phonetic}</span>
+                              )}
+                              {word.partOfSpeech && (
+                                <span className="text-xs text-muted-foreground">{word.partOfSpeech}</span>
+                              )}
+                            </div>
+                            <p className="text-sm text-muted-foreground truncate">
+                              {word.definition}
+                            </p>
+                          </div>
+
+                          <span
+                            className={`flex-shrink-0 rounded-full px-2.5 py-0.5 text-xs font-medium ${STATUS_COLORS[status]}`}
+                          >
+                            {STATUS_LABELS[status]}
+                          </span>
+                        </div>
+                      );
+                    })}
+                  </div>
                 </div>
               )}
 

@@ -10,6 +10,8 @@
 import { PrismaClient } from "@prisma/client";
 import * as fs from "fs";
 import * as path from "path";
+import { ACHIEVEMENTS } from "./achievements";
+import { getWordFrequency } from "./frequency-data";
 
 const prisma = new PrismaClient();
 
@@ -100,6 +102,7 @@ async function batchCreateWords(bookId: string, words: WordData[]): Promise<void
         example: w.example || null,
         exampleTranslation: w.exampleTranslation || null,
         difficulty: w.difficulty,
+        frequency: getWordFrequency(w.word), // 基于 COCA 词频表匹配词频
       })),
     });
   }
@@ -159,6 +162,25 @@ async function main() {
     totalWords += data.words.length;
     console.log(`   ✓ 完成\n`);
   }
+
+  // 导入成就定义
+  console.log("🏆 导入成就定义...");
+  for (const achievement of ACHIEVEMENTS) {
+    await prisma.achievement.upsert({
+      where: { code: achievement.code },
+      update: {
+        name: achievement.name,
+        description: achievement.description,
+        category: achievement.category,
+        icon: achievement.icon,
+        bronzeThreshold: achievement.bronzeThreshold,
+        silverThreshold: achievement.silverThreshold,
+        goldThreshold: achievement.goldThreshold,
+      },
+      create: achievement,
+    });
+  }
+  console.log(`   ✓ ${ACHIEVEMENTS.length} 个成就定义已导入\n`);
 
   console.log(`🎉 全部词库导入完成！共 ${totalWords} 个单词`);
 }

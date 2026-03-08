@@ -25,6 +25,7 @@ export interface Word {
   example?: string;
   exampleTranslation?: string;
   difficulty: number;
+  frequency?: number; // 词频排名（数值越大越常用）
 }
 
 /** 用户单词学习进度 */
@@ -154,3 +155,38 @@ export const DEFAULT_SETTINGS: UserSettings = {
   pronunciation: "en-US",
   theme: "system",
 };
+
+/** 成就等级 */
+export type AchievementTier = "none" | "bronze" | "silver" | "gold";
+
+/** 成就定义 */
+export interface Achievement {
+  id: string;
+  code: string;
+  name: string;
+  description: string;
+  category: string;
+  icon: string;
+  bronzeThreshold: number;
+  silverThreshold: number;
+  goldThreshold: number;
+}
+
+/** 用户成就进度 */
+export interface UserAchievement {
+  id: string;
+  achievementId: string;
+  tier: AchievementTier;
+  progress: number;
+  unlockedAt?: string;
+  notified?: boolean;
+  achievement?: Achievement;
+}
+
+/** 本地成就进度（未登录用户） */
+export interface LocalAchievementProgress {
+  code: string;
+  tier: AchievementTier;
+  progress: number;
+  unlockedAt?: string;
+}
