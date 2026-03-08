@@ -8,7 +8,7 @@ import { useState, useCallback } from "react";
 import { ChevronDown, ChevronUp, FileText } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Skeleton } from "@/components/ui/skeleton";
-import { cn } from "@/lib/utils";
+import { cn, apiUrl } from "@/lib/utils";
 
 interface ExampleSentencesProps {
   word: string;
@@ -59,7 +59,7 @@ export function ExampleSentences({
 
       setLoading(true);
       try {
-        const res = await fetch(`/api/words/examples?word=${encodeURIComponent(word)}`);
+        const res = await fetch(apiUrl(`/api/words/examples?word=${encodeURIComponent(word)}`));
         const data = await res.json();
         if (res.ok && Array.isArray(data.examples)) {
           setExamples(data.examples);

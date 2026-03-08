@@ -9,7 +9,7 @@ import { ChevronDown, ChevronUp, BookOpen } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Skeleton } from "@/components/ui/skeleton";
-import { cn } from "@/lib/utils";
+import { cn, apiUrl } from "@/lib/utils";
 
 interface WordPart {
   part: string;
@@ -59,7 +59,7 @@ export function EtymologyPanel({
       setLoading(true);
       try {
         const res = await fetch(
-          `/api/words/etymology?word=${encodeURIComponent(word)}`
+          apiUrl(`/api/words/etymology?word=${encodeURIComponent(word)}`)
         );
         const json = await res.json();
         if (res.ok) {
