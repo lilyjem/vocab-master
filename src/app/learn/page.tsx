@@ -20,6 +20,7 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { useLearningData } from "@/lib/use-learning-data";
 import { apiUrl } from "@/lib/utils";
+import { preloadBookWords } from "@/lib/use-book-words";
 
 /** 骨架屏：学习中心加载占位 */
 function LearnPageSkeleton() {
@@ -83,8 +84,8 @@ export default function LearnPage() {
         setLoading(false);
       });
 
-    // 后台预取完整单词数据，加速进入学习子页面
-    fetch(apiUrl(`/api/words/${currentBookId}?all=true`)).catch(() => {});
+    // SWR preload：预取完整单词数据到全局缓存，子页面直接命中
+    preloadBookWords(currentBookId);
   }, [currentBookId, hydrated]);
 
   // 骨架屏替代 spinner

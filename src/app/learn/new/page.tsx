@@ -15,8 +15,8 @@ import { QualityButtons } from "@/components/word/quality-buttons";
 import { useLearningData } from "@/lib/use-learning-data";
 import { useStudyTimer } from "@/lib/use-study-timer";
 import type { Word } from "@/types";
-import { apiUrl } from "@/lib/utils";
 import { StudySkeleton } from "@/components/ui/study-skeleton";
+import { useBookWords } from "@/lib/use-book-words";
 
 export default function NewWordsPage() {
   const router = useRouter();
@@ -28,45 +28,38 @@ export default function NewWordsPage() {
     updateWordProgress,
   } = useLearningData();
 
-  const [allWords, setAllWords] = useState<Word[]>([]);
+  // SWR 缓存共享：学习中心已预取，此处直接命中缓存
+  const { words: allWords, isLoading: wordsLoading } = useBookWords(
+    hydrated ? currentBookId : null
+  );
+
   const [studyWords, setStudyWords] = useState<Word[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
-  const [loading, setLoading] = useState(true);
   const [isComplete, setIsComplete] = useState(false);
   const [sessionStats, setSessionStats] = useState({ total: 0, correct: 0 });
   /** 学习时长追踪（自动暂停/恢复，定时同步到 store） */
   const { elapsedSeconds, stopTimer } = useStudyTimer();
   /** 完成时的总秒数快照 */
   const [finalSeconds, setFinalSeconds] = useState(0);
+  const [wordsReady, setWordsReady] = useState(false);
 
-  // 加载词库数据并筛选新词
+  // 数据就绪后筛选新词
   useEffect(() => {
-    if (!hydrated) return;
+    if (!hydrated || wordsLoading || allWords.length === 0) return;
     if (!currentBookId) {
       router.push("/learn");
       return;
     }
 
-    fetch(apiUrl(`/api/words/${currentBookId}?all=true`))
-      .then((res) => res.json())
-      .then((data) => {
-        const words: Word[] = Array.isArray(data?.words) ? data.words : [];
-        setAllWords(words);
+    const wordIds = allWords.map((w) => w.id);
+    const newIds = getNewWordIds(wordIds, settings.dailyNewWords);
+    const newWords = allWords.filter((w) => newIds.includes(w.id));
+    setStudyWords(newWords);
+    setWordsReady(true);
+  }, [currentBookId, router, settings.dailyNewWords, getNewWordIds, hydrated, allWords, wordsLoading]);
 
-        const wordIds = words.map((w) => w.id);
-        const newIds = getNewWordIds(wordIds, settings.dailyNewWords);
-        const newWords = words.filter((w) => newIds.includes(w.id));
-
-        setStudyWords(newWords);
-        setLoading(false);
-      })
-      .catch(() => {
-        setAllWords([]);
-        setStudyWords([]);
-        setLoading(false);
-      });
-  }, [currentBookId, router, settings.dailyNewWords, getNewWordIds, hydrated]);
+  const loading = !wordsReady;
 
   /** 处理用户评分 */
   const handleRate = useCallback(

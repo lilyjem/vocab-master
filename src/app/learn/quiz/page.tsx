@@ -13,9 +13,10 @@ import { Progress } from "@/components/ui/progress";
 import { QuizCard } from "@/components/word/quiz-card";
 import { useLearningData } from "@/lib/use-learning-data";
 import { useStudyTimer } from "@/lib/use-study-timer";
-import { shuffle, sampleArray, apiUrl } from "@/lib/utils";
+import { shuffle, sampleArray } from "@/lib/utils";
 import type { Word } from "@/types";
 import { StudySkeleton } from "@/components/ui/study-skeleton";
+import { useBookWords } from "@/lib/use-book-words";
 
 /** 选择题每轮的题目数量 */
 const QUIZ_BATCH_SIZE = 15;
@@ -24,10 +25,13 @@ export default function QuizPage() {
   const router = useRouter();
   const { hydrated, currentBookId, updateWordProgress } = useLearningData();
 
-  const [allWords, setAllWords] = useState<Word[]>([]);
+  // SWR 缓存共享：学习中心已预取，此处直接命中缓存
+  const { words: allWords, isLoading: wordsLoading } = useBookWords(
+    hydrated ? currentBookId : null
+  );
+
   const [studyWords, setStudyWords] = useState<Word[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
-  const [loading, setLoading] = useState(true);
   const [isComplete, setIsComplete] = useState(false);
   const [sessionStats, setSessionStats] = useState({ total: 0, correct: 0 });
   const [quizMode] = useState<"en2cn" | "cn2en">("en2cn");
@@ -35,31 +39,22 @@ export default function QuizPage() {
   const { elapsedSeconds, stopTimer } = useStudyTimer();
   /** 完成时的总秒数快照 */
   const [finalSeconds, setFinalSeconds] = useState(0);
+  const [wordsReady, setWordsReady] = useState(false);
 
   useEffect(() => {
-    if (!hydrated) return;
+    if (!hydrated || wordsLoading || allWords.length === 0) return;
     if (!currentBookId) {
       router.push("/learn");
       return;
     }
 
-    fetch(apiUrl(`/api/words/${currentBookId}?all=true`))
-      .then((res) => res.json())
-      .then((data) => {
-        const words: Word[] = Array.isArray(data?.words) ? data.words : [];
-        setAllWords(words);
+    // 随机选取一批单词作为测试
+    const selected = shuffle(allWords).slice(0, QUIZ_BATCH_SIZE);
+    setStudyWords(selected);
+    setWordsReady(true);
+  }, [hydrated, currentBookId, router, allWords, wordsLoading]);
 
-        // 随机选取一批单词作为测试
-        const selected = shuffle(words).slice(0, QUIZ_BATCH_SIZE);
-        setStudyWords(selected);
-        setLoading(false);
-      })
-      .catch(() => {
-        setAllWords([]);
-        setStudyWords([]);
-        setLoading(false);
-      });
-  }, [hydrated, currentBookId, router]);
+  const loading = !wordsReady;
 
   /** 缓存当前单词的四个选项，避免 render 时重新随机 */
   const currentOptions = useMemo(() => {

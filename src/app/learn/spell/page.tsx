@@ -13,9 +13,10 @@ import { Progress } from "@/components/ui/progress";
 import { SpellCard } from "@/components/word/spell-card";
 import { useLearningData } from "@/lib/use-learning-data";
 import { useStudyTimer } from "@/lib/use-study-timer";
-import { shuffle, apiUrl } from "@/lib/utils";
+import { shuffle } from "@/lib/utils";
 import type { Word } from "@/types";
 import { StudySkeleton } from "@/components/ui/study-skeleton";
+import { useBookWords } from "@/lib/use-book-words";
 
 /** 拼写测试每轮的单词数量 */
 const SPELL_BATCH_SIZE = 15;
@@ -29,46 +30,42 @@ export default function SpellTestPage() {
     getWordProgress,
   } = useLearningData();
 
+  // SWR 缓存共享：学习中心已预取，此处直接命中缓存
+  const { words: allWords, isLoading: wordsLoading } = useBookWords(
+    hydrated ? currentBookId : null
+  );
+
   const [studyWords, setStudyWords] = useState<Word[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
-  const [loading, setLoading] = useState(true);
   const [isComplete, setIsComplete] = useState(false);
   const [sessionStats, setSessionStats] = useState({ total: 0, correct: 0 });
   /** 学习时长追踪 */
   const { elapsedSeconds, stopTimer } = useStudyTimer();
   /** 完成时的总秒数快照 */
   const [finalSeconds, setFinalSeconds] = useState(0);
+  const [wordsReady, setWordsReady] = useState(false);
 
   useEffect(() => {
-    if (!hydrated) return;
+    if (!hydrated || wordsLoading || allWords.length === 0) return;
     if (!currentBookId) {
       router.push("/learn");
       return;
     }
 
-    fetch(apiUrl(`/api/words/${currentBookId}?all=true`))
-      .then((res) => res.json())
-      .then((data) => {
-        const words: Word[] = Array.isArray(data?.words) ? data.words : [];
+    // 优先选择已学过但未掌握的单词，随机取一批
+    const learnedWords = allWords.filter((w) => {
+      const p = getWordProgress(w.id);
+      return p && p.status !== "mastered";
+    });
 
-        // 优先选择已学过但未掌握的单词，随机取一批
-        const learnedWords = words.filter((w) => {
-          const p = getWordProgress(w.id);
-          return p && p.status !== "mastered";
-        });
+    // 如果没有已学单词，就随机从词库中选
+    const pool = learnedWords.length > 0 ? learnedWords : allWords;
+    const selected = shuffle(pool).slice(0, SPELL_BATCH_SIZE);
+    setStudyWords(selected);
+    setWordsReady(true);
+  }, [currentBookId, router, hydrated, getWordProgress, allWords, wordsLoading]);
 
-        // 如果没有已学单词，就随机从词库中选
-        const pool = learnedWords.length > 0 ? learnedWords : words;
-        const selected = shuffle(pool).slice(0, SPELL_BATCH_SIZE);
-
-        setStudyWords(selected);
-        setLoading(false);
-      })
-      .catch(() => {
-        setStudyWords([]);
-        setLoading(false);
-      });
-  }, [currentBookId, router, hydrated, getWordProgress]);
+  const loading = !wordsReady;
 
   const handleAnswer = useCallback(
     (isCorrect: boolean) => {

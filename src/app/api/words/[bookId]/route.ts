@@ -28,10 +28,15 @@ export async function GET(
     // 缓存 key 包含查询参数，区分不同查询
     const cacheKey = `words:${params.bookId}:all:${returnAll}:ids:${returnIds}:page:${page}:pageSize:${pageSize}:search:${search}`;
 
-    // 尝试从缓存读取（10 分钟 TTL）
+    // 词库数据变化频率极低，允许浏览器缓存 5 分钟
+    const cacheHeaders = {
+      "Cache-Control": "private, max-age=300, stale-while-revalidate=600",
+    };
+
+    // 尝试从服务端内存缓存读取（10 分钟 TTL）
     const cached = apiCache.get<Record<string, unknown>>(cacheKey);
     if (cached !== undefined) {
-      return NextResponse.json(cached);
+      return NextResponse.json(cached, { headers: cacheHeaders });
     }
 
     const book = await prisma.wordBook.findUnique({
@@ -97,7 +102,7 @@ export async function GET(
     }
 
     apiCache.set(cacheKey, result, TTL_WORDS_MS);
-    return NextResponse.json(result);
+    return NextResponse.json(result, { headers: cacheHeaders });
   } catch (error) {
     console.error("获取词库详情失败:", error);
     return NextResponse.json(
