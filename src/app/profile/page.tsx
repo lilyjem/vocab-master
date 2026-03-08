@@ -123,7 +123,7 @@ export default function ProfilePage() {
               <Button
                 variant="outline"
                 size="sm"
-                onClick={() => signOut({ callbackUrl: "/" })}
+                onClick={() => signOut({ callbackUrl: `${process.env.NEXT_PUBLIC_BASE_PATH || ""}/` })}
               >
                 <LogOut className="mr-2 h-4 w-4" />
                 退出登录
