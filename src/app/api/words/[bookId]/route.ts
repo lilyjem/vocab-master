@@ -7,6 +7,7 @@
  * - pageSize: 每页条数（默认 50，最大 200）
  * - search: 搜索关键词（可选，模糊匹配单词或释义）
  * - all: 设为 "true" 返回全部单词（用于学习模式，不分页）
+ * - ids: 设为 "true" 只返回单词 ID 列表和词库名（轻量模式，用于学习中心统计）
  */
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/db";
@@ -19,12 +20,13 @@ export async function GET(
   try {
     const { searchParams } = new URL(request.url);
     const returnAll = searchParams.get("all") === "true";
+    const returnIds = searchParams.get("ids") === "true";
     const page = Math.max(1, parseInt(searchParams.get("page") || "1"));
     const pageSize = Math.min(200, Math.max(1, parseInt(searchParams.get("pageSize") || "50")));
     const search = searchParams.get("search") || "";
 
-    // 缓存 key 包含 bookId、all、page、pageSize、search，区分不同查询
-    const cacheKey = `words:${params.bookId}:all:${returnAll}:page:${page}:pageSize:${pageSize}:search:${search}`;
+    // 缓存 key 包含查询参数，区分不同查询
+    const cacheKey = `words:${params.bookId}:all:${returnAll}:ids:${returnIds}:page:${page}:pageSize:${pageSize}:search:${search}`;
 
     // 尝试从缓存读取（10 分钟 TTL）
     const cached = apiCache.get<Record<string, unknown>>(cacheKey);
@@ -54,7 +56,15 @@ export async function GET(
 
     let result: Record<string, unknown>;
 
-    if (returnAll) {
+    if (returnIds) {
+      // 轻量模式：只返回 ID 列表和词库名（用于学习中心统计，数据量极小）
+      const wordIds = await prisma.word.findMany({
+        where,
+        select: { id: true },
+        orderBy: { frequency: "desc" },
+      });
+      result = { name: book.name, wordCount: wordIds.length, wordIds: wordIds.map((w) => w.id) };
+    } else if (returnAll) {
       // 学习模式：按词频降序返回全部单词（高频词优先学习）
       const words = await prisma.word.findMany({
         where,

@@ -15,6 +15,7 @@ import { useLearningData } from "@/lib/use-learning-data";
 import { useStudyTimer } from "@/lib/use-study-timer";
 import { shuffle, sampleArray, apiUrl } from "@/lib/utils";
 import type { Word } from "@/types";
+import { StudySkeleton } from "@/components/ui/study-skeleton";
 
 /** 选择题每轮的题目数量 */
 const QUIZ_BATCH_SIZE = 15;
@@ -98,11 +99,7 @@ export default function QuizPage() {
   );
 
   if (loading) {
-    return (
-      <div className="flex items-center justify-center py-20">
-        <div className="h-8 w-8 animate-spin rounded-full border-4 border-primary border-t-transparent" />
-      </div>
-    );
+    return <StudySkeleton />;
   }
 
   if (studyWords.length === 0) {

@@ -19,12 +19,14 @@ import { Button } from "@/components/ui/button";
 import { Progress } from "@/components/ui/progress";
 import { useLearningData } from "@/lib/use-learning-data";
 import { LoadingSpinner } from "@/components/ui/loading-spinner";
+import { apiUrl } from "@/lib/utils";
 import { ACHIEVEMENT_META, type AchievementResult } from "@/lib/achievements";
 import { AchievementCard } from "@/components/achievements/achievement-card";
 
 export default function HomePage() {
   const {
     hydrated,
+    currentBookId,
     getTodayStats,
     getStreak,
     settings,
@@ -42,6 +44,13 @@ export default function HomePage() {
       setAchievementResults(checkLocalAchievements());
     }
   }, [hydrated, wordProgress, dailyStats, sessions, checkLocalAchievements]);
+
+  // 预取词库 ID 数据，加速导航到学习页面
+  useEffect(() => {
+    if (hydrated && currentBookId) {
+      fetch(apiUrl(`/api/words/${currentBookId}?ids=true`)).catch(() => {});
+    }
+  }, [hydrated, currentBookId]);
 
   const todayStats = getTodayStats();
   const recentUnlocked = useMemo(

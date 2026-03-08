@@ -16,6 +16,7 @@ import { useLearningData } from "@/lib/use-learning-data";
 import { useStudyTimer } from "@/lib/use-study-timer";
 import type { Word } from "@/types";
 import { apiUrl } from "@/lib/utils";
+import { StudySkeleton } from "@/components/ui/study-skeleton";
 
 export default function NewWordsPage() {
   const router = useRouter();
@@ -95,11 +96,7 @@ export default function NewWordsPage() {
   );
 
   if (loading) {
-    return (
-      <div className="flex items-center justify-center py-20">
-        <div className="h-8 w-8 animate-spin rounded-full border-4 border-primary border-t-transparent" />
-      </div>
-    );
+    return <StudySkeleton />;
   }
 
   // 没有新词可学

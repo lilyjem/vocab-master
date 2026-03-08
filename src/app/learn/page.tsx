@@ -1,5 +1,6 @@
 /**
  * 学习中心页面 - 选择学习模式
+ * 使用轻量 API (?ids=true) 只获取单词 ID 列表，加速页面加载
  */
 "use client";
 
@@ -18,9 +19,33 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { useLearningData } from "@/lib/use-learning-data";
-import type { Word } from "@/types";
 import { apiUrl } from "@/lib/utils";
-import { LoadingSpinner } from "@/components/ui/loading-spinner";
+
+/** 骨架屏：学习中心加载占位 */
+function LearnPageSkeleton() {
+  return (
+    <div className="space-y-6 animate-pulse">
+      <div>
+        <div className="h-8 w-32 bg-muted rounded" />
+        <div className="mt-2 h-5 w-64 bg-muted rounded" />
+      </div>
+      <div className="grid gap-4 sm:grid-cols-2">
+        {[1, 2, 3, 4].map((i) => (
+          <div key={i} className="rounded-lg border p-6">
+            <div className="flex items-start gap-4">
+              <div className="h-12 w-12 rounded-xl bg-muted" />
+              <div className="flex-1 space-y-2">
+                <div className="h-5 w-24 bg-muted rounded" />
+                <div className="h-4 w-full bg-muted rounded" />
+                <div className="h-6 w-20 bg-muted rounded-full" />
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
 
 export default function LearnPage() {
   const router = useRouter();
@@ -32,8 +57,10 @@ export default function LearnPage() {
     getReviewWordIds,
   } = useLearningData();
 
-  const [words, setWords] = useState<Word[]>([]);
+  // 轻量数据：只需要 ID 列表和词库名
+  const [wordIds, setWordIds] = useState<string[]>([]);
   const [bookName, setBookName] = useState("");
+  const [wordCount, setWordCount] = useState(0);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -42,21 +69,27 @@ export default function LearnPage() {
       setLoading(false);
       return;
     }
-    fetch(apiUrl(`/api/words/${currentBookId}?all=true`))
+    // 使用轻量 API，只获取 ID 列表（数据量从数百 KB 降到几 KB）
+    fetch(apiUrl(`/api/words/${currentBookId}?ids=true`))
       .then((res) => res.json())
       .then((data) => {
-        setWords(Array.isArray(data?.words) ? data.words : []);
+        setWordIds(Array.isArray(data?.wordIds) ? data.wordIds : []);
         setBookName(data?.name || "");
+        setWordCount(data?.wordCount || 0);
         setLoading(false);
       })
       .catch(() => {
-        setWords([]);
+        setWordIds([]);
         setLoading(false);
       });
+
+    // 后台预取完整单词数据，加速进入学习子页面
+    fetch(apiUrl(`/api/words/${currentBookId}?all=true`)).catch(() => {});
   }, [currentBookId, hydrated]);
 
+  // 骨架屏替代 spinner
   if (loading) {
-    return <LoadingSpinner />;
+    return <LearnPageSkeleton />;
   }
 
   // 未选择词库时提示
@@ -78,7 +111,6 @@ export default function LearnPage() {
     );
   }
 
-  const wordIds = words.map((w) => w.id);
   // 获取全部新词和复习词数量用于统计展示（不限制数量）
   const newWordCount = getNewWordIds(wordIds, wordIds.length).length;
   const reviewWordCount = getReviewWordIds(wordIds, wordIds.length).length;
@@ -137,7 +169,7 @@ export default function LearnPage() {
         <h1 className="text-2xl font-bold tracking-tight">学习中心</h1>
         <p className="mt-1 text-muted-foreground">
           当前词库：<span className="font-medium text-foreground">{bookName}</span>
-          <span className="ml-2">· {words.length} 个单词</span>
+          <span className="ml-2">· {wordCount} 个单词</span>
         </p>
       </div>
 
