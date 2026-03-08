@@ -15,6 +15,7 @@ import { QualityButtons } from "@/components/word/quality-buttons";
 import { useLearningData } from "@/lib/use-learning-data";
 import { useStudyTimer } from "@/lib/use-study-timer";
 import { useCardShortcuts } from "@/lib/use-keyboard-shortcuts";
+import { playWordAudio } from "@/lib/audio";
 import type { Word } from "@/types";
 import { StudySkeleton } from "@/components/ui/study-skeleton";
 import { useBookWords } from "@/lib/use-book-words";
@@ -63,10 +64,16 @@ export default function NewWordsPage() {
 
   const loading = !wordsReady;
 
-  /** 快捷键翻转 */
+  /** 快捷键翻转（翻到背面时自动播放发音） */
   const handleFlipToggle = useCallback(() => {
-    setIsFlipped((prev) => !prev);
-  }, []);
+    setIsFlipped((prev) => {
+      const next = !prev;
+      if (next && settings.autoPlayAudio && studyWords[currentIndex]) {
+        playWordAudio(studyWords[currentIndex].word, settings.pronunciation);
+      }
+      return next;
+    });
+  }, [settings.autoPlayAudio, settings.pronunciation, studyWords, currentIndex]);
 
   /** 处理用户评分 */
   const handleRate = useCallback(
