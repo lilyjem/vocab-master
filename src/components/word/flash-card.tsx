@@ -6,17 +6,21 @@
 
 import { useState } from "react";
 import { Volume2 } from "lucide-react";
+import { useSession } from "next-auth/react";
 import { cn } from "@/lib/utils";
 import { useLearningData } from "@/lib/use-learning-data";
 import { playWordAudio } from "@/lib/audio";
 import { ExampleSentences } from "@/components/word/example-sentences";
 import { EtymologyPanel } from "@/components/word/etymology-panel";
+import { FavoriteButton } from "@/components/word/favorite-button";
 import type { Word } from "@/types";
 
 interface FlashCardProps {
   word: Word;
   showPhonetic?: boolean;
   autoPlayAudio?: boolean;
+  /** 受控模式：外部传入翻转状态 */
+  flipped?: boolean;
   onFlip?: (isFlipped: boolean) => void;
 }
 
@@ -24,10 +28,14 @@ export function FlashCard({
   word,
   showPhonetic = true,
   autoPlayAudio = false,
+  flipped,
   onFlip,
 }: FlashCardProps) {
-  const [isFlipped, setIsFlipped] = useState(false);
+  // 支持受控和非受控两种模式
+  const [internalFlipped, setInternalFlipped] = useState(false);
+  const isFlipped = flipped !== undefined ? flipped : internalFlipped;
   const { settings } = useLearningData();
+  const { data: session } = useSession();
   const pronunciation = settings.pronunciation;
 
   /** 播放单词发音（有道词典 TTS，真正区分美式/英式） */
@@ -39,7 +47,9 @@ export function FlashCard({
   /** 翻转卡片 */
   const handleFlip = () => {
     const newFlipped = !isFlipped;
-    setIsFlipped(newFlipped);
+    if (flipped === undefined) {
+      setInternalFlipped(newFlipped);
+    }
     onFlip?.(newFlipped);
     if (!isFlipped && autoPlayAudio) {
       playAudio();
@@ -64,13 +74,16 @@ export function FlashCard({
       >
         {/* ===== 正面 - 英文单词 ===== */}
         <div className="absolute inset-0 rounded-2xl border border-border bg-card shadow-lg p-8 flex flex-col items-center justify-center [backface-visibility:hidden]">
-          <button
-            onClick={playAudio}
-            aria-label={`播放 ${word.word} 的发音`}
-            className="absolute top-4 right-4 rounded-full p-2 hover:bg-muted transition-colors"
-          >
-            <Volume2 className="h-5 w-5 text-muted-foreground" />
-          </button>
+          <div className="absolute top-4 right-4 flex items-center gap-1">
+            {session && <FavoriteButton wordId={word.id} />}
+            <button
+              onClick={playAudio}
+              aria-label={`播放 ${word.word} 的发音`}
+              className="rounded-full p-2 hover:bg-muted transition-colors"
+            >
+              <Volume2 className="h-5 w-5 text-muted-foreground" />
+            </button>
+          </div>
 
           <span className="text-4xl font-bold tracking-wide">{word.word}</span>
 

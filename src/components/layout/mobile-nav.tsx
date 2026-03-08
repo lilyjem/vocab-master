@@ -6,13 +6,13 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { BookOpen, GraduationCap, BarChart3, User } from "lucide-react";
+import { BookOpen, GraduationCap, BarChart3, User, Star } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 const navItems = [
   { href: "/", label: "首页", icon: BookOpen },
-  { href: "/wordbooks", label: "词库", icon: GraduationCap },
-  { href: "/learn", label: "学习", icon: BookOpen },
+  { href: "/learn", label: "学习", icon: GraduationCap },
+  { href: "/favorites", label: "收藏", icon: Star },
   { href: "/stats", label: "统计", icon: BarChart3 },
   { href: "/profile", label: "我的", icon: User },
 ];

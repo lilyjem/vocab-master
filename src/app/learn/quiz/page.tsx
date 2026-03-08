@@ -13,6 +13,7 @@ import { Progress } from "@/components/ui/progress";
 import { QuizCard } from "@/components/word/quiz-card";
 import { useLearningData } from "@/lib/use-learning-data";
 import { useStudyTimer } from "@/lib/use-study-timer";
+import { useQuizShortcuts } from "@/lib/use-keyboard-shortcuts";
 import { shuffle, sampleArray } from "@/lib/utils";
 import type { Word } from "@/types";
 import { StudySkeleton } from "@/components/ui/study-skeleton";
@@ -56,6 +57,9 @@ export default function QuizPage() {
   }, [hydrated, currentBookId, router, allWords, wordsLoading]);
 
   const loading = !wordsReady;
+
+  // 快捷键：Esc 返回学习中心
+  useQuizShortcuts({ isComplete });
 
   /** 缓存当前单词的四个选项，避免 render 时重新随机 */
   const currentOptions = useMemo(() => {

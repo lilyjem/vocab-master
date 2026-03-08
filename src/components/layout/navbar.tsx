@@ -14,6 +14,7 @@ import {
   X,
   Sun,
   Moon,
+  Star,
 } from "lucide-react";
 import { useState } from "react";
 import { useTheme } from "next-themes";
@@ -25,6 +26,7 @@ const navLinks = [
   { href: "/", label: "首页", icon: BookOpen },
   { href: "/wordbooks", label: "词库", icon: GraduationCap },
   { href: "/learn", label: "学习", icon: BookOpen },
+  { href: "/favorites", label: "收藏", icon: Star },
   { href: "/stats", label: "统计", icon: BarChart3 },
   { href: "/profile", label: "我的", icon: User },
 ];

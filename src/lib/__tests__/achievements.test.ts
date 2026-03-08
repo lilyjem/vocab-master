@@ -38,11 +38,15 @@ describe("checkAchievements", () => {
     booksCompleted: 0,
     totalStudyMinutes: 0,
     earlyBirdCount: 0,
+    nightOwlCount: 0,
+    weekendWarriorCount: 0,
+    wordSlayerDays: 0,
+    marathonDays: 0,
   };
 
   it("零统计时所有成就为 none", () => {
     const results = checkAchievements(emptyStats);
-    expect(results).toHaveLength(8);
+    expect(results).toHaveLength(12);
     results.forEach((r) => expect(r.tier).toBe("none"));
   });
 

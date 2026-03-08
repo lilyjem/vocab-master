@@ -12,6 +12,10 @@ import {
   Trophy,
   Clock,
   Sunrise,
+  Moon,
+  Calendar,
+  Zap,
+  Timer,
 } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Progress } from "@/components/ui/progress";
@@ -27,6 +31,10 @@ const ICON_MAP: Record<string, React.ComponentType<{ className?: string }>> = {
   Trophy,
   Clock,
   Sunrise,
+  Moon,
+  Calendar,
+  Zap,
+  Timer,
 };
 
 // 等级颜色（铜/银/金）

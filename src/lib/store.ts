@@ -320,14 +320,28 @@ export const useLearningStore = create<LearningStore>()(
         let bestAccuracy = 0;
         let totalSpellCorrect = 0;
         let earlyBirdCount = 0;
+        let nightOwlCount = 0;
+        let weekendWarriorCount = 0;
         for (const s of sessions) {
           if (s.totalCount > 0) {
             const acc = Math.round((s.correctCount / s.totalCount) * 100);
             if (acc > bestAccuracy) bestAccuracy = acc;
           }
           if (s.mode === "spell") totalSpellCorrect += s.correctCount;
-          const hour = new Date(s.startTime).getHours();
+          const d = new Date(s.startTime);
+          const hour = d.getHours();
           if (hour >= 6 && hour < 8) earlyBirdCount++;
+          if (hour >= 22 && hour < 24) nightOwlCount++;
+          const day = d.getDay();
+          if (day === 0 || day === 6) weekendWarriorCount++;
+        }
+
+        // 里程碑统计：单日学 100 词 / 单日学 120 分钟的天数
+        let wordSlayerDays = 0;
+        let marathonDays = 0;
+        for (const s of Object.values(dailyStats)) {
+          if ((s.wordsLearned + s.wordsReviewed) >= 100) wordSlayerDays++;
+          if (s.studyMinutes >= 120) marathonDays++;
         }
 
         const stats: AchievementStats = {
@@ -336,9 +350,13 @@ export const useLearningStore = create<LearningStore>()(
           totalReviews,
           bestAccuracy,
           totalSpellCorrect,
-          booksCompleted: 0, // 本地无词书列表，无法计算
+          booksCompleted: 0,
           totalStudyMinutes,
           earlyBirdCount,
+          nightOwlCount,
+          weekendWarriorCount,
+          wordSlayerDays,
+          marathonDays,
         };
 
         // 2. 调用成就引擎

@@ -1,5 +1,5 @@
 /**
- * 成就种子数据 - 8 个成就的定义
+ * 成就种子数据 - 12 个成就的定义
  * 每个成就有铜/银/金三个等级
  */
 
@@ -14,7 +14,7 @@ export interface AchievementSeed {
   goldThreshold: number;
 }
 
-/** 8 个成就定义 */
+/** 12 个成就定义 */
 export const ACHIEVEMENTS: AchievementSeed[] = [
   {
     code: "vocab_learner",
@@ -95,5 +95,45 @@ export const ACHIEVEMENTS: AchievementSeed[] = [
     bronzeThreshold: 5,
     silverThreshold: 20,
     goldThreshold: 50,
+  },
+  {
+    code: "night_owl",
+    name: "夜猫子",
+    description: "晚上 22-24 点学习的次数",
+    category: "challenge",
+    icon: "Moon",
+    bronzeThreshold: 5,
+    silverThreshold: 20,
+    goldThreshold: 50,
+  },
+  {
+    code: "weekend_warrior",
+    name: "周末战士",
+    description: "周末学习的次数",
+    category: "challenge",
+    icon: "Calendar",
+    bronzeThreshold: 5,
+    silverThreshold: 20,
+    goldThreshold: 50,
+  },
+  {
+    code: "word_slayer",
+    name: "百词斩",
+    description: "单日学习 100 词的天数",
+    category: "milestone",
+    icon: "Zap",
+    bronzeThreshold: 1,
+    silverThreshold: 5,
+    goldThreshold: 20,
+  },
+  {
+    code: "marathon",
+    name: "马拉松",
+    description: "单日学习 120 分钟的天数",
+    category: "milestone",
+    icon: "Timer",
+    bronzeThreshold: 1,
+    silverThreshold: 5,
+    goldThreshold: 20,
   },
 ];

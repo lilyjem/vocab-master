@@ -17,6 +17,10 @@ export const ACHIEVEMENT_META: Record<
   book_conqueror: { description: "完成的词书数量", icon: "Trophy" },
   study_timer: { description: "累计学习时长（分钟）", icon: "Clock" },
   early_bird: { description: "早上 6-8 点学习的次数", icon: "Sunrise" },
+  night_owl: { description: "晚上 22-24 点学习的次数", icon: "Moon" },
+  weekend_warrior: { description: "周末学习的次数", icon: "Calendar" },
+  word_slayer: { description: "单日学习 100 词的天数", icon: "Zap" },
+  marathon: { description: "单日学习 120 分钟的天数", icon: "Timer" },
 };
 
 /** 成就定义（与种子数据对应） */
@@ -29,6 +33,10 @@ export const ACHIEVEMENT_DEFINITIONS = [
   { code: "book_conqueror", name: "词书征服者", bronze: 1, silver: 3, gold: 6 },
   { code: "study_timer", name: "学习时长", bronze: 60, silver: 600, gold: 3000 },
   { code: "early_bird", name: "早起鸟", bronze: 5, silver: 20, gold: 50 },
+  { code: "night_owl", name: "夜猫子", bronze: 5, silver: 20, gold: 50 },
+  { code: "weekend_warrior", name: "周末战士", bronze: 5, silver: 20, gold: 50 },
+  { code: "word_slayer", name: "百词斩", bronze: 1, silver: 5, gold: 20 },
+  { code: "marathon", name: "马拉松", bronze: 1, silver: 5, gold: 20 },
 ] as const;
 
 /** 用户统计数据（用于成就判定） */
@@ -40,7 +48,11 @@ export interface AchievementStats {
   totalSpellCorrect: number; // 拼写正确总数
   booksCompleted: number; // 完成词书数
   totalStudyMinutes: number; // 累计学习分钟数
-  earlyBirdCount: number; // 早起学习次数
+  earlyBirdCount: number; // 早起学习次数（6-8点）
+  nightOwlCount: number; // 夜猫子学习次数（22-24点）
+  weekendWarriorCount: number; // 周末学习次数
+  wordSlayerDays: number; // 单日学 100 词的天数
+  marathonDays: number; // 单日学 120 分钟的天数
 }
 
 /** 成就检查结果 */
@@ -81,6 +93,10 @@ export function checkAchievements(stats: AchievementStats): AchievementResult[] 
     book_conqueror: stats.booksCompleted,
     study_timer: stats.totalStudyMinutes,
     early_bird: stats.earlyBirdCount,
+    night_owl: stats.nightOwlCount,
+    weekend_warrior: stats.weekendWarriorCount,
+    word_slayer: stats.wordSlayerDays,
+    marathon: stats.marathonDays,
   };
 
   return ACHIEVEMENT_DEFINITIONS.map((def) => {

@@ -56,6 +56,8 @@ async function getAchievementStats(userId: string): Promise<AchievementStats> {
   let bestAccuracy = 0;
   let totalSpellCorrect = 0;
   let earlyBirdCount = 0;
+  let nightOwlCount = 0;
+  let weekendWarriorCount = 0;
 
   for (const s of sessions) {
     if (s.totalCount > 0) {
@@ -65,8 +67,12 @@ async function getAchievementStats(userId: string): Promise<AchievementStats> {
     if (s.mode === "spell") {
       totalSpellCorrect += s.correctCount;
     }
-    const hour = new Date(s.startTime).getHours();
+    const d = new Date(s.startTime);
+    const hour = d.getHours();
     if (hour >= 6 && hour < 8) earlyBirdCount++;
+    if (hour >= 22 && hour < 24) nightOwlCount++;
+    const day = d.getDay();
+    if (day === 0 || day === 6) weekendWarriorCount++;
   }
 
   // 完成词书数：词书中所有单词都已掌握的书籍数
@@ -86,6 +92,18 @@ async function getAchievementStats(userId: string): Promise<AchievementStats> {
     if (masteredCount >= book.wordCount) booksCompleted++;
   }
 
+  // 里程碑统计：单日学 100 词 / 单日学 120 分钟的天数
+  const dailyCheckIns = await prisma.dailyCheckIn.findMany({
+    where: { userId },
+    select: { wordsLearned: true, wordsReviewed: true, studyMinutes: true },
+  });
+  let wordSlayerDays = 0;
+  let marathonDays = 0;
+  for (const ci of dailyCheckIns) {
+    if ((ci.wordsLearned + ci.wordsReviewed) >= 100) wordSlayerDays++;
+    if (ci.studyMinutes >= 120) marathonDays++;
+  }
+
   return {
     totalWordsLearned: wordProgressCount,
     currentStreak,
@@ -95,6 +113,10 @@ async function getAchievementStats(userId: string): Promise<AchievementStats> {
     booksCompleted,
     totalStudyMinutes,
     earlyBirdCount,
+    nightOwlCount,
+    weekendWarriorCount,
+    wordSlayerDays,
+    marathonDays,
   };
 }
 

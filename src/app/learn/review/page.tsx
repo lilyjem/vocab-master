@@ -14,6 +14,7 @@ import { FlashCard } from "@/components/word/flash-card";
 import { QualityButtons } from "@/components/word/quality-buttons";
 import { useLearningData } from "@/lib/use-learning-data";
 import { useStudyTimer } from "@/lib/use-study-timer";
+import { useCardShortcuts } from "@/lib/use-keyboard-shortcuts";
 import type { Word } from "@/types";
 import { StudySkeleton } from "@/components/ui/study-skeleton";
 import { useBookWords } from "@/lib/use-book-words";
@@ -61,6 +62,11 @@ export default function ReviewPage() {
 
   const loading = !wordsReady;
 
+  /** 快捷键翻转 */
+  const handleFlipToggle = useCallback(() => {
+    setIsFlipped((prev) => !prev);
+  }, []);
+
   const handleRate = useCallback(
     (quality: number) => {
       if (currentIndex >= studyWords.length) return;
@@ -84,6 +90,15 @@ export default function ReviewPage() {
     },
     [currentIndex, studyWords, updateWordProgress, stopTimer]
   );
+
+  // 快捷键：空格翻转、1-4评分、Esc返回（必须在所有 early return 之前调用）
+  useCardShortcuts({
+    onFlip: handleFlipToggle,
+    onRate: handleRate,
+    isFlipped,
+    isComplete,
+    simplified: true,
+  });
 
   if (loading) {
     return <StudySkeleton />;
@@ -188,14 +203,15 @@ export default function ReviewPage() {
           word={currentWord}
           showPhonetic={settings.showPhonetic}
           autoPlayAudio={settings.autoPlayAudio}
-          onFlip={(flipped) => setIsFlipped(flipped)}
+          flipped={isFlipped}
+          onFlip={(f) => setIsFlipped(f)}
         />
       </div>
 
       {isFlipped && (
         <div className="animate-in fade-in slide-in-from-bottom-4 duration-300">
           <p className="text-center text-sm text-muted-foreground mb-3">
-            你对这个单词的掌握程度？
+            你对这个单词的掌握程度？<span className="text-xs ml-1 opacity-60">（键盘 1-4 快速评分）</span>
           </p>
           <QualityButtons onRate={handleRate} simplified />
         </div>

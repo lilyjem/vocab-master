@@ -13,6 +13,7 @@ import { Progress } from "@/components/ui/progress";
 import { SpellCard } from "@/components/word/spell-card";
 import { useLearningData } from "@/lib/use-learning-data";
 import { useStudyTimer } from "@/lib/use-study-timer";
+import { useQuizShortcuts } from "@/lib/use-keyboard-shortcuts";
 import { shuffle } from "@/lib/utils";
 import type { Word } from "@/types";
 import { StudySkeleton } from "@/components/ui/study-skeleton";
@@ -68,6 +69,9 @@ export default function SpellTestPage() {
   }, [currentBookId, router, hydrated, getWordProgress, allWords, wordsLoading]);
 
   const loading = !wordsReady;
+
+  // 快捷键：Esc 返回学习中心
+  useQuizShortcuts({ isComplete });
 
   const handleAnswer = useCallback(
     (isCorrect: boolean) => {
