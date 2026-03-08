@@ -12,6 +12,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Progress } from "@/components/ui/progress";
 import { QuizCard } from "@/components/word/quiz-card";
 import { useLearningStore, useStoreHydrated } from "@/lib/store";
+import { useStudyTimer } from "@/lib/use-study-timer";
 import { shuffle, sampleArray, apiUrl } from "@/lib/utils";
 import type { Word } from "@/types";
 
@@ -32,6 +33,10 @@ export default function QuizPage() {
   const [isComplete, setIsComplete] = useState(false);
   const [sessionStats, setSessionStats] = useState({ total: 0, correct: 0 });
   const [quizMode] = useState<"en2cn" | "cn2en">("en2cn");
+  /** 学习时长追踪 */
+  const { elapsedSeconds, stopTimer } = useStudyTimer();
+  /** 完成时的总秒数快照 */
+  const [finalSeconds, setFinalSeconds] = useState(0);
 
   useEffect(() => {
     if (!hydrated) return;
@@ -87,6 +92,8 @@ export default function QuizPage() {
       if (currentIndex + 1 < studyWords.length) {
         setCurrentIndex((prev) => prev + 1);
       } else {
+        const totalSec = stopTimer();
+        setFinalSeconds(totalSec);
         setIsComplete(true);
       }
     },
@@ -118,6 +125,7 @@ export default function QuizPage() {
   }
 
   if (isComplete) {
+    const duration = Math.round(finalSeconds / 60);
     const accuracy =
       sessionStats.total > 0
         ? Math.round((sessionStats.correct / sessionStats.total) * 100)
@@ -135,7 +143,7 @@ export default function QuizPage() {
           </div>
           <h2 className="mt-6 text-2xl font-bold">测验完成！</h2>
 
-          <div className="mt-6 grid grid-cols-3 gap-6">
+          <div className="mt-6 grid grid-cols-4 gap-4">
             <Card>
               <CardContent className="p-4 text-center">
                 <p className="text-2xl font-bold text-primary">{sessionStats.total}</p>
@@ -152,6 +160,12 @@ export default function QuizPage() {
               <CardContent className="p-4 text-center">
                 <p className="text-2xl font-bold text-amber-500">{accuracy}%</p>
                 <p className="text-sm text-muted-foreground">正确率</p>
+              </CardContent>
+            </Card>
+            <Card>
+              <CardContent className="p-4 text-center">
+                <p className="text-2xl font-bold text-purple-500">{duration}</p>
+                <p className="text-sm text-muted-foreground">用时(分钟)</p>
               </CardContent>
             </Card>
           </div>

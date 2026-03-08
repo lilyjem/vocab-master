@@ -44,6 +44,9 @@ interface LearningStore {
   getStreak: () => number;
   getWordStatusCounts: (bookWordIds: string[]) => Record<WordStatus, number>;
 
+  // ===== 学习时长 =====
+  addStudyMinutes: (minutes: number) => void;
+
   // ===== 会话 =====
   addSession: (session: Omit<LocalSession, "endTime"> & { endTime?: string }) => void;
 
@@ -220,6 +223,36 @@ export const useLearningStore = create<LearningStore>()(
       /** 将云端合并后的每日统计写入本地 store（fullSyncDailyStats 调用） */
       mergeCloudDailyStats: (mergedStats) => {
         set({ dailyStats: mergedStats });
+      },
+
+      // ===== 学习时长 =====
+      /** 向今日统计追加学习时长（分钟），同步到云端 */
+      addStudyMinutes: (minutes) => {
+        if (minutes <= 0) return;
+
+        const { dailyStats } = get();
+        const today = formatDate(getToday());
+
+        const todayStats = dailyStats[today] || {
+          date: today,
+          wordsLearned: 0,
+          wordsReviewed: 0,
+          studyMinutes: 0,
+        };
+
+        const updatedStats = {
+          ...todayStats,
+          studyMinutes: todayStats.studyMinutes + minutes,
+        };
+
+        set({
+          dailyStats: {
+            ...dailyStats,
+            [today]: updatedStats,
+          },
+        });
+
+        pushDailyStats(today, updatedStats);
       },
 
       // ===== 会话 =====

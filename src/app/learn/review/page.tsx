@@ -13,6 +13,7 @@ import { Progress } from "@/components/ui/progress";
 import { FlashCard } from "@/components/word/flash-card";
 import { QualityButtons } from "@/components/word/quality-buttons";
 import { useLearningStore, useStoreHydrated } from "@/lib/store";
+import { useStudyTimer } from "@/lib/use-study-timer";
 import type { Word } from "@/types";
 import { apiUrl } from "@/lib/utils";
 
@@ -31,7 +32,10 @@ export default function ReviewPage() {
   const [loading, setLoading] = useState(true);
   const [isComplete, setIsComplete] = useState(false);
   const [sessionStats, setSessionStats] = useState({ total: 0, correct: 0 });
-  const [startTime] = useState(new Date());
+  /** 学习时长追踪 */
+  const { elapsedSeconds, stopTimer } = useStudyTimer();
+  /** 完成时的总秒数快照 */
+  const [finalSeconds, setFinalSeconds] = useState(0);
 
   useEffect(() => {
     if (!hydrated) return;
@@ -73,6 +77,8 @@ export default function ReviewPage() {
         setCurrentIndex((prev) => prev + 1);
         setIsFlipped(false);
       } else {
+        const totalSec = stopTimer();
+        setFinalSeconds(totalSec);
         setIsComplete(true);
       }
     },
@@ -111,9 +117,7 @@ export default function ReviewPage() {
   }
 
   if (isComplete) {
-    const duration = Math.round(
-      (new Date().getTime() - startTime.getTime()) / 60000
-    );
+    const duration = Math.round(finalSeconds / 60);
     const accuracy =
       sessionStats.total > 0
         ? Math.round((sessionStats.correct / sessionStats.total) * 100)
