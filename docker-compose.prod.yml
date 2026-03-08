@@ -43,6 +43,13 @@ services:
       # 百度翻译 API（用于例句中文翻译）
       BAIDU_TRANSLATE_APPID: "${BAIDU_TRANSLATE_APPID}"
       BAIDU_TRANSLATE_SECRET: "${BAIDU_TRANSLATE_SECRET}"
+      # QQ 邮箱 SMTP（用于密码重置、邮箱验证等）
+      SMTP_HOST: "${SMTP_HOST}"
+      SMTP_PORT: "${SMTP_PORT}"
+      SMTP_USER: "${SMTP_USER}"
+      SMTP_PASS: "${SMTP_PASS}"
+      SMTP_FROM: "${SMTP_FROM}"
+      NEXT_PUBLIC_APP_URL: "https://bairihuizhan.online/vocab"
     depends_on:
       vocab-db:
         condition: service_healthy
