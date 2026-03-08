@@ -54,6 +54,9 @@ next-env.d.ts
 *.key
 *.cert
 
+# ===== AI 对话记录（可能包含敏感信息） =====
+agent-transcripts/
+
 # ===== 杂项 =====
 *.tgz
 .cache/

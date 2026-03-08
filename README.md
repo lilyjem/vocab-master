@@ -125,16 +125,16 @@ cp .env.example .env
 编辑 `.env` 文件，配置数据库连接和密钥：
 
 ```env
-# 数据库连接地址
-DATABASE_URL="postgresql://vocab:vocab123@localhost:5432/vocabmaster?schema=public"
+# 数据库连接地址（请修改密码）
+DATABASE_URL="postgresql://vocab:<你的密码>@localhost:5432/vocabmaster?schema=public"
 
-# NextAuth 配置
+# NextAuth 配置（生产环境请使用 openssl rand -base64 32 生成）
 NEXTAUTH_URL="http://localhost:3000"
-NEXTAUTH_SECRET="your-secret-key-here"  # 生产环境请使用强随机字符串
+NEXTAUTH_SECRET="<请生成强随机字符串>"
 
-# 百度翻译 API（仅词库数据生成时需要，可选）
+# 百度翻译 API（用于例句中文翻译和词库数据生成，可选）
 BAIDU_TRANSLATE_APPID=""
-BAIDU_TRANSLATE_KEY=""
+BAIDU_TRANSLATE_SECRET=""
 ```
 
 ### 4. 启动数据库
@@ -195,14 +195,14 @@ docker compose up -d
 services:
   db:
     environment:
-      POSTGRES_USER: vocab          # 数据库用户名
-      POSTGRES_PASSWORD: vocab123   # 数据库密码（生产环境请修改）
-      POSTGRES_DB: vocabmaster      # 数据库名
+      POSTGRES_USER: vocab                # 数据库用户名
+      POSTGRES_PASSWORD: <你的数据库密码>   # 通过 .env 文件配置
+      POSTGRES_DB: vocabmaster             # 数据库名
   app:
     ports:
-      - "3000:3000"                 # 映射端口
+      - "3000:3000"                        # 映射端口
     environment:
-      NEXTAUTH_SECRET: "change-me"  # 生产环境必须修改
+      NEXTAUTH_SECRET: <你的密钥>           # 通过 .env 文件配置
 ```
 
 ### 停止和清理
@@ -384,15 +384,21 @@ git checkout -b feature/your-feature-name
 
 | 变量 | 说明 | 必填 | 默认值 |
 |------|------|------|--------|
-| `DATABASE_URL` | PostgreSQL 连接地址 | ✅ | `postgresql://vocab:vocab123@localhost:5432/vocabmaster` |
+| `POSTGRES_PASSWORD` | 数据库密码 | ✅ | （必须设置强密码） |
+| `DATABASE_URL` | PostgreSQL 连接地址 | ✅ | （参考 .env.example） |
 | `NEXTAUTH_URL` | 网站访问地址 | ✅ | `http://localhost:3000` |
-| `NEXTAUTH_SECRET` | NextAuth JWT 密钥 | ✅ | （需要修改） |
+| `NEXTAUTH_SECRET` | NextAuth JWT 密钥 | ✅ | （使用 `openssl rand -base64 32` 生成） |
 | `GITHUB_CLIENT_ID` | GitHub OAuth Client ID | ❌ | - |
 | `GITHUB_CLIENT_SECRET` | GitHub OAuth Client Secret | ❌ | - |
 | `GOOGLE_CLIENT_ID` | Google OAuth Client ID | ❌ | - |
 | `GOOGLE_CLIENT_SECRET` | Google OAuth Client Secret | ❌ | - |
-| `BAIDU_TRANSLATE_APPID` | 百度翻译 APP ID（数据生成用） | ❌ | - |
-| `BAIDU_TRANSLATE_KEY` | 百度翻译密钥（数据生成用） | ❌ | - |
+| `BAIDU_TRANSLATE_APPID` | 百度翻译 APP ID | ❌ | - |
+| `BAIDU_TRANSLATE_SECRET` | 百度翻译密钥 | ❌ | - |
+| `SMTP_HOST` | 邮箱 SMTP 服务器 | ❌ | `smtp.qq.com` |
+| `SMTP_PORT` | SMTP 端口 | ❌ | `465` |
+| `SMTP_USER` | SMTP 用户名（邮箱地址） | ❌ | - |
+| `SMTP_PASS` | SMTP 授权码 | ❌ | - |
+| `NEXT_PUBLIC_APP_URL` | 应用公开访问 URL | ❌ | `http://localhost:3000` |
 
 ---
 

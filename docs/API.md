@@ -122,7 +122,7 @@ POST /api/auth/register
 {
   "name": "张三",
   "email": "user@example.com",
-  "password": "password123"
+  "password": "<你的密码>"
 }
 ```
 

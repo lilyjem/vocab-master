@@ -1,6 +1,6 @@
 # VocabMaster 生产环境 Docker Compose 配置
-# 用于服务器子路径部署：https://bairihuizhan.online/vocab/
 # 使用方式：docker compose -f docker-compose.prod.yml up -d
+# 注意：所有敏感配置通过 .env 文件注入，请参考 .env.example
 
 version: "3.8"
 
@@ -11,15 +11,15 @@ services:
     container_name: vocab-db
     restart: unless-stopped
     environment:
-      POSTGRES_USER: vocab
-      POSTGRES_PASSWORD: vocab123
-      POSTGRES_DB: vocabmaster
+      POSTGRES_USER: ${POSTGRES_USER:-vocab}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB:-vocabmaster}
     ports:
       - "5433:5432"
     volumes:
       - vocab_postgres_data:/var/lib/postgresql/data
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U vocab -d vocabmaster"]
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-vocab} -d ${POSTGRES_DB:-vocabmaster}"]
       interval: 5s
       timeout: 5s
       retries: 10
@@ -30,26 +30,26 @@ services:
       context: .
       dockerfile: Dockerfile
       args:
-        - NEXT_PUBLIC_BASE_PATH=/vocab
+        - NEXT_PUBLIC_BASE_PATH=${NEXT_PUBLIC_BASE_PATH:-}
     container_name: vocab-app
     restart: unless-stopped
     ports:
       - "3003:3000"
     environment:
-      DATABASE_URL: "postgresql://vocab:vocab123@vocab-db:5432/vocabmaster?schema=public"
-      NEXTAUTH_URL: "https://bairihuizhan.online/vocab"
-      NEXTAUTH_SECRET: "vocab-master-prod-secret-change-me"
-      NEXT_PUBLIC_BASE_PATH: "/vocab"
+      DATABASE_URL: "postgresql://${POSTGRES_USER:-vocab}:${POSTGRES_PASSWORD}@vocab-db:5432/${POSTGRES_DB:-vocabmaster}?schema=public"
+      NEXTAUTH_URL: "${NEXTAUTH_URL}"
+      NEXTAUTH_SECRET: "${NEXTAUTH_SECRET}"
+      NEXT_PUBLIC_BASE_PATH: "${NEXT_PUBLIC_BASE_PATH:-}"
       # 百度翻译 API（用于例句中文翻译）
       BAIDU_TRANSLATE_APPID: "${BAIDU_TRANSLATE_APPID}"
       BAIDU_TRANSLATE_SECRET: "${BAIDU_TRANSLATE_SECRET}"
-      # QQ 邮箱 SMTP（用于密码重置、邮箱验证等）
+      # 邮箱 SMTP（用于密码重置、邮箱验证等）
       SMTP_HOST: "${SMTP_HOST}"
       SMTP_PORT: "${SMTP_PORT}"
       SMTP_USER: "${SMTP_USER}"
       SMTP_PASS: "${SMTP_PASS}"
       SMTP_FROM: "${SMTP_FROM}"
-      NEXT_PUBLIC_APP_URL: "https://bairihuizhan.online/vocab"
+      NEXT_PUBLIC_APP_URL: "${NEXT_PUBLIC_APP_URL}"
     depends_on:
       vocab-db:
         condition: service_healthy

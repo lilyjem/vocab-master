@@ -10,7 +10,7 @@
  * 前提：
  * - 在对应目录下放置 meta.json（词库元信息）
  * - 在对应目录下放置 wordlist.txt（每行一个英文单词）
- * - .env 中配置 BAIDU_TRANSLATE_APPID 和 BAIDU_TRANSLATE_KEY
+ * - .env 中配置 BAIDU_TRANSLATE_APPID 和 BAIDU_TRANSLATE_SECRET
  */
 import * as fs from "fs";
 import * as path from "path";
@@ -35,10 +35,10 @@ if (fs.existsSync(envPath)) {
 }
 
 const BAIDU_APPID = process.env.BAIDU_TRANSLATE_APPID || "";
-const BAIDU_KEY = process.env.BAIDU_TRANSLATE_KEY || "";
+const BAIDU_KEY = process.env.BAIDU_TRANSLATE_SECRET || process.env.BAIDU_TRANSLATE_KEY || "";
 
 if (!BAIDU_APPID || !BAIDU_KEY) {
-  console.error("❌ 缺少百度翻译 API 凭证，请在 .env 中配置 BAIDU_TRANSLATE_APPID 和 BAIDU_TRANSLATE_KEY");
+  console.error("❌ 缺少百度翻译 API 凭证，请在 .env 中配置 BAIDU_TRANSLATE_APPID 和 BAIDU_TRANSLATE_SECRET");
   process.exit(1);
 }
 

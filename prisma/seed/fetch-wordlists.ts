@@ -33,7 +33,7 @@ if (fs.existsSync(envPath)) {
 }
 
 const BAIDU_APPID = process.env.BAIDU_TRANSLATE_APPID || "";
-const BAIDU_KEY = process.env.BAIDU_TRANSLATE_KEY || "";
+const BAIDU_KEY = process.env.BAIDU_TRANSLATE_SECRET || process.env.BAIDU_TRANSLATE_KEY || "";
 
 const SEED_DIR = __dirname;
 const BATCH_SIZE = 200;
