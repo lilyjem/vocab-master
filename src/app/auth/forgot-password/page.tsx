@@ -1,48 +1,74 @@
 /**
- * 登录页面
+ * 忘记密码页面
+ * 用户输入邮箱，提交后 API 发送重置邮件
  */
 "use client";
 
 import { useState } from "react";
-import { signIn } from "next-auth/react";
-import { useRouter } from "next/navigation";
 import Link from "next/link";
-import { BookOpen, Mail, Lock, Loader2 } from "lucide-react";
+import { BookOpen, Mail, Loader2, ArrowLeft } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { apiUrl } from "@/lib/utils";
 
-export default function LoginPage() {
-  const router = useRouter();
+export default function ForgotPasswordPage() {
   const [email, setEmail] = useState("");
-  const [password, setPassword] = useState("");
-  const [error, setError] = useState("");
   const [loading, setLoading] = useState(false);
+  const [success, setSuccess] = useState(false);
+  const [error, setError] = useState("");
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    setError("");
     setLoading(true);
+    setSuccess(false);
+    setError("");
 
     try {
-      const result = await signIn("credentials", {
-        email,
-        password,
-        redirect: false,
+      const res = await fetch(apiUrl("/api/auth/forgot-password"), {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email }),
       });
 
-      if (result?.error) {
-        setError(result.error);
+      if (res.ok) {
+        setSuccess(true);
       } else {
-        router.push("/");
-        router.refresh();
+        const data = await res.json().catch(() => ({}));
+        setError(data.error || "请求失败，请稍后重试");
       }
     } catch {
-      setError("登录失败，请稍后重试");
+      setError("网络错误，请稍后重试");
     } finally {
       setLoading(false);
     }
   };
+
+  if (success) {
+    return (
+      <div className="flex min-h-[60vh] items-center justify-center">
+        <Card className="w-full max-w-md">
+          <CardHeader className="text-center">
+            <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-xl bg-primary">
+              <BookOpen className="h-6 w-6 text-primary-foreground" />
+            </div>
+            <CardTitle className="mt-4 text-2xl">已发送</CardTitle>
+            <p className="text-sm text-muted-foreground">
+              如果该邮箱已注册，您将收到密码重置邮件，请查收并点击链接完成重置。
+            </p>
+          </CardHeader>
+          <CardContent>
+            <Link href="/auth/login">
+              <Button variant="outline" className="w-full">
+                <ArrowLeft className="mr-2 h-4 w-4" />
+                返回登录
+              </Button>
+            </Link>
+          </CardContent>
+        </Card>
+      </div>
+    );
+  }
 
   return (
     <div className="flex min-h-[60vh] items-center justify-center">
@@ -51,9 +77,9 @@ export default function LoginPage() {
           <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-xl bg-primary">
             <BookOpen className="h-6 w-6 text-primary-foreground" />
           </div>
-          <CardTitle className="mt-4 text-2xl">登录 VocabMaster</CardTitle>
+          <CardTitle className="mt-4 text-2xl">忘记密码</CardTitle>
           <p className="text-sm text-muted-foreground">
-            登录后可以同步学习数据到云端
+            输入注册邮箱，我们将发送密码重置链接
           </p>
         </CardHeader>
         <CardContent>
@@ -82,55 +108,19 @@ export default function LoginPage() {
               </div>
             </div>
 
-            <div className="space-y-2">
-              <label className="text-sm font-medium" htmlFor="password">
-                密码
-              </label>
-              <div className="relative">
-                <Lock className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
-                <Input
-                  id="password"
-                  type="password"
-                  placeholder="至少6位密码"
-                  value={password}
-                  onChange={(e) => setPassword(e.target.value)}
-                  className="pl-9"
-                  required
-                  minLength={6}
-                />
-              </div>
-              <div className="flex justify-end">
-                <Link
-                  href="/auth/forgot-password"
-                  className="text-xs text-muted-foreground hover:text-primary hover:underline"
-                >
-                  忘记密码？
-                </Link>
-              </div>
-            </div>
-
             <Button type="submit" className="w-full" disabled={loading}>
               {loading && <Loader2 className="mr-2 h-4 w-4 animate-spin" />}
-              登录
+              发送重置邮件
             </Button>
           </form>
 
           <div className="mt-6 text-center text-sm text-muted-foreground">
-            还没有账号？{" "}
+            想起密码了？{" "}
             <Link
-              href="/auth/register"
-              className="text-primary hover:underline font-medium"
+              href="/auth/login"
+              className="font-medium text-primary hover:underline"
             >
-              立即注册
-            </Link>
-          </div>
-
-          <div className="mt-4 text-center">
-            <Link
-              href="/"
-              className="text-sm text-muted-foreground hover:text-foreground"
-            >
-              暂不登录，继续使用
+              返回登录
             </Link>
           </div>
         </CardContent>

@@ -6,6 +6,7 @@ import CredentialsProvider from "next-auth/providers/credentials";
 import { PrismaAdapter } from "@next-auth/prisma-adapter";
 import { prisma } from "@/lib/db";
 import bcrypt from "bcryptjs";
+import { checkLoginLimit, recordFailedLogin, clearFailedLogins } from "@/lib/login-limiter";
 
 export const authOptions: NextAuthOptions = {
   adapter: PrismaAdapter(prisma),
@@ -22,12 +23,24 @@ export const authOptions: NextAuthOptions = {
           throw new Error("请输入邮箱和密码");
         }
 
+        // 检查登录限流
+        const limitStatus = checkLoginLimit(credentials.email);
+        if (limitStatus.locked) {
+          throw new Error(`登录尝试过多，请 ${limitStatus.remainingMinutes} 分钟后再试`);
+        }
+
         const user = await prisma.user.findUnique({
           where: { email: credentials.email },
         });
 
         if (!user || !user.passwordHash) {
-          throw new Error("邮箱或密码错误");
+          recordFailedLogin(credentials.email);
+          const remaining = checkLoginLimit(credentials.email);
+          if (remaining.remainingAttempts > 0) {
+            throw new Error(`邮箱或密码错误，还可尝试 ${remaining.remainingAttempts} 次`);
+          } else {
+            throw new Error(`登录尝试过多，请 15 分钟后再试`);
+          }
         }
 
         const isValid = await bcrypt.compare(
@@ -36,9 +49,16 @@ export const authOptions: NextAuthOptions = {
         );
 
         if (!isValid) {
-          throw new Error("邮箱或密码错误");
+          recordFailedLogin(credentials.email);
+          const remaining = checkLoginLimit(credentials.email);
+          if (remaining.remainingAttempts > 0) {
+            throw new Error(`邮箱或密码错误，还可尝试 ${remaining.remainingAttempts} 次`);
+          } else {
+            throw new Error(`登录尝试过多，请 15 分钟后再试`);
+          }
         }
 
+        clearFailedLogins(credentials.email);
         return {
           id: user.id,
           email: user.email,

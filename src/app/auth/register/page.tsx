@@ -12,6 +12,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { apiUrl } from "@/lib/utils";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { PasswordStrength } from "@/components/ui/password-strength";
 
 export default function RegisterPage() {
   const router = useRouter();
@@ -141,6 +142,7 @@ export default function RegisterPage() {
                   minLength={6}
                 />
               </div>
+              <PasswordStrength password={password} />
             </div>
 
             <div className="space-y-2">

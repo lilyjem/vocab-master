@@ -4,8 +4,10 @@
  */
 import { NextRequest, NextResponse } from "next/server";
 import bcrypt from "bcryptjs";
+import crypto from "crypto";
 import { prisma } from "@/lib/db";
 import { validateRegistration, extractNameFromEmail } from "@/lib/validation";
+import { sendVerificationEmail } from "@/lib/email";
 
 export async function POST(request: NextRequest) {
   try {
@@ -41,6 +43,25 @@ export async function POST(request: NextRequest) {
         passwordHash,
       },
     });
+
+    // 发送邮箱验证邮件
+    try {
+      const token = crypto.randomBytes(32).toString("hex");
+      const expires = new Date(Date.now() + 24 * 60 * 60 * 1000); // 24 小时
+
+      await prisma.verificationToken.create({
+        data: {
+          identifier: `verify:${user.id}`,
+          token,
+          expires,
+        },
+      });
+
+      await sendVerificationEmail(email, token);
+    } catch (e) {
+      console.error("发送验证邮件失败:", e);
+      // 不影响注册流程
+    }
 
     return NextResponse.json(
       {

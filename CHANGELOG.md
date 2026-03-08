@@ -4,6 +4,37 @@
 
 ---
 
+## [1.3.0] - 2026-03-08
+
+### 用户管理增强
+
+- **密码修改**: 个人中心可修改密码（验证旧密码）
+- **密码重置**: 忘记密码通过邮件重置（QQ 邮箱 SMTP）
+- **邮箱验证**: 注册后自动发送验证邮件，个人中心显示验证状态
+- **登录安全**: 同一邮箱 5 次失败后锁定 15 分钟
+- **编辑昵称**: 个人中心可修改昵称
+- **注销账户**: 输入密码确认后删除账户及所有数据
+- **修改邮箱**: 通过邮件验证更换绑定邮箱
+- **密码强度指示器**: 注册和修改密码时实时显示密码强度
+
+### 新增页面
+
+- `/auth/forgot-password` - 忘记密码页面
+- `/auth/reset-password` - 密码重置页面
+- `/auth/verify-email` - 邮箱验证页面
+
+### 新增 API
+
+- `PUT /api/user/password` - 修改密码
+- `GET/PUT /api/user/profile` - 个人资料
+- `DELETE /api/user/account` - 注销账户
+- `POST /api/user/change-email` - 修改邮箱
+- `POST /api/auth/forgot-password` - 忘记密码
+- `POST /api/auth/reset-password` - 重置密码
+- `GET/POST /api/auth/verify-email` - 邮箱验证
+
+---
+
 ## [1.2.0] - 2026-03-08
 
 ### 架构重构
