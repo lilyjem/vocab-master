@@ -32,7 +32,7 @@ import { LoadingSpinner } from "@/components/ui/loading-spinner";
 import { useLearningData } from "@/lib/use-learning-data";
 import { ACHIEVEMENT_META, type AchievementResult } from "@/lib/achievements";
 import { AchievementCard } from "@/components/achievements/achievement-card";
-import type { UserSettings } from "@/types";
+import type { UserSettings, WordOrderType } from "@/types";
 
 /** 用户资料接口（从 API 返回） */
 interface UserProfile {
@@ -529,6 +529,40 @@ export default function ProfilePage() {
                 }`}
               />
             </button>
+          </div>
+
+          {/* 学习顺序 */}
+          <div>
+            <div className="mb-2">
+              <p className="font-medium">学习顺序</p>
+              <p className="text-sm text-muted-foreground">
+                控制新词出现的先后顺序
+              </p>
+            </div>
+            <div className="grid grid-cols-2 gap-2">
+              {(
+                [
+                  { value: "freq-desc", label: "高频词优先", desc: "最常用的词先学" },
+                  { value: "freq-asc", label: "低频词优先", desc: "跳过简单词，直接学难词" },
+                  { value: "alpha", label: "字母顺序", desc: "A-Z 按字母排列" },
+                  { value: "random", label: "随机顺序", desc: "每次随机打乱" },
+                ] as { value: WordOrderType; label: string; desc: string }[]
+              ).map((opt) => (
+                <button
+                  key={opt.value}
+                  onClick={() => updateSettings({ wordOrder: opt.value })}
+                  className={cn(
+                    "rounded-lg border p-3 text-left transition-colors",
+                    settings.wordOrder === opt.value
+                      ? "border-primary bg-primary/10"
+                      : "border-border hover:bg-muted"
+                  )}
+                >
+                  <p className="text-sm font-medium">{opt.label}</p>
+                  <p className="text-xs text-muted-foreground">{opt.desc}</p>
+                </button>
+              ))}
+            </div>
           </div>
         </CardContent>
       </Card>

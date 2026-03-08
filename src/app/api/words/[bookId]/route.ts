@@ -8,10 +8,21 @@
  * - search: 搜索关键词（可选，模糊匹配单词或释义）
  * - all: 设为 "true" 返回全部单词（用于学习模式，不分页）
  * - ids: 设为 "true" 只返回单词 ID 列表和词库名（轻量模式，用于学习中心统计）
+ * - order: 学习顺序 "freq-desc" | "freq-asc" | "alpha" | "random"（默认 freq-desc）
  */
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/db";
 import { apiCache, TTL_WORDS_MS } from "@/lib/cache";
+
+/** Fisher-Yates 洗牌算法 */
+function shuffleArray<T>(arr: T[]): T[] {
+  const shuffled = [...arr];
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  return shuffled;
+}
 
 export async function GET(
   request: NextRequest,
@@ -24,9 +35,21 @@ export async function GET(
     const page = Math.max(1, parseInt(searchParams.get("page") || "1"));
     const pageSize = Math.min(200, Math.max(1, parseInt(searchParams.get("pageSize") || "50")));
     const search = searchParams.get("search") || "";
+    const order = searchParams.get("order") || "freq-desc";
+
+    // 根据 order 参数确定 Prisma orderBy
+    const validOrders = ["freq-desc", "freq-asc", "alpha", "random"];
+    const safeOrder = validOrders.includes(order) ? order : "freq-desc";
+    const orderByMap: Record<string, Record<string, string>> = {
+      "freq-desc": { frequency: "desc" },
+      "freq-asc": { frequency: "asc" },
+      "alpha": { word: "asc" },
+    };
+    // random 不使用 orderBy，在查询后 shuffle
+    const orderBy = safeOrder === "random" ? { frequency: "desc" } : orderByMap[safeOrder];
 
     // 缓存 key 包含查询参数，区分不同查询
-    const cacheKey = `words:${params.bookId}:all:${returnAll}:ids:${returnIds}:page:${page}:pageSize:${pageSize}:search:${search}`;
+    const cacheKey = `words:${params.bookId}:all:${returnAll}:ids:${returnIds}:page:${page}:pageSize:${pageSize}:search:${search}:order:${safeOrder}`;
 
     // 词库数据变化频率极低，允许浏览器缓存 5 分钟
     const cacheHeaders = {
@@ -66,15 +89,22 @@ export async function GET(
       const wordIds = await prisma.word.findMany({
         where,
         select: { id: true },
-        orderBy: { frequency: "desc" },
+        orderBy,
       });
-      result = { name: book.name, wordCount: wordIds.length, wordIds: wordIds.map((w) => w.id) };
+      let ids = wordIds.map((w) => w.id);
+      if (safeOrder === "random") {
+        ids = shuffleArray(ids);
+      }
+      result = { name: book.name, wordCount: ids.length, wordIds: ids };
     } else if (returnAll) {
-      // 学习模式：按词频降序返回全部单词（高频词优先学习）
-      const words = await prisma.word.findMany({
+      // 学习模式：按指定顺序返回全部单词
+      let words = await prisma.word.findMany({
         where,
-        orderBy: { frequency: "desc" },
+        orderBy,
       });
+      if (safeOrder === "random") {
+        words = shuffleArray(words);
+      }
       result = { ...book, words };
     } else {
       // 分页模式

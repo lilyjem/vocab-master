@@ -23,11 +23,12 @@ const QUIZ_BATCH_SIZE = 15;
 
 export default function QuizPage() {
   const router = useRouter();
-  const { hydrated, currentBookId, updateWordProgress } = useLearningData();
+  const { hydrated, currentBookId, settings, updateWordProgress } = useLearningData();
 
   // SWR 缓存共享：学习中心已预取，此处直接命中缓存
   const { words: allWords, isLoading: wordsLoading } = useBookWords(
-    hydrated ? currentBookId : null
+    hydrated ? currentBookId : null,
+    settings.wordOrder
   );
 
   const [studyWords, setStudyWords] = useState<Word[]>([]);

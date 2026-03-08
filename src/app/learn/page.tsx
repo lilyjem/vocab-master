@@ -71,7 +71,7 @@ export default function LearnPage() {
       return;
     }
     // 使用轻量 API，只获取 ID 列表（数据量从数百 KB 降到几 KB）
-    fetch(apiUrl(`/api/words/${currentBookId}?ids=true`))
+    fetch(apiUrl(`/api/words/${currentBookId}?ids=true&order=${settings.wordOrder}`))
       .then((res) => res.json())
       .then((data) => {
         setWordIds(Array.isArray(data?.wordIds) ? data.wordIds : []);
@@ -85,8 +85,8 @@ export default function LearnPage() {
       });
 
     // SWR preload：预取完整单词数据到全局缓存，子页面直接命中
-    preloadBookWords(currentBookId);
-  }, [currentBookId, hydrated]);
+    preloadBookWords(currentBookId, settings.wordOrder);
+  }, [currentBookId, hydrated, settings.wordOrder]);
 
   // 骨架屏替代 spinner
   if (loading) {

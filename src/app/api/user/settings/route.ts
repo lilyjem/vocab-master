@@ -16,6 +16,7 @@ const DEFAULT_SETTINGS = {
   showPhonetic: true,
   pronunciation: "en-US",
   theme: "system",
+  wordOrder: "freq-desc",
 };
 
 /** GET: 获取用户设置，不存在则返回默认值 */
@@ -44,6 +45,7 @@ export async function GET() {
       showPhonetic: settings.showPhonetic,
       pronunciation: settings.pronunciation,
       theme: settings.theme,
+      wordOrder: settings.wordOrder,
     });
   } catch (error) {
     console.error("获取用户设置失败:", error);
@@ -66,7 +68,7 @@ export async function PUT(request: NextRequest) {
     // 只允许更新已知的设置字段
     const allowedFields = [
       "dailyNewWords", "dailyReviewWords", "autoPlayAudio",
-      "showPhonetic", "pronunciation", "theme",
+      "showPhonetic", "pronunciation", "theme", "wordOrder",
     ];
     const updateData: Record<string, unknown> = {};
     for (const field of allowedFields) {
@@ -101,6 +103,10 @@ export async function PUT(request: NextRequest) {
     if (body.showPhonetic !== undefined && typeof body.showPhonetic !== "boolean") {
       return NextResponse.json({ error: "showPhonetic 必须为布尔值" }, { status: 400 });
     }
+    const allowedWordOrders = ["freq-desc", "freq-asc", "alpha", "random"];
+    if (body.wordOrder !== undefined && !allowedWordOrders.includes(body.wordOrder)) {
+      return NextResponse.json({ error: "wordOrder 必须为 freq-desc/freq-asc/alpha/random" }, { status: 400 });
+    }
 
     const settings = await prisma.userSettings.upsert({
       where: { userId },
@@ -119,6 +125,7 @@ export async function PUT(request: NextRequest) {
       showPhonetic: settings.showPhonetic,
       pronunciation: settings.pronunciation,
       theme: settings.theme,
+      wordOrder: settings.wordOrder,
     });
   } catch (error) {
     console.error("更新用户设置失败:", error);

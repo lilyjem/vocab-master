@@ -136,6 +136,9 @@ export interface LocalDailyStats {
 /** 发音类型 */
 export type PronunciationType = "en-US" | "en-GB";
 
+/** 学习顺序类型 */
+export type WordOrderType = "freq-desc" | "freq-asc" | "alpha" | "random";
+
 /** 服务器端用户设置（与 Prisma UserSettings 模型对应） */
 export interface ServerUserSettings {
   id: string;
@@ -146,6 +149,7 @@ export interface ServerUserSettings {
   showPhonetic: boolean;
   pronunciation: PronunciationType;
   theme: "light" | "dark" | "system";
+  wordOrder: WordOrderType;
 }
 
 /** 用户学习设置 */
@@ -156,6 +160,7 @@ export interface UserSettings {
   showPhonetic: boolean;     // 显示音标
   pronunciation: PronunciationType; // 发音类型：美式/英式
   theme: "light" | "dark" | "system"; // 主题
+  wordOrder: WordOrderType;  // 学习顺序
 }
 
 /** 默认用户设置 */
@@ -166,6 +171,7 @@ export const DEFAULT_SETTINGS: UserSettings = {
   showPhonetic: true,
   pronunciation: "en-US",
   theme: "system",
+  wordOrder: "freq-desc",
 };
 
 /** 成就等级 */

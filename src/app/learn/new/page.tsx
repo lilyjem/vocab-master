@@ -30,7 +30,8 @@ export default function NewWordsPage() {
 
   // SWR 缓存共享：学习中心已预取，此处直接命中缓存
   const { words: allWords, isLoading: wordsLoading } = useBookWords(
-    hydrated ? currentBookId : null
+    hydrated ? currentBookId : null,
+    settings.wordOrder
   );
 
   const [studyWords, setStudyWords] = useState<Word[]>([]);

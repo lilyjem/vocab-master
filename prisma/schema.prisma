@@ -47,6 +47,7 @@ model UserSettings {
   showPhonetic     Boolean @default(true)  // 显示音标
   pronunciation    String  @default("en-US") // 发音类型：en-US | en-GB
   theme            String  @default("system") // 主题：light | dark | system
+  wordOrder        String  @default("freq-desc") // 学习顺序：freq-desc | freq-asc | alpha | random
 
   user User @relation(fields: [userId], references: [id], onDelete: Cascade)
 

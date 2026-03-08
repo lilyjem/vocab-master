@@ -47,10 +47,10 @@ export function Dashboard() {
   // 预取词库数据到 SWR 全局缓存，加速导航到学习页面
   useEffect(() => {
     if (hydrated && currentBookId) {
-      fetch(apiUrl(`/api/words/${currentBookId}?ids=true`)).catch(() => {});
-      preloadBookWords(currentBookId);
+      fetch(apiUrl(`/api/words/${currentBookId}?ids=true&order=${settings.wordOrder}`)).catch(() => {});
+      preloadBookWords(currentBookId, settings.wordOrder);
     }
-  }, [hydrated, currentBookId]);
+  }, [hydrated, currentBookId, settings.wordOrder]);
 
   const todayStats = getTodayStats();
   const recentUnlocked = useMemo(
