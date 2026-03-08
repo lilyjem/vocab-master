@@ -17,22 +17,22 @@ import {
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Progress } from "@/components/ui/progress";
-import { useLearningStore, useStoreHydrated } from "@/lib/store";
+import { useLearningData } from "@/lib/use-learning-data";
 import { ACHIEVEMENT_META, type AchievementResult } from "@/lib/achievements";
 import { AchievementCard } from "@/components/achievements/achievement-card";
 
 export default function HomePage() {
-  const hydrated = useStoreHydrated();
-  const getTodayStats = useLearningStore((s) => s.getTodayStats);
-  const getStreak = useLearningStore((s) => s.getStreak);
-  const settings = useLearningStore((s) => s.settings);
-  const checkLocalAchievements = useLearningStore(
-    (s) => s.checkLocalAchievements
-  );
-  const localAchievements = useLearningStore((s) => s.localAchievements);
-  const wordProgress = useLearningStore((s) => s.wordProgress);
-  const dailyStats = useLearningStore((s) => s.dailyStats);
-  const sessions = useLearningStore((s) => s.sessions);
+  const {
+    hydrated,
+    getTodayStats,
+    getStreak,
+    settings,
+    checkLocalAchievements,
+    localAchievements,
+    wordProgress,
+    dailyStats,
+    sessions,
+  } = useLearningData();
 
   // 使用 useEffect 避免在渲染期间调用 set() 导致无限循环
   const [achievementResults, setAchievementResults] = useState<AchievementResult[]>([]);

@@ -17,17 +17,19 @@ import {
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
-import { useLearningStore, useStoreHydrated } from "@/lib/store";
+import { useLearningData } from "@/lib/use-learning-data";
 import type { Word } from "@/types";
 import { apiUrl } from "@/lib/utils";
 
 export default function LearnPage() {
   const router = useRouter();
-  const hydrated = useStoreHydrated();
-  const currentBookId = useLearningStore((s) => s.currentBookId);
-  const settings = useLearningStore((s) => s.settings);
-  const getNewWordIds = useLearningStore((s) => s.getNewWordIds);
-  const getReviewWordIds = useLearningStore((s) => s.getReviewWordIds);
+  const {
+    hydrated,
+    currentBookId,
+    settings,
+    getNewWordIds,
+    getReviewWordIds,
+  } = useLearningData();
 
   const [words, setWords] = useState<Word[]>([]);
   const [bookName, setBookName] = useState("");

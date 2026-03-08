@@ -7,7 +7,7 @@
 import { useState } from "react";
 import { Volume2 } from "lucide-react";
 import { cn } from "@/lib/utils";
-import { useLearningStore } from "@/lib/store";
+import { useLearningData } from "@/lib/use-learning-data";
 import { playWordAudio } from "@/lib/audio";
 import { ExampleSentences } from "@/components/word/example-sentences";
 import { EtymologyPanel } from "@/components/word/etymology-panel";
@@ -27,7 +27,8 @@ export function FlashCard({
   onFlip,
 }: FlashCardProps) {
   const [isFlipped, setIsFlipped] = useState(false);
-  const pronunciation = useLearningStore((s) => s.settings.pronunciation);
+  const { settings } = useLearningData();
+  const pronunciation = settings.pronunciation;
 
   /** 播放单词发音（有道词典 TTS，真正区分美式/英式） */
   const playAudio = (e?: React.MouseEvent) => {

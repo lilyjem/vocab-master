@@ -21,6 +21,7 @@ model User {
   passwordHash  String?   // 密码哈希（邮箱注册用户）
   createdAt     DateTime  @default(now())
   updatedAt     DateTime  @updatedAt
+  currentBookId String?   // 当前选择的词库 ID
 
   // NextAuth 关联
   accounts Account[]
@@ -31,8 +32,25 @@ model User {
   learningSessions LearningSession[]
   dailyCheckIns  DailyCheckIn[]
   achievements   UserAchievement[]
+  settings       UserSettings?
 
   @@map("users")
+}
+
+// ========== 用户学习设置 ==========
+model UserSettings {
+  id               String  @id @default(cuid())
+  userId           String  @unique
+  dailyNewWords    Int     @default(20)    // 每日新词数量
+  dailyReviewWords Int     @default(50)    // 每日复习数量
+  autoPlayAudio    Boolean @default(true)  // 自动播放发音
+  showPhonetic     Boolean @default(true)  // 显示音标
+  pronunciation    String  @default("en-US") // 发音类型：en-US | en-GB
+  theme            String  @default("system") // 主题：light | dark | system
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("user_settings")
 }
 
 // ========== NextAuth Account 模型 ==========

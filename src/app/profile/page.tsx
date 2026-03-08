@@ -23,25 +23,25 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { cn } from "@/lib/utils";
-import { useLearningStore, useStoreHydrated } from "@/lib/store";
+import { useLearningData } from "@/lib/use-learning-data";
 import { ACHIEVEMENT_META, type AchievementResult } from "@/lib/achievements";
 import { AchievementCard } from "@/components/achievements/achievement-card";
 import type { UserSettings } from "@/types";
 
 export default function ProfilePage() {
   const { data: session } = useSession();
-  const hydrated = useStoreHydrated();
-  const settings = useLearningStore((s) => s.settings);
-  const updateSettings = useLearningStore((s) => s.updateSettings);
-  const clearAllData = useLearningStore((s) => s.clearAllData);
-  const exportData = useLearningStore((s) => s.exportData);
-  const checkLocalAchievements = useLearningStore(
-    (s) => s.checkLocalAchievements
-  );
-  const wordProgress = useLearningStore((s) => s.wordProgress);
-  const dailyStats = useLearningStore((s) => s.dailyStats);
-  const sessions = useLearningStore((s) => s.sessions);
-  const getStreak = useLearningStore((s) => s.getStreak);
+  const {
+    hydrated,
+    settings,
+    updateSettings,
+    clearAllData,
+    exportData,
+    checkLocalAchievements,
+    wordProgress,
+    dailyStats,
+    sessions,
+    getStreak,
+  } = useLearningData();
 
   const [syncing, setSyncing] = useState(false);
   const [showClearConfirm, setShowClearConfirm] = useState(false);

@@ -22,7 +22,7 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Input } from "@/components/ui/input";
 import { Progress } from "@/components/ui/progress";
-import { useLearningStore } from "@/lib/store";
+import { useLearningData } from "@/lib/use-learning-data";
 import { playWordAudio } from "@/lib/audio";
 import type { Word, WordBook } from "@/types";
 import { percentage, apiUrl } from "@/lib/utils";
@@ -65,11 +65,14 @@ export default function BookDetailPage() {
   const [pagination, setPagination] = useState<PaginationInfo | null>(null);
   const [currentPage, setCurrentPage] = useState(1);
 
-  const setCurrentBook = useLearningStore((s) => s.setCurrentBook);
-  const currentBookId = useLearningStore((s) => s.currentBookId);
-  const getWordStatusCounts = useLearningStore((s) => s.getWordStatusCounts);
-  const wordProgressMap = useLearningStore((s) => s.wordProgress);
-  const pronunciation = useLearningStore((s) => s.settings.pronunciation);
+  const {
+    setCurrentBook,
+    currentBookId,
+    getWordStatusCounts,
+    wordProgress: wordProgressMap,
+    settings,
+  } = useLearningData();
+  const pronunciation = settings.pronunciation;
 
   // 虚拟列表：滚动容器 ref，用于 useVirtualizer 计算可视区域
   const parentRef = useRef<HTMLDivElement>(null);

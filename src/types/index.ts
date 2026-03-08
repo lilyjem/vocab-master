@@ -136,6 +136,18 @@ export interface LocalDailyStats {
 /** 发音类型 */
 export type PronunciationType = "en-US" | "en-GB";
 
+/** 服务器端用户设置（与 Prisma UserSettings 模型对应） */
+export interface ServerUserSettings {
+  id: string;
+  userId: string;
+  dailyNewWords: number;
+  dailyReviewWords: number;
+  autoPlayAudio: boolean;
+  showPhonetic: boolean;
+  pronunciation: PronunciationType;
+  theme: "light" | "dark" | "system";
+}
+
 /** 用户学习设置 */
 export interface UserSettings {
   dailyNewWords: number;     // 每日新词数量

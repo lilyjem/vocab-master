@@ -9,7 +9,7 @@
 "use client";
 
 import { useEffect, useRef, useCallback, useState } from "react";
-import { useLearningStore } from "@/lib/store";
+import { useLearningData } from "@/lib/use-learning-data";
 
 /** 刷新间隔：每 30 秒将累计时长同步到 store */
 const FLUSH_INTERVAL_MS = 30_000;
@@ -24,7 +24,11 @@ const MIN_FLUSH_SECONDS = 30;
  *   - stopTimer: 手动停止计时并刷入剩余时长，返回总秒数
  */
 export function useStudyTimer() {
-  const addStudyMinutes = useLearningStore((s) => s.addStudyMinutes);
+  const { addStudyMinutes } = useLearningData();
+
+  /** 保存 addStudyMinutes 供 cleanup 使用，避免闭包问题 */
+  const addStudyMinutesRef = useRef(addStudyMinutes);
+  addStudyMinutesRef.current = addStudyMinutes;
 
   /** 当前活跃段的起始时间戳（ms），为 null 表示暂停中 */
   const activeStartRef = useRef<number | null>(Date.now());
@@ -151,8 +155,8 @@ export function useStudyTimer() {
         const minutesToAdd = totalMinutes - flushedMinutesRef.current;
 
         if (minutesToAdd > 0) {
-          // 直接调用 store 方法，避免闭包问题
-          useLearningStore.getState().addStudyMinutes(minutesToAdd);
+          // 使用 ref 保存的 addStudyMinutes，避免 cleanup 闭包问题
+          addStudyMinutesRef.current(minutesToAdd);
         }
 
         stoppedRef.current = true;

@@ -70,18 +70,21 @@ function CalendarSkeleton() {
     </Card>
   );
 }
-import { useLearningStore, useStoreHydrated } from "@/lib/store";
+import { useLearningData } from "@/lib/use-learning-data";
 import { playWordAudio } from "@/lib/audio";
 import { percentage, formatDate, getToday, apiUrl } from "@/lib/utils";
 import type { Word, WordStatus } from "@/types";
 
 export default function StatsPage() {
-  const hydrated = useStoreHydrated();
-  const wordProgress = useLearningStore((s) => s.wordProgress);
-  const dailyStats = useLearningStore((s) => s.dailyStats);
-  const getStreak = useLearningStore((s) => s.getStreak);
-  const getTodayStats = useLearningStore((s) => s.getTodayStats);
-  const currentBookId = useLearningStore((s) => s.currentBookId);
+  const {
+    hydrated,
+    wordProgress,
+    dailyStats,
+    getStreak,
+    getTodayStats,
+    currentBookId,
+    settings,
+  } = useLearningData();
 
   const [words, setWords] = useState<Word[]>([]);
   const [bookName, setBookName] = useState("");
@@ -161,7 +164,7 @@ export default function StatsPage() {
       .slice(0, 10);
   }, [words, wordProgress]);
 
-  const pronunciation = useLearningStore((s) => s.settings.pronunciation);
+  const pronunciation = settings.pronunciation;
 
   /** 播放单词发音（有道词典 TTS，真正区分美式/英式） */
   const playAudio = (word: string) => {

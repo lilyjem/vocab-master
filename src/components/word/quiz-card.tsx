@@ -6,7 +6,7 @@
 import { useState } from "react";
 import { Volume2, Check, X } from "lucide-react";
 import { cn } from "@/lib/utils";
-import { useLearningStore } from "@/lib/store";
+import { useLearningData } from "@/lib/use-learning-data";
 import { playWordAudio } from "@/lib/audio";
 import type { Word } from "@/types";
 
@@ -23,7 +23,8 @@ export function QuizCard({ word, options, mode, onAnswer }: QuizCardProps) {
 
   const correctAnswer = mode === "en2cn" ? word.definition : word.word;
 
-  const pronunciation = useLearningStore((s) => s.settings.pronunciation);
+  const { settings } = useLearningData();
+  const pronunciation = settings.pronunciation;
 
   /** 播放发音（有道词典 TTS，真正区分美式/英式） */
   const playAudio = () => {

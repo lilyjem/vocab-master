@@ -18,7 +18,6 @@ import type {
 import { DEFAULT_SETTINGS } from "@/types";
 import { calculateSM2, getWordStatus, SM2_DEFAULTS } from "@/lib/sm2";
 import { formatDate, getToday } from "@/lib/utils";
-import { pushSingleWord, pushDailyStats } from "@/lib/sync";
 import {
   checkAchievements,
   type AchievementStats,
@@ -136,14 +135,6 @@ export const useLearningStore = create<LearningStore>()(
           },
         });
 
-        // 异步推送到云端（未登录时服务端返回 401 会被静默忽略）
-        pushSingleWord(wordId, newProgress);
-
-        // 同步推送当日统计到云端
-        const updatedTodayStats = get().dailyStats[today];
-        if (updatedTodayStats) {
-          pushDailyStats(today, updatedTodayStats);
-        }
       },
 
       /** 获取需要学习的新词 ID 列表 */
@@ -262,7 +253,6 @@ export const useLearningStore = create<LearningStore>()(
           },
         });
 
-        pushDailyStats(today, updatedStats);
       },
 
       // ===== 会话 =====

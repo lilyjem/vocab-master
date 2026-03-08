@@ -11,7 +11,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Progress } from "@/components/ui/progress";
 import { QuizCard } from "@/components/word/quiz-card";
-import { useLearningStore, useStoreHydrated } from "@/lib/store";
+import { useLearningData } from "@/lib/use-learning-data";
 import { useStudyTimer } from "@/lib/use-study-timer";
 import { shuffle, sampleArray, apiUrl } from "@/lib/utils";
 import type { Word } from "@/types";
@@ -21,10 +21,7 @@ const QUIZ_BATCH_SIZE = 15;
 
 export default function QuizPage() {
   const router = useRouter();
-
-  const hydrated = useStoreHydrated();
-  const currentBookId = useLearningStore((s) => s.currentBookId);
-  const updateWordProgress = useLearningStore((s) => s.updateWordProgress);
+  const { hydrated, currentBookId, updateWordProgress } = useLearningData();
 
   const [allWords, setAllWords] = useState<Word[]>([]);
   const [studyWords, setStudyWords] = useState<Word[]>([]);

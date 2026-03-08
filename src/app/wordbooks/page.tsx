@@ -8,7 +8,7 @@ import Link from "next/link";
 import { BookOpen, ChevronRight } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { useLearningStore } from "@/lib/store";
+import { useLearningData } from "@/lib/use-learning-data";
 import type { WordBook } from "@/types";
 import { apiUrl } from "@/lib/utils";
 
@@ -22,7 +22,7 @@ const LEVEL_MAP: Record<string, { label: string; variant: "default" | "secondary
 export default function WordBooksPage() {
   const [books, setBooks] = useState<WordBook[]>([]);
   const [loading, setLoading] = useState(true);
-  const currentBookId = useLearningStore((s) => s.currentBookId);
+  const { currentBookId } = useLearningData();
 
   useEffect(() => {
     fetch(apiUrl("/api/words"))

@@ -11,7 +11,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Progress } from "@/components/ui/progress";
 import { SpellCard } from "@/components/word/spell-card";
-import { useLearningStore, useStoreHydrated } from "@/lib/store";
+import { useLearningData } from "@/lib/use-learning-data";
 import { useStudyTimer } from "@/lib/use-study-timer";
 import { shuffle, apiUrl } from "@/lib/utils";
 import type { Word } from "@/types";
@@ -21,10 +21,12 @@ const SPELL_BATCH_SIZE = 15;
 
 export default function SpellTestPage() {
   const router = useRouter();
-  const hydrated = useStoreHydrated();
-
-  const currentBookId = useLearningStore((s) => s.currentBookId);
-  const updateWordProgress = useLearningStore((s) => s.updateWordProgress);
+  const {
+    hydrated,
+    currentBookId,
+    updateWordProgress,
+    getWordProgress,
+  } = useLearningData();
 
   const [studyWords, setStudyWords] = useState<Word[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -47,11 +49,10 @@ export default function SpellTestPage() {
       .then((res) => res.json())
       .then((data) => {
         const words: Word[] = Array.isArray(data?.words) ? data.words : [];
-        const store = useLearningStore.getState();
 
         // 优先选择已学过但未掌握的单词，随机取一批
         const learnedWords = words.filter((w) => {
-          const p = store.getWordProgress(w.id);
+          const p = getWordProgress(w.id);
           return p && p.status !== "mastered";
         });
 
@@ -66,7 +67,7 @@ export default function SpellTestPage() {
         setStudyWords([]);
         setLoading(false);
       });
-  }, [currentBookId, router, hydrated]);
+  }, [currentBookId, router, hydrated, getWordProgress]);
 
   const handleAnswer = useCallback(
     (isCorrect: boolean) => {

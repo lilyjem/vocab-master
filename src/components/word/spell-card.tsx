@@ -7,7 +7,7 @@ import { useState, useRef, useEffect } from "react";
 import { Volume2, Check, X, ArrowRight } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
-import { useLearningStore } from "@/lib/store";
+import { useLearningData } from "@/lib/use-learning-data";
 import { playWordAudio } from "@/lib/audio";
 import type { Word } from "@/types";
 
@@ -30,7 +30,8 @@ export function SpellCard({ word, onAnswer }: SpellCardProps) {
     inputRef.current?.focus();
   }, [word.id]);
 
-  const pronunciation = useLearningStore((s) => s.settings.pronunciation);
+  const { settings } = useLearningData();
+  const pronunciation = settings.pronunciation;
 
   /** 播放发音（有道词典 TTS，真正区分美式/英式） */
   const playAudio = () => {

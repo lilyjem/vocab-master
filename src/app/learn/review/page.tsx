@@ -12,19 +12,20 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Progress } from "@/components/ui/progress";
 import { FlashCard } from "@/components/word/flash-card";
 import { QualityButtons } from "@/components/word/quality-buttons";
-import { useLearningStore, useStoreHydrated } from "@/lib/store";
+import { useLearningData } from "@/lib/use-learning-data";
 import { useStudyTimer } from "@/lib/use-study-timer";
 import type { Word } from "@/types";
 import { apiUrl } from "@/lib/utils";
 
 export default function ReviewPage() {
   const router = useRouter();
-  const hydrated = useStoreHydrated();
-
-  const currentBookId = useLearningStore((s) => s.currentBookId);
-  const settings = useLearningStore((s) => s.settings);
-  const getReviewWordIds = useLearningStore((s) => s.getReviewWordIds);
-  const updateWordProgress = useLearningStore((s) => s.updateWordProgress);
+  const {
+    hydrated,
+    currentBookId,
+    settings,
+    getReviewWordIds,
+    updateWordProgress,
+  } = useLearningData();
 
   const [studyWords, setStudyWords] = useState<Word[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
