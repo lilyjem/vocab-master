@@ -1,11 +1,12 @@
 /**
  * 根布局 - 全站通用布局结构
+ * 导航栏和主内容区根据页面和登录状态条件渲染
  */
 import type { Metadata } from "next";
 import { ThemeProvider } from "@/components/layout/theme-provider";
 import { AuthProvider } from "@/components/layout/auth-provider";
-import { Navbar } from "@/components/layout/navbar";
-import { MobileNav } from "@/components/layout/mobile-nav";
+import { ConditionalNav } from "@/components/layout/conditional-nav";
+import { ConditionalMain } from "@/components/layout/conditional-main";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -29,11 +30,8 @@ export default function RootLayout({
             enableSystem
             disableTransitionOnChange
           >
-            <Navbar />
-            <main className="mx-auto max-w-7xl px-4 py-6 pb-20 sm:px-6 md:pb-6 lg:px-8">
-              {children}
-            </main>
-            <MobileNav />
+            <ConditionalNav />
+            <ConditionalMain>{children}</ConditionalMain>
           </ThemeProvider>
         </AuthProvider>
       </body>
