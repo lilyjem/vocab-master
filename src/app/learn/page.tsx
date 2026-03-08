@@ -20,6 +20,7 @@ import { Button } from "@/components/ui/button";
 import { useLearningData } from "@/lib/use-learning-data";
 import type { Word } from "@/types";
 import { apiUrl } from "@/lib/utils";
+import { LoadingSpinner } from "@/components/ui/loading-spinner";
 
 export default function LearnPage() {
   const router = useRouter();
@@ -55,11 +56,7 @@ export default function LearnPage() {
   }, [currentBookId, hydrated]);
 
   if (loading) {
-    return (
-      <div className="flex items-center justify-center py-20">
-        <div className="h-8 w-8 animate-spin rounded-full border-4 border-primary border-t-transparent" />
-      </div>
-    );
+    return <LoadingSpinner />;
   }
 
   // 未选择词库时提示

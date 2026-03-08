@@ -55,6 +55,7 @@ export function QuizCard({ word, options, mode, onAnswer }: QuizCardProps) {
               <span className="text-3xl font-bold">{word.word}</span>
               <button
                 onClick={playAudio}
+                aria-label="播放发音"
                 className="rounded-full p-1.5 hover:bg-muted transition-colors"
               >
                 <Volume2 className="h-5 w-5 text-muted-foreground" />

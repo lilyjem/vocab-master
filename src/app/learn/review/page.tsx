@@ -83,7 +83,7 @@ export default function ReviewPage() {
         setIsComplete(true);
       }
     },
-    [currentIndex, studyWords, updateWordProgress]
+    [currentIndex, studyWords, updateWordProgress, stopTimer]
   );
 
   if (loading) {

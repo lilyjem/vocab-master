@@ -161,11 +161,11 @@ export function useServerData(): ServerDataInterface {
   });
 
   // ===== 解构数据，提供默认值 =====
-  const wordProgress = progressData ?? {};
-  const dailyStats = dailyStatsData ?? {};
+  const wordProgress = useMemo(() => progressData ?? {}, [progressData]);
+  const dailyStats = useMemo(() => dailyStatsData ?? {}, [dailyStatsData]);
   const settings = settingsData ?? DEFAULT_SETTINGS;
   const currentBookId = currentBookData?.currentBookId ?? null;
-  const sessions = sessionsData ?? [];
+  const sessions = useMemo(() => sessionsData ?? [], [sessionsData]);
 
   const isLoading =
     progressLoading || statsLoading || settingsLoading || bookLoading || sessionsLoading;

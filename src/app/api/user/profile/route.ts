@@ -45,15 +45,19 @@ export async function PUT(request: NextRequest) {
   const userId = (session.user as { id: string }).id;
 
   try {
-    const { name } = await request.json();
+    const body = await request.json();
 
-    if (name !== undefined && (typeof name !== "string" || name.trim().length === 0)) {
+    if (body.name !== undefined && body.name !== null && typeof body.name !== "string") {
+      return NextResponse.json({ error: "name 必须为字符串或 null" }, { status: 400 });
+    }
+    if (typeof body.name === "string" && body.name.length > 50) {
+      return NextResponse.json({ error: "昵称不能超过 50 个字符" }, { status: 400 });
+    }
+    if (body.name !== undefined && body.name !== null && typeof body.name === "string" && body.name.trim().length === 0) {
       return NextResponse.json({ error: "昵称不能为空" }, { status: 400 });
     }
 
-    if (name && name.length > 50) {
-      return NextResponse.json({ error: "昵称不能超过 50 个字符" }, { status: 400 });
-    }
+    const name = body.name?.trim();
 
     const user = await prisma.user.update({
       where: { id: userId },

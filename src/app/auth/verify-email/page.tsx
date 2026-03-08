@@ -28,6 +28,7 @@ function VerifyEmailContent() {
       return;
     }
 
+    let cancelled = false;
     const verify = async () => {
       try {
         const params = new URLSearchParams({ token });
@@ -37,6 +38,7 @@ function VerifyEmailContent() {
         );
         const data = await res.json();
 
+        if (cancelled) return;
         if (res.ok) {
           setStatus("success");
           setMessage(data.message || "验证成功");
@@ -45,12 +47,16 @@ function VerifyEmailContent() {
           setMessage(data.error || "验证失败");
         }
       } catch {
+        if (cancelled) return;
         setStatus("error");
         setMessage("网络错误，请稍后重试");
       }
     };
 
     verify();
+    return () => {
+      cancelled = true;
+    };
   }, [token, type]);
 
   // 加载中

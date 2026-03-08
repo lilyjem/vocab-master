@@ -103,8 +103,6 @@ export function SyncProvider({ children }: { children: React.ReactNode }) {
 
         // 标记已迁移
         localStorage.setItem(MIGRATION_KEY, new Date().toISOString());
-
-        console.log("本地数据已迁移到服务器");
       } catch (e) {
         console.error("数据迁移失败:", e);
       } finally {

@@ -96,8 +96,8 @@ async function pushBatch(toPush: Record<string, LocalWordProgress>): Promise<voi
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ wordProgress: toPush }),
     });
-  } catch {
-    // 静默失败
+  } catch (e) {
+    console.error("同步失败:", e);
   }
 }
 
@@ -220,8 +220,8 @@ async function pushDailyStatsBatch(toPush: Record<string, LocalDailyStats>): Pro
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ dailyStats: toPush }),
     });
-  } catch {
-    // 静默失败
+  } catch (e) {
+    console.error("同步失败:", e);
   }
 }
 

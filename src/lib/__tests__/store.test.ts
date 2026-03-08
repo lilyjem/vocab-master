@@ -185,6 +185,7 @@ describe("getReviewWordIds", () => {
           totalReviews: 1,
           correctCount: 1,
           status: "learning",
+          updatedAt: new Date().toISOString(),
         },
       },
     });
@@ -206,6 +207,7 @@ describe("getReviewWordIds", () => {
           totalReviews: 1,
           correctCount: 1,
           status: "learning",
+          updatedAt: new Date().toISOString(),
         },
       },
     });
@@ -218,9 +220,9 @@ describe("getReviewWordIds", () => {
     const yesterday = new Date(Date.now() - 86400000).toISOString();
     useLearningStore.setState({
       wordProgress: {
-        "w1": { wordId: "w1", repetitions: 1, easinessFactor: 2.5, interval: 1, nextReviewDate: yesterday, totalReviews: 1, correctCount: 1, status: "learning" },
-        "w2": { wordId: "w2", repetitions: 1, easinessFactor: 2.5, interval: 1, nextReviewDate: yesterday, totalReviews: 1, correctCount: 1, status: "learning" },
-        "w3": { wordId: "w3", repetitions: 1, easinessFactor: 2.5, interval: 1, nextReviewDate: yesterday, totalReviews: 1, correctCount: 1, status: "review" },
+        "w1": { wordId: "w1", repetitions: 1, easinessFactor: 2.5, interval: 1, nextReviewDate: yesterday, totalReviews: 1, correctCount: 1, status: "learning", updatedAt: new Date().toISOString() },
+        "w2": { wordId: "w2", repetitions: 1, easinessFactor: 2.5, interval: 1, nextReviewDate: yesterday, totalReviews: 1, correctCount: 1, status: "learning", updatedAt: new Date().toISOString() },
+        "w3": { wordId: "w3", repetitions: 1, easinessFactor: 2.5, interval: 1, nextReviewDate: yesterday, totalReviews: 1, correctCount: 1, status: "review", updatedAt: new Date().toISOString() },
       },
     });
 
@@ -303,8 +305,8 @@ describe("getWordStatusCounts", () => {
   test("混合状态时正确统计", () => {
     useLearningStore.setState({
       wordProgress: {
-        "w1": { wordId: "w1", repetitions: 1, easinessFactor: 2.5, interval: 1, nextReviewDate: "", totalReviews: 1, correctCount: 1, status: "learning" },
-        "w2": { wordId: "w2", repetitions: 3, easinessFactor: 2.5, interval: 21, nextReviewDate: "", totalReviews: 3, correctCount: 3, status: "mastered" },
+        "w1": { wordId: "w1", repetitions: 1, easinessFactor: 2.5, interval: 1, nextReviewDate: "", totalReviews: 1, correctCount: 1, status: "learning", updatedAt: new Date().toISOString() },
+        "w2": { wordId: "w2", repetitions: 3, easinessFactor: 2.5, interval: 21, nextReviewDate: "", totalReviews: 3, correctCount: 3, status: "mastered", updatedAt: new Date().toISOString() },
       },
     });
 

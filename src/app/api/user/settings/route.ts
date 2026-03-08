@@ -79,6 +79,29 @@ export async function PUT(request: NextRequest) {
       return NextResponse.json({ error: "没有有效的设置字段" }, { status: 400 });
     }
 
+    // 验证输入字段类型和范围
+    const allowedThemes = ["light", "dark", "system"];
+    const allowedPronunciations = ["en-US", "en-GB"];
+
+    if (body.dailyNewWords !== undefined && (typeof body.dailyNewWords !== "number" || body.dailyNewWords < 5 || body.dailyNewWords > 100)) {
+      return NextResponse.json({ error: "dailyNewWords 必须为 5-100 之间的数字" }, { status: 400 });
+    }
+    if (body.dailyReviewWords !== undefined && (typeof body.dailyReviewWords !== "number" || body.dailyReviewWords < 10 || body.dailyReviewWords > 200)) {
+      return NextResponse.json({ error: "dailyReviewWords 必须为 10-200 之间的数字" }, { status: 400 });
+    }
+    if (body.theme !== undefined && !allowedThemes.includes(body.theme)) {
+      return NextResponse.json({ error: "theme 必须为 light/dark/system" }, { status: 400 });
+    }
+    if (body.pronunciation !== undefined && !allowedPronunciations.includes(body.pronunciation)) {
+      return NextResponse.json({ error: "pronunciation 必须为 en-US/en-GB" }, { status: 400 });
+    }
+    if (body.autoPlayAudio !== undefined && typeof body.autoPlayAudio !== "boolean") {
+      return NextResponse.json({ error: "autoPlayAudio 必须为布尔值" }, { status: 400 });
+    }
+    if (body.showPhonetic !== undefined && typeof body.showPhonetic !== "boolean") {
+      return NextResponse.json({ error: "showPhonetic 必须为布尔值" }, { status: 400 });
+    }
+
     const settings = await prisma.userSettings.upsert({
       where: { userId },
       update: updateData,

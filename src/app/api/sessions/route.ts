@@ -60,14 +60,20 @@ export async function POST(request: NextRequest) {
     if (!body.mode || !["learn", "review", "spell", "quiz"].includes(body.mode)) {
       return NextResponse.json({ error: "无效的学习模式" }, { status: 400 });
     }
+    if (!body.startTime || !body.endTime) {
+      return NextResponse.json({ error: "startTime 和 endTime 为必填" }, { status: 400 });
+    }
+    if (isNaN(new Date(body.startTime).getTime()) || isNaN(new Date(body.endTime).getTime())) {
+      return NextResponse.json({ error: "startTime 和 endTime 必须为有效日期" }, { status: 400 });
+    }
 
     const created = await prisma.learningSession.create({
       data: {
         userId,
         bookId: body.bookId || null,
         mode: body.mode,
-        startTime: body.startTime ? new Date(body.startTime) : new Date(),
-        endTime: body.endTime ? new Date(body.endTime) : null,
+        startTime: new Date(body.startTime),
+        endTime: new Date(body.endTime),
         newWordsCount: body.newWordsCount || 0,
         reviewWordsCount: body.reviewWordsCount || 0,
         correctCount: body.correctCount || 0,

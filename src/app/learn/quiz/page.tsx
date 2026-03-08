@@ -94,7 +94,7 @@ export default function QuizPage() {
         setIsComplete(true);
       }
     },
-    [currentIndex, studyWords, updateWordProgress]
+    [currentIndex, studyWords, updateWordProgress, stopTimer]
   );
 
   if (loading) {

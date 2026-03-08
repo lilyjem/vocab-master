@@ -246,6 +246,7 @@ export default function BookDetailPage() {
                 placeholder="搜索单词或释义..."
                 value={searchInput}
                 onChange={(e) => setSearchInput(e.target.value)}
+                aria-label="搜索单词或释义"
                 className="pl-9"
               />
             </div>

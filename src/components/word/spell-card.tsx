@@ -110,6 +110,7 @@ export function SpellCard({ word, onAnswer }: SpellCardProps) {
         {/* 提示按钮：播放发音 */}
         <button
           onClick={playAudio}
+          aria-label="听发音提示"
           className="mt-4 inline-flex items-center gap-2 rounded-full bg-muted px-4 py-2 text-sm hover:bg-muted/80 transition-colors"
         >
           <Volume2 className="h-4 w-4" />
@@ -125,6 +126,7 @@ export function SpellCard({ word, onAnswer }: SpellCardProps) {
             type="text"
             value={input}
             onChange={(e) => setInput(e.target.value)}
+            aria-label="输入单词拼写"
             onKeyDown={handleKeyDown}
             disabled={isAnswered}
             placeholder="请输入英文单词..."

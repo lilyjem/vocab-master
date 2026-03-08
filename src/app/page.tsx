@@ -18,6 +18,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Progress } from "@/components/ui/progress";
 import { useLearningData } from "@/lib/use-learning-data";
+import { LoadingSpinner } from "@/components/ui/loading-spinner";
 import { ACHIEVEMENT_META, type AchievementResult } from "@/lib/achievements";
 import { AchievementCard } from "@/components/achievements/achievement-card";
 
@@ -72,11 +73,7 @@ export default function HomePage() {
   );
 
   if (!hydrated) {
-    return (
-      <div className="flex items-center justify-center py-20">
-        <div className="h-8 w-8 animate-spin rounded-full border-4 border-primary border-t-transparent" />
-      </div>
-    );
+    return <LoadingSpinner />;
   }
 
   return (

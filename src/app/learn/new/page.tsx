@@ -91,7 +91,7 @@ export default function NewWordsPage() {
         setIsComplete(true);
       }
     },
-    [currentIndex, studyWords, updateWordProgress]
+    [currentIndex, studyWords, updateWordProgress, stopTimer]
   );
 
   if (loading) {

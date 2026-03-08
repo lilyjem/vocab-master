@@ -313,6 +313,7 @@ export default function StatsPage() {
 
                   <button
                     onClick={() => playAudio(word.word)}
+                    aria-label="播放发音"
                     className="rounded-full p-1 hover:bg-muted transition-colors"
                   >
                     <Volume2 className="h-3.5 w-3.5 text-muted-foreground" />
