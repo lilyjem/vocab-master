@@ -3,6 +3,7 @@
  */
 "use client";
 
+import { useState, useEffect, useMemo } from "react";
 import Link from "next/link";
 import {
   BookOpen,
@@ -17,7 +18,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Progress } from "@/components/ui/progress";
 import { useLearningStore, useStoreHydrated } from "@/lib/store";
-import { ACHIEVEMENT_META } from "@/lib/achievements";
+import { ACHIEVEMENT_META, type AchievementResult } from "@/lib/achievements";
 import { AchievementCard } from "@/components/achievements/achievement-card";
 
 export default function HomePage() {
@@ -29,21 +30,35 @@ export default function HomePage() {
     (s) => s.checkLocalAchievements
   );
   const localAchievements = useLearningStore((s) => s.localAchievements);
+  const wordProgress = useLearningStore((s) => s.wordProgress);
+  const dailyStats = useLearningStore((s) => s.dailyStats);
+  const sessions = useLearningStore((s) => s.sessions);
+
+  // 使用 useEffect 避免在渲染期间调用 set() 导致无限循环
+  const [achievementResults, setAchievementResults] = useState<AchievementResult[]>([]);
+  useEffect(() => {
+    if (hydrated) {
+      setAchievementResults(checkLocalAchievements());
+    }
+  }, [hydrated, wordProgress, dailyStats, sessions, checkLocalAchievements]);
 
   const todayStats = getTodayStats();
-  const achievementResults = checkLocalAchievements();
-  const recentUnlocked = achievementResults
-    .filter((r) => r.tier !== "none")
-    .map((r) => ({
-      ...r,
-      unlockedAt: localAchievements[r.code]?.unlockedAt,
-    }))
-    .sort((a, b) => {
-      const aTime = a.unlockedAt ? new Date(a.unlockedAt).getTime() : 0;
-      const bTime = b.unlockedAt ? new Date(b.unlockedAt).getTime() : 0;
-      return bTime - aTime;
-    })
-    .slice(0, 2);
+  const recentUnlocked = useMemo(
+    () =>
+      achievementResults
+        .filter((r) => r.tier !== "none")
+        .map((r) => ({
+          ...r,
+          unlockedAt: localAchievements[r.code]?.unlockedAt,
+        }))
+        .sort((a, b) => {
+          const aTime = a.unlockedAt ? new Date(a.unlockedAt).getTime() : 0;
+          const bTime = b.unlockedAt ? new Date(b.unlockedAt).getTime() : 0;
+          return bTime - aTime;
+        })
+        .slice(0, 2),
+    [achievementResults, localAchievements]
+  );
   const streak = getStreak();
 
   /** 学习进度百分比 */

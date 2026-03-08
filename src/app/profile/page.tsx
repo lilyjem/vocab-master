@@ -3,7 +3,7 @@
  */
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Link from "next/link";
 import { useSession, signOut } from "next-auth/react";
 import {
@@ -24,7 +24,7 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { cn } from "@/lib/utils";
 import { useLearningStore, useStoreHydrated } from "@/lib/store";
-import { ACHIEVEMENT_META } from "@/lib/achievements";
+import { ACHIEVEMENT_META, type AchievementResult } from "@/lib/achievements";
 import { AchievementCard } from "@/components/achievements/achievement-card";
 import type { UserSettings } from "@/types";
 
@@ -39,13 +39,22 @@ export default function ProfilePage() {
     (s) => s.checkLocalAchievements
   );
   const wordProgress = useLearningStore((s) => s.wordProgress);
+  const dailyStats = useLearningStore((s) => s.dailyStats);
+  const sessions = useLearningStore((s) => s.sessions);
   const getStreak = useLearningStore((s) => s.getStreak);
 
   const [syncing, setSyncing] = useState(false);
   const [showClearConfirm, setShowClearConfirm] = useState(false);
 
+  // 使用 useEffect 避免在渲染期间调用 set() 导致无限循环
+  const [achievementResults, setAchievementResults] = useState<AchievementResult[]>([]);
+  useEffect(() => {
+    if (hydrated) {
+      setAchievementResults(checkLocalAchievements());
+    }
+  }, [hydrated, wordProgress, dailyStats, sessions, checkLocalAchievements]);
+
   const streak = getStreak();
-  const achievementResults = checkLocalAchievements();
   const totalLearned = Object.values(wordProgress).filter(
     (p) => p.status !== "new"
   ).length;
