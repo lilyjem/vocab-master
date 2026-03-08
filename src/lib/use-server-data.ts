@@ -440,8 +440,9 @@ export function useServerData(): ServerDataInterface {
   // ===== 成就 =====
   const checkLocalAchievements = useCallback(() => {
     const totalWordsLearned = Object.keys(wordProgress).length;
-    const totalReviews = Object.values(wordProgress).reduce(
-      (sum, p) => sum + p.totalReviews,
+    // 复习次数 = 每日统计中的 wordsReviewed 之和（不含首次学习新词）
+    const totalReviews = Object.values(dailyStats).reduce(
+      (sum, s) => sum + s.wordsReviewed,
       0
     );
     const currentStreak = (() => {
