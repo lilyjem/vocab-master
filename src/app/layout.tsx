@@ -11,7 +11,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "VocabMaster - 英语词汇学习",
   description: "基于 SM-2 间隔重复算法的智能英语词汇学习平台",
-  icons: { icon: "/favicon.ico" },
+  icons: { icon: "/icon.svg" },
 };
 
 export default function RootLayout({

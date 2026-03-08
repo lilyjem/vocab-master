@@ -95,7 +95,21 @@ export async function POST(request: NextRequest) {
     let synced = 0;
     let skipped = 0;
 
+    // 批量预检：收集所有 wordId，一次查询确认哪些在数据库中存在
+    const allWordIds = entries.map(([wordId]) => wordId);
+    const existingWords = await prisma.word.findMany({
+      where: { id: { in: allWordIds } },
+      select: { id: true },
+    });
+    const validWordIds = new Set(existingWords.map((w) => w.id));
+
     for (const [wordId, data] of entries) {
+      // 跳过数据库中不存在的 wordId（避免外键约束违反）
+      if (!validWordIds.has(wordId)) {
+        skipped++;
+        continue;
+      }
+
       const clientUpdatedAt = data.updatedAt ? new Date(data.updatedAt) : new Date();
 
       // 查询现有记录，用于冲突检测
@@ -122,7 +136,6 @@ export async function POST(request: NextRequest) {
           totalReviews: data.totalReviews,
           correctCount: data.correctCount,
           status: data.status,
-          // updatedAt 由 Prisma @updatedAt 自动维护
         },
         create: {
           userId,
