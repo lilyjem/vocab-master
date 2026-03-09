@@ -176,6 +176,10 @@ async function main() {
         bronzeThreshold: achievement.bronzeThreshold,
         silverThreshold: achievement.silverThreshold,
         goldThreshold: achievement.goldThreshold,
+        platinumThreshold: achievement.platinumThreshold,
+        diamondThreshold: achievement.diamondThreshold,
+        starThreshold: achievement.starThreshold,
+        kingThreshold: achievement.kingThreshold,
       },
       create: achievement,
     });

@@ -199,15 +199,19 @@ model DailyCheckIn {
 
 // ========== 成就定义 ==========
 model Achievement {
-  id               String @id @default(cuid())
-  code             String @unique // 成就代码（如 vocab_learner, streak_master）
-  name             String // 成就名称
-  description      String // 成就描述
-  category         String // 分类: learning, streak, review, accuracy, spelling, book, time, habit
-  icon             String // 图标名称（lucide-react 图标名）
-  bronzeThreshold  Int    // 铜牌阈值
-  silverThreshold  Int    // 银牌阈值
-  goldThreshold    Int    // 金牌阈值
+  id                 String @id @default(cuid())
+  code               String @unique // 成就代码（如 vocab_learner, streak_master）
+  name               String // 成就名称
+  description        String // 成就描述
+  category           String // 分类: learning, streak, review, accuracy, spelling, book, time, habit
+  icon               String // 图标名称（lucide-react 图标名）
+  bronzeThreshold    Int    // 倔强青铜阈值
+  silverThreshold    Int    // 秩序白银阈值
+  goldThreshold      Int    // 荣耀黄金阈值
+  platinumThreshold  Int    @default(0) // 尊贵铂金阈值
+  diamondThreshold   Int    @default(0) // 永恒钻石阈值
+  starThreshold      Int    @default(0) // 至尊星耀阈值
+  kingThreshold      Int    @default(0) // 最强王者阈值
 
   userAchievements UserAchievement[]
 
@@ -219,7 +223,7 @@ model UserAchievement {
   id            String    @id @default(cuid())
   userId        String
   achievementId String
-  tier          String    @default("none") // none, bronze, silver, gold
+  tier          String    @default("none") // none, bronze, silver, gold, platinum, diamond, star, king
   progress      Int       @default(0) // 当前进度值
   unlockedAt    DateTime? // 最近一次升级时间
   notified      Boolean   @default(false) // 是否已通知用户

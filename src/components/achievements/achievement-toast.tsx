@@ -9,15 +9,23 @@ import { Award } from "lucide-react";
 import type { AchievementTier } from "@/types";
 
 const TIER_LABELS: Record<Exclude<AchievementTier, "none">, string> = {
-  bronze: "铜牌",
-  silver: "银牌",
-  gold: "金牌",
+  bronze: "倔强青铜",
+  silver: "秩序白银",
+  gold: "荣耀黄金",
+  platinum: "尊贵铂金",
+  diamond: "永恒钻石",
+  star: "至尊星耀",
+  king: "最强王者",
 };
 
 const TIER_COLORS: Record<Exclude<AchievementTier, "none">, string> = {
   bronze: "#CD7F32",
   silver: "#C0C0C0",
   gold: "#FFD700",
+  platinum: "#00CED1",
+  diamond: "#b9f2ff",
+  star: "#9b59b6",
+  king: "#ff4500",
 };
 
 export interface AchievementToastProps {

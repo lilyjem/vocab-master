@@ -365,7 +365,10 @@ export const useLearningStore = create<LearningStore>()(
         // 3. 更新 localAchievements（新解锁时记录 unlockedAt）
         const now = new Date().toISOString();
         const prevAchievements = get().localAchievements;
-        const tierOrder = { none: 0, bronze: 1, silver: 2, gold: 3 };
+        const tierOrder: Record<string, number> = {
+          none: 0, bronze: 1, silver: 2, gold: 3,
+          platinum: 4, diamond: 5, star: 6, king: 7,
+        };
         const localAchievements: Record<string, LocalAchievementProgress> = {};
         for (const r of results) {
           const prev = prevAchievements[r.code];

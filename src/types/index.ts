@@ -174,8 +174,16 @@ export const DEFAULT_SETTINGS: UserSettings = {
   wordOrder: "freq-desc",
 };
 
-/** 成就等级 */
-export type AchievementTier = "none" | "bronze" | "silver" | "gold";
+/** 成就等级（参考王者荣耀段位：青铜→白银→黄金→铂金→钻石→星耀→王者） */
+export type AchievementTier =
+  | "none"
+  | "bronze"    // 倔强青铜
+  | "silver"    // 秩序白银
+  | "gold"      // 荣耀黄金
+  | "platinum"  // 尊贵铂金
+  | "diamond"   // 永恒钻石
+  | "star"      // 至尊星耀
+  | "king";     // 最强王者
 
 /** 成就定义 */
 export interface Achievement {
@@ -188,6 +196,10 @@ export interface Achievement {
   bronzeThreshold: number;
   silverThreshold: number;
   goldThreshold: number;
+  platinumThreshold: number;
+  diamondThreshold: number;
+  starThreshold: number;
+  kingThreshold: number;
 }
 
 /** 用户成就进度 */

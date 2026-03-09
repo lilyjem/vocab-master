@@ -1,6 +1,6 @@
 /**
  * 成就种子数据 - 12 个成就的定义
- * 每个成就有铜/银/金三个等级
+ * 每个成就有 7 个等级（参考王者荣耀段位体系）
  */
 
 export interface AchievementSeed {
@@ -9,12 +9,16 @@ export interface AchievementSeed {
   description: string;
   category: string;
   icon: string;
-  bronzeThreshold: number;
-  silverThreshold: number;
-  goldThreshold: number;
+  bronzeThreshold: number;   // 倔强青铜
+  silverThreshold: number;   // 秩序白银
+  goldThreshold: number;     // 荣耀黄金
+  platinumThreshold: number; // 尊贵铂金
+  diamondThreshold: number;  // 永恒钻石
+  starThreshold: number;     // 至尊星耀
+  kingThreshold: number;     // 最强王者
 }
 
-/** 12 个成就定义 */
+/** 12 个成就定义（7 级阈值） */
 export const ACHIEVEMENTS: AchievementSeed[] = [
   {
     code: "vocab_learner",
@@ -23,8 +27,12 @@ export const ACHIEVEMENTS: AchievementSeed[] = [
     category: "learning",
     icon: "BookOpen",
     bronzeThreshold: 50,
-    silverThreshold: 500,
-    goldThreshold: 2000,
+    silverThreshold: 200,
+    goldThreshold: 500,
+    platinumThreshold: 1000,
+    diamondThreshold: 2000,
+    starThreshold: 3500,
+    kingThreshold: 5000,
   },
   {
     code: "streak_master",
@@ -33,8 +41,12 @@ export const ACHIEVEMENTS: AchievementSeed[] = [
     category: "streak",
     icon: "Flame",
     bronzeThreshold: 3,
-    silverThreshold: 14,
-    goldThreshold: 30,
+    silverThreshold: 7,
+    goldThreshold: 14,
+    platinumThreshold: 30,
+    diamondThreshold: 60,
+    starThreshold: 120,
+    kingThreshold: 365,
   },
   {
     code: "review_expert",
@@ -42,9 +54,13 @@ export const ACHIEVEMENTS: AchievementSeed[] = [
     description: "累计复习次数",
     category: "review",
     icon: "Target",
-    bronzeThreshold: 100,
-    silverThreshold: 500,
-    goldThreshold: 2000,
+    bronzeThreshold: 50,
+    silverThreshold: 200,
+    goldThreshold: 500,
+    platinumThreshold: 1000,
+    diamondThreshold: 2000,
+    starThreshold: 5000,
+    kingThreshold: 10000,
   },
   {
     code: "accuracy_star",
@@ -52,9 +68,13 @@ export const ACHIEVEMENTS: AchievementSeed[] = [
     description: "单次测验正确率",
     category: "accuracy",
     icon: "Award",
-    bronzeThreshold: 80,
-    silverThreshold: 95,
-    goldThreshold: 100,
+    bronzeThreshold: 60,
+    silverThreshold: 70,
+    goldThreshold: 80,
+    platinumThreshold: 85,
+    diamondThreshold: 90,
+    starThreshold: 95,
+    kingThreshold: 100,
   },
   {
     code: "spell_master",
@@ -62,9 +82,13 @@ export const ACHIEVEMENTS: AchievementSeed[] = [
     description: "拼写正确的单词数量",
     category: "spelling",
     icon: "PenTool",
-    bronzeThreshold: 50,
-    silverThreshold: 200,
-    goldThreshold: 500,
+    bronzeThreshold: 30,
+    silverThreshold: 100,
+    goldThreshold: 200,
+    platinumThreshold: 500,
+    diamondThreshold: 1000,
+    starThreshold: 2000,
+    kingThreshold: 5000,
   },
   {
     code: "book_conqueror",
@@ -73,8 +97,12 @@ export const ACHIEVEMENTS: AchievementSeed[] = [
     category: "book",
     icon: "Trophy",
     bronzeThreshold: 1,
-    silverThreshold: 3,
-    goldThreshold: 6,
+    silverThreshold: 2,
+    goldThreshold: 3,
+    platinumThreshold: 5,
+    diamondThreshold: 8,
+    starThreshold: 12,
+    kingThreshold: 20,
   },
   {
     code: "study_timer",
@@ -82,9 +110,13 @@ export const ACHIEVEMENTS: AchievementSeed[] = [
     description: "累计学习时长（分钟）",
     category: "time",
     icon: "Clock",
-    bronzeThreshold: 60,
-    silverThreshold: 600,
-    goldThreshold: 3000,
+    bronzeThreshold: 30,
+    silverThreshold: 120,
+    goldThreshold: 300,
+    platinumThreshold: 600,
+    diamondThreshold: 1500,
+    starThreshold: 3000,
+    kingThreshold: 6000,
   },
   {
     code: "early_bird",
@@ -92,9 +124,13 @@ export const ACHIEVEMENTS: AchievementSeed[] = [
     description: "早上 6-8 点学习的次数",
     category: "habit",
     icon: "Sunrise",
-    bronzeThreshold: 5,
-    silverThreshold: 20,
-    goldThreshold: 50,
+    bronzeThreshold: 3,
+    silverThreshold: 10,
+    goldThreshold: 20,
+    platinumThreshold: 50,
+    diamondThreshold: 100,
+    starThreshold: 200,
+    kingThreshold: 365,
   },
   {
     code: "night_owl",
@@ -102,9 +138,13 @@ export const ACHIEVEMENTS: AchievementSeed[] = [
     description: "晚上 22-24 点学习的次数",
     category: "challenge",
     icon: "Moon",
-    bronzeThreshold: 5,
-    silverThreshold: 20,
-    goldThreshold: 50,
+    bronzeThreshold: 3,
+    silverThreshold: 10,
+    goldThreshold: 20,
+    platinumThreshold: 50,
+    diamondThreshold: 100,
+    starThreshold: 200,
+    kingThreshold: 365,
   },
   {
     code: "weekend_warrior",
@@ -112,9 +152,13 @@ export const ACHIEVEMENTS: AchievementSeed[] = [
     description: "周末学习的次数",
     category: "challenge",
     icon: "Calendar",
-    bronzeThreshold: 5,
-    silverThreshold: 20,
-    goldThreshold: 50,
+    bronzeThreshold: 3,
+    silverThreshold: 10,
+    goldThreshold: 20,
+    platinumThreshold: 50,
+    diamondThreshold: 100,
+    starThreshold: 200,
+    kingThreshold: 365,
   },
   {
     code: "word_slayer",
@@ -123,8 +167,12 @@ export const ACHIEVEMENTS: AchievementSeed[] = [
     category: "milestone",
     icon: "Zap",
     bronzeThreshold: 1,
-    silverThreshold: 5,
-    goldThreshold: 20,
+    silverThreshold: 3,
+    goldThreshold: 7,
+    platinumThreshold: 15,
+    diamondThreshold: 30,
+    starThreshold: 60,
+    kingThreshold: 100,
   },
   {
     code: "marathon",
@@ -133,7 +181,11 @@ export const ACHIEVEMENTS: AchievementSeed[] = [
     category: "milestone",
     icon: "Timer",
     bronzeThreshold: 1,
-    silverThreshold: 5,
-    goldThreshold: 20,
+    silverThreshold: 3,
+    goldThreshold: 7,
+    platinumThreshold: 15,
+    diamondThreshold: 30,
+    starThreshold: 60,
+    kingThreshold: 100,
   },
 ];
