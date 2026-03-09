@@ -320,7 +320,7 @@ export default function ProfilePage() {
 
       {/* 账户安全入口（仅登录用户） */}
       {session && (
-        <Link href="/profile/account">
+        <Link href="/profile/account" className="block">
           <Card className="cursor-pointer hover:bg-muted/50 transition-colors">
             <CardContent className="p-6 flex items-center justify-between">
               <div className="flex items-center gap-3">
