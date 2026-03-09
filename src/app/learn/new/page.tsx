@@ -47,8 +47,9 @@ export default function NewWordsPage() {
   const [finalSeconds, setFinalSeconds] = useState(0);
   const [wordsReady, setWordsReady] = useState(false);
 
-  // 数据就绪后筛选新词
+  // 数据就绪后筛选新词（仅初始化一次，防止 SWR 重新验证导致随机排序的单词列表变化）
   useEffect(() => {
+    if (wordsReady) return;
     if (!hydrated || wordsLoading || allWords.length === 0) return;
     if (!currentBookId) {
       router.push("/learn");
@@ -60,7 +61,7 @@ export default function NewWordsPage() {
     const newWords = allWords.filter((w) => newIds.includes(w.id));
     setStudyWords(newWords);
     setWordsReady(true);
-  }, [currentBookId, router, settings.dailyNewWords, getNewWordIds, hydrated, allWords, wordsLoading]);
+  }, [wordsReady, currentBookId, router, settings.dailyNewWords, getNewWordIds, hydrated, allWords, wordsLoading]);
 
   const loading = !wordsReady;
 

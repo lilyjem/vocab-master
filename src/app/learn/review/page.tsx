@@ -47,7 +47,9 @@ export default function ReviewPage() {
   const [finalSeconds, setFinalSeconds] = useState(0);
   const [wordsReady, setWordsReady] = useState(false);
 
+  // 数据就绪后筛选待复习词（仅初始化一次，防止 SWR 重新验证导致随机排序的单词列表变化）
   useEffect(() => {
+    if (wordsReady) return;
     if (!hydrated || wordsLoading || allWords.length === 0) return;
     if (!currentBookId) {
       router.push("/learn");
@@ -59,7 +61,7 @@ export default function ReviewPage() {
     const reviewWords = allWords.filter((w) => reviewIds.includes(w.id));
     setStudyWords(reviewWords);
     setWordsReady(true);
-  }, [currentBookId, router, settings.dailyReviewWords, getReviewWordIds, hydrated, allWords, wordsLoading]);
+  }, [wordsReady, currentBookId, router, settings.dailyReviewWords, getReviewWordIds, hydrated, allWords, wordsLoading]);
 
   const loading = !wordsReady;
 
