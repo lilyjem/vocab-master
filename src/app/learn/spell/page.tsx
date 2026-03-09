@@ -48,7 +48,9 @@ export default function SpellTestPage() {
   const [finalSeconds, setFinalSeconds] = useState(0);
   const [wordsReady, setWordsReady] = useState(false);
 
+  // 初始化拼写单词列表（仅一次，防止 SWR 重新验证导致单词列表重置）
   useEffect(() => {
+    if (wordsReady) return;
     if (!hydrated || wordsLoading || allWords.length === 0) return;
     if (!currentBookId) {
       router.push("/learn");
@@ -66,7 +68,7 @@ export default function SpellTestPage() {
     const selected = shuffle(pool).slice(0, SPELL_BATCH_SIZE);
     setStudyWords(selected);
     setWordsReady(true);
-  }, [currentBookId, router, hydrated, getWordProgress, allWords, wordsLoading]);
+  }, [wordsReady, currentBookId, router, hydrated, getWordProgress, allWords, wordsLoading]);
 
   const loading = !wordsReady;
 

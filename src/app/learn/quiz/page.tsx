@@ -43,7 +43,9 @@ export default function QuizPage() {
   const [finalSeconds, setFinalSeconds] = useState(0);
   const [wordsReady, setWordsReady] = useState(false);
 
+  // 初始化测验单词列表（仅一次，防止 SWR 重新验证导致单词列表重置）
   useEffect(() => {
+    if (wordsReady) return;
     if (!hydrated || wordsLoading || allWords.length === 0) return;
     if (!currentBookId) {
       router.push("/learn");
@@ -54,7 +56,7 @@ export default function QuizPage() {
     const selected = shuffle(allWords).slice(0, QUIZ_BATCH_SIZE);
     setStudyWords(selected);
     setWordsReady(true);
-  }, [hydrated, currentBookId, router, allWords, wordsLoading]);
+  }, [wordsReady, hydrated, currentBookId, router, allWords, wordsLoading]);
 
   const loading = !wordsReady;
 
