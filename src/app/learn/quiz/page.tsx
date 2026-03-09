@@ -18,6 +18,8 @@ import { shuffle, sampleArray } from "@/lib/utils";
 import type { Word } from "@/types";
 import { StudySkeleton } from "@/components/ui/study-skeleton";
 import { useBookWords } from "@/lib/use-book-words";
+import { useAchievementNotifier } from "@/hooks/use-achievement-notifier";
+import { AchievementCelebration } from "@/components/achievements/achievement-celebration";
 
 /** 选择题每轮的题目数量 */
 const QUIZ_BATCH_SIZE = 15;
@@ -42,6 +44,9 @@ export default function QuizPage() {
   /** 完成时的总秒数快照 */
   const [finalSeconds, setFinalSeconds] = useState(0);
   const [wordsReady, setWordsReady] = useState(false);
+
+  // 成就解锁检查（完成测验时触发）
+  const { currentUnlock, dismissCurrent } = useAchievementNotifier({ enabled: isComplete });
 
   // 初始化测验单词列表（仅一次，防止 SWR 重新验证导致单词列表重置）
   useEffect(() => {
@@ -129,6 +134,10 @@ export default function QuizPage() {
 
     return (
       <div className="space-y-6">
+        {/* 成就解锁全屏庆祝 */}
+        {currentUnlock && (
+          <AchievementCelebration achievement={currentUnlock} onClose={dismissCurrent} />
+        )}
         <Button variant="ghost" onClick={() => router.push("/learn")}>
           <ArrowLeft className="mr-2 h-4 w-4" />
           返回学习中心

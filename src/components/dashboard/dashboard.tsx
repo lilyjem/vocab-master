@@ -22,6 +22,8 @@ import { apiUrl } from "@/lib/utils";
 import { preloadBookWords } from "@/lib/use-book-words";
 import { ACHIEVEMENT_META, type AchievementResult } from "@/lib/achievements";
 import { AchievementCard } from "@/components/achievements/achievement-card";
+import { useAchievementNotifier } from "@/hooks/use-achievement-notifier";
+import { AchievementCelebration } from "@/components/achievements/achievement-celebration";
 
 export function Dashboard() {
   const {
@@ -43,6 +45,9 @@ export function Dashboard() {
       setAchievementResults(checkLocalAchievements());
     }
   }, [hydrated, wordProgress, dailyStats, sessions, checkLocalAchievements]);
+
+  // 成就解锁补漏检查（用户学到一半退出后回到首页时触发）
+  const { currentUnlock, dismissCurrent } = useAchievementNotifier({ enabled: hydrated });
 
   // 预取词库数据到 SWR 全局缓存，加速导航到学习页面
   useEffect(() => {
@@ -86,6 +91,11 @@ export function Dashboard() {
 
   return (
     <div className="space-y-8">
+      {/* 成就解锁全屏庆祝（补漏检查） */}
+      {currentUnlock && (
+        <AchievementCelebration achievement={currentUnlock} onClose={dismissCurrent} />
+      )}
+
       {/* 欢迎区域 */}
       <section>
         <h1 className="text-3xl font-bold tracking-tight">

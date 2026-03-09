@@ -17,6 +17,7 @@ import type {
   UserSettings,
   WordStatus,
   LocalAchievementProgress,
+  AchievementTier,
 } from "@/types";
 import type { AchievementResult } from "@/lib/achievements";
 
@@ -57,6 +58,10 @@ export interface LearningDataInterface {
 
   // 成就
   checkLocalAchievements: () => AchievementResult[];
+
+  // 成就通知防重复
+  shownAchievementTiers: Record<string, AchievementTier>;
+  markAchievementShown: (code: string, tier: AchievementTier) => void;
 
   // 数据管理
   clearAllData: () => void;
@@ -106,6 +111,8 @@ export function useLearningData(): LearningDataInterface {
         addSession: serverData.addSession,
         updateSettings: serverData.updateSettings,
         checkLocalAchievements: serverData.checkLocalAchievements,
+        shownAchievementTiers: serverData.shownAchievementTiers,
+        markAchievementShown: serverData.markAchievementShown,
         clearAllData: serverData.clearAllData,
         exportData: serverData.exportData,
         hydrated: !serverData.isLoading,
@@ -132,6 +139,8 @@ export function useLearningData(): LearningDataInterface {
       addSession: localStore.addSession,
       updateSettings: localStore.updateSettings,
       checkLocalAchievements: localStore.checkLocalAchievements,
+      shownAchievementTiers: localStore.shownAchievementTiers,
+      markAchievementShown: localStore.markAchievementShown,
       clearAllData: localStore.clearAllData,
       exportData: localStore.exportData,
       hydrated: localHydrated,

@@ -14,6 +14,7 @@ import type {
   UserSettings,
   WordStatus,
   LocalAchievementProgress,
+  AchievementTier,
 } from "@/types";
 import { DEFAULT_SETTINGS } from "@/types";
 import { calculateSM2, getWordStatus, SM2_DEFAULTS } from "@/lib/sm2";
@@ -69,6 +70,10 @@ interface LearningStore {
   // ===== 本地成就（未登录用户） =====
   localAchievements: Record<string, LocalAchievementProgress>;
   checkLocalAchievements: () => AchievementResult[];
+
+  // ===== 成就通知防重复（记录已展示过的最高等级） =====
+  shownAchievementTiers: Record<string, AchievementTier>;
+  markAchievementShown: (code: string, tier: AchievementTier) => void;
 }
 
 export const useLearningStore = create<LearningStore>()(
@@ -281,6 +286,7 @@ export const useLearningStore = create<LearningStore>()(
           dailyStats: {},
           settings: DEFAULT_SETTINGS,
           localAchievements: {},
+          shownAchievementTiers: {},
         });
       },
 
@@ -298,6 +304,17 @@ export const useLearningStore = create<LearningStore>()(
 
       // ===== 本地成就（未登录用户） =====
       localAchievements: {},
+
+      // ===== 成就通知防重复 =====
+      shownAchievementTiers: {},
+      markAchievementShown: (code, tier) => {
+        set((state) => ({
+          shownAchievementTiers: {
+            ...state.shownAchievementTiers,
+            [code]: tier,
+          },
+        }));
+      },
 
       /** 从本地数据计算成就，更新 localAchievements，返回所有成就进度 */
       checkLocalAchievements: () => {

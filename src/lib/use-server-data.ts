@@ -14,9 +14,11 @@ import type {
   UserSettings,
   WordStatus,
   LocalAchievementProgress,
+  AchievementTier,
 } from "@/types";
 import { DEFAULT_SETTINGS } from "@/types";
 import { calculateSM2, getWordStatus, SM2_DEFAULTS } from "@/lib/sm2";
+import { useLearningStore } from "@/lib/store";
 import { formatDate, getToday, apiUrl } from "@/lib/utils";
 import {
   checkAchievements,
@@ -104,6 +106,10 @@ export interface ServerDataInterface {
   // 成就
   checkLocalAchievements: () => AchievementResult[];
 
+  // 成就通知防重复
+  shownAchievementTiers: Record<string, AchievementTier>;
+  markAchievementShown: (code: string, tier: AchievementTier) => void;
+
   // 数据管理
   clearAllData: () => void;
   exportData: () => string;
@@ -122,6 +128,10 @@ export interface ServerDataInterface {
  * 所有数据从服务器获取，写操作乐观更新 SWR 缓存后异步写服务器
  */
 export function useServerData(): ServerDataInterface {
+  // 成就通知防重复（UI 层状态，复用本地 store，不存服务器）
+  const shownAchievementTiers = useLearningStore((s) => s.shownAchievementTiers);
+  const markAchievementShown = useLearningStore((s) => s.markAchievementShown);
+
   // ===== SWR 数据获取 =====
   const { data: progressData, isLoading: progressLoading } = useSWR<
     Record<string, LocalWordProgress>
@@ -569,6 +579,8 @@ export function useServerData(): ServerDataInterface {
     addSession,
     updateSettings,
     checkLocalAchievements,
+    shownAchievementTiers,
+    markAchievementShown,
     clearAllData,
     exportData,
     mergeCloudProgress,
