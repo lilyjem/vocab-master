@@ -2,6 +2,71 @@
 
 所有重大变更记录在此文件中。
 
+格式基于 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.0.0/)。
+
+---
+
+## [Unreleased]
+
+### 新增
+
+- **成就庆祝动画**: 成就解锁时全屏庆祝通知效果
+
+### 修复
+
+- 修复个人中心账户安全与成就卡片间距不一致
+
+---
+
+## [1.4.0] - 2026-03-10
+
+### 新增
+
+- **成就 7 级段位**: 成就等级升级为 7 级段位体系（青铜→白银→黄金→铂金→钻石→大师→王者）
+- **SEO 优化**: 全面 SEO 优化（meta 标签、Open Graph、结构化数据）
+- **快捷键**: 新增键盘快捷键支持（空格翻转卡片、方向键切换等）
+- **新成就**: 新增 4 个成就（坚持达人、拼写大师等）
+- **收藏夹**: 创建、管理自定义单词收藏夹，支持添加/移除单词
+- **学习顺序**: 新增学习顺序设置（高频词 / 低频词 / 字母序 / 随机）
+- **落地页**: 新增首页落地页，未登录用户看到产品介绍
+- **例句翻译**: 例句增加百度翻译中文翻译
+
+### 优化
+
+- **SWR 全局缓存**: SWR 全局缓存共享消除学习子页面加载延迟
+- 优化学习页面加载速度
+
+### 修复
+
+- 修复拼写测试和选择题测验的单词闪过问题
+- 修复随机模式学习中单词闪过问题
+- 空格键翻转卡片时自动播放发音
+- 修复"复习达人"成就统计口径，新词学习不再计入复习次数
+
+### 新增 API
+
+- `GET /api/folders` - 获取收藏夹列表
+- `POST /api/folders` - 创建收藏夹
+- `GET /api/folders/:folderId` - 获取收藏夹详情
+- `PUT /api/folders/:folderId` - 更新收藏夹
+- `DELETE /api/folders/:folderId` - 删除收藏夹
+- `POST /api/folders/:folderId/words` - 添加单词到收藏夹
+- `DELETE /api/folders/:folderId/words` - 从收藏夹移除单词
+
+### API 变更
+
+- `GET /api/words/:bookId` - 新增 `order` 参数（学习顺序）、`ids` 参数（轻量模式）
+
+### 数据模型变更
+
+- 新增 `WordFolder` 模型（用户收藏夹）
+- 新增 `FolderWord` 模型（收藏夹-单词关联）
+
+### 新增页面
+
+- `/favorites` - 收藏夹列表
+- `/favorites/[folderId]` - 收藏夹详情
+
 ---
 
 ## [1.3.0] - 2026-03-08
@@ -17,8 +82,28 @@
 - **修改邮箱**: 通过邮件验证更换绑定邮箱
 - **密码强度指示器**: 注册和修改密码时实时显示密码强度
 
+### 重构
+
+- 拆分个人中心页面，账户安全功能独立为子页面
+- 代码规范全面修复（ESLint / TypeScript / 可访问性 / 输入验证）
+
+### 安全
+
+- 安全审查修复：移除硬编码凭证和敏感信息
+
+### 修复
+
+- 修复进度同步 500 错误和 favicon 404
+- 例句和词源 API 请求添加 basePath 前缀
+- 修复 checkLocalAchievements 在渲染期间调用 set() 导致 React 无限循环
+- 退出登录后重定向到 /vocab 子路径而非域名根路径
+- Dockerfile runner 安装 openssl + Prisma binaryTargets
+- tsconfig 添加 target es2017 修复 Set 迭代编译错误
+- docker-compose 添加 SMTP 环境变量
+
 ### 新增页面
 
+- `/profile/account` - 账户安全页面
 - `/auth/forgot-password` - 忘记密码页面
 - `/auth/reset-password` - 密码重置页面
 - `/auth/verify-email` - 邮箱验证页面
@@ -50,11 +135,18 @@
 - **用户设置 API**: `GET/PUT /api/user/settings` 服务器端存储用户学习设置
 - **当前词库 API**: `GET/PUT /api/user/current-book` 服务器端存储当前选择的词库
 - **学习会话 API**: `GET/POST /api/sessions` 服务器端存储学习会话记录
+- **每日统计 API**: `GET/POST /api/daily-stats` 每日学习数据云端同步
+- **学习时间追踪**: 实现学习时间自动追踪功能
 
 ### 数据模型变更
 
 - `User` 模型新增 `currentBookId` 字段（当前选择的词库）
 - 新增 `UserSettings` 模型（用户学习设置：每日新词数、发音类型、主题等）
+
+### API 变更
+
+- `GET /api/progress` - 响应格式改为 `Record<wordId, Progress>` 结构
+- `POST /api/progress` - 新增 `updatedAt` 冲突检测机制
 
 ---
 
